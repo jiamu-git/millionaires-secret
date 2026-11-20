@@ -1,0 +1,334 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "you look at the top Forbes list like the top 500 about 83% of that list they were willing to go to neg3 million before hitting it big and so the risk appetite to actually kick it up to the next level",
+          "summary_en": "Overcome risk aversion and develop the risk appetite required to break into the top wealth tier.",
+          "summary_zh": "克服风险厌恶，敢于承担高风险跃迁",
+          "timestamp_sec": 100,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "bet big and lose early don't worry about how much money you're making on a single transaction... it's all about developing a playbook... how can I adjust my playbook so I never have to take the L again",
+          "summary_en": "Take big swings early, treat early losses as feedback, and refine your playbook after every setback.",
+          "summary_zh": "早年敢于试错，从每次失败中迭代打法",
+          "timestamp_sec": 120,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从小无家可归、两岁时父亲离开，18岁时母亲经历心理危机后决心奋起，作为第一代大学生花了约六年潜心苦读打入投行，并从沃顿商学院毕业进入私募股权行业。",
+      "guest_name": "Beverly Hills Private Equity Professional (Wharton Alum)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Private Equity Professional",
+      "wealth_detail": "Multiple million dollars in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "年轻时要敢于下大注、不怕早期亏损，把精力放在打磨自己的成功打法（Playbook）和从失败中复盘调整，克服厌恶风险的心理。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "when someone gives you the opportunity take it and run with it nobody dies from hard work and nobody dies from working 16 18 hours a day seven",
+          "summary_en": "Seize opportunities immediately and outwork everyone—nobody dies from working 16 to 18 hours a day, seven days a week.",
+          "summary_zh": "抓住机会全力以赴，不怕每天高强度苦干",
+          "timestamp_sec": 167,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I have over $20 million in cars now and it doesn't even matter I'd rather drive a Kia and be your age again",
+          "summary_en": "Luxury cars and material status symbols mean nothing later in life compared to youth and time.",
+          "summary_zh": "豪车等身份象征毫无意义，青年时光更宝贵",
+          "timestamp_sec": 181,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "young people like you be grateful work hard set your goals high",
+          "summary_en": "Stay grateful for your youth and opportunities while setting ambitious goals.",
+          "summary_zh": "对当下保持感恩，同时设定远大的人生目标",
+          "timestamp_sec": 193,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "school is fantastic but it's only a tool... study finance and study law... if you understand numbers that is the universal language of the world",
+          "summary_en": "Treat school as a tool and study finance and law so you master numbers—the universal language of business.",
+          "summary_zh": "学校只是工具，要重点学金融和法律懂数字",
+          "timestamp_sec": 206,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Pick Less Labor-Intensive Industries",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "if I was to do it again I wouldn't do manufacturing so a lot of work 24/7 and a lot of responsibility",
+          "summary_en": "Avoid choosing industries like heavy manufacturing that demand relentless 24/7 work and operational burden if starting over.",
+          "summary_zh": "避开全天候高强度重资产运营的行业",
+          "timestamp_sec": 232,
+          "type": "regret"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I could be homeless today right here at 18 and I could be the Jeff bezo Elon Musk and Bill Gates combine... because the opportunity is there for you to go after it",
+          "summary_en": "Reject excuses about luck or background and believe that massive opportunity is available to anyone willing to chase it.",
+          "summary_zh": "相信机会就在眼前，摒弃自我设限的心态",
+          "timestamp_sec": 243,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Beverly Hills Manufacturing Entrepreneur",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Manufacturing Business Owner",
+      "wealth_detail": "Over $20M in cars; companies generated hundreds of millions of dollars",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "抓住面前的机会全力以赴，每天工作16到18小时、每周7天；读书只是工具而非终点，要重点学习金融（懂数字这门世界通用语言）和法律知识，不要为了虚荣追求豪车，保持感恩并设定高目标。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I just got a break when I was 15 to clean bathrooms for a jewelry company in Manhattan and then they hired me to be a messenger boy and then I was promoted to a jeweler and a Setter and a polisher",
+          "summary_en": "Take whatever entry-level break you can get inside an established company and master every craft on the way up.",
+          "summary_zh": "从基层做起跟随强者学习手艺与行业经验",
+          "timestamp_sec": 329,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "your word is the only thing you have in this world... if you give your word on something you follow through you just keep your word and do clean business",
+          "summary_en": "Keep your word, uphold honor and morals, and do clean business so top winners want to work with you.",
+          "summary_zh": "言出必行、做干净生意，靠信誉吸引贵人",
+          "timestamp_sec": 401,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "for years and years I was the last one to leave this street... I'm leaving 12 1:00 in the morning what you put into it you're going to get out of it",
+          "summary_en": "Outwork everyone around you—what you put into your business is exactly what you get out of it.",
+          "summary_zh": "比别人多付出努力，付出多少就会收获多少",
+          "timestamp_sec": 426,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "it's not a job it's a passion I love what I do and that makes the world of a difference",
+          "summary_en": "Find work you genuinely love so it becomes a passion rather than a daily grind you dread.",
+          "summary_zh": "把工作当热爱而非差事，全情投入其中",
+          "timestamp_sec": 448,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "it's only the water that you let in that will take you down so you just don't let it in... you wipe it off and you just keep going",
+          "summary_en": "Keep external negativity from sinking your boat—wipe off the sweat during tough rounds and never throw in the towel.",
+          "summary_zh": "把负面干扰挡在门外，受挫擦汗继续战斗",
+          "timestamp_sec": 458,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "4岁丧父在纽约街头长大，15岁时获得在曼哈顿珠宝公司打扫卫生间的机会，随后晋升为信差、珠宝匠、镶嵌师和抛光师，并背着价值300万美元的珠宝袋环球跑业务长达25年。",
+      "guest_name": "Peter Marco",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Owner of Peter Marco (Beverly Hills Luxury Jeweler)",
+      "wealth_detail": "Worth hundreds of millions of dollars; nearly 10-figure business",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "为人真诚守信、言出必行、做干净的生意；比所有人都更拼命工作并热爱自己所做的事；把负面情绪和外界打击挡在门外，绝不轻言放弃。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "the sooner you can find great people and delegate the better off you'll be... the good people cost less than doing it yourself",
+          "summary_en": "Hire great talent and delegate early because A-players actually cost less than doing everything yourself.",
+          "summary_zh": "尽早招聘优秀人才并授权，比自己单干更划算",
+          "timestamp_sec": 517,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Vet Partners for Humility, Smarts & Drive",
+          "category": "Business & Strategy",
+          "quote": "there's a book by Patrick Lon the ideal team player and it goes over three things humble smart and driven if it's those three things you're golden",
+          "summary_en": "When assembling a team or picking business partners, screen for three traits: humble, smart, and driven.",
+          "summary_zh": "挑选谦逊、聪明且有驱动力的核心合伙人",
+          "timestamp_sec": 537,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "your network literally is your net worth but you're never going to make a network if you don't stand out",
+          "summary_en": "Treat networking touchpoints as marketing rather than an office expense so you stand out and build high-value relationships.",
+          "summary_zh": "人脉即净值，要靠差异化载体让人记住你",
+          "timestamp_sec": 554,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "15岁时在卧室创立第一家公司，几年后将其出售，随后创立了金属名片定制公司 MyMetalBusinessCard.com。",
+      "guest_name": "MyMetalBusinessCard.com Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Ideal Team Player by Patrick Lencioni"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Networking & Relationships",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder of MyMetalBusinessCard.com",
+      "wealth_detail": "Over $5M in single-year business revenue",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "尽早招到优秀人才并学会授权，因为雇好人比自己亲力亲为成本更低；搭建团队要找谦逊、聪明且有驱动力的人；同时把名片等触点当作营销工具，让自己脱颖而出，打造高价值人脉。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "at 15 years old I got a job at inter scope that then turned into a job at UTA and turned into a job of me owning my own management production company",
+          "summary_en": "Start young inside major industry institutions to learn the ropes and build pedigree before launching your own company.",
+          "summary_zh": "先在行业头部公司历练，再独立创立公司",
+          "timestamp_sec": 626,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Scale With Partners & Distribution",
+          "category": "Business & Strategy",
+          "quote": "you have to know your value so if your idea is great your product is great you have to have Partners around you and the distribution around you to be able to push it out in the market",
+          "summary_en": "To scale a great product or idea, know your value and surround yourself with strong partners and distribution channels.",
+          "summary_zh": "认清自身价值，靠合伙人与渠道放大产品",
+          "timestamp_sec": 659,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在比弗利山庄长大，受身边演艺圈朋友家庭的影响，15岁进入 Interscope 工作，随后跳槽至 UTA，最终创立自己的艺人经纪与影视制作公司，促成多项创纪录的真人秀电视网大单。",
+      "guest_name": "David (Beverly Hills Entertainment Executive & Producer)",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Entertainment Agent, Manager & TV Show Creator",
+      "wealth_detail": "Millions of dollars in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先到大公司一线积累人脉和行业经验；创业扩展时要认清自身价值，并围绕好产品组建强大的合作伙伴与分销渠道，把作品推向各大流媒体与电视网。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "you should never go cheap on your own education... a dollar spent on yourself is a dollar never wasted",
+          "summary_en": "Never skimp on your own education—every dollar invested in yourself pays dividends.",
+          "summary_zh": "别在自我教育上省钱，投资自己永远不亏",
+          "timestamp_sec": 726,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "never split the difference by Chris Voss by asking the right questions and communicating properly you'll be able to get what you want in a deal",
+          "summary_en": "Study negotiation and communication so you can ask the right questions and close the deals you want.",
+          "summary_zh": "精进沟通与谈判技巧，靠精准提问拿下交易",
+          "timestamp_sec": 745,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "start a business and right when you start getting some profits put that right back into advertising and marketing",
+          "summary_en": "As soon as your new business generates profits, plow them right back into advertising and marketing to fuel growth.",
+          "summary_zh": "赚到早期利润后立即复投到广告与营销",
+          "timestamp_sec": 754,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "brand yourself single-handedly I think branding is the most important thing that's your identity and your trademark to the public",
+          "summary_en": "Build a strong personal and business brand so clients know who you are and knock on your door.",
+          "summary_zh": "全力打造个人与品牌知名度让客户主动上门",
+          "timestamp_sec": 764,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Los Angeles Law Firm Owner (UCLA Alum)",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Never Split the Difference by Chris Voss"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Public Speaking & Communication",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Law Firm Owner",
+      "wealth_detail": "Several million dollars in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要吝惜对自身教育的投资，花在自己身上的每一块钱都物有所值；读沟通与谈判书籍学会精准提问；创业赚到利润后要立刻复投到广告、营销与个人品牌建设上，让客户主动找上门。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "xe3GmH-mBQI",
+  "video_type": "street_multi"
+}

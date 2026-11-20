@@ -1,0 +1,316 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I just thought if people elsewhere in the world could do it, there was no reason why somebody here in Africa couldn't do it as well.",
+          "summary_en": "Believe that if founders elsewhere can build billion-dollar companies, you can build them locally too.",
+          "summary_zh": "打破地域限制，别人能做到你也能",
+          "timestamp_sec": 105,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Sustainable wealth comes from helping other people... we took people who are earning $100 a month... into careers where they're earning $300, $400,000 a year.",
+          "summary_en": "Sustainable wealth comes from helping others earn money and solving real needs at scale.",
+          "summary_zh": "帮他人赚钱，解决真实需求就能致富",
+          "timestamp_sec": 211,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "It's all about systems... you need to make things automatic... A billion-dollar company is just a bunch of people who could have individually built $10 million businesses who decided to come together.",
+          "summary_en": "Build automatic recruiting and review systems, and align A-players into one shared mission instead of building separately.",
+          "summary_zh": "搭建自动化系统，凝聚顶尖人才团队",
+          "timestamp_sec": 262,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Two poor men cannot help each other... I got where I am because of friendships with people who are going somewhere.",
+          "summary_en": "Build genuine friendships with ambitious, capable people who are actively going somewhere.",
+          "summary_zh": "结交有上进心和实力的朋友",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I started as his intern... the biggest advice for networking is serve people. How can I help? Don't be a taker. Give, give, give.",
+          "summary_en": "Start by serving successful mentors as an intern and leading with 'How can I help?' rather than taking.",
+          "summary_zh": "从实习生做起，先服务才能链接贵人",
+          "timestamp_sec": 360,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I always make sure that I am consistently doing God's will and I consider myself just a steward of his resources.",
+          "summary_en": "Stay grounded in faith and treat yourself as a steward of resources meant to work and serve.",
+          "summary_zh": "保持信仰，视自己为资源的管家",
+          "timestamp_sec": 382,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Build. Build. So much of the world still needs to be built. There's an opportunity for you to build there and be of service to humanity.",
+          "summary_en": "Focus on building things that serve humanity—wealth will follow naturally along the way.",
+          "summary_zh": "专注去创造，世界仍有巨大建设空间",
+          "timestamp_sec": 399,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "受电影《社交网络》启发在大学决定创业，先从担任导师Joe Lonsdale（字幕作Jolon/Joe Lonto）的实习生起步，23岁成为百万富翁，并联合创办Andela与Flutterwave两家独角兽企业。",
+      "guest_name": "Youngest Nigerian Unicorn Founder (Andela & Flutterwave Co-Founder)",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Joe Lonsdale (mentor; transcript: Jolon / Joe Lonto)",
+        "Mark Zuckerberg (inspiration via The Social Network & investor)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Networking & Relationships",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Co-Founder of Andela & Flutterwave (35-Year-Old Tech Entrepreneur)",
+      "wealth_detail": "Built two $1B+ valuation companies (Andela & Flutterwave), each doing well over $100M/yr; millionaire at 23",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先通过实习等方式服务成功人士（常问“我能帮什么忙”），结交有抱负的朋友；搭建自动化招聘与复盘系统并对齐顶尖团队利益，通过解决年轻人口需求、帮他人赚钱来创造持续财富。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Underpromise, overdeliver... if you tell people you deliver quality houses for them, deliver quality houses.",
+          "summary_en": "Underpromise and consistently overdeliver on product quality for every client.",
+          "summary_zh": "少承诺多交付，保证产品高质量",
+          "timestamp_sec": 569,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Banks love everybody to keep their money idle in the banks rather than money working for them... you need to have a huge portfolio of assets, landed assets, whether built or unbuilt.",
+          "summary_en": "Don't leave cash sitting idle in banks; build a large portfolio of built or unbuilt real estate assets.",
+          "summary_zh": "别让钱闲在银行，多配置土地房产",
+          "timestamp_sec": 586,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Continuous Marketing & Brand Visibility",
+          "category": "Business & Strategy",
+          "quote": "Perception is everything... Coca-Cola is a global name. Till date, Coca-Cola is still advertising... Branding never sleeps.",
+          "summary_en": "Never stop advertising and building visibility—perception drives buyer confidence and unlocks bigger opportunities.",
+          "summary_zh": "品牌永远不能停，持续广告扩大认知",
+          "timestamp_sec": 644,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "This sparkling white name should not be tainted for immediate profit because your name will precede you in every room.",
+          "summary_en": "Protect your reputation above quick profit—keep your word because your name enters every room before you do.",
+          "summary_zh": "誓死捍卫个人信誉，勿为小利败名声",
+          "timestamp_sec": 711,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "童年曾无家可归睡在桥下；服青年役期间经朋友介绍偶然接触房产中介，完成第一笔销售后起步转型做房地产开发，21年间累计开发超5000套住房。",
+      "guest_name": "Nigerian Real Estate Developer (5,000+ Units)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Unspecified Nigerian Mentors (advised on Coca-Cola/visibility and protecting one's sparkling white name)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate Developer (21 Years, 5,000+ Units Developed)",
+      "wealth_detail": "$50M highest single-year business earnings; developed over 5,000 units",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "把个人信誉当成最大资本，绝不为短期利润毁掉名声；不要把钱闲置在银行，要持续积累土地和房产等实物资产，同时重视持续打广告与品牌曝光。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've had very broad shoulders of people to leverage on and to ride on.",
+          "summary_en": "Seek out experienced people whose broad shoulders you can learn from and leverage.",
+          "summary_zh": "站在前人宽阔的肩膀上借力成长",
+          "timestamp_sec": 938,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Get to a point where money starts to work for you. Invest your money.",
+          "summary_en": "Move beyond only earning active income by investing so your money works for you.",
+          "summary_zh": "学会投资，让钱开始为你工作",
+          "timestamp_sec": 958,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Artificial intelligence is definitely a path for the future... energy sufficiency, food sufficiency... I'd be looking into agric as really the next frontier.",
+          "summary_en": "Position capital in future growth trends like AI and essential national sectors such as energy and agriculture.",
+          "summary_zh": "顺应趋势，布局AI、能源与农业赛道",
+          "timestamp_sec": 972,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Neuroplasticity. Brains continue to change... you can get your brain to do anything that you want it to be, as long as you have agency... optimism and the ability to dream.",
+          "summary_en": "Embrace neuroplasticity: with personal agency, optimism, and vision, your mind can adapt to achieve anything.",
+          "summary_zh": "相信大脑可塑性，保持乐观与行动力",
+          "timestamp_sec": 995,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在尼日利亚完成本科后获MIT奖学金赴美攻读化学工程，随后进入华尔街从事金融衍生品工作，多年深耕金融市场后回国出任尼日利亚证券交易所集团CEO。",
+      "guest_name": "Nigerian Stock Exchange Group CEO",
+      "industry": "Finance & Investing",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [
+        "Experienced predecessors (\"broad shoulders of people to leverage on\")"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Technical / Engineering",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Group CEO & Managing Director, Nigerian Stock Exchange (Age 45)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "尽早学会投资让钱为你工作，重点关注人工智能以及能源、农业食品自给等未来刚需赛道；同时相信大脑可塑性，保持乐观与主动出击的能动性。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "First is hard work. Two is discipline. Three deferred gratification... without hard work I can't make progress.",
+          "summary_en": "Anchor your life on hard work, discipline, and sacrificing today for a better tomorrow.",
+          "summary_zh": "成功首靠勤奋、自律与延迟满足",
+          "timestamp_sec": 1254,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "When friends and I took over a distress bank... you have to be prepared. If you're not prepared, when luck comes your way, you will not even notice you had the opportunity.",
+          "summary_en": "Prepare diligently so you can recognize and seize bold turnaround opportunities when luck arrives.",
+          "summary_zh": "提前做好准备，看准困境机会果断出手",
+          "timestamp_sec": 1285,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Deciding first time not to buy a car and rather save the money and use the money to acquire a property... I didn't have a car for a long time.",
+          "summary_en": "Skip early status purchases like cars and direct your savings into appreciating property assets.",
+          "summary_zh": "延迟消费，先攒钱买资产而非买车",
+          "timestamp_sec": 1306,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I don't go on vacation... I do things that give me excitement, things that give me joy. I love what I do.",
+          "summary_en": "Build a career around work you genuinely love so daily execution feels exciting rather than a chore.",
+          "summary_zh": "热爱自己的事业，从中获得兴奋与快乐",
+          "timestamp_sec": 1328,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "We need to democratize prosperity... It is about impact. It's about legacy... You can't be the only tree in the forest.",
+          "summary_en": "Democratize prosperity, stay grounded in God, and build legacy impact that lifts others around you.",
+          "summary_zh": "独木不成林，回报社会并铭记信仰",
+          "timestamp_sec": 1353,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "When you do extraordinary things people are not used to they will think you're stupid. But if you're committed, discipline, focused, know what you're doing, you get there.",
+          "summary_en": "Expect skeptics to call bold moves crazy, and push through with commitment, discipline, and focus.",
+          "summary_zh": "做非凡之事时无视质疑，坚定执行",
+          "timestamp_sec": 1384,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Savings is extremely important... You earn a dollar and you tell yourself it's just a dollar... save, then when you save, you invest.",
+          "summary_en": "Build the discipline of saving even on $1 of income, then invest those savings to compound wealth.",
+          "summary_zh": "从小钱起养成储蓄习惯，再拿去投资",
+          "timestamp_sec": 1419,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Be optimistic, futuristic, work hard, stay focused on your vision, and above all be hungry and you succeed.",
+          "summary_en": "Stay optimistic, future-focused, hungry, and locked in on your long-term vision.",
+          "summary_zh": "保持乐观与饥饿感，专注长远愿景",
+          "timestamp_sec": 1463,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身中下层家庭，早期从银行基层做起并坚持储蓄买资产；20世纪90年代与朋友联手收购并扭转了一家陷入困境的银行（如今企业估值超160亿美元）。",
+      "guest_name": "Mr. Tony (Nigerian Banking & Family Office Billionaire)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder of Ezodings (Family Office: Banking, Oil & Gas, Power, Hospitality, Real Estate; Age 63)",
+      "wealth_detail": "Confirmed billionaire; business valuation over $16B; committed $100M+ to young African entrepreneurs; owns 4th private jet",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "坚持勤奋、自律与延迟消费：哪怕只赚1美元也要养成储蓄习惯，攒钱优先购置房产等资产而非买车；提前做好准备以抓住降临的机遇，同时保持乐观、专注愿景与饥饿感。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "g9K6l15bQGc",
+  "video_type": "street_multi"
+}

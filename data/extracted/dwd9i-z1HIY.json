@@ -1,0 +1,391 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "A lot of hard work and put away my money try and invest intelligently.",
+          "summary_en": "Save your earnings and invest intelligently in promising young companies.",
+          "summary_zh": "存下收入并明智投资早期优质公司",
+          "timestamp_sec": 137,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Be kind to people. It's not so much how much money you have, it's what people think of you.",
+          "summary_en": "Be kind to people; your reputation and how others view you matter more than how much money you have.",
+          "summary_zh": "善待他人，声誉和口碑比金钱更重要",
+          "timestamp_sec": 177,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Even if you have nothing, work even 24 hours a day... Work hard and perseverance.",
+          "summary_en": "Work relentlessly and persevere even if you are starting out with nothing.",
+          "summary_zh": "哪怕一无所有也要拼命工作、坚持不懈",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在纽约布鲁克林长大，做了27年医生，并在早期投资了微软、Facebook和Netflix。",
+      "guest_name": "Brooklyn-Born Doctor & Early Microsoft/Facebook Investor",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Physician (27 Years) & Early Tech Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "即使一无所有也要拼命工作、坚持不懈，善待他人并存下收入做明智投资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I made my millions by following my passion, my dream. When people said my [music] suck, I worked harder to make it better.",
+          "summary_en": "Follow your passion and work harder to refine your craft when doubters criticize you.",
+          "summary_zh": "追随热爱的梦想，面对质疑加倍打磨作品",
+          "timestamp_sec": 258,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "To this day, sometimes I go through things on the media, I don't care cuz I got my family and they're taken care of.",
+          "summary_en": "Ignore media noise and outside opinions; stay focused on taking care of your family.",
+          "summary_zh": "屏蔽外界杂音和负面评价，专注照顾家人",
+          "timestamp_sec": 267,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "When you make millions, you got to have escrow accounts and you got to put money up where it makes money for you and you can't touch... You got to save money, bro.",
+          "summary_en": "Lock money in untouchable escrow accounts that generate returns instead of blowing it young.",
+          "summary_zh": "把赚到的钱锁进不可动用的账户并储蓄生钱",
+          "timestamp_sec": 293,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "The more hits I made, the more questions I start asking about my contract... They didn't want to let me own it. So, I bought myself out the contract.",
+          "summary_en": "Question your contracts and buy yourself out if needed so you can own your work.",
+          "summary_zh": "看清合约条款，争取并买回自己的作品所有权",
+          "timestamp_sec": 311,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "My grandmother, since I was a kid, raised in the church... my family was poor, so our faith was with God since I was little.",
+          "summary_en": "Stay rooted in faith through humble beginnings as a foundation for resilience.",
+          "summary_zh": "贫寒出身中保持信仰，以此作为精神支撑",
+          "timestamp_sec": 328,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "My first show was $250 and we had to drive 4 hours away... passion, ambition, hustle, and understanding that you might be denied a couple times.",
+          "summary_en": "Accept unprofitable early gigs and repeated rejection as normal steps on the climb.",
+          "summary_zh": "接受起步微薄回报与被拒绝，靠拼劲打开局面",
+          "timestamp_sec": 359,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Build a solid team around you that's focused on the same things you're focused on.",
+          "summary_en": "Surround yourself with a solid, aligned team working toward the same goals.",
+          "summary_zh": "组建志同道合的稳固团队共同推进目标",
+          "timestamp_sec": 377,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I don't care if you working at McDonald's. You want to become the manager. You got to work hard to get that. It don't come to nobody.",
+          "summary_en": "Work hard to climb from wherever you are; success is never handed to anyone.",
+          "summary_zh": "无论身处什么岗位都要拼尽全力做到最好",
+          "timestamp_sec": 377,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒家庭，17岁辍学追逐音乐梦，第一场演出开车4小时仅赚250美元；随Migos成名后2018年单年赚约2000万美元，并花钱买断唱片合约获得作品所有权。",
+      "guest_name": "Offset",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Rapper & Musician (Migos)",
+      "wealth_detail": "$20M peak single-year income (2018)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "追随热爱并比别人更努力，组建目标一致的团队，赚钱后锁入不可动用的账户储蓄生钱并争取所有权。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "If I was young, I would 100% go in the army again... The discipline, the camaraderie, the loyalty, the sense of service to the country, it's one of the most fulfilling feelings.",
+          "summary_en": "Develop discipline, loyalty, and camaraderie early—even through military service.",
+          "summary_zh": "通过参军等严格环境培养自律、忠诚与团队精神",
+          "timestamp_sec": 475,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "AI needs power... Anyone that could generate energy in a sustainable manner to feed this AI monster, that's where you want to be.",
+          "summary_en": "Target sustainable power generation to supply the massive energy demands of AI.",
+          "summary_zh": "瞄准AI背后的可持续能源供给赛道",
+          "timestamp_sec": 496,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "It was never really about money. It was really about solving real problems... If you solve people's problems, you become wealthy.",
+          "summary_en": "Focus on solving real problems rather than chasing money; wealth follows problem-solving.",
+          "summary_zh": "不要只盯着钱，解决真实痛点才能真正致富",
+          "timestamp_sec": 526,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "The secret to scaling is non-stop relationship building, non-stop selling... I don't sell to get money from people. I really like to build a relationship up and solve their problems.",
+          "summary_en": "Scale through relentless selling rooted in genuine relationships and solving client problems.",
+          "summary_zh": "规模化扩张核心是持续销售与建立客户信任",
+          "timestamp_sec": 546,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Go Global From Day One",
+          "category": "Business & Strategy",
+          "quote": "We went global from day one because when a country goes into recession, another country might be booming. So, you should always be global from day one.",
+          "summary_en": "Expand globally from day one so growth in one region offsets recessions in another.",
+          "summary_zh": "创业第一天起就做全球市场对冲单一衰退",
+          "timestamp_sec": 576,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "People spend the money they don't have to impress the people they don't like. Save first and then spend later. So, saving should be your number one goal.",
+          "summary_en": "Stop spending money you do not have to impress people you dislike; make saving your top priority.",
+          "summary_zh": "别借钱消费去取悦别人，先存钱再消费",
+          "timestamp_sec": 615,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Set Up Proper Legal Entity Early",
+          "category": "Business & Strategy",
+          "quote": "Structure their company properly from the get-go... it just saves you problem down the road... all the top Silicon Valley companies, they're all Delaware C Corps.",
+          "summary_en": "Set up the right corporate entity structure from the start to prevent legal and tax headaches later.",
+          "summary_zh": "起步即规范公司法律架构避免后续合规隐患",
+          "timestamp_sec": 625,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Work on relationships... If you're weak at something, you should befriend people that have a strength that you don't have and then you learn from them and then build together.",
+          "summary_en": "Cherish relationships and partner with people whose strengths complement your weaknesses.",
+          "summary_zh": "真诚经营人脉，与能力互补的强者同行共创",
+          "timestamp_sec": 677,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "8岁从牙买加仅带一个行李箱赴美重新开始，参军月薪600美元并获资助读完本硕；后创办军工与工业加密硬件公司，2000年在法兰克福证券交易所上市（公司估值20亿欧元）。",
+      "guest_name": "Jamaican-Born Military Encryption Company Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder of Military & Industrial Encryption Hardware Company",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻人可参军磨炼自律并免费深造，从第一天起瞄准全球市场，先解决真实痛点、坚持储蓄并与能力互补的伙伴建立长期关系。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "They own a few high quality businesses. Number two, they make sure they understand them. Number three, they make sure they're in strong long-term growth industries. Number four, they make sure that they hold for the long run.",
+          "summary_en": "Concentrate ownership in a few understandable, high-quality businesses in growth industries and hold long-term.",
+          "summary_zh": "集中持有少数看得懂的高成长企业并长期持有",
+          "timestamp_sec": 893,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I had to borrow to invest. I had cash flow because I was selling mutual funds... if you have cash flow, use your cash flow to borrow and then invest in high quality businesses.",
+          "summary_en": "Generate steady cash flow first, then use borrowing capacity to acquire high-quality businesses.",
+          "summary_zh": "先创造稳定现金流，再善用杠杆收购优质资产",
+          "timestamp_sec": 924,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Whenever there's a shift in the dominant source of energy, there's a shift in economic power. Right now, there's a shift occurring towards nuclear.",
+          "summary_en": "Position yourself in industries benefiting from major energy transitions, such as nuclear power.",
+          "summary_zh": "紧跟主导能源向核能转移的历史大趋势布局",
+          "timestamp_sec": 934,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I work hard. I keep my mind active and I've always exercised.",
+          "summary_en": "Stay sharp at any age through hard work, mental activity, and consistent physical exercise.",
+          "summary_zh": "75岁仍坚持工作、锻炼并让大脑保持活跃",
+          "timestamp_sec": 955,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "My happiness comes from my mantra. Doing well by doing good. Doing well by uplifting others.",
+          "summary_en": "Derive true fulfillment by doing well financially while doing good and uplifting others.",
+          "summary_zh": "践行行善致富，通过托举他人获得真正幸福",
+          "timestamp_sec": 982,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Identify a role model... make sure that role model is the best in the world. Number two, get the recipe... And thirdly, don't change a recipe. Do exactly what that person did.",
+          "summary_en": "Pick the best role model in the world, get their exact recipe, and execute it faithfully.",
+          "summary_zh": "找世界顶级榜样，拿到成功配方并严格照做",
+          "timestamp_sec": 991,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "To be successful, you have to have a PhD. That's not a school PhD: Poor, hungry, and driven.",
+          "summary_en": "Cultivate a real 'PhD'—staying poor, hungry, and driven—to build generational wealth.",
+          "summary_zh": "成功需具备“PhD”：贫穷、饥渴与内驱力",
+          "timestamp_sec": 1004,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "母子均为被收养出身，赴加拿大留学仅带够一年学费，写信向牙买加总理申请奖学金才读完大学；靠销售共同基金积累现金流后，借贷超过自身净资产以50万美元收购一家共同基金公司，四年后升值至350万美元。",
+      "guest_name": "Michael Lee-Chin (transcribed as Michael Legion)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Billionaire Investor (Banking, Mutual Funds & Nuclear)",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "保持“贫穷、饥渴与内驱力”，向世界顶级榜样学习并严格复制其方法，用稳定现金流结合审慎杠杆买下看得懂的高成长企业并长期持有。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "You need to learn how to come out of the comfort zone... It's painful, but then second day joy... Everyone has fear... it's about overcome this fear.",
+          "summary_en": "Push past discomfort and act despite fear, because growth and joy come on the other side.",
+          "summary_zh": "走出舒适区直面恐惧，在痛苦后收获成长",
+          "timestamp_sec": 1362,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "When you have a dream, your dream should scare the hell out of you... If your dreams don't scare you, they're not big enough.",
+          "summary_en": "Set dreams big enough to terrify you; otherwise, upgrade your ambitions.",
+          "summary_zh": "把梦想定得足够大，大到连自己都感到敬畏",
+          "timestamp_sec": 1372,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Relationships is everything... When you meet someone new, genuinely ask a question about them, you listen... Don't talk about you, man. Everyone likes to be respected.",
+          "summary_en": "Prioritize relationships by asking genuine questions and listening attentively rather than talking about yourself.",
+          "summary_zh": "人脉就是一切，社交时少谈自己、多倾听对方",
+          "timestamp_sec": 1418,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "There's a great book... Daniel Carnegi, How to Make Friends. It sounds boring, but just read the book, man. I learned everything from this.",
+          "summary_en": "Read Dale Carnegie's classic book on winning friends and apply its timeless relationship lessons.",
+          "summary_zh": "精读《人性的弱点》经典著作并彻底吸收运用",
+          "timestamp_sec": 1439,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在贫穷的格鲁吉亚长大，6年前曾连出让10%股份融资10万美元都筹不到，最终44岁后打造出月活7700万玩家的线上赌场游戏软件公司，估值达50亿美元。",
+      "guest_name": "Alex (Georgian-Born $5B Online Casino Software Founder)",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "How to Win Friends and Influence People by Dale Carnegie"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Founder of Online Casino Software Provider ($5B Company)",
+      "wealth_detail": "$5B company valuation; $100M watch collection",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "勇于走出舒适区并树立令自己敬畏的大梦想，学会真诚倾听他人以经营顶级人脉，必读戴尔·卡耐基的《人性的弱点》。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "dwd9i-z1HIY",
+  "video_type": "street_multi"
+}

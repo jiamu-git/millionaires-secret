@@ -1,0 +1,108 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "You have to love what you're doing and I love what I'm doing because I'm doing it for a reason... More does not make people happy.",
+          "summary_en": "Love what you do and work for a deeper purpose beyond simply accumulating more money.",
+          "summary_zh": "热爱所做之事并怀抱超越金钱的使命",
+          "timestamp_sec": 157,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "When you have $600, you don't open up a retail store. You just make little frames and sell them to arts and crafts stores",
+          "summary_en": "Start lean with the capital you have (making frames in a garage) and accumulate profits before opening a retail store.",
+          "summary_zh": "资金有限时从小生意起步，攒够利润再开店",
+          "timestamp_sec": 176,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Debt & Fund Growth With Profits",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "mistake we made was borrowing money. And we got in trouble when we lost money the bank was going to foreclose on us... we should work on our own profits and our own sales.",
+          "summary_en": "Avoid borrowing bank money that puts your company at risk of foreclosure; fund growth through your own sales and profits.",
+          "summary_zh": "切忌过度借贷，应依靠自身营收和利润发展",
+          "timestamp_sec": 391,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "That's where the buyers have to study, study, study... you learn that by studying it cuz when you go like this you're just diluting everything.",
+          "summary_en": "Study your product assortment, inventory balance, and business thoroughly instead of guessing or diluting focus.",
+          "summary_zh": "持续深入研究选品与业务数据，切忌盲目扩张",
+          "timestamp_sec": 495,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "it tells you how much money we make on each item... if you look at the cost and the sale that equates to $255,000 a month... we have that on every item that we carry.",
+          "summary_en": "Track exact unit sales, costs, and profit margins on every single item you carry.",
+          "summary_zh": "精确掌握每一款产品的销量、成本与利润",
+          "timestamp_sec": 558,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I think the best thing you can do for God to bless you is to let him know you're only the steward and not the owner.",
+          "summary_en": "Treat yourself as a steward rather than the owner of wealth, stay grounded in faith, and give generously (donating 60% of profits).",
+          "summary_zh": "保持信仰与感恩，视己为财富管家并慷慨回馈",
+          "timestamp_sec": 647,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "if we see something that makes us more money, it has nothing to do with what's going to guide us. What's going to guide us is doing things that we think is right",
+          "summary_en": "Never compromise your faith, ethics, or core principles for short-term profit (such as staying closed on Sundays).",
+          "summary_zh": "坚守原则与道德底线，不为短期利益妥协",
+          "timestamp_sec": 793,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Keep Operations Simple & Standardized",
+          "category": "Business & Strategy",
+          "quote": "When you have 1,100 stores that have 70,000 items, that's 77 million different decisions... that's one of the successes that we have is learning how to keep it simple",
+          "summary_en": "Keep operations simple and standardized (such as uniform store layouts) so scaling across 1,100 stores remains manageable.",
+          "summary_zh": "保持运营极简与标准化，避免扩张陷入复杂",
+          "timestamp_sec": 853,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾在TG&Y零售店担任主管，后借款600美元起家（450美元购买木框切割机，其余买胶水与木条），在车库制作迷你相框并雇销售员卖给工艺品店；攒够资金后于1970年在俄克拉荷马城开出第一家600平方英尺的Hobby Lobby门店并逐步扩展品类。",
+      "guest_name": "David Green",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "His Mother"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder of Hobby Lobby",
+      "wealth_detail": "$13B+ net worth; ~$10B/yr revenue (1,100 stores)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "资金有限时切忌急于开大店，应从微小的产品或生意做起并依靠自身盈利滚动扩张；避免银行借贷以防资金链断裂风险；保持运营简单标准化，深入研究每一款产品的成本与利润，并坚守信仰与道德原则。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "gWDTb7wseUY",
+  "video_type": "deep_dive_single"
+}

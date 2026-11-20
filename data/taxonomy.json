@@ -1,0 +1,129 @@
+{
+  "categories": {
+    "Mindset & Resilience": "思维与心性",
+    "Actionable Skills & Habits": "核心技能与习惯",
+    "Business & Strategy": "商业与创业策略",
+    "Wealth & Investing": "财富管理与投资",
+    "Regrets & Warnings (Don'ts)": "避坑与后悔"
+  },
+  "industries": [
+    "Real Estate",
+    "Finance & Investing",
+    "Tech & Software",
+    "Consumer & Retail / E-commerce",
+    "Media, Entertainment & Sports",
+    "Legal & Professional Services",
+    "Healthcare & Biotech",
+    "Energy, Manufacturing & Trades",
+    "Hospitality, Food & Beverage",
+    "Sales & Marketing / Agency",
+    "Other / Unspecified"
+  ],
+  "industries_zh": {
+    "Real Estate": "房地产与开发",
+    "Finance & Investing": "金融投资与私募",
+    "Tech & Software": "科技与软件",
+    "Consumer & Retail / E-commerce": "消费零售与电商",
+    "Media, Entertainment & Sports": "文娱传媒与体育",
+    "Legal & Professional Services": "法律与专业服务",
+    "Healthcare & Biotech": "医疗健康与生物科技",
+    "Energy, Manufacturing & Trades": "能源制造与实体工程",
+    "Hospitality, Food & Beverage": "酒店餐饮与文旅",
+    "Sales & Marketing / Agency": "营销代理与高客单销售",
+    "Other / Unspecified": "其他 / 未明确"
+  },
+  "wealth_tiers": [
+    "Billionaire ($1B+)",
+    "Decamillionaire+ ($10M-$999M)",
+    "Millionaire ($1M-$9.9M)",
+    "High Earner ($300k-$999k/yr)",
+    "Unspecified"
+  ],
+  "wealth_tiers_zh": {
+    "Billionaire ($1B+)": "十亿美元级 ($1B+)",
+    "Decamillionaire+ ($10M-$999M)": "千万至数亿美元级 ($10M-$999M)",
+    "Millionaire ($1M-$9.9M)": "百万至千万美元级 ($1M-$9.9M)",
+    "High Earner ($300k-$999k/yr)": "高收入群体 ($300k-$999k/yr)",
+    "Unspecified": "未透露具体量级"
+  },
+  "origin_types": [
+    "Self-made (From scratch / modest)",
+    "Corporate / Executive climb",
+    "Commission / High-ticket sales",
+    "Inherited / Family business",
+    "Unspecified"
+  ],
+  "origin_types_zh": {
+    "Self-made (From scratch / modest)": "白手起家创业",
+    "Corporate / Executive climb": "职业经理人/高管晋升",
+    "Commission / High-ticket sales": "高佣金销售起家",
+    "Inherited / Family business": "家族传承/二代接班",
+    "Unspecified": "未提及出身路径"
+  },
+  "skills": [
+    "Sales & Persuasion",
+    "Networking & Relationships",
+    "Financial Literacy & Accounting",
+    "Leadership & People Management",
+    "Public Speaking & Communication",
+    "Negotiation & Deal-Making",
+    "Marketing & Distribution",
+    "Real Estate Underwriting",
+    "Technical / Engineering",
+    "Operations & Systems"
+  ],
+  "skills_zh": {
+    "Sales & Persuasion": "销售与说服力",
+    "Networking & Relationships": "人脉与关系经营",
+    "Financial Literacy & Accounting": "财务与数字敏感度",
+    "Leadership & People Management": "领导力与识人用人",
+    "Public Speaking & Communication": "公众表达与沟通",
+    "Negotiation & Deal-Making": "谈判与交易架构",
+    "Marketing & Distribution": "市场营销与流量分发",
+    "Real Estate Underwriting": "地产评估与拿地开发",
+    "Technical / Engineering": "技术与工程硬实力",
+    "Operations & Systems": "运营体系与流程化"
+  },
+  "canonical_tags": [
+    {"tag": "Relentless Work Ethic & Grit", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "mindset_general", "zh": "极致努力与超强韧性", "desc": "Outwork everyone, endure hardship, stay gritty"},
+    {"tag": "Overcome Fear & Take Calculated Risks", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "strategic_principle", "zh": "克服恐惧、敢于承担风险", "desc": "Take big swings early, manage downside, act despite fear"},
+    {"tag": "Bias Toward Action (Just Start)", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "high_actionable", "zh": "先干起来、执行力胜过空想", "desc": "Stop overthinking and start immediately with what you have"},
+    {"tag": "Embrace Failure & Rejection", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "mindset_general", "zh": "拥抱失败与拒绝、快速复盘", "desc": "Treat failure and 'no' as tuition and stepping stones"},
+    {"tag": "Obsession, Passion & Curiosity", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "mindset_general", "zh": "热爱与极致专注、保持饥饿感", "desc": "Love the craft or process, stay relentlessly curious"},
+    {"tag": "Integrity, Reputation & Word", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "strategic_principle", "zh": "诚信立身、珍惜长期声誉", "desc": "Keep your word, build trust, never burn bridges"},
+    {"tag": "Faith, Gratitude & Giving Back", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "mindset_general", "zh": "信仰、感恩与回馈社会", "desc": "Stay grounded in faith, gratitude, humility, or charity"},
+    {"tag": "Self-Belief & Rejecting Limiting Beliefs", "category": "Mindset & Resilience", "type": "advice_do", "actionability": "mindset_general", "zh": "自信笃定、打破自我设限", "desc": "Ignore doubters and raise your mental ceiling"},
+
+    {"tag": "Master Sales & Persuasion", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "high_actionable", "zh": "精通销售、沟通与说服力", "desc": "Learn how to sell, pitch, close deals, and persuade"},
+    {"tag": "Build High-Value Network & Relationships", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "high_actionable", "zh": "经营高质量人脉与圈子", "desc": "Surround yourself with winners, build genuine relationships"},
+    {"tag": "Find & Learn From Mentors", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "high_actionable", "zh": "寻找顶级导师、向过来人借智", "desc": "Get a mentor, work close to successful people, model winners"},
+    {"tag": "Continuous Learning & Reading", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "high_actionable", "zh": "终身学习、阅读与持续精进", "desc": "Read voraciously, learn new skills, never stop studying"},
+    {"tag": "Financial Literacy & Knowing Your Numbers", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "high_actionable", "zh": "精通财务、看懂现金流与数字", "desc": "Understand accounting, cash flow, margins, and taxes"},
+    {"tag": "Consistency, Discipline & Routine", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "high_actionable", "zh": "长期自律、保持作息与健康", "desc": "Show up daily, protect physical health, stay disciplined"},
+    {"tag": "Leverage Social Media & Personal Brand", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "high_actionable", "zh": "利用自媒体与个人品牌杠杆", "desc": "Create content, build audience distribution and personal brand"},
+    {"tag": "Choose the Right Life Partner", "category": "Actionable Skills & Habits", "type": "advice_do", "actionability": "strategic_principle", "zh": "选对人生伴侣与支持型配偶", "desc": "Marry a supportive partner aligned on values and long-term ambition"},
+
+    {"tag": "Solve Real Pain Points & Deliver Value", "category": "Business & Strategy", "type": "advice_do", "actionability": "strategic_principle", "zh": "解决真实痛点、创造超预期价值", "desc": "Focus on solving problems for customers; money follows value"},
+    {"tag": "Choose the Right Industry / Big Market", "category": "Business & Strategy", "type": "advice_do", "actionability": "strategic_principle", "zh": "选对高天花板赛道与趋势", "desc": "Pick growing/scalable industries with high margins and tailwinds"},
+    {"tag": "Hire A-Players & Delegate", "category": "Business & Strategy", "type": "advice_do", "actionability": "strategic_principle", "zh": "招比自己强的人、打造团队与授权", "desc": "Hire great people, build systems, empower and delegate"},
+    {"tag": "Own Equity Rather Than Trading Time", "category": "Business & Strategy", "type": "advice_do", "actionability": "strategic_principle", "zh": "追求股权与资产，而非纯出卖时间", "desc": "Seek ownership, equity, scalable assets over hourly wages"},
+    {"tag": "Focus & Say No to Distractions", "category": "Business & Strategy", "type": "advice_do", "actionability": "strategic_principle", "zh": "高度聚焦主业、对诱惑说不", "desc": "Go deep on one thing until it works; avoid shiny-object syndrome"},
+    {"tag": "Provide Exceptional Customer Service", "category": "Business & Strategy", "type": "advice_do", "actionability": "high_actionable", "zh": "极致客户体验与口碑复购", "desc": "Overdeliver for clients, treat customers with extreme care"},
+    {"tag": "Start Lean & Reinvest Profits", "category": "Business & Strategy", "type": "advice_do", "actionability": "high_actionable", "zh": "轻资产起步、利润滚雪球再投入", "desc": "Keep overhead low early and plow profits back into growth"},
+    {"tag": "Build Boring / Traditional Cash-Flow Businesses", "category": "Business & Strategy", "type": "advice_do", "actionability": "strategic_principle", "zh": "深耕“无聊但稳赚”的传统现金流生意", "desc": "Trades, home services, B2B logistics, infrastructure, insurance"},
+    {"tag": "Work Under a Winner First Before Starting", "category": "Business & Strategy", "type": "advice_do", "actionability": "high_actionable", "zh": "先在高水平团队打工攒经验再创业", "desc": "Get paid to learn in a great company before launching your own"},
+
+    {"tag": "Invest in Real Estate", "category": "Wealth & Investing", "type": "advice_do", "actionability": "high_actionable", "zh": "配置房地产获取现金流与增值", "desc": "Buy cash-flowing properties, commercial/residential real estate"},
+    {"tag": "Invest Consistently & Let Compounding Work", "category": "Wealth & Investing", "type": "advice_do", "actionability": "high_actionable", "zh": "长期坚持投资、让时间与复利发酵", "desc": "Invest early in equities/index/assets and hold long-term"},
+    {"tag": "Live Below Your Means & Avoid Lifestyle Creep", "category": "Wealth & Investing", "type": "advice_do", "actionability": "high_actionable", "zh": "量入为出、克制消费膨胀", "desc": "Keep expenses low, save aggressively, don't inflate lifestyle"},
+    {"tag": "Use Debt Wisely (Good Debt vs Bad Debt)", "category": "Wealth & Investing", "type": "advice_do", "actionability": "strategic_principle", "zh": "善用良性杠杆、远离消费负债", "desc": "Use debt only for cash-flowing assets, avoid consumer debt"},
+    {"tag": "Create Multiple Income Streams", "category": "Wealth & Investing", "type": "advice_do", "actionability": "strategic_principle", "zh": "建立多元化收入与被动现金流", "desc": "Diversify cash flow so you don't rely on a single paycheck"},
+
+    {"tag": "Don't Chase Fast Money / Get-Rich-Quick", "category": "Regrets & Warnings (Don'ts)", "type": "warning_dont", "actionability": "strategic_principle", "zh": "警惕暴富诱惑与短视投机", "desc": "Avoid hype, crypto/get-rich-quick schemes, build real value"},
+    {"tag": "Don't Neglect Health & Family for Money", "category": "Regrets & Warnings (Don'ts)", "type": "regret", "actionability": "strategic_principle", "zh": "别为赚钱牺牲健康与家人陪伴", "desc": "Regretting working too much at cost of health, spouse, or kids"},
+    {"tag": "Be Careful Who You Partner With", "category": "Regrets & Warnings (Don'ts)", "type": "warning_dont", "actionability": "high_actionable", "zh": "慎选合伙人，谨防利益与价值观错位", "desc": "Vet business partners thoroughly or keep full control"},
+    {"tag": "Don't Wait Too Long to Start / Invest", "category": "Regrets & Warnings (Don'ts)", "type": "regret", "actionability": "high_actionable", "zh": "后悔起步创业或开始投资太晚", "desc": "Wish I had taken risks, bought assets, or started earlier"},
+    {"tag": "Don't Overspend to Impress Others", "category": "Regrets & Warnings (Don'ts)", "type": "warning_dont", "actionability": "high_actionable", "zh": "切忌为虚荣买豪车奢侈品透支自己", "desc": "Stop buying status symbols/watches/cars to impress strangers"},
+    {"tag": "Don't Surround Yourself With Toxic / Negative People", "category": "Regrets & Warnings (Don'ts)", "type": "warning_dont", "actionability": "high_actionable", "zh": "远离消耗型圈子与负能量人群", "desc": "Cut off doubters, haters, and unmotivated peers"}
+  ]
+}

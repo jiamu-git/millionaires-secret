@@ -1,0 +1,342 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "if you can put the right people in place and delegate your work then you're able to grow a business... once you start to delegate... that's when you're going to start to see major growth",
+          "summary_en": "Stop trying to be a solopreneur; put the right people in place, build systems, and delegate to scale.",
+          "summary_zh": "学会授权放权，组建团队与系统",
+          "timestamp_sec": 78,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "sales is psychology... if you can make someone believe that something is first of all limited edition and that is exclusive you can get them to buy anything... if you can brand your business if you can brand yourself you can sell anything",
+          "summary_en": "Understand sales psychology—exclusivity, scarcity, and strong personal or business branding let you sell at high volume.",
+          "summary_zh": "销售本质是心理学，用稀缺和品牌成交",
+          "timestamp_sec": 98,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "everyone that you see driving a Lamborghini and wearing flashy clothes they aren't actually rich... don't keep up with the Joneses even if you are making money",
+          "summary_en": "Don't fall for social media flexes or go broke buying Lamborghinis and luxury items to keep up with the Joneses.",
+          "summary_zh": "别为虚荣超前消费，攀比豪车名牌",
+          "timestamp_sec": 149,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I know more millionaires who have sat back live below their means and built their funds over time... the best financial advice I could do is live below your means",
+          "summary_en": "Live below your means and steadily build your reserves over time instead of inflating your lifestyle.",
+          "summary_zh": "保持量入为出，避免生活方式膨胀",
+          "timestamp_sec": 169,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "invest invest invest accumulate your money compound interest open a Roth IRA invest in your Roth IRA every single year compound all of your money",
+          "summary_en": "Open a Roth IRA, invest consistently every single year, and let compound interest grow your wealth.",
+          "summary_zh": "每年定投罗斯退休账户，让时间复利",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "poor people think in weeks and months rich people think in years and decades... that get rich quick stuff is going to get you broke real quick",
+          "summary_en": "Think in years and decades rather than weeks and months; chasing get-rich-quick schemes will make you broke fast.",
+          "summary_zh": "坚持十年以上的长期思维，远离暴富盘",
+          "timestamp_sec": 190,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "最初从电商起家，后拓展至企业并购（M&A）及房地产领域，通过组建团队和建立业务系统实现业绩倍增。",
+      "guest_name": "Miami E-Commerce, M&A & Real Estate Founder",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder (E-Commerce, M&A & Real Estate)",
+      "wealth_detail": "$5M gross ($3.9M net) last year; $6M YTD on track for $10M gross ($7.9M net) this year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "量入为出、切勿攀比炫富，尽早开设罗斯退休账户（Roth IRA）并持续复利投资，坚持以十年为单位的长期思维。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I went all into solar energy why because I believe that that was the most important thing that I could do at that time so I went selling door to door... and then I got into installing the stuff actually learning about the technology",
+          "summary_en": "Go all-in on an important industry and learn every layer from door-to-door sales to technical installation.",
+          "summary_zh": "全力投入高价值赛道，从一线做起",
+          "timestamp_sec": 230,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "to get to Seven figures you need a really good idea and really good sales and Market",
+          "summary_en": "Reaching seven figures requires combining a solid idea with great sales and marketing execution.",
+          "summary_zh": "靠好产品与强销售营销突破百万营收",
+          "timestamp_sec": 274,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "to get to 8 figures you need a really good team... to get to nine figures... most importantly you need systems you need SOPs standard operating procedures... people aren't just relying on the CEO anymore they're relying on the machine in the system",
+          "summary_en": "Build an A-player team to hit eight figures, then document every function into SOPs so the system scales without relying on the CEO.",
+          "summary_zh": "搭建优秀团队与标准化SOP系统",
+          "timestamp_sec": 284,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "spend your money... the only way that you can build something is by pouring into it... I will never ever hoard my money I will always put it back into something",
+          "summary_en": "Don't let cash sit idle in a bank account losing value; once expenses and payroll are covered, put your money back to work.",
+          "summary_zh": "不要在银行囤死钱，持续再投资业务",
+          "timestamp_sec": 360,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "看准太阳能赛道后从挨家挨户敲门推销起步，深入掌握产品、客户与安装工程技术并组建团队，最终建成全美大型太阳能企业之一。",
+      "guest_name": "Zane",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Elon Musk"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Marketing & Distribution",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "CEO of Nine-Figure Solar Company",
+      "wealth_detail": "$149M company revenue last year; on track for ~$300M this year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "选定重要赛道深耕并从一线销售做起，切忌把钱囤在银行贬值，覆盖成本后应持续投入业务与资产让钱生钱。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I believe in investing into your environment so it first starts with the home... second is the people that you surround yourself around... it's really great to go Network and communicate and connect with people",
+          "summary_en": "Invest in your physical environment and move to cities where ambitious entrepreneurs congregate so you can network with high-level peers.",
+          "summary_zh": "投资所处环境与圈层，结交高价值人脉",
+          "timestamp_sec": 464,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "throughout the portfolio of businesses that I have right now it's really a cash generation machine to then invest into digital currencies",
+          "summary_en": "Operate a portfolio of cash-generating businesses to consistently fund investments in appreciating assets.",
+          "summary_zh": "用高现金流业务矩阵供养资产投资",
+          "timestamp_sec": 534,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Make Data-Driven Scaling Decisions",
+          "category": "Business & Strategy",
+          "quote": "follow the graph... you can hustle your way to the first or second seven figures and once you have data to be able to help you make decisions then you start to see that parabolic growth",
+          "summary_en": "Transition from pure hustle to building data infrastructure—follow revenue, impression, and algorithm graphs to scale from 7 to 8 figures.",
+          "summary_zh": "建立数据基础设施，用增长曲线做决策",
+          "timestamp_sec": 572,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "the best advice I got was connecting yourself to revenue... if you can control the lead flow then everyone's gonna want you... if you understand marketing and then sales... any business will be able to want you",
+          "summary_en": "Connect yourself directly to revenue by mastering marketing (lead flow) and sales so every business needs your skillset.",
+          "summary_zh": "掌握营销引流与销售，直接绑定公司营收",
+          "timestamp_sec": 610,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "十七八岁接触比特币等数字货币，随后切入数字营销和电商领域，目前掌管5家公司形成现金流矩阵反哺加密资产投资。",
+      "guest_name": "Robert Miller",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Grant Cardone"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Eight-Figure Agency & Portfolio Owner",
+      "wealth_detail": "$15M+ revenue this year; projected $20M-$25M next year; $50M AUM target",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先把自身能力绑定到公司营收上，精通能够控制客源的营销引流与销售转化技能，并置身于充满创业者的优质环境。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Maintain Liquidity & Prepare for Recessions",
+          "category": "Wealth & Investing",
+          "quote": "the more you sweat during peace the less you bleed during war... when I was doing really well I made sure that I stacked money... having a bunch of money or access to money... so you can capitalize on when everything goes on sale",
+          "summary_en": "Stack cash, credit lines, and borrowable assets during boom times to survive the recession that comes every decade and buy discounted assets.",
+          "summary_zh": "顺境时储备现金与流动性，抗击周期衰退",
+          "timestamp_sec": 730,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "another thing is skills right I know no matter what if everything hit the fan I know how to market and sell well enough that I can just call one of my friends who has a business... and I can make some money pretty relatively quickly",
+          "summary_en": "Develop core marketing and sales skills so you can generate income rapidly in any worst-case economic scenario.",
+          "summary_zh": "掌握营销与销售硬技能，随时都能变现",
+          "timestamp_sec": 787,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "2008年作为首批线上健身培训先驱（King Keto）起家，结合自有业务与投资实现了单年1000万美元的最高收入。",
+      "guest_name": "Brandon Carter",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Online Fitness Training Pioneer & Entrepreneur (King Keto)",
+      "wealth_detail": "$10M highest single-year earnings (businesses + investments)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "经济好时要居安思危，备足现金、信用额度或可抵押资产，同时练就过硬的营销和销售本领作为保底手段。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "what it takes is a passion for a human service first of all and a sacrificial mentality that you have to stay so focused... you can't have any other interferences you got to stay really targeted and very focused",
+          "summary_en": "Commit with a passion for serving people and a sacrificial mentality—eliminate distractions and stay laser-focused on mastery.",
+          "summary_zh": "怀抱服务热忱与牺牲精神，排除干扰专注",
+          "timestamp_sec": 852,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "a love and passion for what you do and a strive for excellence be so good that nobody can do it better than you and then the money comes if your priority is the money more than likely you'll fail",
+          "summary_en": "Prioritize loving your craft and achieving unmatched excellence over chasing money; wealth follows excellence, not vice versa.",
+          "summary_zh": "热爱事业并追求极致卓越，而非紧盯金钱",
+          "timestamp_sec": 896,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "10岁时因缺乏医生救治目睹母亲产后大出血离世而立志从医，历经长期医学深造成为年收入约150万美元的心血管及胸外科医生。",
+      "guest_name": "Miami Cardiovascular & Thoracic Surgeon",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Cardiovascular and Thoracic Surgeon",
+      "wealth_detail": "~$1.5M highest single-year earnings",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "把服务他人和追求极致专业放在首位，屏蔽外界干扰长期专注，做到无人能比时财富自然水到渠成。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "just go to zero as fast as I can and then I stay at zero the whole time... I need people I don't need money",
+          "summary_en": "Stop trying to stretch a tiny sum of money; leverage people and relationships rather than relying on small savings.",
+          "summary_zh": "从零起步靠人脉借力，而非死守小钱",
+          "timestamp_sec": 1022,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Raise & Deploy Capital Instead of Hoarding Cash",
+          "category": "Wealth & Investing",
+          "quote": "the lesson I learned was quit managing money okay managers don't make money... they raise money and then they invest it",
+          "summary_en": "Stop merely managing or hoarding money like a saver; model top funds by raising capital and deploying it into investments.",
+          "summary_zh": "别只顾着管钱攒钱，要学会募资并投资",
+          "timestamp_sec": 1033,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "do not save money don't plan for retirement take every penny you earn from every person you meet and reinvest that money reinvest it in something that it's your business your marketing your brand your information getting better faster more confident",
+          "summary_en": "Don't hoard savings for retirement—reinvest every penny you earn into your business, marketing, brand, skills, and speed.",
+          "summary_zh": "把赚来的每一分钱再投入品牌与自我成长",
+          "timestamp_sec": 1055,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "when something's left over start investing in other real assets... start buying real estate next 18 months is gonna be the greatest real estate opportunity in your lifetime",
+          "summary_en": "Once you have surplus capital left over from reinvesting in yourself and your business, put it into real assets like real estate.",
+          "summary_zh": "用富余资金购入房地产等实物资产",
+          "timestamp_sec": 1067,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "母亲不懂理财只教他节流管钱，后来在《卧底亿万富翁》节目挑战中仅带100美元空降科罗拉多州，领悟到靠人脉与募资投建千万美元企业的法则。",
+      "guest_name": "Grant Cardone",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Founder & CEO of Cardone Enterprises / Real Estate Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "放弃攒小钱和传统养老储蓄思维，转而依靠人脉与募资，将所有收入再投资于个人能力、品牌与业务，盈余后购入房地产。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "BP548td2dds",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,136 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I could have played it safe... I decided to make the leap, move to an area of the country I knew nobody, had no resources.",
+          "summary_en": "Leave comfortable lifestyle businesses behind and take calculated leaps into larger markets.",
+          "summary_zh": "敢于跳出舒适区，押注更大的市场",
+          "timestamp_sec": 55,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "You are just a number and so I wanted to solve that problem... treat the whole athlete and not just what's broken.",
+          "summary_en": "Spot gaps where customers feel neglected and build a holistic solution for their real needs.",
+          "summary_zh": "发现行业痛点并提供全方位解决方案",
+          "timestamp_sec": 102,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Failure first of all is a part of the game, you just know going in you're going to throw money at bad ideas.",
+          "summary_en": "Accept upfront that failure and losing money on bad ideas are normal parts of building businesses.",
+          "summary_zh": "把失败当成商业游戏的必然组成部分",
+          "timestamp_sec": 160,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Cut Losses & Avoid Sunk Cost",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "My greatest failure is still really throwing good money after bad... if I had just buried it back in 2020 I would have maybe lost a million dollars.",
+          "summary_en": "Cut your losses early on failing ventures instead of pouring in more capital to save sunk costs.",
+          "summary_zh": "及时止损，切忌向失败项目追加投资",
+          "timestamp_sec": 173,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Sales are your only indicator on whether you've got a great idea... I'd like to get to at least a thousand conversations.",
+          "summary_en": "Validate business ideas strictly through real sales and at least 1,000 customer conversations before scaling.",
+          "summary_zh": "用真实销售与千次对话验证商业想法",
+          "timestamp_sec": 218,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Partner With Passionate Domain Experts",
+          "category": "Business & Strategy",
+          "quote": "I really try to find an expert in that field, somebody who's incredibly passionate about the products and services themselves.",
+          "summary_en": "Enter unfamiliar industries by partnering with experts who are deeply passionate about the product itself.",
+          "summary_zh": "跨行创业寻找热爱产品的专家合伙",
+          "timestamp_sec": 275,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "It really proved incredibly valuable and now I try to surround myself with as many mentors as I possibly can.",
+          "summary_en": "Put aside pride early on and surround yourself with as many experienced mentors as possible.",
+          "summary_zh": "放下傲慢，尽可能多地结交优秀导师",
+          "timestamp_sec": 331,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I am fine doing three to four days a week in just networking... most of getting business going is all in who you know.",
+          "summary_en": "Dedicate 3 to 4 days a week to networking because getting a business off the ground depends on who you know.",
+          "summary_zh": "每周投入半数时间拓展人脉提升知名度",
+          "timestamp_sec": 354,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Tie Local Marketing Directly to Sales",
+          "category": "Business & Strategy",
+          "quote": "Marketing is really just to generate sales, and so if sales are not where you need to be, that means your marketing plan is terrible.",
+          "summary_en": "Reach every potential customer around your location across channels, and scrap any marketing plan that fails to drive sales.",
+          "summary_zh": "地推触达周边客群，以销售额检验营销",
+          "timestamp_sec": 399,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "In order to scale I have to shut up and I have to listen and I have to give permission for other people to own the solutions.",
+          "summary_en": "Stop being the bottleneck by centralizing decisions; listen and empower your team to own solutions.",
+          "summary_zh": "戒掉个人英雄主义，授权团队解决问题",
+          "timestamp_sec": 456,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Define Brand Story Before Content",
+          "category": "Business & Strategy",
+          "quote": "Stop worrying about your websites, even content, don't worry about any of that until your story is nailed down.",
+          "summary_en": "Define your company's purpose statement and brand story for your ideal customer before spending effort on websites or content.",
+          "summary_zh": "先打磨清晰的品牌故事再做网站与内容",
+          "timestamp_sec": 489,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "22岁时与父母共同创办公立学校咨询公司，后独自前往外州开拓更大市场并成功退出。",
+      "guest_name": "Chris Maroff",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Marketing & Distribution",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Serial Entrepreneur & Multi-Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "先通过上千次对话与实际销售验证想法；跨行创业时寻找热爱该领域的专家合伙，并通过高频拓展人脉、地推获客和清晰的品牌故事打开市场。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "MtvcqGNGev8",
+  "video_type": "deep_dive_single"
+}

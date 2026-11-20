@@ -1,0 +1,380 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "if you can find something no one else is doing it work harder than anybody else and you're going to do just fine",
+          "summary_en": "Find an uncrowded niche nobody else wants to do and outwork everyone in it.",
+          "summary_zh": "找冷门苦活并比所有人更拼命",
+          "timestamp_sec": 45,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Take Ownership & Solve Root Problems",
+          "category": "Mindset & Resilience",
+          "quote": "look under the rug if you see a problem don't say someone else is going to fix it you find out what caused it and you find out a way",
+          "summary_en": "Take full ownership of problems you spot, dig into root causes, and fix them yourself.",
+          "summary_zh": "主动深挖问题根源并亲手解决",
+          "timestamp_sec": 45,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "进入最具挑战性和危险性的天然气行业，在别人不看好的领域靠拼搏立足。",
+      "guest_name": "Texas Natural Gas Industry Professional",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Natural Gas Industry Professional",
+      "wealth_detail": "~$500,000/yr cash flow",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "找一件别人不愿干的事并比任何人都努力；遇到问题不要指望他人，亲自查明原因并解决。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I had to do it again I would have probably first gone to work for a large company to get exposed to kind of best practices and how things should be done and then going back to a smaller company",
+          "summary_en": "Start at a large company to learn best practices before moving to a smaller company or startup.",
+          "summary_zh": "先去大厂学最佳实践再去小公司",
+          "timestamp_sec": 70,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Start Career in High-Opportunity Cities",
+          "category": "Business & Strategy",
+          "quote": "when you start your career do it in a city where there are a lot of options for you to you know be at one company for you know maybe three or four years and move on to the other",
+          "summary_en": "Launch your career in a major job market with many options so you can switch companies every 3-4 years.",
+          "summary_zh": "在工作机会多的城市开启职业生涯",
+          "timestamp_sec": 81,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学毕业后加入初创公司经历实战磨炼，现担任工业物联网边缘设备管理软件公司总裁。",
+      "guest_name": "Industrial IoT Software Company President",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Operations & Systems"
+      ],
+      "role_or_title": "President, Industrial IoT Edge Device Management Software Company",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "先去大公司学习规范流程与最佳实践再进入小公司；并在机会丰富的城市起步以便每三四年跳槽成长。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "don't work for anyone... spend your time really putting the time in to build something that you can own as opposed to being an employee for someone else",
+          "summary_en": "Avoid working for someone else long-term; put your time into building something you own.",
+          "summary_zh": "别长期打工，打造属于自己的事业",
+          "timestamp_sec": 149,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "find a way to find something you're passionate about you're going to spend your time on something spend your time growing something that's truly yours",
+          "summary_en": "Find something you genuinely care about and dedicate your time to growing it.",
+          "summary_zh": "找到热爱的事并全情投入培育它",
+          "timestamp_sec": 161,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "put in a few years save as much money as you can and then spend your time really putting the time in to build something that you can own",
+          "summary_en": "Work a few years and save aggressively early on so you can afford to build your own business.",
+          "summary_zh": "早期尽量攒钱以换取创业自由度",
+          "timestamp_sec": 169,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "打了10年职业篮球，之后成为连续创业者并加入全球体育球队投资集团，拥有新西兰职业篮球队等资产。",
+      "guest_name": "Former Pro Basketball Player & Sports Team Owner",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Former Pro Basketball Player & Sports Ownership Group Partner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时先打拼几年拼命存钱，之后把时间投入到你真正热爱的、属于自己的事业中，不要只做雇员。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "it's really about people you're connected to treat learning how to communicate",
+          "summary_en": "Success comes down to the people you connect with and learning how to communicate well.",
+          "summary_zh": "重视人脉连接并练好沟通能力",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "build a great team of people trusting them",
+          "summary_en": "Assemble a great team and empower them with real trust.",
+          "summary_zh": "组建优秀团队并充分信任授权",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "having a good business plan and going for it",
+          "summary_en": "Put together a solid business plan and execute boldly.",
+          "summary_zh": "制定好商业计划后果断出手行动",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I look for somebody who's had some failure you learn more about the character of a person once they've fallen on their face and gotten back up",
+          "summary_en": "Value people who have failed and bounced back, as adversity reveals true business character.",
+          "summary_zh": "看重跌倒后能重新站起来的韧性",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "29岁购入第一家广播电台，逐步扩张为拥有约350家广播电台的Capstar Broadcasting，出售公司获利约5000万美元。",
+      "guest_name": "Capstar Broadcasting Founder",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Public Speaking & Communication",
+        "Leadership & People Management",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder, Capstar Broadcasting (350 Radio Stations)",
+      "wealth_detail": "~$50M in a single year from selling Capstar Broadcasting",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "注重人脉与沟通，组建好团队并充分信任他们，制定扎实商业计划并果断执行；选合作者要看其经历失败后能否重新站起。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Do Thorough Market & Location Research",
+          "category": "Business & Strategy",
+          "quote": "do your homework you know I see businesses open in Austin all the time and I'm kind of wondering did anybody study the demographics of that location",
+          "summary_en": "Do thorough due diligence on local demographics, foot traffic, and business fit before opening.",
+          "summary_zh": "开业前做好人口与选址调研功课",
+          "timestamp_sec": 284,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "自八年级立志成为出庭律师并成功执业，同时曾参股休斯顿三家酒吧。",
+      "guest_name": "Austin Trial Lawyer & Former Bar Investor",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Trial Lawyer & Former Bar Part-Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "创业前务必做好市场调研，充分研究目标地段的人口结构、人流量与产品形态是否匹配。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "learn a marketable skill and master it",
+          "summary_en": "Acquire a high-demand, marketable skill and achieve mastery in it.",
+          "summary_zh": "掌握一项有市场需求的技能并精通",
+          "timestamp_sec": 346,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "you have to have a long-term investment Horizon so you have to be willing to put some money away that you won't need for maybe 10 years",
+          "summary_en": "Adopt a 10-year-plus investment horizon and only invest capital you will not need soon.",
+          "summary_zh": "坚持十年以上的长期投资视角",
+          "timestamp_sec": 356,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创立并担任两家科技公司CEO（MRI Systems被Intel收购，MyVest被TIAA收购），单年最高收入达七位数。",
+      "guest_name": "MRI Systems & MyVest Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder & CEO (MRI Systems & MyVest)",
+      "wealth_detail": "Seven-digit single-year income ($1M-$9.9M/yr); two tech exits (Intel, TIAA)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先学精一项有市场价值的硬技能；投资要拉长到十年以上周期，投入长期不急用的闲钱。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "investing in real estate long term was a good decision",
+          "summary_en": "Invest in real estate and hold for the long term.",
+          "summary_zh": "长期投资房地产资产",
+          "timestamp_sec": 382,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Choose a Successful Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "marry a successful lawyer that's that's a really good advice okay if you can do that you're more than halfway there",
+          "summary_en": "Marrying a successful partner dramatically accelerates your financial trajectory.",
+          "summary_zh": "选择事业成功的伴侣能事半功倍",
+          "timestamp_sec": 382,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事软件工程10年、全职爸爸5至10年，现为德州大学（UT）教授，靠长期投资房产及与律师配偶共同积累财富。",
+      "guest_name": "UT Professor & Former Software Engineer",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "University of Texas Professor (Former Software Engineer)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "长期投资房地产，并找一位同样优秀且事业有成的伴侣。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "persistence and just keeping going and being relentless... power through because sometimes it's just really hard",
+          "summary_en": "Stay relentlessly persistent and push through difficult stretches.",
+          "summary_zh": "保持坚韧毅力，艰难时也要咬牙挺住",
+          "timestamp_sec": 406,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Reevaluate & Pivot When Needed",
+          "category": "Business & Strategy",
+          "quote": "if something isn't working you know reevaluate and be willing to change don't be stubborn about it",
+          "summary_en": "Reevaluate objectively and pivot quickly when an approach is not working instead of being stubborn.",
+          "summary_zh": "方法无效时及时复盘调整切勿固执",
+          "timestamp_sec": 406,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "投身销售行业并在竞争中脱颖而出。",
+      "guest_name": "Austin Sales Professional",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Sales Professional",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "靠持续不懈的毅力硬扛过困难期，同时在发现策略行不通时及时复盘并灵活改变。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "know your market and be able to make fast decisions and have conviction about them",
+          "summary_en": "Understand your market deeply, make fast decisions, and back them with conviction.",
+          "summary_zh": "吃透市场并果断决策、坚定执行",
+          "timestamp_sec": 427,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "there's just opportunity in all the different areas within real estate if you want to cut lawn you could be successful there if you want to buy and sell properties buy land",
+          "summary_en": "Real estate offers opportunities across every niche, from land and property flipping to service businesses.",
+          "summary_zh": "房地产各细分领域都蕴藏大量机会",
+          "timestamp_sec": 436,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "keeping a good name and good reputation and you know treat your investors properly",
+          "summary_en": "Protect your good name and reputation, and always treat your investors fairly.",
+          "summary_zh": "维护好声誉并善待每一位投资人",
+          "timestamp_sec": 446,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "without that savings I would have never been able to have that choice... without Financial stability you lose optionality",
+          "summary_en": "Save aggressively instead of overspending on dining and vacations; financial stability gives you optionality.",
+          "summary_zh": "克制消费多存钱，财务稳定才拥有选择权",
+          "timestamp_sec": 484,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "年轻时靠积蓄获得创业底气，与合伙人创办经纪业务起步，随后在奥斯汀成功创立房地产开发公司。",
+      "guest_name": "Austin Real Estate Developer & Former Broker",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder, Real Estate Development Company (Austin, TX)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时尽量存钱建立财务稳定性，有了储蓄才敢独立创业；深入了解市场并果断执行，同时守住好名声并善待投资人。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "O_pe_5L769E",
+  "video_type": "street_multi"
+}

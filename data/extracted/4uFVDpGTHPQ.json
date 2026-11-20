@@ -1,0 +1,296 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Word is everything. I won't deal with somebody the minute that they have broken their word and have done nothing to compensate.",
+          "summary_en": "Your word is everything in business; refuse to work with anyone who breaks their word without making it right.",
+          "summary_zh": "做生意信用至上，失信之人绝不合作",
+          "timestamp_sec": 222,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You can't regret anything in life. Everything is a lesson. It makes you a better person the following year.",
+          "summary_en": "Do not regret setbacks; treat every mistake and hardship as a lesson that makes you stronger next year.",
+          "summary_zh": "把挫折和弯路当成成长的必修课",
+          "timestamp_sec": 305,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "You can't hack tax, mate. You try to hack tax, you're going to jail. There's expenses. A lot of people don't realize what their day-to-day life is an expense.",
+          "summary_en": "Avoid illegal tax schemes; understand legitimate business expenses and pay your taxes legally.",
+          "summary_zh": "依法纳税别投机，善用合法商业费用抵扣",
+          "timestamp_sec": 324,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You're born with the same hands, feet, legs, eyes as everybody else. So, why are you choosing to be broke? Just get a job.",
+          "summary_en": "Stop accepting being broke as inevitable; use your physical and mental abilities to work and create wealth.",
+          "summary_zh": "拒绝甘于平庸，利用自身条件主动创造财富",
+          "timestamp_sec": 350,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Broke is if you overspent your money or you up somewhere in life.",
+          "summary_en": "Avoid overspending what you earn; reckless spending is what keeps people broke.",
+          "summary_zh": "量入为出，避免过度消费导致财务崩盘",
+          "timestamp_sec": 355,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通家庭，从小观察他人买卖汽车与名表入行，十年前成为大型名表经销商；疫情期间每周卖出两三块七八十万美元的名表，单年赚取约2500万美元，现专注顶级超跑生意。",
+      "guest_name": "Mayfair Luxury Jeweler & Hypercar Dealer",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Luxury Jeweler & Hypercar Dealer (Former Watch Dealer)",
+      "wealth_detail": "Made ~$25M in a single year during COVID; drives a £4.5M hypercar",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "贫困很多时候是一种选择，人天生都有手有脚，哪怕先找份工作或从小买卖做起，也不要把穷当成借口，同时要避免盲目超前消费。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "My advice to any aspiring entrepreneur would be, first of all, copy a business model... copy and then improve slightly. Don't reinvent the wheel.",
+          "summary_en": "Don't reinvent the wheel; look at proven models in unsexy industries like home services, copy one yourself, and improve it slightly.",
+          "summary_zh": "深耕刚需传统行业，复制并微调成熟商业模式",
+          "timestamp_sec": 477,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "We need to be hedgehogs moving in a methodical direction... we keep going with a very simple, clear model without distractions. A not to-do list is more important than a to-do list.",
+          "summary_en": "Be a disciplined hedgehog with a clear model and a 'not-to-do list' so shiny-object distractions don't derail you.",
+          "summary_zh": "做刺猬型创业者，列“不做清单”并屏蔽诱惑",
+          "timestamp_sec": 515,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Thirdly, get a coach and a mentor. Really important to learn from others.",
+          "summary_en": "Get a coach and a mentor; learning directly from others accelerates business growth.",
+          "summary_zh": "寻找教练与导师，向过来人借力学习",
+          "timestamp_sec": 562,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Hire somebody that's better than you to run the day-to-day business... hire other people to do those other things that we don't like doing so you can focus on the vision and the growth.",
+          "summary_en": "Hire your replacement—people better than you—and local leaders to run operations so you can focus on vision and growth.",
+          "summary_zh": "雇比你更强的人接手日常运营并授权本土人才",
+          "timestamp_sec": 575,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Continuous Evolution & Omni-Channel Distribution",
+          "category": "Business & Strategy",
+          "quote": "You don't just want to be online, you need to have stores or pop-up stands... keep evolving your business. We know lots of businesses that didn't keep evolving. Blockbuster, Nokia, Yellow Pages, they're dead.",
+          "summary_en": "Combine online and physical channels, and continuously evolve your business after launch so you don't become obsolete.",
+          "summary_zh": "布局全渠道并持续迭代进化，避免被时代淘汰",
+          "timestamp_sec": 566,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I paid nearly 100 million pounds in tax when I sold HomeServe, but it was worth it because I made a lot of money and I do believe in giving back and paying taxes.",
+          "summary_en": "Believe in giving back and paying fair taxes to support the country that enabled you to build and scale globally.",
+          "summary_zh": "怀抱回馈社会之心，合规纳税支持创业环境",
+          "timestamp_sec": 665,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Go and work for a big company in an industry that you like and get experience for two or three years. Then go and work for a smaller entrepreneurial company in that same role.",
+          "summary_en": "Master a core skill by working 2-3 years at a large company and 2-3 years at a smaller entrepreneurial firm before going out on your own.",
+          "summary_zh": "先在大厂和创业公司打工攒经验，再独立掌舵",
+          "timestamp_sec": 695,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Say I'll buy your business, but I'll pay you over three or four years out of the future profits. So, you can buy a business, it's lower risk than setting up from scratch, and you can use their money to acquire it, which is called vendor finance.",
+          "summary_en": "Use vendor finance to buy an existing business from a retiring owner out of its future profits rather than risking capital from scratch.",
+          "summary_zh": "善用卖方融资，用目标公司未来利润收购成熟生意",
+          "timestamp_sec": 716,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "父亲是公务员，曾祖父母在1929年大萧条破产。童年受实业家启发决心创业，最终深耕家居管道维修领域创办HomeServe，并于2023年以41亿英镑（约50亿美元）出售。",
+      "guest_name": "Richard Harpin",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Good to Great by Jim Collins",
+        "How to Make a Billion in Nine Steps by Richard Harpin",
+        "Lord Hanson"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder of HomeServe & Author",
+      "wealth_detail": "Sold HomeServe in 2023 for £4.1 billion (~$5B); paid nearly £100M in taxes",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "先找准自己喜欢且擅长的职能（销售、财务或运营），去行业大公司和小型创业公司各历练两三年，积累五六年经验后，用卖方融资的方式收购退休老板的企业，风险远低于白手起家。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "When oil prices and everything start to growing up and mobile phones became very popular, we just catch the wave.",
+          "summary_en": "Identify major economic transitions and booming consumer trends early, then ride the wave.",
+          "summary_zh": "敏锐捕捉时代浪潮，进入需求爆发的大市场",
+          "timestamp_sec": 888,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Read the books. Not enough. That's why I left the Forbes list.",
+          "summary_en": "Keep reading and learning voraciously; failing to read enough is how you lose your edge.",
+          "summary_zh": "坚持大量阅读，停止学习容易失去领先地位",
+          "timestamp_sec": 950,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to be in the right place. Look at the cars around. First of all, location when already rich people here.",
+          "summary_en": "Put yourself and your business in affluent locations where wealthy customers and opportunities already congregate.",
+          "summary_zh": "把生意放在富人聚集地，靠近高净值人群",
+          "timestamp_sec": 988,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Second one, assortment. It have to be popular and great.",
+          "summary_en": "Curate a great, popular product assortment that strongly appeals to your market.",
+          "summary_zh": "打磨热门且优质的产品组合，满足市场需求",
+          "timestamp_sec": 999,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "And very important to motivate your team to work.",
+          "summary_en": "Actively motivate your team to execute and perform at a high level.",
+          "summary_zh": "充分激励团队高效工作，激发组织战斗力",
+          "timestamp_sec": 1001,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身社会保障房，17岁时正值苏联解体，抓住大众不懂贸易的巨大市场空白，22岁创业投身手机零售浪潮，26岁成为百万富翁，2008年公司年营收达50亿美元并登上30岁以下福布斯青年榜。",
+      "guest_name": "Russian Mobile Phone Retail Founder & Mayfair Restaurant Owner",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Atlas Shrugged by Ayn Rand"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Former Mobile Phone Retail Founder & Mayfair Restaurant Owner",
+      "wealth_detail": "Became a millionaire at 26; company reached $5B revenue in 2008; former Young Forbes list member (explicitly states he is not a billionaire)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "多读书保持认知领先；选对富人聚集的黄金地段，提供受欢迎的优质产品组合，并激励团队努力工作。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Cost management is key to everything. It's not about how much you sell it for, it's about how much you're willing to buy the product and your underlying cost. If you can manage your cost, you can manage to sell it in any condition.",
+          "summary_en": "Control your buying and underlying costs rigorously; low cost structure lets you sell profitably in any market condition.",
+          "summary_zh": "成本控制是盈利核心，低采购成本才能穿越周期",
+          "timestamp_sec": 1086,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Working with family is extremely difficult, for sure... when he was getting tough on me, it wasn't coming from a place that's personal, but rather because there's an ambition for a greater purpose here, which was the company.",
+          "summary_en": "Working with family is very tough; separate personal feelings from business discipline and stay aligned on the company's greater purpose.",
+          "summary_zh": "与家人合伙极具挑战，必须公私分明以事业为重",
+          "timestamp_sec": 1118,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "We didn't have to pay the taxes. Of course, there are other ways where you have to pay back to your community, but I think that's personal choice of ours that we do.",
+          "summary_en": "Take advantage of pro-business tax jurisdictions like the UAE while choosing personally to give back to your community.",
+          "summary_zh": "善用低税友好营商环境，同时自觉回馈所在社区",
+          "timestamp_sec": 1164,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在阿联酋家族企业起步，与父亲共同全资拥有离岸能源与海事服务公司，后来以约18亿美元出售第一代公司，并创办第二代公司与原公司协同合作。",
+      "guest_name": "UAE Offshore Energy & Marine Services Co-Owner",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Co-Owner of Offshore Energy & Marine Services Business",
+      "wealth_detail": "Sold 100% family-owned offshore energy & marine services business (with father) for ~$1.8B",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "4uFVDpGTHPQ",
+  "video_type": "street_multi"
+}

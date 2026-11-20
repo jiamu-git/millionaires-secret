@@ -1,0 +1,290 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I gambled on the wrong staff and they burnt me and picked myself back up and there's nobody you can reinvest into besides yourself",
+          "summary_en": "Pick yourself back up after hiring setbacks and reinvest in yourself.",
+          "summary_zh": "用人失误跌入低谷后，重新振作并投资自己",
+          "timestamp_sec": 147,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Communication",
+          "category": "Actionable Skills & Habits",
+          "quote": "I just talk to everybody on a regular basis communication communication for sure",
+          "summary_en": "Make regular communication with everyone your business superpower.",
+          "summary_zh": "把沟通当作核心超能力，每天坚持与所有人交流",
+          "timestamp_sec": 158,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "everybody in the neighborhood didn't have a job they owned something... when I became a doctor I'm going to own my practice",
+          "summary_en": "Focus on owning a business or practice rather than working a regular job.",
+          "summary_zh": "不要只打工，要拥有自己的事业和股权",
+          "timestamp_sec": 197,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I'm the only owner no other banks no other personal or private Equity nothing it's just me",
+          "summary_en": "Retain 100% ownership without outside debt or investors and keep profits inside the business.",
+          "summary_zh": "保持独资不举债，把利润留存公司内部",
+          "timestamp_sec": 207,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I never saw my kids go wake up I never saw them go to bed... I sacrificed a lot of my children's youth",
+          "summary_en": "Working six days a week meant sacrificing time with his kids during their youth.",
+          "summary_zh": "过度工作牺牲陪伴孩子成长的时光",
+          "timestamp_sec": 230,
+          "type": "regret"
+        }
+      ],
+      "first_money_or_break": "出身普通，受父亲“邻居们都不打工而是拥有资产”的启发；成为医生后零外债独资创办并扩展创伤医疗与软件公司，29岁成为百万富翁。",
+      "guest_name": "Scottsdale Healthcare & Software Founder",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Public Speaking & Communication",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & CEO (Retired Doctor), Healthcare & Software Companies",
+      "wealth_detail": "$500M-$700M net worth; $100M/yr revenue (company worth ~$1B)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to dial in capturing the demand so marketing and sales is huge... you don't have a business",
+          "summary_en": "Dial in marketing and sales to capture and convert customer demand.",
+          "summary_zh": "用好营销与销售，精准捕获并转化需求",
+          "timestamp_sec": 353,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "fulfilling the service so that the client experience doesn't break... requires somebody who has a lot of operational experience to come in and build systems and process",
+          "summary_en": "Bring in experienced operators to build systems and processes so service fulfillment scales smoothly.",
+          "summary_zh": "引入运营老手搭建系统，守住客户体验",
+          "timestamp_sec": 364,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Invest in Yourself",
+          "category": "Actionable Skills & Habits",
+          "quote": "take the money that you're making and continuously reinvest in yourself... I value myself over money which is why I'm so rich",
+          "summary_en": "Continuously reinvest your earnings in yourself and value yourself above money.",
+          "summary_zh": "把钱持续投资自己，个人价值高于金钱",
+          "timestamp_sec": 387,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "not give a [ __ ] what anybody thinks about you you have to believe in yourself... I wasn't Unapologetic about who I was",
+          "summary_en": "Ignore what others think, be unapologetically yourself, and build relentless self-belief.",
+          "summary_zh": "别在意他人看法，毫不妥协地相信自己",
+          "timestamp_sec": 433,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾年收入仅1.9万美元，40岁才成为百万富翁；过去三年创立线上健身与营养公司，今年年经常性收入（ARR）突破2000万美元。",
+      "guest_name": "Scottsdale Online Fitness & Nutrition Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Online Fitness & Nutrition Company",
+      "wealth_detail": "$20M+ ARR (multiple 8-figure entrepreneur)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "别在乎别人怎么看你，毫不妥协地做自己，拥有坚定不移的自信，而且成功永远不嫌晚。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Execution & Implementation",
+          "category": "Business & Strategy",
+          "quote": "there's a lot of great products and a lot of good plans but you got to implement it right",
+          "summary_en": "Execution matters more than product or distribution alone—implement your plan properly.",
+          "summary_zh": "产品与计划之外，关键在于如何落地执行",
+          "timestamp_sec": 553,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "get the right people on the bus and it starts with the right people and then it's about the business plan financing it and good partners",
+          "summary_en": "Start by getting the right people on the bus, backed by a solid plan, financing, and good partners.",
+          "summary_zh": "选对核心团队与合伙人，再谈计划与融资",
+          "timestamp_sec": 563,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "a hunter is somebody who goes to look for new companies... a farmer is somebody who gets more business out of the existing customers... it's a combination of both",
+          "summary_en": "Balance 'hunter' salespeople who win new accounts with 'farmer' reps who expand existing clients.",
+          "summary_zh": "销售需兼顾开拓新客与深耕老客户两类人才",
+          "timestamp_sec": 608,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Earn Results Instead of Entitlement",
+          "category": "Mindset & Resilience",
+          "quote": "in the old days it's always I earn today it's I deserve not I earn so entitlement it's a big problem",
+          "summary_en": "Reject an entitlement mindset and focus on earning your success through merit.",
+          "summary_zh": "摒弃理所应当的心态，靠实力挣取回报",
+          "timestamp_sec": 643,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "非富裕家庭出身，高中与大学期间在父亲的小企业打工；80年代初与父亲共同创办小型工业电子产品分销公司，逐步做到巅峰年营收2.5亿美元。",
+      "guest_name": "Scottsdale Electronics & Logistics Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Good to Great by Jim Collins (\"get the right people on the bus\")"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Owner, Electronics Distributorship & Logistics",
+      "wealth_detail": "$250M/yr peak company revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "having an 18-month cash flow model... Revenue is awesome but you got to have cash flow to keep the doors open",
+          "summary_en": "Maintain an 18-month cash flow model because cash flow—not just revenue—keeps a business alive.",
+          "summary_zh": "建好18个月现金流模型，现金流决定生死",
+          "timestamp_sec": 730,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Focus... no life balance, no family, no kids, no girlfriends, just business",
+          "summary_en": "Scale through intense, singular focus and discipline without distractions.",
+          "summary_zh": "保持极致专注与自律，排除一切生活分心",
+          "timestamp_sec": 759,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Protect Capital & Use Contracts",
+          "category": "Wealth & Investing",
+          "quote": "don't lose it... make good deals... nothing is real until you have a contract always have a contract",
+          "summary_en": "Protect your capital by making good deals and never treating anything as real without a written contract.",
+          "summary_zh": "守住本金做对交易，凡事必须签书面合同",
+          "timestamp_sec": 772,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "always make sure that you're keeping your hands above table you do everything transparently you don't do anything illegal immoral or unethical",
+          "summary_en": "Conduct business transparently and never do anything illegal, immoral, or unethical.",
+          "summary_zh": "经商保持透明与道德底线，绝不违法越界",
+          "timestamp_sec": 782,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "don't talk past the sale once you've got the sale done don't keep talking keep your mouth shut",
+          "summary_en": "Stop talking once you have closed the deal—never talk past the sale.",
+          "summary_zh": "谈判成交后立刻闭嘴，切忌画蛇添足",
+          "timestamp_sec": 791,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Know Your Strengths & Lead",
+          "category": "Business & Strategy",
+          "quote": "I'm not the sales guy that's my secret is I know my strengths and I know my weaknesses... leadership",
+          "summary_en": "Know your strengths and weaknesses and lead by applying disciplined team leadership.",
+          "summary_zh": "认清自身优劣势，以领导力统领全局",
+          "timestamp_sec": 800,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "daily gratitude yeah I've got mantras in the morning that I go through meditation just staying positive man",
+          "summary_en": "Use daily gratitude, morning mantras, meditation, and positivity to overcome adversity.",
+          "summary_zh": "每日感恩冥想并保持积极心态，度过低谷",
+          "timestamp_sec": 820,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "stay in the fight stay in the fight stay in the fight man",
+          "summary_en": "Stay in the fight and never quit when facing adversity.",
+          "summary_zh": "无论遭遇何种逆境都要坚持战斗绝不退缩",
+          "timestamp_sec": 850,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在陆军特种部队（绿扁帽）服役22年，退役前一直手头拮据；退役后转行买卖企业，曾在非洲运营航空、在南美做建筑工程，后涉足风投、私募与投行，单年最高营收1100万美元。",
+      "guest_name": "Jeff",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Investor & Former Army Green Beret (PE, VC & Investment Banking)",
+      "wealth_detail": "$11M/yr peak revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "坚持战斗、永不退缩（Stay in the fight）。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "O5R1z_gPCSo",
+  "video_type": "street_multi"
+}

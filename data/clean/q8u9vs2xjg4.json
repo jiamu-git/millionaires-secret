@@ -1,0 +1,580 @@
+{
+  "id": "q8u9vs2xjg4",
+  "url": "https://www.youtube.com/watch?v=q8u9vs2xjg4",
+  "title": "Meet the Billionaire Who Created LinkedIn (Then Sold It for $26B)",
+  "upload_date": "20250507",
+  "duration": 972,
+  "view_count": 945691,
+  "like_count": 20837,
+  "comment_count": 1200,
+  "chapters": [
+    {
+      "start": 0,
+      "end": 96,
+      "title": "Meeting Reed Hoffman"
+    },
+    {
+      "start": 96,
+      "end": 132,
+      "title": "Early days of LinkedIn"
+    },
+    {
+      "start": 132,
+      "end": 207,
+      "title": "Overcoming doubt and failure"
+    },
+    {
+      "start": 207,
+      "end": 266,
+      "title": "Entrepreneurial journey"
+    },
+    {
+      "start": 266,
+      "end": 308,
+      "title": "The Microsoft acquisition"
+    },
+    {
+      "start": 308,
+      "end": 415,
+      "title": "Community announcement"
+    },
+    {
+      "start": 415,
+      "end": 489,
+      "title": "Effective networking strategies"
+    },
+    {
+      "start": 489,
+      "end": 535,
+      "title": "The PayPal mafia connection"
+    },
+    {
+      "start": 535,
+      "end": 571,
+      "title": "Negotiation and decision making"
+    },
+    {
+      "start": 571,
+      "end": 654,
+      "title": "Overcoming early setbacks"
+    },
+    {
+      "start": 654,
+      "end": 715,
+      "title": "Raising capital and investing"
+    },
+    {
+      "start": 715,
+      "end": 771,
+      "title": "Future tech and risks"
+    },
+    {
+      "start": 771,
+      "end": 822,
+      "title": "Blitzscaling and hiring"
+    },
+    {
+      "start": 822,
+      "end": 850,
+      "title": "Pivoting to enterprise"
+    },
+    {
+      "start": 850,
+      "end": 972,
+      "title": "Long term vision and advice"
+    }
+  ],
+  "transcript_chunks": [
+    {
+      "start": 0,
+      "ts": "00:00",
+      "text": "It's great to meet you. Great to meet you as well. Who am I here with today? Reed Hoffman. And what was your business? I'm the co-founder of LinkedIn. You co-ounded LinkedIn? Yes. What was the most amount of money you made in a single year? Uh"
+    },
+    {
+      "start": 11,
+      "ts": "00:11",
+      "text": "when I sold LinkedIn to Microsoft and we sold it for $26 billion. You sold LinkedIn for $26 billion? Yes. They think it's one of the best acquisitions they've ever done. And was it worth it for them? It was worth it for them and"
+    },
+    {
+      "start": 20,
+      "ts": "00:20",
+      "text": "it was worth it for me. Now, you started LinkedIn in 2003. Yes. Did you have a lot of people that doubted you when you first started that business? Oh, yeah. No. More than twothirds of my smart friends thought I was going to be a"
+    },
+    {
+      "start": 29,
+      "ts": "00:29",
+      "text": "complete failure with LinkedIn. Actually, yes. Why did you not listen to them? Well, you do. You want to go to people and you want to say, \"What's wrong with my idea? Why would they fail?\" And then, \"What do I know that they don't know?\" Because a VC looks at"
+    },
+    {
+      "start": 40,
+      "ts": "00:40",
+      "text": "600 to 800 deals a year and says yes to zero to two of them. So, why would they take a bet on you? When I met with the Airbnb co-founders, I told them in 2 minutes I was going to make them an offer to invest. So, if you had to start"
+    },
+    {
+      "start": 50,
+      "ts": "00:50",
+      "text": "from zero and you had one year to make a billion dollars and your life dependent on it, what would you do? Huh? Guys, this is about to be one of the craziest videos that I've ever done. I'm about to go meet up with and interview"
+    },
+    {
+      "start": 62,
+      "ts": "01:02",
+      "text": "my 18th billionaire that I've ever interviewed. And it isn't just any ordinary billionaire. It's Reed Hoffman, the founder of LinkedIn. And he sold his company LinkedIn to Microsoft for $26 billion. 26 billion with a B. And Reed"
+    },
+    {
+      "start": 75,
+      "ts": "01:15",
+      "text": "invited us out to Los Angeles to come interview him to figure out what it takes to become a billionaire in today's world and how he became one of the most influential tech moguls of all time. So, let's waste no more time. Let's go meet"
+    },
+    {
+      "start": 86,
+      "ts": "01:26",
+      "text": "up with Reed and go see what he has to say. [Music] All right, you guys. We just got to our destination where we're going to be linking up with Reed Hoffman and getting a billion dollars worth of game for you guys. Come on, let's go. I am. It's"
+    },
+    {
+      "start": 104,
+      "ts": "01:44",
+      "text": "great to meet you. Great to meet you as well. Thank you for having us out to do the interview, man. Pleasure. Appreciate that. Who am I here with today? Reed Hoffman. And what was your business? I'm the co-founder of LinkedIn. You"
+    },
+    {
+      "start": 113,
+      "ts": "01:53",
+      "text": "co-ounded LinkedIn? Yes. In what year? 2003. But AI startups now. So you're getting into AI right now. Yeah. Well, I've been in AI since I led the first round in open AI. So I've been in AI a bit. So let's go back to those early"
+    },
+    {
+      "start": 124,
+      "ts": "02:04",
+      "text": "days when you're building LinkedIn. What was that initial moment that you knew that this was the thing that you were going to go all in on? What was that first moment building LinkedIn when you knew that, okay, I'm burning the boats."
+    },
+    {
+      "start": 132,
+      "ts": "02:12",
+      "text": "We're going all in on this thing right here. Well, actually, uh, because I'd learned from social, PayPal, etc., you burn the boats early. You don't like get confidence and then burn the boats. You go. Why do you say that? The kind of key"
+    },
+    {
+      "start": 143,
+      "ts": "02:23",
+      "text": "element of risk is take a risk that other people won't take that might fail, but if you win, you win huge. You weren't afraid of failure though. No, but everyone's a little afraid of failure, but it like I knew that I could"
+    },
+    {
+      "start": 154,
+      "ts": "02:34",
+      "text": "survive failure, that I could play again. That's the key thing is make sure that you can play again. So, how did you find yourself believed to go make billions of dollars? I think it was that I had a good sense of I knew what"
+    },
+    {
+      "start": 163,
+      "ts": "02:43",
+      "text": "strategic game I was playing and I knew I could play multiple times and I knew that doing software things within Silicon Valley was a very good place to be doing it. If I was in New York, I might have been doing something else,"
+    },
+    {
+      "start": 172,
+      "ts": "02:52",
+      "text": "finance, etc. If I was in LA, I might have been doing media, but like no, no, this is the place where you can do software. You started LinkedIn in 2003. Yes. Was that during a time where a lot of people were doubting the fact that"
+    },
+    {
+      "start": 182,
+      "ts": "03:02",
+      "text": "those social networks would actually be prevalent years from then? Well, everybody in Silicon Valley thought the consumer internet was done. It was only like Amazon and Google and PayPal and so forth. And then actually, in fact, they"
+    },
+    {
+      "start": 192,
+      "ts": "03:12",
+      "text": "were thought it was enterprise software and clean tech. So, it's like, \"Oh, no. The internet's over. What the And by the way, what are you doing this business thing? Is that like Friendster but for business? What is that? So, you had a"
+    },
+    {
+      "start": 200,
+      "ts": "03:20",
+      "text": "lot of people that were telling you no. I'm sure. Oh, yeah. No. More than twothirds of my smart friends thought I was going to be a complete failure with LinkedIn. Actually, why did you not listen to them? Well, you do. You want"
+    },
+    {
+      "start": 209,
+      "ts": "03:29",
+      "text": "to go to people, you want to say, what's wrong with my idea? Why will it fail? So, they give you permission to do that. And then, what do I know that they don't know? Because if you have a good theory of that, that's the chance that you"
+    },
+    {
+      "start": 219,
+      "ts": "03:39",
+      "text": "might have something that's really amazing. So, what was it that you knew that they didn't know? The most common feedback was a network property. First person in, no value. We know each other now, no value. We already know each"
+    },
+    {
+      "start": 227,
+      "ts": "03:47",
+      "text": "other. So, no value, no value, no value. How does the thing ever grow? And I knew I could get it to grow even when people didn't actually in fact have any value in the system at the beginning. Did you come from a family of entrepreneurs? No,"
+    },
+    {
+      "start": 236,
+      "ts": "03:56",
+      "text": "actually I came from a family of civil servants. So like my grandfather was like wait why is he become an industrialist? This is terrible. So what was your turning point to entrepreneurship then? Like who was the most influential most inspirational"
+    },
+    {
+      "start": 247,
+      "ts": "04:07",
+      "text": "person on you that enabled you to build one of the most influential tech companies in the entire world? So what I decided I went to Stanford University majored in AI and what I decided was I wanted to create new products and I like"
+    },
+    {
+      "start": 257,
+      "ts": "04:17",
+      "text": "that led me into entrepreneurship. I initially went and worked at Apple Computer and Fujitsu and other things and I was like no no no I want to create a new product and that's the thing that led me on entrepreneurship. Throughout"
+    },
+    {
+      "start": 266,
+      "ts": "04:26",
+      "text": "your career what was the most amount of money that you made in a single year? One of the things that's amazing about having co-founded LinkedIn is last year it did $16 billion in revenue. LinkedIn did 16 billion last year. Yes. How much"
+    },
+    {
+      "start": 277,
+      "ts": "04:37",
+      "text": "did you sell LinkedIn for? We sold LinkedIn for $26 billion to who? To Microsoft. What was that conversation like? How did you exit LinkedIn for over $20 billion to Microsoft? That's incredible. Well, so uh what happened is"
+    },
+    {
+      "start": 287,
+      "ts": "04:47",
+      "text": "Sachin Nadell at Bill Gates came down the office and said, \"We're interested.\" I was like, \"Well, okay, let's talk about it.\" They think it's one of the best acquisitions they've ever done. Was it worth it for them? It was worth it"
+    },
+    {
+      "start": 296,
+      "ts": "04:56",
+      "text": "for them and it was worth it for me. What's your secret to networking with other billionaires like Bill Gates? Like, let's say somebody doesn't have a ton of credibility before you had all the credibility that you had. How did"
+    },
+    {
+      "start": 304,
+      "ts": "05:04",
+      "text": "you build those relationships with those A players that were able to take you places that money can't take you? Guys, this interview with Reed has been amazing so far, and we're about to get right back to it. But I've got a very"
+    },
+    {
+      "start": 312,
+      "ts": "05:12",
+      "text": "special announcement to make real quick. See, 99% of people will never get mentored from a multi-millionaire or a billionaire in their entire life. And you guys are always reaching out to me asking me how I'm able to connect with"
+    },
+    {
+      "start": 323,
+      "ts": "05:23",
+      "text": "and interview and build relationships with the most successful and the wealthiest people in the entire world. You can see every single month I give you guys direct access to four of the millionaires and billionaires that I"
+    },
+    {
+      "start": 333,
+      "ts": "05:33",
+      "text": "interview inside of my private entrepreneur community. But here's the thing. I'm turning 23 years old this week on May 10th. And for that reason, I'm going to give you guys direct access to not four but seven of the multi-millionaires and the billionaires"
+    },
+    {
+      "start": 345,
+      "ts": "05:45",
+      "text": "that I interview on this channel, including the CEO of a publicly traded company that sold his first business to Oracle for over nine figures. And I'm going to give you all that direct access to seven millionaires and billionaires"
+    },
+    {
+      "start": 357,
+      "ts": "05:57",
+      "text": "on live calls for just $23. I've never done anything like this before, but since it's my birthday, I want to give back to you all. This is your chance to speak directly to the millionaires and billionaires that I interview and get"
+    },
+    {
+      "start": 367,
+      "ts": "06:07",
+      "text": "personalized advice and one-on-one mentorship from them. Whether you're stuck in a 9 to5 and you want to learn the exact steps that it takes to leave that job and start building and creating the business of your dreams, or maybe"
+    },
+    {
+      "start": 377,
+      "ts": "06:17",
+      "text": "you've already taken that leap, that risk and started that business, but you want to learn from the most successful business owners how to start scaling and making your first six, seven, or even eight figures at your business. Then"
+    },
+    {
+      "start": 387,
+      "ts": "06:27",
+      "text": "this is your opportunity to join and become a member of the number one community for business owners in the entire world. But here's the thing. You only have from now, you watching this right now until the end of my birthday"
+    },
+    {
+      "start": 397,
+      "ts": "06:37",
+      "text": "on May 10th at midnight to join and become a member for just $23. Because after that, at the end of my birthday, it goes back up to 50. So to join now and become a member of the School of Mentors, the number one community for"
+    },
+    {
+      "start": 409,
+      "ts": "06:49",
+      "text": "business owners in the entire world. Go down to the link in the description of this video to join. I can't wait to see you on the inside. With that being said, let's get back to the interview. You created the biggest social networking"
+    },
+    {
+      "start": 418,
+      "ts": "06:58",
+      "text": "platform in the world. What's your best networking advice for anybody in business? The key thing is think what you can give someone. So what's something that you could do that would help them? So for example, Sati Nadella"
+    },
+    {
+      "start": 427,
+      "ts": "07:07",
+      "text": "started calling me because I'm like oh here's what you need to understand about Silicon Valley. And he's like that's really helpful that helps me as Microsoft engage with Silicon Valley. And similar when talking to Bill I don't"
+    },
+    {
+      "start": 437,
+      "ts": "07:17",
+      "text": "say hey Bill you're just so great. He is great but it's like oh here's something that's going on in the modern world of tech. Like here's something about AI that I see that you may not have seen yet. So has Bill Gates become a friend"
+    },
+    {
+      "start": 447,
+      "ts": "07:27",
+      "text": "of yours? Yeah. Bill's great. What do you notice about these people among the most successful people that you've gotten to know really well? What do they all have in common that's enabled them to be part of that 0.001% of the top 1%? Well, there's"
+    },
+    {
+      "start": 458,
+      "ts": "07:38",
+      "text": "three different things I'm going to say. I'm going to give you three. So, one is curiosity. So, like intensely wanting to learn. That's like Satcha Bill. Another one is just raw grit and you know like I am going to make this work, right? This"
+    },
+    {
+      "start": 470,
+      "ts": "07:50",
+      "text": "is a whole stack of different people but like for example Patrick Collison or others. Then the last one is kind of understanding what do I understand about the world that other people don't understand. And that's a little bit like"
+    },
+    {
+      "start": 480,
+      "ts": "08:00",
+      "text": "for example frequently Peter Teal as the contrarian hypothesis. You think a lot of networking is The networking is That's kind of like hi I'm Reed. Here's my business card. The thing that's real is forming connections where actually in fact we"
+    },
+    {
+      "start": 491,
+      "ts": "08:11",
+      "text": "are really helping each other. What's the biggest mistake you see people make when they are trying to network with other successful people? They ask for something versus offer something. So it's like hey what can you do for me?"
+    },
+    {
+      "start": 500,
+      "ts": "08:20",
+      "text": "That happens all the time for people. It's like no no here's something that could be useful to you. And by the way, maybe you're wrong, maybe it's not useful, fine. But when it is, you get attention. You get the beginnings of a"
+    },
+    {
+      "start": 508,
+      "ts": "08:28",
+      "text": "relationship. You were talking about twothirds of the people that have told you no in your network. You were part of the PayPal mafia. Can you explain what that is to people that don't know? I always say PayPal network, but PayPal"
+    },
+    {
+      "start": 517,
+      "ts": "08:37",
+      "text": "Mafia is sexier, so people really go with it. And it's basically the crew of people who turned PayPal from an encryption system on mobile devices to a worldwide payments network. You were a huge role in PayPal getting acquired for"
+    },
+    {
+      "start": 528,
+      "ts": "08:48",
+      "text": "$ 1.5 billion from eBay. What's your best negotiation advice for any entrepreneur in business right now? You've been at the table with some very heavy hitters. Give me your best negotiation advice for anybody in business. So, the way to think about it"
+    },
+    {
+      "start": 539,
+      "ts": "08:59",
+      "text": "is companies are bought not sold. So, if you're selling, you have a problem. You want them to come in and buy you. So, the question is how do you get that to be their idea that they are coming to buy you? I hadn't heard that perspective"
+    },
+    {
+      "start": 549,
+      "ts": "09:09",
+      "text": "before that they're bought not sold. How did you get in that mindset shift? Well, because part of the thing is it's like the dynamic. If you show up just like you show up to a venture capitalist and you say, \"Hey, I'm trying to sell you on"
+    },
+    {
+      "start": 558,
+      "ts": "09:18",
+      "text": "this Then the person kind of rolls back and they're like, \"Okay, now this is me being powerful. You're trying to sell your company to me.\" Whereas it's like, \"Oh, well, I could be selling to somebody else and I've got this thing"
+    },
+    {
+      "start": 567,
+      "ts": "09:27",
+      "text": "that I'm doing.\" And it's like, \"No, no, I want that.\" You got to think of the psychology of the person. So, I want you to think back to throughout your career real quick. What is the best advice you ever got from a mentor? So, weirdly,"
+    },
+    {
+      "start": 576,
+      "ts": "09:36",
+      "text": "it's from my dad and it was when I was in high school. He said, \"The difficult thing about making decisions is that you reduce opportunity in the short term.\" Because when you make the decision, you've chosen door A, not door B, but"
+    },
+    {
+      "start": 585,
+      "ts": "09:45",
+      "text": "it's the only way you get opportunity in the long term. And what's the most difficult decision you made that paid off? Oh wow. Probably starting my first company, Social. And by the way, Social didn't pay off, but it got me into the"
+    },
+    {
+      "start": 596,
+      "ts": "09:56",
+      "text": "journey of doing it. How did you deal with that adversity? Cuz a lot of people, they see social media nowadays that it's all glitz and glamours and entrepreneurship. But you had some adversity. You had some failures at the"
+    },
+    {
+      "start": 604,
+      "ts": "10:04",
+      "text": "beginning. How did you overcome that? How did you learn how to pivot? Well, what you wanted to be doing is saying, \"I'm not just playing a one-time game. I'm playing a multi-time game. And I'm expecting that I'm going to fail along"
+    },
+    {
+      "start": 613,
+      "ts": "10:13",
+      "text": "the way some.\" Cuz it's not that you want to fail. It's not that you celebrate failing, but you celebrate learning in order to win. I'm going to have you dig deep on this one right here. I'm going to ask one more piece of"
+    },
+    {
+      "start": 622,
+      "ts": "10:22",
+      "text": "advice that you got from a mentor. Give me one from the dad. Give me one from somebody in that network that you had that really changed your life from a from a business standpoint. Well, when someone actually tells you something"
+    },
+    {
+      "start": 631,
+      "ts": "10:31",
+      "text": "that you really need to hear that wasn't something you originally planning. So, I was networking my way to VCs early and one of the lawyers that I actually talked to said, \"Hey, look, you're a friend of lawyers. Let me just tell you,"
+    },
+    {
+      "start": 641,
+      "ts": "10:41",
+      "text": "you're not going to be able to raise money right now. You need to go prove your credentials at launching products first. go do that first, then go go try to raise money. And that's what I went. I I actually went and ended up working"
+    },
+    {
+      "start": 650,
+      "ts": "10:50",
+      "text": "at Apple Computer Eworld and then built a network around me and that that helped me. Did you take out a lot of capital to scale? Well, in today's term, dimminimous, but it was $5 million in the first round. Nothing after that or"
+    },
+    {
+      "start": 660,
+      "ts": "11:00",
+      "text": "Oh, no. No. Ultimately, we raised about $140 million. What was your secret to raising capital? It's one of the hardest things for business owners to do because investors, they invest in people and they invest in businesses, not ideas,"
+    },
+    {
+      "start": 670,
+      "ts": "11:10",
+      "text": "right? So the best thing is think about what kinds of things investors look investors are looking for something that's going to be amazingly big and they're looking for things that they think is the current trend for what's"
+    },
+    {
+      "start": 680,
+      "ts": "11:20",
+      "text": "going. So like AI things are good to pitch. Although if you say hey it's an AI milkshake that won't work so well. So you're looking for that and then you're looking for why is it you're going to take a bet on me. So like a VC looks at"
+    },
+    {
+      "start": 689,
+      "ts": "11:29",
+      "text": "600 to 800 deals a year and says yes to zero to two of them. So why would they take a bet on you? And being edgy that way is really helpful. So what's the number one thing that you look for in a business or a person when you're"
+    },
+    {
+      "start": 700,
+      "ts": "11:40",
+      "text": "deciding to make an investment? As somebody who's been one of the most successful VCs in the game, it's being surprised about something that could be amazing. So like for example, when I met with the Airbnb co-founders, I told them"
+    },
+    {
+      "start": 708,
+      "ts": "11:48",
+      "text": "in 2 minutes I was going to make them an offer to invest because they had gone, we've seen something that no one else has seen, which is eBay but for space and here we go. What's your most contrarian opinion about the future of"
+    },
+    {
+      "start": 718,
+      "ts": "11:58",
+      "text": "industries that venture capital will be investing in that maybe a lot of people will disagree with you on? probably that the world of bits will be greatly accelerating the world of atoms. So part of the reason why I just co-founded a"
+    },
+    {
+      "start": 728,
+      "ts": "12:08",
+      "text": "company curing cancer with AI is because AI will accelerate how we discover new drugs. That acceleration will also be like for example robots. That acceleration will be manufacturing. Like we will figure out how to build much"
+    },
+    {
+      "start": 740,
+      "ts": "12:20",
+      "text": "better, cheaper, faster houses because of AI. What's the most common mistake you see business owners make in today's world? You became one of the most successful VCs in modern time. You've been on the board of a lot of successful"
+    },
+    {
+      "start": 750,
+      "ts": "12:30",
+      "text": "companies. What's a blind spot that a lot of maybe even successful founders have that you see across a lot of companies in today's world? It depends a little bit on which game you're playing, but within the tech startups, it's not"
+    },
+    {
+      "start": 760,
+      "ts": "12:40",
+      "text": "taking the bold enough risk. You're trying to make sure that you're successful versus, hey, I'm going to try this. And either it's going to be spectacular or I'm going to die. And that's okay if or I'm going to die. Now,"
+    },
+    {
+      "start": 770,
+      "ts": "12:50",
+      "text": "you wrote a book called Blitz Scaling. What is the most effective way to scale fast? So the important thing to do when you're scaling, blitz scaling, going really fast, get, you know, getting your company large, attacking a market, is to"
+    },
+    {
+      "start": 780,
+      "ts": "13:00",
+      "text": "say, how do I make decisions in a way that I do not take my foot off the accelerator? It's like when you're driving, you say, am I going to get off this thing or not? The time that I can make the decision is by going full speed"
+    },
+    {
+      "start": 790,
+      "ts": "13:10",
+      "text": "ahead. So you say, hey, should I go into this market? Should I launch this product? Should I hire this person? Well, what's the way that I do that? Not ever slowing down. Now, a lot of entrepreneurs, the reason why they struggle to scale is because they want"
+    },
+    {
+      "start": 800,
+      "ts": "13:20",
+      "text": "to be that soloreneur. They want to wear all the hats themselves. Who is the most important to hire in any business? So, one of the things that's most important to hire or partner with are the people who add their strengths against your"
+    },
+    {
+      "start": 811,
+      "ts": "13:31",
+      "text": "weaknesses. So, for example, I'm a creative problem solver. That's really good. I need people who run like all the trains on time, who are very operationally tight and buttoned down. And so, you're looking for the person"
+    },
+    {
+      "start": 821,
+      "ts": "13:41",
+      "text": "who is the right partner for you. How important is vertical integration to whatever business somebody's involved in? Well, it's important to know what game you're playing. And if the game is vertical integration, then to do it"
+    },
+    {
+      "start": 829,
+      "ts": "13:49",
+      "text": "well. One of the things I got wrong is I thought we would have individual subscriptions as the primary business initially and it was enterprise and you pivoted and the way we learned it is we said look when we launch individual"
+    },
+    {
+      "start": 838,
+      "ts": "13:58",
+      "text": "subscriptions we had companies coming to us saying we'd like to buy and we're like huh the companies are coming to us customers are coming to us all right make a slide deck complete image and send it out saying this is the product"
+    },
+    {
+      "start": 847,
+      "ts": "14:07",
+      "text": "we're building the sales guy came back with purchase orders and we're like okay we're building that product how old are you now I'm 57 how old were you when you became a billionaire probably 38 but I'd have to really go look at it so if you"
+    },
+    {
+      "start": 858,
+      "ts": "14:18",
+      "text": "had to start from zero you had one year to make a billion and your life dependent on it, what would you do? Do something that's very different than what other people would be doing. Now, there's a lot of AI stuff right now, but"
+    },
+    {
+      "start": 867,
+      "ts": "14:27",
+      "text": "what would be something that would be I mean I started a cancer drug discovery company, but that's not a year. That's like 5 10 years. So, do you think in decades then long term? Yes. I like I almost never play a one-year game. I"
+    },
+    {
+      "start": 877,
+      "ts": "14:37",
+      "text": "play a 10-year game. Why is that? Because part of the genwards contrion is most other people don't think about 10 years. They don't think about how you compound to 10 years. And compounding to 10 years is one of the things that gives"
+    },
+    {
+      "start": 887,
+      "ts": "14:47",
+      "text": "a differential edge. But even if you've already had an exit for over $20 billion, you still are still thinking that long term. Why is that? It like just goes because that's actually how you create something that's epic that"
+    },
+    {
+      "start": 896,
+      "ts": "14:56",
+      "text": "changes industries. And looking back to that exit, what was the number one thing that led to an exit over $20 billion? It was a realization that building a network and getting growth in the network and then monetization could come"
+    },
+    {
+      "start": 907,
+      "ts": "15:07",
+      "text": "later. So like frequently when people think of business, they think, well, I got to have someone pay me right now. I like no no actually like build the network and then the business will be built on top of it. So, was the grind to"
+    },
+    {
+      "start": 916,
+      "ts": "15:16",
+      "text": "become a billionaire worth it for you? Yes. But also not just the money, it's the changing the world through the product. One more message for the younger generation aspiring to become successful and a self-made billionaire"
+    },
+    {
+      "start": 925,
+      "ts": "15:25",
+      "text": "like you. Life is a team sport, not an individual sport. Pick your team. I love it. Reed, thank you so much, my friend. Really appreciate you. This is awesome. Guys, this interview with Reed Hoffman, the founder of LinkedIn, the"
+    },
+    {
+      "start": 935,
+      "ts": "15:35",
+      "text": "multi-billionaire, was incredible. But I need you guys to like and subscribe for amazing content we've got coming every single week. And like I said earlier, you guys, you can right now join the number one community for business owners"
+    },
+    {
+      "start": 946,
+      "ts": "15:46",
+      "text": "from now until the end of my birthday on May 10th at midnight for just $23 and get access to seven of the multi-millionaires and the billionaires that I interview on this channel for the month of May and literally get mentored"
+    },
+    {
+      "start": 958,
+      "ts": "15:58",
+      "text": "from them. You guys, there is nothing like this that exists anywhere else in the entire planet. Only at the school of hard knocks and inside the school of mentors. So, I can't wait to see you on the inside of the community. Go down to"
+    },
+    {
+      "start": 968,
+      "ts": "16:08",
+      "text": "the link in the description to join. With that being said, I'll see you in the next"
+    }
+  ],
+  "word_count": 4248
+}

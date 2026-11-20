@@ -1,0 +1,125 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Stay Purposeful After Wealth",
+          "category": "Mindset & Resilience",
+          "quote": "boredom is a thing that you always have to overcome no matter what... there's only so many beaches you can go and hang out on before you want to do something again",
+          "summary_en": "Even after retiring wealthy, you need meaningful work to overcome boredom and stay fulfilled.",
+          "summary_zh": "财富自由后仍需寻找有意义的事",
+          "timestamp_sec": 104,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Broaden Market Perspective via Travel",
+          "category": "Business & Strategy",
+          "quote": "it's essential if you want to understand the size of the world and you want to understand even markets",
+          "summary_en": "Travel internationally to understand how large the world is and spot global market opportunities.",
+          "summary_zh": "多出国旅行以开拓全球市场视野",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "if I do something real easy that I enjoy doing it kind of breaks the ice and then I kind of get on a roll",
+          "summary_en": "Use daily to-do lists and start with easy, enjoyable tasks to break procrastination and build momentum.",
+          "summary_zh": "列待办清单，先做易事打破拖延",
+          "timestamp_sec": 318,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "anybody who asked me like oh where should I start in the tech world if I wanted to have a guaranteed career I tell them cyber security",
+          "summary_en": "Enter cybersecurity and information security, a massive, permanent industry with guaranteed long-term demand.",
+          "summary_zh": "入局高增长的网络安全行业",
+          "timestamp_sec": 481,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "pick something you want to be spending a lot of time with... even the most successful companies usually take three to five years minimum",
+          "summary_en": "Execution is hard and takes 3 to 5+ years, so choose a venture you truly enjoy working on every day.",
+          "summary_zh": "选能坚持三到五年以上的热爱事业",
+          "timestamp_sec": 636,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Protect Health and Avoid Burnout",
+          "category": "Actionable Skills & Habits",
+          "quote": "it's not just your mental health it's your physical health... if I do that too many days in a row it also depletes my creativity",
+          "summary_en": "Protect your physical and mental health by breaking up long work stretches so you don't deplete your creativity.",
+          "summary_zh": "重视身心健康，适时休息恢复创造力",
+          "timestamp_sec": 667,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "start in a service industry and try to get some income coming in... or if you've got the skill set take the year off of work and write it yourself",
+          "summary_en": "With modest capital ($100k), start a cash-flowing service business or invest in yourself to build the product yourself.",
+          "summary_zh": "有限资金先做服务业或靠自己动手研发",
+          "timestamp_sec": 776,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Keep Savings for Economic Downturns",
+          "category": "Wealth & Investing",
+          "quote": "the key is to remind yourself that it's temporary and plan for that you know that's why savings accounts are good",
+          "summary_en": "Remember that recessions only last a couple of years; plan ahead and keep cash in savings accounts.",
+          "summary_zh": "牢记衰退只是暂时的，保持储蓄缓冲",
+          "timestamp_sec": 872,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "recessions are not always a bad thing you if you've got the capital and you can spend it and do it that's a great time to deploy it",
+          "summary_en": "Recessions are an ideal time to start a company or deploy capital because labor and costs are lower.",
+          "summary_zh": "趁经济衰退期低成本创业并逆势布局",
+          "timestamp_sec": 893,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "stick to what you know or learn something and learn really deep on it and I think so often people shotgun",
+          "summary_en": "Stick to what you know and go deep into one industry instead of chasing trends and scattering your focus.",
+          "summary_zh": "深耕熟悉领域，切忌盲目追风口分散精力",
+          "timestamp_sec": 904,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒，童年随父做屋顶工、刷盘子贴补家用；14岁左右自学编程并接外包，16岁高中辍学全职工作；早年深耕信息安全（曾培训FBI/CIA/IRS等机构），90年代末与朋友联合创办互联网公司并于1999年上市，后以10.3亿美元合并出售。",
+      "guest_name": "Glenn Boyd",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Tech Entrepreneur & Information Security Pioneer (New Startup Founder)",
+      "wealth_detail": "Sold co-founded .com company for $1.03B (described by host as multi-millionaire)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "科技新人建议切入高增长的网络安全/信息安全领域；若有10万美元启动资金，可先做服务业快速产生现金流，或凭技术能力全职投入一年自己打造产品；选择能热爱并深耕3-5年以上的赛道，专注熟悉领域，并在经济衰退期低成本布局或保持现金储备。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "BT6YGOROV6c",
+  "video_type": "deep_dive_single"
+}

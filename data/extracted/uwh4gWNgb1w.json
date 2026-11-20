@@ -1,0 +1,286 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Ignorance is expensive. So, learn to swim before you drown.",
+          "summary_en": "Ignorance is costly; keep studying and building discipline before crises hit.",
+          "summary_zh": "无知代价昂贵，尽早学习避免被淘汰",
+          "timestamp_sec": 218,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Don't ever try to make people understand you or get approval from anyone... The moment you stop making people think you're good, that moment your life take a leap.",
+          "summary_en": "Stop wasting energy seeking others' approval; your life leaps forward once you stop trying to please everyone.",
+          "summary_zh": "停止讨好他人，才能实现人生跃迁",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "The most important thing is the net cash that you can take out of the business as the net dividend after tax in your pocket. That's all that's count.",
+          "summary_en": "Focus on after-tax net cash dividends you can actually take out of the business, not vanity revenue or paper profit.",
+          "summary_zh": "看重税后净现金分红而非账面营收",
+          "timestamp_sec": 279,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you want to escape the cycle of poverty, be friend with at least one rich person because all the rich people want to teach you how they become rich.",
+          "summary_en": "To escape poverty, build a friendship with at least one wealthy mentor who can teach and help you.",
+          "summary_zh": "想摆脱贫困，至少结交一位富人导师",
+          "timestamp_sec": 302,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The poor will only bring you down.",
+          "summary_en": "Avoid staying surrounded by people with a scarcity mindset who pull you down.",
+          "summary_zh": "远离只知拖后腿的负面圈子",
+          "timestamp_sec": 313,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Leave Your Comfort Zone & Travel Globally",
+          "category": "Mindset & Resilience",
+          "quote": "Every time you cross the ocean, every time you leave your hometown is no longer comfortable. You become enlightened in business, enlightened in yourself.",
+          "summary_en": "Leave your hometown and travel internationally to force yourself out of comfort and gain business enlightenment.",
+          "summary_zh": "离开家乡与舒适圈去全球历练",
+          "timestamp_sec": 325,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Things happen for you, not to you... you take it with courage... and you look for the best thing that comes as a blessing in disguise.",
+          "summary_en": "View hardships as happening for your growth, face them with courage, and look for the blessing in disguise.",
+          "summary_zh": "逆境是为成就你，勇敢寻找其中转机",
+          "timestamp_sec": 357,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "家族成员去世后背负300万美元债务起步，凭借高学历自律与创业在28岁成为百万富翁，年轻时曾在6个月内赚取8000万美元，现全球拥有10多家公司。",
+      "guest_name": "Monaco-Based Multi-Company Female Billionaire",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Owner of 10+ Global Companies",
+      "wealth_detail": "Millionaire at 28; $80M in 6 months when young; Billionaire owning 10+ companies",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "无知代价高昂，在溺水前学会游泳；想摆脱贫困循环，至少交一个富人朋友向其学习；离开家乡与舒适圈去世界各地闯荡；不要浪费精力讨好别人。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "People hit rock bottom all the time. Most of them stay there, get comfortable, build a couch and a house down there. Don't do that. The best thing in life you can do is go down and spring right back up.",
+          "summary_en": "Never get comfortable at rock bottom; bounce right back up whenever life knocks you down.",
+          "summary_zh": "跌入谷底别躺平，要学会触底反弹",
+          "timestamp_sec": 440,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you can communicate what you want, you can persuade someone else to say yes to you, you win.",
+          "summary_en": "Master communication and pitching so you can persuade people to say yes to you.",
+          "summary_zh": "精通沟通与说服力，让他人为你买单",
+          "timestamp_sec": 457,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Don't ask for permission. Ask for forgiveness... sometimes the rules don't work for you.",
+          "summary_en": "Stop waiting for permission when existing gatekeepers or rules hold you back; take initiative and create your own path.",
+          "summary_zh": "别等他人批准，果断行动打破陈规",
+          "timestamp_sec": 474,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody doubted me. Nobody thought I was going to be successful... 2.5 million of something that they said wouldn't work.",
+          "summary_en": "Ignore doubters and critics who mock your ideas, and prove them wrong through execution.",
+          "summary_zh": "无视外界嘲笑与质疑，用实力证明",
+          "timestamp_sec": 514,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Live Right With No Regrets",
+          "category": "Mindset & Resilience",
+          "quote": "I don't know if you get to live more than once, but if you live right the first time, once is enough.",
+          "summary_en": "Live with purpose and integrity the first time around so one lifetime is enough.",
+          "summary_zh": "第一次就活对方向，一生足矣",
+          "timestamp_sec": 554,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身一贫如洗，早年做演员找不到经纪人还遭遇职场潜规则，于是虚构经纪人并自创经纪公司代表自己接戏3年；后打造健身产品，在电视购物创下日销百万美元、累计销售额超25亿美元的纪录。",
+      "guest_name": "Dr. Forbes Riley",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Fitness Product Creator & Home Shopping Entrepreneur",
+      "wealth_detail": "Sold over $2.5B worth of product; $1M/day in home shopping sales",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "人生跌入谷底时不要躺在谷底安逸度日，要触底反弹；学会沟通与推销，让人对你点头说“好”；不要等待他人许可，勇敢打破不适合你的规则。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Teams and energy, renewable energy... Part owner in the Cavs and I'm looking forward to being an owner in a Premier League team sometime.",
+          "summary_en": "Preserve athletic earnings for generational wealth by acquiring equity in sports teams and renewable energy.",
+          "summary_zh": "投资球队与能源股权，实现世代财富",
+          "timestamp_sec": 720,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "they told me I needed to be all in or all out. No, you can't do anything half then. If I wanted to be great, then I had to give everything to it.",
+          "summary_en": "Go all-in on one craft instead of splitting effort half-heartedly if you want to achieve greatness.",
+          "summary_zh": "要么全力以赴，要么彻底退出",
+          "timestamp_sec": 739,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Did you ever worry about what people thought about you? Never... you are who you are.",
+          "summary_en": "Never let critics or haters dictate your self-worth; stay focused on your own path.",
+          "summary_zh": "从不在意黑粉评价，专注做好自己",
+          "timestamp_sec": 759,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "All glory goes to God... I believe that's almost completely part of my process and my success.",
+          "summary_en": "Keep faith at the center of your process and remain grateful through success.",
+          "summary_zh": "将一切成就归功于信仰与感恩",
+          "timestamp_sec": 775,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身并不富裕，受祖母激励并秉持“要么全力以赴、要么彻底退出”的信念全力投入美式橄榄球，成为NFL克利夫兰布朗队顶级防守端锋并打破单赛季擒杀纪录，年收入超2000万美元。",
+      "guest_name": "Miles Garrett",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Parents and high school football head coach/AD"
+      ],
+      "recommended_skills": [],
+      "role_or_title": "NFL Defensive End (Cleveland Browns) & Cleveland Cavaliers Part Owner",
+      "wealth_detail": "$20M+/yr peak single-year earnings; part owner of Cleveland Cavaliers",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "做任何事都不能半途而废，要全情投入；用回报家人的信念与信仰作为动力，不在乎外界质疑。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Passion. Passion for sure. But I would also say many of my very successful friends are fanatical about detail. Fanatical attention to detail, right? just paying attention, knowing the little things that make a big move.",
+          "summary_en": "Combine genuine passion with fanatical attention to the small details that drive big outcomes.",
+          "summary_zh": "保持热爱并对细节有狂热的关注",
+          "timestamp_sec": 895,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "when you have 25 times your annual spend... So, it's more of a function of how you live and not a function of what you have.",
+          "summary_en": "Define wealth as having 25x your annual spending rather than chasing an arbitrary dollar number.",
+          "summary_zh": "拥有年支出25倍资产即实现财富自由",
+          "timestamp_sec": 909,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "we've been taught to talk about sex and not money. But the answer is money is much more important. Making sure your kids know how to be stewards of what they have.",
+          "summary_en": "Speak openly about money with your family and teach children how to be responsible stewards of wealth.",
+          "summary_zh": "从小对孩子坦诚谈钱，培养财富管理",
+          "timestamp_sec": 940,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "When you meet someone, if you start a conversation by displaying one of your faults, you're telling people you trust them.",
+          "summary_en": "Build immediate trust in relationships by opening up vulnerably and sharing your own faults or secrets.",
+          "summary_zh": "主动坦诚自身缺点以赢得他人信任",
+          "timestamp_sec": 961,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Lead With Empathy & Care for Others",
+          "category": "Mindset & Resilience",
+          "quote": "The key to success is empathy. Think about others. Think about your employees. Think about your family... They don't remember your name, but they remember how they felt.",
+          "summary_en": "Put empathy first every day for employees and family, because people remember how you made them feel.",
+          "summary_zh": "成功的关键是同理心，让他人感到被重视",
+          "timestamp_sec": 1005,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年曾担任克林顿竞选总统期间的专机飞行员长达一年半，后创办Flexjet开展私人飞机产权共享业务，现拥有约370架飞机和5000名员工，约七八年前成为亿万富翁。",
+      "guest_name": "Ken Ricky",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "President Bill Clinton"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder/CEO of Flexjet",
+      "wealth_detail": "Became a billionaire ~7-8 years ago; Flexjet operates ~370 planes with ~5,000 employees worldwide",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "财富自由不是一个固定数字，而是拥有年支出的25倍资产；对细节保持狂热关注与热爱；在家人和团队面前坦诚示弱以建立信任，并始终保持同理心。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "uwh4gWNgb1w",
+  "video_type": "street_multi"
+}

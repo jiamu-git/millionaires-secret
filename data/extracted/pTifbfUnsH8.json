@@ -1,0 +1,138 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "You should be the true real estate professional and not just limit yourself to one thing because if the market shifts... you're going to be limited in how much money you can make.",
+          "summary_en": "Master every facet of real estate rather than one niche so market shifts cannot cap your income.",
+          "summary_zh": "掌握地产全链条技能，实现多元变现并抵御波动",
+          "timestamp_sec": 62,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Today that thing's worth easy close to 400,000 and we've pulled like 150k out of it too and we still own it and cash flow on the rent every single month.",
+          "summary_en": "Buy undervalued real estate, pull equity out as it appreciates, and hold for monthly rental cash flow.",
+          "summary_zh": "买入并长期持有现金流房产，兼顾增值与月租",
+          "timestamp_sec": 222,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I was learning from Matt, I was doing some leg work and putting in action for us while he was... trying to find deals.",
+          "summary_en": "Partner with and learn from an experienced mentor by doing the legwork and putting ideas into action.",
+          "summary_zh": "跟随资深合伙人边干边学，用执行力积累经验",
+          "timestamp_sec": 260,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Find someone who has the same values that you do like morally... make sure that y'all trust each other, make sure that you have the same goals and the same vision, and... make sure that y'all have different skill sets.",
+          "summary_en": "Choose business partners who share your morals, trust, and vision while bringing complementary skill sets.",
+          "summary_zh": "选合伙人要价值观与目标一致，且技能互补",
+          "timestamp_sec": 293,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "My best financial decision has been to just put every single penny that I've made and that we make into real estate and into our businesses.",
+          "summary_en": "Reinvest every dollar earned back into your businesses and real estate assets to compound growth.",
+          "summary_zh": "把赚到的每一分钱都复投进房产和自己的事业",
+          "timestamp_sec": 342,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The worst financial decision was to not take more risks.",
+          "summary_en": "Regrets not taking even bigger risks earlier on in his investing and business journey.",
+          "summary_zh": "后悔过去没有更早承担更大风险去投资布局",
+          "timestamp_sec": 342,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Not taking risks is also a risk... you're risking not reaping all the rewards that you're going to get from the upside.",
+          "summary_en": "Avoiding risk carries its own cost because you forfeit the upside rewards; commit fully to your bets.",
+          "summary_zh": "不敢冒险本身就是风险，会错失巨大的上行回报",
+          "timestamp_sec": 357,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Continue to build this tight-knit community of entrepreneurs all over the world so that everybody can be helping each other out, growing with each other and doing deals together.",
+          "summary_en": "Build a tight-knit community of entrepreneurs who help one another grow and do deals together.",
+          "summary_zh": "打造互助型创业者社群，共同做交易并共同成长",
+          "timestamp_sec": 397,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It's hard to come up with an excuse for why you can't accomplish what you want to do, and I think that if you want it bad enough you'll figure out a way to do it.",
+          "summary_en": "Eliminate excuses and commit to making whatever sacrifices are required to achieve your dream.",
+          "summary_zh": "不要找任何借口，只要足够渴望并愿牺牲就能做到",
+          "timestamp_sec": 446,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I sacrificed a lot. I did not go out and spend money on this or that. I did not do things that other people were doing.",
+          "summary_en": "Skip unnecessary spending and social distractions while going all-in on building a legitimate business.",
+          "summary_zh": "甘于牺牲短期享乐，克制不必要消费以全心创业",
+          "timestamp_sec": 456,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Stop allowing people outside of us or in our circle or society... to try and tell us what we can't do... be true to ourselves and we're 100% accountable to ourselves.",
+          "summary_en": "Ignore external doubts and societal limits, take 100% personal accountability, and believe anything is possible.",
+          "summary_zh": "屏蔽外界设限，对自己全权负责并坚信一切皆有可能",
+          "timestamp_sec": 479,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21岁戒毒后从时薪8.5美元的快餐店员工和洗碗工做起，后进入油气行业；2018年12月与童年好友Matt合伙各出资2.8万美元，以约13.9万美元买下奥斯汀北部第一套房产，此后套现15万美元并长期持有一百套左右房产单位及联合创立地产经纪公司。",
+      "guest_name": "Alex Kaufman",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Matt Teifke (business partner & mentor)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Real Estate Underwriting",
+        "Networking & Relationships",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Co-owner of Teifke Real Estate (TRE) & Real Estate Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要找任何借口，只要足够渴望就能找到办法并愿意为此牺牲；戒除不必要的消费与享乐，屏蔽他人与社会的限制性言论，对自己100%负责，并把赚到的钱持续复投进房产与事业中。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "pTifbfUnsH8",
+  "video_type": "deep_dive_single"
+}

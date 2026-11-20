@@ -1,0 +1,196 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Everything in my life that was a rejection was a lucky charm.",
+          "summary_en": "Treat every rejection as a lucky charm and fight back instead of accepting defeat.",
+          "summary_zh": "把拒绝当幸运符，主动争取绝不认输",
+          "timestamp_sec": 156,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "The key to really getting ahead... delegation. I'm great at hiring the right people, motivating the right people.",
+          "summary_en": "Hire the right people, motivate them deeply, and delegate rather than trying to do everything yourself.",
+          "summary_zh": "招对人并充分激励与授权，不要事必躬亲",
+          "timestamp_sec": 185,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I took the deal away, which is good because everybody always wants what they can't get their hands on.",
+          "summary_en": "Create urgency by taking the deal away and read between the lines to uncover what buyers truly want.",
+          "summary_zh": "善用稀缺与紧迫感成交，洞察买家真实需求",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Listen for Motivation in Negotiation",
+          "category": "Actionable Skills & Habits",
+          "quote": "You've got to learn to listen. People are so busy talking they miss the whole game.",
+          "summary_en": "Stop talking and listen closely in negotiations to uncover the other side's true motivation.",
+          "summary_zh": "谈判中少说多听，精准捕捉对方的真实动机",
+          "timestamp_sec": 290,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Master Deal Timing",
+          "category": "Business & Strategy",
+          "quote": "I almost sold my business one year for $2 million, I turned it down, but two years later I sold my business for $66 million. Timing is everything.",
+          "summary_en": "Patience and market timing can multiply an exit's value many times over for the exact same business.",
+          "summary_zh": "把握出售与交易时机，耐心等待价值最大化",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I had a vision that I was going to be the queen of New York real estate... and I just believed it would happen the whole time.",
+          "summary_en": "Hold a vivid vision of your success and believe in yourself relentlessly even when others doubt you.",
+          "summary_zh": "构建清晰成功愿景并坚定自信，用质疑激励自己",
+          "timestamp_sec": 467,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I had 22 jobs and I knew if it didn't work out I could always get my old job back.",
+          "summary_en": "Take risks knowing your downside is capped—you can always fall back on earning a living if a venture fails.",
+          "summary_zh": "看清最坏结果并敢于冒险，失败也能重头再来",
+          "timestamp_sec": 484,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Residential, people need a place to live. I felt there was always a need for it.",
+          "summary_en": "Build in evergreen markets with permanent human demand, like residential housing, to weather market cycles.",
+          "summary_zh": "选择刚需常青赛道，确保经济周期中有需求",
+          "timestamp_sec": 506,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I would put it in a two-family house, live in half and get the other people paying the rent and paying off the mortgage.",
+          "summary_en": "Buy a multi-family property early, live in one unit, and let tenants' rent pay down your mortgage.",
+          "summary_zh": "尽早买双拼住宅自住一半，用租金偿还房贷",
+          "timestamp_sec": 523,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I got scared and I purposely failed the board. Do you know it took me eight years to catch up to the market?",
+          "summary_en": "Don't back out of buying your first property out of fear—getting in early gives you equity to trade up.",
+          "summary_zh": "莫因恐惧错失首次买房良机，尽早上车积累筹码",
+          "timestamp_sec": 534,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I don't really believe in diversification because it doesn't work for me. I do what I do well.",
+          "summary_en": "Concentrate on what you do best rather than diversifying blindly; when investing, bet on great founders.",
+          "summary_zh": "专注自己最擅长的领域，不必盲目分散投资",
+          "timestamp_sec": 565,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "When you have a passion for your business or your product you always do well.",
+          "summary_en": "Pick a business or product you genuinely love because passion drives consistent excellence.",
+          "summary_zh": "投身真正热爱的事业或产品，热爱驱动成功",
+          "timestamp_sec": 584,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "The only difference between good people and phenomenal people is the ability to get back up.",
+          "summary_en": "Resilience—having fire in your belly and the ability to get back up after setbacks—separates phenomenal founders.",
+          "summary_zh": "卓越创业者的核心特质是受挫后迅速爬起",
+          "timestamp_sec": 605,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Cut Losses & Verify Asset Cash Flow",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Once I got in there as the owner I found out no one had paid the rents in two years. I buried it one year later with a bulldozer.",
+          "summary_en": "Verify actual rent and cash flow before buying a property, and cut your losses decisively when an investment fails.",
+          "summary_zh": "收购前务必核实真实现金流，亏钱项目果断止损",
+          "timestamp_sec": 651,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "When you have a good life partner, when you have a good business partner, you double your chances of success.",
+          "summary_en": "Choosing the right life and business partner is the most important decision; avoid dishonest or unhealthy partners.",
+          "summary_zh": "选对人生与商业伙伴至关重要，远离不诚实者",
+          "timestamp_sec": 755,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Be Authentic & Leverage Your Natural Assets",
+          "category": "Mindset & Resilience",
+          "quote": "You have to authentically be yourself... Everyone likes the authentic real deal. You got to be yourself, build on what you have.",
+          "summary_en": "Drop the facade, communicate in your own authentic style, and build on your natural strengths rather than school grades.",
+          "summary_zh": "保持真实自我不装腔作势，立足自身优势发展",
+          "timestamp_sec": 900,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I would sell apples on the corner and make $50,000 in the first month, build from there.",
+          "summary_en": "Start small with immediate, practical action from zero and compound your momentum from the first win.",
+          "summary_zh": "从零起步立刻行动，哪怕街角卖苹果先赚第一桶金",
+          "timestamp_sec": 920,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾打过22份工并做过女服务员，21岁凭1000美元借款创办纽约住宅地产公司The Corcoran Group，拒绝200万美元收购后在两年后以6600万美元现金出售公司；后通过主动写信争取重获《创智赢家》席位。",
+      "guest_name": "Barbara Corcoran",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Founder of The Corcoran Group & Shark Tank Investor",
+      "wealth_detail": "Sold The Corcoran Group for $66M cash in one day",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "脚踏实地从零起步（如在街角卖苹果先赚5万美元再滚雪球），做自己真正热爱的事、保持真实自我并善用沟通；若有积蓄尽早买两户型住宅，自住一半并以租金还贷。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "nswPe9PAgjo",
+  "video_type": "deep_dive_single"
+}

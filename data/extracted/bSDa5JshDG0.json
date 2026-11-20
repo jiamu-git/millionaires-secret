@@ -1,0 +1,404 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Started small, borrowing from banks, keep your credit good, and keep on plugging away.",
+          "summary_en": "Start small and keep plugging away consistently over the long haul.",
+          "summary_zh": "从小规模起步，保持耐心持续深耕",
+          "timestamp_sec": 145,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Started with mobile home parks, now I have apartment complexes.",
+          "summary_en": "Build wealth by acquiring cash-flowing real estate such as mobile home parks and multi-family apartment buildings.",
+          "summary_zh": "从移动房屋公园起步投资多户住宅地产",
+          "timestamp_sec": 155,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Don't screw up your credit... If you start with nothing, where are you going to get it from? You got to borrow it.",
+          "summary_en": "Protect your credit score at all costs and use bank debt as leverage to acquire cash-flowing assets when starting with nothing.",
+          "summary_zh": "维护好个人信用，善用良性债务撬动资产",
+          "timestamp_sec": 181,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Anywhere in Texas... There's so many people moving into Texas. The business environment is great.",
+          "summary_en": "Invest in markets with strong economic tailwinds, rapid population inflows, and a pro-business environment.",
+          "summary_zh": "选择人口净流入且商业环境友好的大市场",
+          "timestamp_sec": 199,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Just 1031 exchanges... putting all the money from one deal in the next deal... You can just defer the taxes.",
+          "summary_en": "Use tax-deferral strategies like 1031 exchanges to roll profits from deal to deal and pay taxes only when rates are favorable.",
+          "summary_zh": "善用1031置换条款递延税款并滚雪球复投",
+          "timestamp_sec": 209,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年曾经历过拮据破产期，靠保持良好信用从银行小额贷款起步，先收购移动房屋公园，再逐步滚雪球扩展至多户住宅公寓楼，高峰期持有约30栋、现持有约10栋共约1000套公寓。",
+      "guest_name": "Highland Park Multi-Family Real Estate Investor",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Commercial Real Estate & Multi-Family Investor",
+      "wealth_detail": "~$100M single-year earnings peak; owns ~10 apartment buildings (~1,000 units, previously up to 30)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "千万不要搞砸个人信用；白手起家要敢于并善用银行良性贷款加杠杆购置收租资产，选择经济和人口增长强劲的市场，并通过1031置换合法递延税款滚大雪球。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Number one, sleep. Number two, diet. And number three, exercise. And to be highly disciplined in all three.",
+          "summary_en": "Maintain high daily discipline in sleep, diet, and exercise to stay sharp and healthy.",
+          "summary_zh": "在睡眠、饮食和运动上保持高度自律",
+          "timestamp_sec": 354,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I came out of the military, went into corporate America in sales and then marketing. And those were great skills.",
+          "summary_en": "Build foundational skills in sales and marketing in corporate roles before launching companies.",
+          "summary_zh": "先在企业实战中打磨销售与市场营销技能",
+          "timestamp_sec": 410,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I spent some time actually right here at The Boston Consulting Group and working on strategy and really learning more and kind of developing my experience set.",
+          "summary_en": "Develop your strategic toolkit and experience inside top organizations before founding your own ventures.",
+          "summary_zh": "创业前先在顶尖机构积累战略与实战工具箱",
+          "timestamp_sec": 420,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Invest in the AI capability to serve all other industries... serve small businesses with AI.",
+          "summary_en": "Target markets with insatiable demand, such as applying AI to modernize outdated small businesses.",
+          "summary_zh": "押注AI赋能传统与中小企业的高需求赛道",
+          "timestamp_sec": 506,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "The biggest failure is probably they start a business that doesn't match what the market wants... Build a product for a customer. Don't build it in the dark room on your own.",
+          "summary_en": "Listen to the market and build products that solve real customer needs rather than building in isolation.",
+          "summary_zh": "紧贴真实市场与客户需求打造产品，忌闭门造车",
+          "timestamp_sec": 537,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Hire slow, fire fast... Take your time to really get to know somebody... And if they're not working out, fire fast. Immediately, get the cancer out of the culture.",
+          "summary_en": "Vet hires thoroughly for fit, skill, and attitude, and fire misfits immediately to protect team culture.",
+          "summary_zh": "招人要慢而精准，不合适则果断辞退护文化",
+          "timestamp_sec": 582,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Wisdom comes from experience and experience comes from making mistakes.",
+          "summary_en": "Recognize that business wisdom comes from experience, and experience comes from making mistakes.",
+          "summary_zh": "把犯错视为积累经验与智慧的必经之路",
+          "timestamp_sec": 622,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Get right with God, discover your purpose, and then work hard to accomplish that.",
+          "summary_en": "Stay grounded in faith and gratitude, discover your calling, and devote your work to serving others.",
+          "summary_zh": "心怀信仰与感恩，找到人生使命并回馈社会",
+          "timestamp_sec": 693,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "幼年生活在无水电、无室内管道的偏远农场；从陆军游骑兵退役后进入企业从事销售与市场工作，随后考取哈佛MBA并加入波士顿咨询（BCG）打磨战略能力，最终获风投机构鼎力支持连续创办35家软件公司，最大单笔退出达6.7亿美元。",
+      "guest_name": "Wade Myers",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "Tim Tebow",
+        "Mark Cuban",
+        "Will Rogers"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Software Entrepreneur (35 Companies) & Venture Capitalist (Former Army Ranger)",
+      "wealth_detail": "$670M biggest company exit; 68x highest single investment return",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先在企业实战中掌握销售、市场与战略能力；用规律的睡眠、饮食与运动保持状态；紧盯客户真实需求切入AI赋能传统行业赛道；用人坚持“慢招快炒”，并确立超越金钱的人生使命。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I started as a front line as a technician right out of high school... worked my way to start partnering with the founder... really learning the business from the ground up.",
+          "summary_en": "Start on the front lines, learn every detail from the ground up, and partner with proven founders.",
+          "summary_zh": "从一线基层做起，跟随优秀创始人学透业务",
+          "timestamp_sec": 882,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Create an environment where you're not needed. Empower your people, set them up for success, and give them the tools and resources to be successful.",
+          "summary_en": "Surround yourself with capable people, equip them with resources, and empower them so the business runs without you.",
+          "summary_zh": "赋能并授权优秀人才，打造高效自治团队",
+          "timestamp_sec": 900,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "We install fiber optic cables for all the major companies and all the data centers... Tons of data centers, tons of needs. It's absolutely a great position to be in right now.",
+          "summary_en": "Position yourself in essential infrastructure niches riding massive real-world demand like fiber optics for data centers.",
+          "summary_zh": "抓住数据中心基建刚需，在细分赛道深耕",
+          "timestamp_sec": 925,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's been greatly helpful to surround yourself with people that are smarter than you.",
+          "summary_en": "Partner with and surround yourself with people who are smarter than you.",
+          "summary_zh": "身边围绕比你更聪明的人，携手共事",
+          "timestamp_sec": 942,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Some of the best mentors I had, they always say just walk up to somebody and ask them how you did it.",
+          "summary_en": "Don't be afraid to walk up to successful people, ask how they did it, and learn from mentors.",
+          "summary_zh": "主动向成功者请教，寻找并跟随良师益友",
+          "timestamp_sec": 967,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Follow Jesus Christ, follow your heart, have high integrity, and don't ask somebody to do something you're not willing to do yourself.",
+          "summary_en": "Lead with high integrity and never ask someone on your team to do work you wouldn't do yourself.",
+          "summary_zh": "坚守高尚品格，己所不欲勿施于团队成员",
+          "timestamp_sec": 994,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年靠在路边捡汽水罐换钱买午饭；高中毕业即从一线技术员做起，加入早期创业公司Charter Communications（Spectrum），随后紧跟创始人并肩创办多家企业，深耕数据中心光纤基础设施，完成数十亿美元IPO并即将以25亿美元出售公司。",
+      "guest_name": "Fiber Optic & Data Center Infrastructure Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Charter Communications / Spectrum Founder",
+        "Grandfather (communications lineman, minister, and doctor)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Fiber Optic & Broadband Infrastructure Founder (Age 52)",
+      "wealth_detail": "Selling company for $2.5B; completed multi-billion dollar IPO on July 1st",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不要怕主动开口向成功人士请教；从行业最基层做起学透业务，跟随优秀创始人成长；组建比自己更聪明的合伙团队并充分授权，在数据中心基建等高需求领域持续复投。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Dominate a Specific Niche",
+          "category": "Business & Strategy",
+          "quote": "You got to have a specific niche. Otherwise, you're a me too guy... going after a small niche. It's quicker to be able to build a name for yourself.",
+          "summary_en": "Carve out a clear, specific niche with a competitive advantage instead of being a generic me-too operator.",
+          "summary_zh": "切入细分利基市场，建立差异化竞争优势",
+          "timestamp_sec": 1078,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Treat others with respect, to earn their loyalty... the only way you're ever going to grow a business is by scaling with people around you that are built around your vision.",
+          "summary_en": "Earn your team's loyalty through respect and scale by uniting people around a shared vision.",
+          "summary_zh": "以尊重赢得团队忠诚，围绕共同愿景扩张",
+          "timestamp_sec": 1097,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "My boss told me... 'We've been doing this way since 1974.' I didn't buy into that. People thought I was crazy.",
+          "summary_en": "Reject entrenched conventional wisdom and ignore doubters who think your new approach is crazy.",
+          "summary_zh": "无视他人质疑与传统束缚，坚定信念前行",
+          "timestamp_sec": 1123,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Go work for someone else in a large industry, and see what they're missing... Let them pay you while you get educated to outdo them.",
+          "summary_en": "Get paid to learn inside an established industry, spot what incumbents are missing, and out-execute them in that gap.",
+          "summary_zh": "先到大行业带薪学本领，抓住巨头忽视的漏洞",
+          "timestamp_sec": 1150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Get rid of all your Amazon deliveries, get rid of your $8 a day coffees. You need to be using money to expand your future.",
+          "summary_en": "Eliminate frivolous daily spending and treat money as a tool to invest aggressively in big opportunities.",
+          "summary_zh": "戒掉日常无效消费，把钱用于投资未来增长",
+          "timestamp_sec": 1177,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't get caught up in all the hype and 99% of what you see on social media is absolute BS.",
+          "summary_en": "Ignore online hype and fabricated social media success narratives.",
+          "summary_zh": "远离社交媒体虚妄炒作，别轻信一夜暴富",
+          "timestamp_sec": 1198,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Be true to yourself, find something that you're great at, dig in, and I can't emphasize this enough, just never quit.",
+          "summary_en": "Find what you excel at, dig in relentlessly, and never quit despite hardship.",
+          "summary_zh": "找到擅长领域深耕不辍，遇到困难绝不放弃",
+          "timestamp_sec": 1206,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身一无所有且没有大学学历，20岁打工时因提出颠覆1974年传统做法的新点子遭老板和众人嘲笑，却拒绝妥协并毅然创业，切入劳动力管理细分赛道，将公司年营收做到约3.75亿美元。",
+      "guest_name": "Louis Flores",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Labor Force Management Founder (\"The Houston Mogul\")",
+      "wealth_detail": "~$375M annual business revenue (up ~25% from ~$300M previously)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先进入大行业打工领薪水并观察大公司忽略的细分缺口；砍掉不必要的日常消费，把钱当作工具投向能放大未来的大机会；选定擅长领域深耕，不听外界噪音、绝不放弃。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Nobody in the world that makes a fortune cares about the money. They care about being the best that they could be at what they do... The money then comes.",
+          "summary_en": "Focus on becoming number one at your craft rather than chasing money; wealth follows excellence.",
+          "summary_zh": "专注做到行业顶尖而非追逐金钱，财富自来",
+          "timestamp_sec": 1289,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody doubted me. I was a loser. A winner is only a loser that gets angry.",
+          "summary_en": "Use doubt and setbacks as fuel to prove critics wrong and bounce back stronger.",
+          "summary_zh": "无视质疑与失败，把挫折化为赢家的燃料",
+          "timestamp_sec": 1309,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Let someone talk about themselves... Don't talk about you. Ask them questions, let them talk so I know what they want, what they need, and then provide that for them.",
+          "summary_en": "In sales and negotiation, talk less about yourself and ask questions so clients reveal their needs, then fulfill them.",
+          "summary_zh": "销售时少谈自己多提问，倾听并满足客户需求",
+          "timestamp_sec": 1345,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Be Kind to Everyone",
+          "category": "Mindset & Resilience",
+          "quote": "Be kind to everybody because it costs no money to be nice.",
+          "summary_en": "Treat everyone with kindness because being nice costs nothing.",
+          "summary_zh": "待人友善真诚，因为善意零成本却价值无穷",
+          "timestamp_sec": 1353,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1997年毕业时家族企业被出售，不得不从零开始；考取Series 7牌照进入经纪行业，在1998-1999年牛市推销亚马逊股票（9美元翻倍至18美元）并筹集巨额资金，24岁赚到首个160万美元，单年最高收入达320万美元（后在2000年互联网泡沫破裂时经历重创）。",
+      "guest_name": "Lana (Financial Advisor & Former Series 7 Broker)",
+      "industry": "Finance & Investing",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Financial Advisor & Former Stockbroker (Age 51)",
+      "wealth_detail": "First million at age 24 ($1.6M); $3.2M peak single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要眼里只盯着钱，而要立志成为所在领域的第一名；在销售与谈判中学会少说多问，精准捕捉并满足对方的核心需求；同时永远对他人保持善意。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "bSDa5JshDG0",
+  "video_type": "street_multi"
+}

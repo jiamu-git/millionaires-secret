@@ -1,0 +1,304 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "understanding your consumer who's buying your product better than anybody else... being consumer obsessed is I think the most important thing",
+          "summary_en": "Stay consumer-obsessed and use technology to understand what buyers want better than anyone else.",
+          "summary_zh": "保持以消费者为导向，用技术洞察需求",
+          "timestamp_sec": 89,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "doing it the right way, being authentic, treating people like you want to be treated... you can do all that and be a jerk and be failed",
+          "summary_en": "Succeed with integrity, authenticity, and kindness—treating people well matters because being a jerk leads to failure.",
+          "summary_zh": "行事正直真诚善待他人，切忌傲慢无礼",
+          "timestamp_sec": 103,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you got to want to hustle right you gotta want to work harder the next guy",
+          "summary_en": "Have the drive to hustle and consistently outwork the person next to you.",
+          "summary_zh": "具备拼搏精神，比别人更加努力工作",
+          "timestamp_sec": 117,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Frito-Lay CEO",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "CEO of Frito-Lay",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "做大企业要像创始人那样拼搏并善待员工客户，同时借助技术深耕消费者需求。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "it's not the CEO who makes a success it's the people who work for that company but it's a CEO's responsibility to make those people realize how important they are to the company",
+          "summary_en": "Empower your employees and make sure they know how vital they are to the company's success.",
+          "summary_zh": "赋能员工，让团队意识到自身的重要性",
+          "timestamp_sec": 161,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Understand Company Culture",
+          "category": "Business & Strategy",
+          "quote": "creating a strong company in today's world understanding the culture... you have to understand who they are not who you are",
+          "summary_en": "Understand the unique culture of the organization you lead rather than forcing your own identity onto it.",
+          "summary_zh": "深入理解并尊重每家企业的独特文化",
+          "timestamp_sec": 172,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "the number one thing that a person running a company has to know who his customer is and take care of them and make sure your people are taken care of",
+          "summary_en": "Know your customer and prioritize taking care of customers and employees first; shareholder value follows.",
+          "summary_zh": "优先服务好客户与员工，自然回报股东",
+          "timestamp_sec": 192,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Former Macy's & Neiman Marcus CEO",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former CEO of JCPenney, Macy's, and Neiman Marcus",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "it took a lot of discipline and hard work... always stay focused",
+          "summary_en": "Stay disciplined, work hard, and remain focused on your goals to beat the odds.",
+          "summary_zh": "保持高度自律与刻苦，始终专注目标",
+          "timestamp_sec": 268,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "got to have good people around you that's willing to tell you when you're wrong you can't have no type of Yes man around you",
+          "summary_en": "Surround yourself with strong, honest people who will tell you when you're wrong instead of yes-men.",
+          "summary_zh": "结交敢于直言指正的良友，远离阿谀之辈",
+          "timestamp_sec": 280,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "you got to get the right Financial advice around you... because you know you like nice things you'll spend but you need somebody that's gonna be that backbone to be like hey hold on... got to put this away",
+          "summary_en": "Get trustworthy financial advisors who act as a backbone to stop overspending on luxuries and force savings.",
+          "summary_zh": "聘请靠谱财务顾问约束消费，强制储蓄",
+          "timestamp_sec": 300,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身底层社区，凭自律与刻苦从西弗吉尼亚大学进入NFL，征战11个赛季，单年最高赚取约1100万美元。",
+      "guest_name": "Tavon Austin",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "NFL Player (11-Year Veteran)",
+      "wealth_detail": "$11M peak single-year NFL income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "we started a business in late 1990s and then we sold it... if you can create something that's successful and then find someone who's interested in purchasing it that go a long way",
+          "summary_en": "Build a successful business with equity ownership alongside a team and exit by selling it to a buyer.",
+          "summary_zh": "与团队共同创业持股，做大后出售退出",
+          "timestamp_sec": 385,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "invest in different companies and just have a nice investment plan for yourself and you can never start too young",
+          "summary_en": "Build a diversified investment plan across different companies and start investing as young as possible.",
+          "summary_zh": "尽早制定投资计划，分散投资优质公司",
+          "timestamp_sec": 397,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "the tech World continues to be a good part of a successful portfolio but Healthcare definitely especially drug development... there's this real breakthrough that we've had especially with immune therapy",
+          "summary_en": "Focus on high-growth sectors with major breakthroughs, such as technology and healthcare drug development.",
+          "summary_zh": "布局科技与医疗药物研发等高突破赛道",
+          "timestamp_sec": 406,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "研究生学公共管理却转行进入肿瘤临床试验领域，1990年代末合伙创办公司并以3.65亿美元出售。",
+      "guest_name": "Dallas Oncology Clinical Trials Co-Owner",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Part-Owner of Clinical Trials / Oncology Healthcare Company",
+      "wealth_detail": "Sold prior company (with partners) for $365M; current business does $60M/yr, ~$2M/yr personal income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "everybody wants to be control freaks... if you can delegate and somebody can do the task 70% as well as you can delegate it",
+          "summary_en": "Stop being a control freak; delegate tasks whenever someone else can execute them at least 70% as well as you.",
+          "summary_zh": "克服控制欲，他人能做到七成即可授权委托",
+          "timestamp_sec": 524,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I will buy a company and give somebody Equity so therefore that's their baby... they're doing 95 of the work",
+          "summary_en": "Buy businesses, grant operators equity so they treat it like their own, and let them run operations while you share profits.",
+          "summary_zh": "用股权激励合伙人操盘，自己享受资产分红",
+          "timestamp_sec": 535,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "concentration builds wealth right diversification keeps it... focus on one thing and kind of scale that up and once you have enough cash flow to where you can replace your day job... then take that money and then diversify",
+          "summary_en": "Concentration builds wealth while diversification preserves it; scale one business until cash flow replaces your day job before diversifying.",
+          "summary_zh": "专注单一赛道积累财富，现金流稳后再多元化",
+          "timestamp_sec": 586,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "a ton of commercial buildings like commercial strips and every single one of them has my business in it... instead of me paying rent to someone else I'm paying rent to myself",
+          "summary_en": "Buy commercial real estate for your own operating businesses so you pay rent to yourself rather than a landlord.",
+          "summary_zh": "购置商业地产自用门店，把租金付给自己",
+          "timestamp_sec": 620,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "2009年起创办日晒水疗连锁品牌，深耕单一业务扩展至13个州75家以上门店，年收入达数百万美元。",
+      "guest_name": "Dallas Tanning Franchise Owner",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Good CEOs Are Lazy (book)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Owner of Sun Spa / Tanning Franchise (75+ Locations)",
+      "wealth_detail": "Multiple seven figures/yr; owns 75+ franchise locations & commercial strip centers",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "新手别盲目追求多份副业收入，应集中精力把一件事规模化，足以替代主业后再拓展新业务。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "spend about half of what you make and always keep your powder dry because there's always an investment that you could use a little bit of money on... always keep enough cash on the sideline",
+          "summary_en": "Spend roughly half of your income and keep liquid cash ('dry powder') ready to deploy when undervalued investment opportunities arise.",
+          "summary_zh": "只花收入的一半，保留充足现金把握低价投资机会",
+          "timestamp_sec": 770,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Scalable Infrastructure & Industry Utility",
+          "category": "Business & Strategy",
+          "quote": "getting enough infrastructure to drive enough business where you need more people more technology you need more sales you need more marketing... ultimately you need to make it a industry utility",
+          "summary_en": "Scale from seven to nine figures by building infrastructure across talent, tech, sales, and marketing until your product becomes an industry utility.",
+          "summary_zh": "搭建人才技术营销基建，将产品做成行业刚需工具",
+          "timestamp_sec": 821,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "help your direct reports get to their next level if you can mentor people... hiring the best people and lifting them up always kept me on the top of the food chain",
+          "summary_en": "Hire the best talent, give constructive feedback, and actively mentor direct reports to rise to the next level—lifting them lifts your career too.",
+          "summary_zh": "招募顶尖人才并悉心辅导下属晋升，互相成就",
+          "timestamp_sec": 855,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Former Health Management Systems COO",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Former COO of Health Management Systems & Angel Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "jJxwJhdKb1s",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,144 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build a Values-Driven Company Culture",
+          "category": "Business & Strategy",
+          "quote": "If you don't have a strong culture, you can't have a strong business.",
+          "summary_en": "Build a strong, values-driven team culture as the foundation of a resilient business.",
+          "summary_zh": "没有强大的企业文化，就不可能有强大的企业",
+          "timestamp_sec": 121,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Fire Misaligned Employees Decisively",
+          "category": "Business & Strategy",
+          "quote": "If you don't fire them, you're holding them back. You know, you're keeping them from doing what they could be great at and what they could do.",
+          "summary_en": "Fire misaligned employees decisively; keeping them in the wrong role holds them back from excelling elsewhere.",
+          "summary_zh": "不解雇不合适的人，其实是在耽误对方发挥所长",
+          "timestamp_sec": 143,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "If they don't have any skills, you don't want them as a partner. Everybody's got to bring something to the table.",
+          "summary_en": "Only partner with people—even close friends or family—who bring genuine skills and drive to the table.",
+          "summary_zh": "合伙人必须有真本事，哪怕亲友没能力也别合伙",
+          "timestamp_sec": 201,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "You think about discipline as a bank account where you make deposits and withdrawals.",
+          "summary_en": "Treat discipline like a bank account you deposit into daily through physical fitness and personal standards.",
+          "summary_zh": "把自律当成银行账户，每天在细节和健身中存款",
+          "timestamp_sec": 296,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "We started with $12,000... worked other jobs, bartending, side hustles... the first couple years we lived in the back of our store.",
+          "summary_en": "Start lean without outside investors and work side jobs to keep overhead minimal while building the business.",
+          "summary_zh": "无融资精益起步，睡店里并靠兼职副业撑过前期",
+          "timestamp_sec": 329,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "This is hard, it's a grind, and just because it's hard for you doesn't mean you're doing it wrong. It actually means you're doing it right.",
+          "summary_en": "Accept that building a business is a tough grind; enduring hardship means you are on the right track.",
+          "summary_zh": "创业本就艰难，感到痛苦往往说明你走对了路",
+          "timestamp_sec": 395,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Control Supply Chain via Vertical Integration",
+          "category": "Business & Strategy",
+          "quote": "The more vertical that you can get and control your supply chain all the way down, we control supply chain all the way from ingredients to retail. I think it's a massive massive part of our success.",
+          "summary_en": "Vertically integrate and control your supply chain from raw ingredients to retail distribution.",
+          "summary_zh": "尽可能推进垂直整合，掌控从原料到零售的全链路",
+          "timestamp_sec": 454,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "At the time, you know, it really hurts, and it's frustrating, but long-term, you figure out exactly why that happened, and it ends up being a good thing.",
+          "summary_en": "Treat painful rejections as catalysts for self-reliance; setbacks often become long-term advantages.",
+          "summary_zh": "被拒绝虽痛苦，但长远看往往会倒逼出更好的出路",
+          "timestamp_sec": 507,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "We started our retail store. And we just said, 'Okay, well, let's try to do this.'... little by little, the vision expands, and it keeps expanding.",
+          "summary_en": "Start taking action before having everything figured out; your vision grows step by step as you keep pushing.",
+          "summary_zh": "先动手干起来，边推进边逐步放大自己的格局与愿景",
+          "timestamp_sec": 547,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I get to come in here every day with hungry, ambitious, really good, centered people that inspire me.",
+          "summary_en": "Surround yourself daily with hungry, ambitious, grounded people whose energy keeps you motivated.",
+          "summary_zh": "与有野心、正能量且自律的人同行，彼此互相赋能",
+          "timestamp_sec": 735,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You got to work with people that know that you don't know... we hired a company to consult us and then teach our guys how to do it.",
+          "summary_en": "Work with experts who know what you don't, and bring in consultants to train your internal team.",
+          "summary_zh": "聘请比自己懂行的专家和顾问，来培训自己的团队",
+          "timestamp_sec": 929,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "All those times when I was broke and when I was thinking about like the kind of place I wanted, I would always visualize this house.",
+          "summary_en": "Maintain strong self-belief and visualize your long-term goals even during periods when you are broke.",
+          "summary_zh": "落魄时也要坚定信念、清晰观想自己想达到的目标",
+          "timestamp_sec": 1013,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "高中后仅读一学期大学便退学，在无投资人和家族继承的情况下用1.2万美元在密苏里州斯普林菲尔德开出第一家营养品零售店，首日仅售出7美元；前3年未盈利、第3至第10年月均仅赚695美元，靠睡店里和做酒保等副业维生，第6年才开第二家店；2012年遭当时全球最大营养补剂分销商拒绝后被迫自建全链路垂直整合体系，最终做成数十亿美元规模企业。",
+      "guest_name": "Andy Frisella",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, First Form (Supplement & Nutrition Company)",
+      "wealth_detail": "Multi-billion dollar company; peak single-year income well into the nine figures",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "创业不像网上展示的那样光鲜，真实过程充满煎熬与磨砺；遇到困难并不代表做错了，反而说明走在正轨上。任何人都可以通过付出代价去习得技能、韧性与毅力，保持自律并持续行动，不懂的领域要主动聘请专家指导。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "2eicF3iPf1s",
+  "video_type": "deep_dive_single"
+}

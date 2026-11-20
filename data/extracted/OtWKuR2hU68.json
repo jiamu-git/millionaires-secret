@@ -1,0 +1,328 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "work hard rest is overrated",
+          "summary_en": "Work hard relentlessly because rest is overrated.",
+          "summary_zh": "努力工作，休息被高估了",
+          "timestamp_sec": 115,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Well-Capitalized",
+          "category": "Business & Strategy",
+          "quote": "most common mistake ... underfinanced ... the safest way is to be well financed it'll help you with some bumps along the road",
+          "summary_en": "Avoid undercapitalization; being well-financed helps your business survive inevitable bumps.",
+          "summary_zh": "确保资本充足，避免创业资金短缺",
+          "timestamp_sec": 158,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "you sell by doing the right job that's the best three-dimensional business card you could have ... the work product you deliver ... keep your clients satisfied",
+          "summary_en": "Deliver exceptional work product and keep clients satisfied; quality work is your best business card.",
+          "summary_zh": "靠过硬工程质量赢得大客户与口碑",
+          "timestamp_sec": 197,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "honest be honest",
+          "summary_en": "Be honest and uphold integrity in business.",
+          "summary_zh": "在商业中保持诚实与信用",
+          "timestamp_sec": 206,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "are you a believer in God of course how important has Faith been for you throughout your career at the top of the list",
+          "summary_en": "Put faith at the top of your priorities throughout your career, alongside putting family first.",
+          "summary_zh": "将信仰置于首位并兼顾家庭责任",
+          "timestamp_sec": 216,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "take risk at an early age it was easy you know I didn't have anything to lose I could always put my tools on if it didn't work out",
+          "summary_en": "Take risks early in life when you have nothing to lose and a trade skill to fall back on.",
+          "summary_zh": "趁年轻一无所有时勇敢冒险创业",
+          "timestamp_sec": 227,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通家庭（父母并不富裕），靠自身在建筑行业掌握技术手艺白手起家，在纽约创立并经营建筑公司49年，单年营收最高达4亿美元。",
+      "guest_name": "James (NYC Construction Company Owner)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Construction Company Owner (49 years)",
+      "wealth_detail": "$400M peak single-year company revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "趁年轻没有什么可失去时勇敢冒险，创业时确保资金充足以应对波折，通过交付过硬的工程质量、保持诚实守信和让客户满意来建立口碑。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "save every Penny you can ... of course [invest] but save your money ... save more money",
+          "summary_en": "Save every penny you can while investing, especially when you are young.",
+          "summary_zh": "尽一切可能攒下每一分钱并去投资",
+          "timestamp_sec": 295,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Use Fear of Failure as Motivation",
+          "category": "Mindset & Resilience",
+          "quote": "fear or failure number one motivation",
+          "summary_en": "Use the fear of failure as your primary motivation to achieve financial freedom.",
+          "summary_zh": "把对失败的恐惧转化为第一动力",
+          "timestamp_sec": 313,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "most common mistake ... [invest] with friends or family",
+          "summary_en": "Avoid mixing business or investments with friends and family.",
+          "summary_zh": "避免与亲友合伙做生意或投资",
+          "timestamp_sec": 323,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Remove Emotion From Money & Investing",
+          "category": "Wealth & Investing",
+          "quote": "what do billionaires do with their money differently from 99% of other people they take emotion out of it",
+          "summary_en": "Remove emotion from financial and investment decisions.",
+          "summary_zh": "做投资和金钱决策时完全剥离情绪",
+          "timestamp_sec": 332,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Clear & Truthful Communication",
+          "category": "Actionable Skills & Habits",
+          "quote": "hardest skill for you to master in the business world ... communication speak the truth",
+          "summary_en": "Master communication and always speak the truth in competitive environments.",
+          "summary_zh": "打磨沟通能力并坚持讲真话",
+          "timestamp_sec": 340,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "you don't keep your word you won't last",
+          "summary_en": "Always keep your word in business or you will not last long.",
+          "summary_zh": "在商业中必须信守承诺否则无法长久",
+          "timestamp_sec": 349,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "work hard at school have fun and get ready it's a long slog",
+          "summary_en": "Work hard in school, enjoy the process, and prepare for a long slog.",
+          "summary_zh": "在校努力学习并做好长期吃苦准备",
+          "timestamp_sec": 349,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "make sure you have a 5 and a 10e plan if you're going to go to work for a company they don't give a about you start your own business companies don't care",
+          "summary_en": "Create a 5- and 10-year plan and start your own business rather than relying on companies that do not care about you.",
+          "summary_zh": "制定五到十年规划并创业而非打工",
+          "timestamp_sec": 358,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年曾经历破产，在华尔街深耕金融与汽车行业分析长达42年，约35岁时成为百万富翁，公司单年最高营收达数百万美元。",
+      "guest_name": "Wall Street Auto Industry Analyst (42-Year Veteran)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Public Speaking & Communication",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Finance & Auto Industry Analysis Firm Owner (42 years on Wall Street)",
+      "wealth_detail": "Became a millionaire at age 35; peak single-year revenue \"in the millions\"",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "做好5年和10年规划，趁年轻尽可能省钱并投资，不要依赖大公司打工而是创办自己的企业，注重沟通与诚信。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "money got to keep moving in order for it to grow in order for it to work for you it has to keep moving putting it in a bank on your mattress never going to work it's got to keep moving Investments",
+          "summary_en": "Keep your money actively moving in investments so it works and grows for you rather than sitting idle in a bank.",
+          "summary_zh": "让钱持续流动投资而非死存银行",
+          "timestamp_sec": 425,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Treat Marriage as a Financial Partnership",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "worst financial decision ... getting married man my divorce wiped me out ... marriage is a business and I didn't look at it like that",
+          "summary_en": "Do not overlook the business and financial side of marriage; a divorce can wipe you out financially.",
+          "summary_zh": "将婚姻视为商业合作以免因离婚倾家荡产",
+          "timestamp_sec": 436,
+          "type": "regret"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "once you have it in you internally to build you have the dog in you to fight in you doesn't matter you'll always rebuild",
+          "summary_en": "If you have internal drive and fight in you, you can always rebuild even after losing everything.",
+          "summary_zh": "拥有内在斗志就能在跌倒后重新崛起",
+          "timestamp_sec": 453,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Protect Capital as Recovery Time Shrinks With Age",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "it's about recovery time see if you lose it at 20 ... you have recovery time ... if you lose it in your 40s ... terrible cuz you don't have the same recovery rate",
+          "summary_en": "Be mindful that financial recovery time shrinks as you age; losing everything in your 40s is far harder to recover from than in your 20s.",
+          "summary_zh": "越年轻试错恢复期越长，中年亏损代价大",
+          "timestamp_sec": 473,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you are the sum total of the five people you hang around with so be careful of the people you have around you be very selective",
+          "summary_en": "Be very selective about your inner circle because you become the sum total of the five people you spend time with.",
+          "summary_zh": "你是最常相处的五人的总和，精选朋友圈",
+          "timestamp_sec": 485,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "people try to use socializing for networking ... just to be social is a waste of time ... anytime you interact with someone you must always ask yourself what's what are we exchanging ... are there an asset is it a liability",
+          "summary_en": "Treat networking as intentional value exchange rather than aimless socializing; evaluate whether relationships are assets or liabilities.",
+          "summary_zh": "别为社交而社交，人脉交往需有价值交换",
+          "timestamp_sec": 495,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Wall Street Finance Veteran (15-16 Years, Age 45)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Wall Street Finance Professional (15-16 years)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "there's no end what you can do with the energy and love for what you're doing",
+          "summary_en": "High energy and genuine love for what you do remove limits on how much you can accomplish.",
+          "summary_zh": "对所做之事充满热爱与精力便无所不能",
+          "timestamp_sec": 675,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Validate Profitability & Detach Ego From Ideas/Trades",
+          "category": "Business & Strategy",
+          "quote": "people fall in love with an idea ... people process product and profits ... don't be so in love with yourself and your idea that you lose sight of the long game ... nobody got bored taking a profit",
+          "summary_en": "Evaluate people, process, product, and profits objectively instead of letting ego make you fall in love with an unprofitable idea or trade.",
+          "summary_zh": "别盲目迷恋想法，客观评估盈利并及时止盈",
+          "timestamp_sec": 710,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "it's not important to die with the most toys ... if I can motivate Inspire and Empower other people to be their best self then I'm a rich person ... cash does equal Freedom it doesn't equal happiness",
+          "summary_en": "Cash buys freedom, not happiness; true richness comes from family, loving your work, and empowering others.",
+          "summary_zh": "金钱带来自由而非快乐，赋能他人即是富有",
+          "timestamp_sec": 767,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "walk around your school and look at what phone they're on what computer they use what shoes they wear what social media they're on ... find companies that you love the people the process the product and the profitability and go after that",
+          "summary_en": "Observe everyday consumer habits and loyal brands around you to spot winning industries and profitable companies to pursue.",
+          "summary_zh": "观察年轻人消费习惯以锁定优质赛道与公司",
+          "timestamp_sec": 793,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "do your homework don't look for the shortcut it's not about a get-rich quick scheme",
+          "summary_en": "Do your homework and avoid shortcuts or get-rich-quick schemes.",
+          "summary_zh": "做足研究功课，切忌寻找一夜暴富捷径",
+          "timestamp_sec": 816,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "The Einstein of Wall Street (NYSE Floor Trader)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Marcus Lemonis (People, Process, Product, and Profits framework)"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Stock Exchange Floor Trader, Board Member (5 companies) & Operator (7 companies)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "观察身边年轻人每天使用的手机、电脑、鞋履和社交媒体等消费品牌，从人、流程、产品和盈利能力四个维度做足功课再入局，切勿寻找一夜暴富的捷径。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "OtWKuR2hU68",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,293 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "you're gonna go out and focus on how to make income... I don't care if that's through starting a cleaning business",
+          "summary_en": "Focus on generating strong income first through practical service or sales businesses.",
+          "summary_zh": "先从务实的清洁或服务业生意赚取收入",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "this is where everybody goes wrong they make the money and then they take the money and they burn it on lifestyle",
+          "summary_en": "Avoid immediately blowing newly earned income on luxury cars, trips, and lifestyle inflation.",
+          "summary_zh": "不要刚赚到钱就挥霍在豪车享乐上",
+          "timestamp_sec": 203,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "you invest it into Cash flowing appreciating assets my vehicle right now is Section 8 real estate",
+          "summary_en": "Reinvest active earnings into cash-flowing, appreciating real estate like Section 8 properties to fund your lifestyle via passive income.",
+          "summary_zh": "将利润投入能产生现金流的升值房产",
+          "timestamp_sec": 240,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "because you had the financial discipline that I just talked about the right coaches the right mentors and the right advice",
+          "summary_en": "Get the right coaches and mentors so you make smart moves with your capital.",
+          "summary_zh": "依托自律与好导师的指导做出正确决策",
+          "timestamp_sec": 292,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "10岁开始涉毒贩卖，21岁戒毒重生，23岁白手起家创办戒毒治疗机构，13年后以1.15亿美元出售给私募股权支持的战略买家，同时出售约4000万美元底层房地产。",
+      "guest_name": "Eric Spofford",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Operations & Systems",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Real Estate Investor & Former Addiction Treatment Founder",
+      "wealth_detail": "Sold business for $115M; sold ~$40M underlying real estate; $20M home; $100M+ in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先通过务实生意或高收入销售赚取现金流，忍住诱惑不要立刻挥霍在奢侈享乐上，而是把利润投入能产生持续被动现金流的升值资产（如Section 8房产），打造源源不断的“钱流”而非一次性“钱堆”。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "it's not just about what's your cash flow it's what's the valuation... in three years I want to exit for 100 million",
+          "summary_en": "Prioritize building long-term enterprise valuation for a large exit rather than optimizing only for monthly cash flow.",
+          "summary_zh": "别只盯月现金流，要做高估值以实现大额退出",
+          "timestamp_sec": 381,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "most of society puts this traditional box system of I got to go to college make a hundred grand a year and that's their belief system",
+          "summary_en": "Reject society's conventional limits around college and six-figure salaries so making millions feels normal rather than unattainable.",
+          "summary_zh": "打破传统学历与年薪观念，重塑财富认知",
+          "timestamp_sec": 411,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "specifically for young people it's the power of the compounding effect... put it in an iul first and then you actually get to pull out 80 to 90 LTV",
+          "summary_en": "Harness compounding early—such as using overfunded life insurance (IUL) policies to compound capital while borrowing against it tax-free.",
+          "summary_zh": "趁年轻利用复利效应并合理运用资产抵押杠杆",
+          "timestamp_sec": 455,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "you need to learn how to stay optimistic through the failures because you will fail way more than you win",
+          "summary_en": "Stay optimistic through frequent failures so setbacks do not make you quit before succeeding.",
+          "summary_zh": "在频繁失败中保持乐观，绝不轻言放弃",
+          "timestamp_sec": 496,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you need to learn how to sell without sales there is no money... learn how to sell value that people will pay big money for",
+          "summary_en": "Master sales by learning how to deliver and communicate value that customers willingly pay big money for.",
+          "summary_zh": "必须学会销售，学会兜售高价值的解决方案",
+          "timestamp_sec": 556,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "never ever ever give up... believe in yourself you got that my man keep it going",
+          "summary_en": "Grind every single day, believe in yourself, and never give up on your dreams.",
+          "summary_zh": "永不放弃，每天坚持打拼并坚信自己",
+          "timestamp_sec": 580,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18岁放弃上大学，过去十年连续创业并扩展多家公司，如今与团队共同管理约800家亚马逊电商店铺，公司年营收超3500万美元、估值约1.4亿美元。",
+      "guest_name": "Ryan",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "E-commerce Entrepreneur (800 Amazon Stores)",
+      "wealth_detail": "Company did $35M+ revenue in the past year; valued at ~$140M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "打破“上大学拿十万年薪”的传统思维限制，坚定相信自己能实现百万千万级收入；经营企业要看重长期估值与退出空间；尽早利用复利与金融工具配置资产，在连续失败中保持乐观并练好高价值销售能力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I worked at least six seven jobs every summer I'd be busy you know I'd never just be chilling at home",
+          "summary_en": "Stay busy and work relentlessly from a young age instead of idling away your free time.",
+          "summary_zh": "年轻时勤奋打工，不虚度光阴保持行动",
+          "timestamp_sec": 662,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "surrounding yourself with people who have more and people doing good things it really motivates you",
+          "summary_en": "Surround yourself with driven, successful peers who raise your ambition and motivate you to act.",
+          "summary_zh": "主动接近更优秀成功的人，汲取向上动力",
+          "timestamp_sec": 684,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "I rather a billion followers than a billion dollars... with 250 000 followers and I Rely very heavily on social media I'm bringing in nine digits in Revenue",
+          "summary_en": "Build social media reach and marketing distribution because audience attention directly converts into massive revenue.",
+          "summary_zh": "深耕社交媒体与个人流量，实现营收放大",
+          "timestamp_sec": 703,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on Making More Over Penny-Pinching",
+          "category": "Business & Strategy",
+          "quote": "I believe to not worry about spending and just worry about making more just help me get wealthy",
+          "summary_en": "Focus on big-picture revenue growth and keeping your team happy to drive sales rather than obsessing over small expenses.",
+          "summary_zh": "别过度纠结省小钱，把精力聚焦在赚更多钱",
+          "timestamp_sec": 725,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身富裕家庭但未被溺爱，高中暑假曾打六七份工、仅开丰田RAV4；在大学账户只有3000美元时决心创业，五年内将高端手表、珠宝及汽车生意做到年营收超1亿美元。",
+      "guest_name": "Miami Luxury Watch & Jewelry Entrepreneur",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Luxury Watch, Jewelry & Car Entrepreneur",
+      "wealth_detail": "Over $100M/yr (9 digits) in company revenue",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时要多打工积累执行力，主动置身于优秀成功的圈子激发动力；全力依托社交媒体和市场营销打造个人流量变现渠道；少纠结小额开销，专注扩大营收并让团队保持高昂的销售状态。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I always knew I wanted to have a business and so I just started man I just got to it",
+          "summary_en": "Start executing immediately once you know you want to build a business instead of delaying.",
+          "summary_zh": "有创业想法就立刻行动，别犹豫直接开干",
+          "timestamp_sec": 764,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "one big important secret to scaling is not quitting... I always kept the main thing the main thing I burned the boats",
+          "summary_en": "Commit fully to one core business, absorb the early punches without jumping ship, and let that single tree bear fruit.",
+          "summary_zh": "规模化的秘诀是不退缩并破釜沉舟专注主业",
+          "timestamp_sec": 783,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you need to be able to sell with conviction... believe in your product so much that you truly believe that if you do not sell to that person you are [ __ ] them over",
+          "summary_en": "Sell with unshakable conviction in your product and delivery schedule so clients trust you even at a higher price.",
+          "summary_zh": "极度相信自己的产品，用绝对信念去成交",
+          "timestamp_sec": 822,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "get your ass in shape when you walk in a room people treat you differently... displaying discipline",
+          "summary_en": "Get in top physical shape because visible discipline earns instant respect and credibility in business rooms.",
+          "summary_zh": "练好身材展现自律，走到哪里都能赢得尊重",
+          "timestamp_sec": 877,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Stay Sober While Building in Your 20s",
+          "category": "Actionable Skills & Habits",
+          "quote": "try your best to stay sober if you're young... not my 20s I didn't I built that whole [ __ ] thing before I even started doing that",
+          "summary_en": "Stay sober and avoid drinking or vices in your 20s until you have built your business foundation.",
+          "summary_zh": "二十多岁创业期尽量保持清醒，少碰烟酒",
+          "timestamp_sec": 929,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "put yourself around other people that are on the same Mission as you even if you have to do that on the internet",
+          "summary_en": "Surround yourself with people on the same mission, even through online communities if none exist locally.",
+          "summary_zh": "主动融入与你使命同频的圈子，哪怕在网上",
+          "timestamp_sec": 938,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "be kind to those people... respectfully go your own Direction and don't put yourself around them if they're not on the same path as you",
+          "summary_en": "Stay polite toward doubters close to you, but distance yourself from people who are not on your path.",
+          "summary_zh": "礼貌远离不同频且不理解你的人，走自己的路",
+          "timestamp_sec": 947,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "2009年大学毕业后立即投身建筑与房地产行业创业，破釜沉舟深耕单一主业长达15年，如今公司年营收达3000万美元、个人年收入约500万美元。",
+      "guest_name": "Justin Waller",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Construction & Real Estate Entrepreneur",
+      "wealth_detail": "$30M annual revenue; ~$5M/yr personal earnings",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "一旦认准方向就立刻开干并死磕单一核心业务不半途而废；极度相信自己的产品并用底气和履约能力去销售；趁20多岁保持清醒自律（不碰烟酒）并练出强健体魄赢得尊重；远离不理解你的杂音，主动加入同频奋斗者的圈子。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "G2kqG3kDdGo",
+  "video_type": "street_multi"
+}

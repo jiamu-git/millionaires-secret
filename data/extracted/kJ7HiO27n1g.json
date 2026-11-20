@@ -1,0 +1,250 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Agile & Be First to Market",
+          "category": "Business & Strategy",
+          "quote": "that is the advantage of the small entrepreneur because they are dynamic they can change quickly bigger corporations it take them two or three years before they catch up to them so be the first",
+          "summary_en": "Use small-business agility to pivot rapidly and be first to market before large corporations can react.",
+          "summary_zh": "保持小企业灵活性，抢先转产抓风口",
+          "timestamp_sec": 99,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "don't get people involved venture capital or the investors at the initial stage put your skin in it hold on the equity as much it is possible to yourself give shares out and don't be afraid of it but don't lose the control of the company",
+          "summary_en": "Put your own skin in the game early instead of taking outside investors too soon, and retain as much equity and control as possible.",
+          "summary_zh": "初期慎引入风投，自己出资牢握股权",
+          "timestamp_sec": 133,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "14岁开始首次创业；早年从事石油和天然气行业，1990年曾出售一家如今已在纳斯达克上市的公司；2020年疫情爆发时迅速将服装厂全面转产防护服与口罩，成为当时洛杉矶唯一生产此类物资的工厂，单年收入达3000万美元。",
+      "guest_name": "Malibu Fashion Manufacturing Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Fashion Manufacturing Founder & Former Oil/Gas Entrepreneur",
+      "wealth_detail": "$30M peak single-year income (2020)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "创业初期避免过早引入风投或出让股权套现，要自己投入资金并牢牢守住股权与控制权；同时发挥小企业灵活优势，抢在大公司反应前率先抢占新风口。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Study Law & Analytical Thinking",
+          "category": "Actionable Skills & Habits",
+          "quote": "go to law school yeah I'm serious you learn a style of thinking you learn to be analytical and frankly the law plays such an important role in everything we do",
+          "summary_en": "Consider law school to build disciplined analytical thinking and understand the legal framework behind every business.",
+          "summary_zh": "去读法学院，培养分析思维并懂法律",
+          "timestamp_sec": 195,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "you can be really good at one thing but you can diversify within that thing for example commercial versus residential large residential versus small... location different states different cities",
+          "summary_en": "Become deeply skilled in one core industry and diversify internally across property types and geographic markets.",
+          "summary_zh": "深耕单一行业，在内部做业态和地域分散",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "if you stick at it and don't give up you'll probably come out all right",
+          "summary_en": "Endure economic downturns, depressions, and recessions without quitting, and long-term persistence will pay off.",
+          "summary_zh": "穿越经济周期坚持不放弃，终会有好结果",
+          "timestamp_sec": 239,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学主修美术（绘画与版画），之后转入房地产与物业管理行业深耕近50年，目前所在公司管理约25亿美元的房地产资产。",
+      "guest_name": "LA 50-Year Property Management Executive",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Property Management Executive (Nearly 50 Years in Real Estate)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "建议年轻人在进入商界前学习法律以培养分析思维；选定一个核心行业长期深耕，并在该领域内跨业态、跨地域分散风险，穿越经济周期坚持下去。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "part of it is it's a high ticket industry part of it's my background",
+          "summary_en": "Combine strong specialized credentials with a high-ticket industry to scale earnings quickly.",
+          "summary_zh": "选择高客单价赛道并依托专业壁垒",
+          "timestamp_sec": 293,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Strive to Be the Best in Your Field",
+          "category": "Mindset & Resilience",
+          "quote": "you should strive to be the best not just be another person kind of in the space",
+          "summary_en": "Aim to become the absolute best in your market rather than settling as just another participant.",
+          "summary_zh": "立志做到行业顶尖，拒绝平庸跟风",
+          "timestamp_sec": 309,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "the car is nothing the Lamborghini is nothing you're the Lamborghini it's you so you know the car is just reflection of your hard work",
+          "summary_en": "Remember that you—not material status symbols—are the true asset, and luxury rewards are merely a byproduct of hard work.",
+          "summary_zh": "你本身才是核心资产，豪车只是努力的映射",
+          "timestamp_sec": 328,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "you live and breathe it so you need to just find whatever you're passionate about and pursue that",
+          "summary_en": "Find work you are genuinely passionate enough to live and breathe every single day.",
+          "summary_zh": "找到真正热爱且愿全情投入的事业",
+          "timestamp_sec": 337,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Pivot Toward Your Strengths",
+          "category": "Business & Strategy",
+          "quote": "some people are better at things that they're not passionate about so sometimes what you start at is not where you end at in your career",
+          "summary_en": "Recognize where your true strengths lie and stay open to pivoting from your starting career path.",
+          "summary_zh": "顺应自身真正优势，必要时果断换赛道",
+          "timestamp_sec": 337,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "依托整形外科医学背景自己开设诊所，在高客单价的医美整形赛道中开业第一年即实现七位数年收入，现于卡拉巴萨斯和比佛利山庄拥有两家诊所。",
+      "guest_name": "Calabasas & Beverly Hills Plastic Surgeon",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Plastic Surgeon & Two-Clinic Practice Owner",
+      "wealth_detail": "North of 7 figures/yr ($1M+/yr)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "选择高客单价行业并立志做到顶尖而非随波逐流；找到能让人全情投入的事业，同时保持开放心态，根据自身真正擅长的方向调整职业轨道。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Automate Operations & Lower Unit Costs",
+          "category": "Business & Strategy",
+          "quote": "we effectively we automated and mechanized a lot of the manufacturing process... for us to make money at the labor that our customers would pay we had to make it cost less to us",
+          "summary_en": "Stay current on production technology and automate processes to reduce internal labor costs and expand margins.",
+          "summary_zh": "推进生产自动化以压低人工成本保利润",
+          "timestamp_sec": 397,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Pay Yourself First",
+          "category": "Wealth & Investing",
+          "quote": "pay yourself first... if you're having a lean month you take your money first before you pay anybody and then you make that money work for you",
+          "summary_en": "Pay yourself first—even in lean months—before paying anyone else, and put that capital to work.",
+          "summary_zh": "低谷期也要先付钱给自己，再钱生钱",
+          "timestamp_sec": 432,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I reinvested in my business cuz that's the business I knew I didn't buy property I didn't get out of my field I stayed in my field I bet on myself",
+          "summary_en": "Reinvest your capital into the business and industry you understand best instead of chasing unfamiliar side investments.",
+          "summary_zh": "把利润复投进最熟悉的本业，押注自己",
+          "timestamp_sec": 443,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "above all your integrity is all you got",
+          "summary_en": "Guard your integrity above everything else, because your reputation is ultimately all you have.",
+          "summary_zh": "诚信是立身之本，比一切都重要",
+          "timestamp_sec": 454,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创立并经营珠宝制造公司35年，约35岁成为百万富翁。在钻石和黄金价格高度透明的市场里，通过率先实现生产自动化与机械化大幅降低人工成本，使公司单年最高营收达到3500万美元。",
+      "guest_name": "Calabasas Jewelry Manufacturing Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Jewelry Manufacturing Business Owner (35 Years)",
+      "wealth_detail": "$35M peak annual business revenue; became a millionaire at 35",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "哪怕在经营清淡的月份也要坚持“先付钱给自己”，并把资金全部复投回自己最懂的核心业务里押注自己；持续用最新技术升级降本，并始终坚守诚信。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "when you're young you should put your eggs in one basket and just double down on whether it's your company or you know whatever it is and try to grow that versus trying to diversify",
+          "summary_en": "When young, concentrate everything into one basket and double down on growing your company instead of diversifying prematurely.",
+          "summary_zh": "年轻时把鸡蛋放进一个篮子全力加码",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "put in the long hours like I'm working about 12 13 hours a day even on the weekends... put in long hours and you're going to be successful",
+          "summary_en": "Commit to 12-to-13-hour workdays including weekends, and seek out partners and employees with the same drive.",
+          "summary_zh": "每天高强度投入12到13小时死磕到底",
+          "timestamp_sec": 522,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从初中八年级起便开始创业，22岁时已带领软件工程师招聘与管理平台 Micro1 运营两年多，团队规模约30人，当年公司总营收预计突破400万美元。",
+      "guest_name": "Micro1 Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Founder & CEO of Micro1 (Software Engineering Talent Platform)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "18岁等年轻阶段不要急着分散风险或考虑保守理财，而应把全部精力押注在一个项目上全力做大，并保持每天12至13小时、周末无休的高强度工作投入。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "kJ7HiO27n1g",
+  "video_type": "street_multi"
+}

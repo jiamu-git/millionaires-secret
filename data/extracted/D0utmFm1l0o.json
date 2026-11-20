@@ -1,0 +1,204 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "start small with what I started buying houses and I just kept building it up",
+          "summary_en": "Start small by buying houses and scale up gradually into larger commercial properties.",
+          "summary_zh": "小房起步滚雪球做大地产",
+          "timestamp_sec": 123,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Due Diligence & Exit Strategy",
+          "category": "Business & Strategy",
+          "quote": "when someone's selling something they're getting rid of a problem and you have to find out what the problem is then you have to create a strategy of how to exit",
+          "summary_en": "Identify the underlying problem a seller is offloading and map out your profit and exit strategy before buying.",
+          "summary_zh": "看清卖家痛点并规划退出策略",
+          "timestamp_sec": 159,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Manage Bank Disclosures Strategically",
+          "category": "Wealth & Investing",
+          "quote": "you never tell the bank everything... if there's a problem just tell them what they want to hear",
+          "summary_en": "Be strategic about financial disclosures to banks rather than volunteering every issue unnecessarily.",
+          "summary_zh": "向银行策略性报喜不报忧",
+          "timestamp_sec": 182,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "they want to do quick quick things it takes time got to work hard stay focused",
+          "summary_en": "Reject overnight-success impatience; building real wealth requires sustained hard work and focus over time.",
+          "summary_zh": "保持专注并脚踏实地长期苦干",
+          "timestamp_sec": 205,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "22岁时靠微薄资金（on a shoestring）开了两家珠宝店，亲自在街头推销、批发零售并前往意大利进货；随后从买小房子起步深耕地产35年，滚雪球发展到购入大型购物中心，曾在一笔600万美元的投资中赚取约4000万美元。",
+      "guest_name": "Las Vegas Shopping Center Real Estate Mogul (67yo)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Commercial Real Estate Investor & Shopping Center Owner",
+      "wealth_detail": "$40M profit on a $6M deal; bought $25M and $20M shopping centers",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要以为做地产必须先有很多钱，应从买小房子起步逐步积累；同时要脚踏实地长期苦干并保持专注，不要总想走捷径。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "every hustler has been broke it's how you respond",
+          "summary_en": "Going broke is a normal part of the entrepreneurial hustle; what defines you is how you bounce back.",
+          "summary_zh": "破产并不可怕关键看如何反弹",
+          "timestamp_sec": 269,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you got to stay 10 toes down... you're trying to build a long-term brand you got to be in it for the long haul",
+          "summary_en": "Stay fully committed and build with a 50-year brand horizon, strong foundation, and solid team.",
+          "summary_zh": "坚定投入并着眼五十年长期品牌",
+          "timestamp_sec": 288,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "you just got to know your numbers you got to know exactly what you're manufacturing... and make sure that you have all your ducks in a row in order to play in the big leagues",
+          "summary_en": "Know your exact unit costs and margins, and secure working capital and structure before taking on major retail purchase orders.",
+          "summary_zh": "算清成本利润与现金流再接大单",
+          "timestamp_sec": 322,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I had to build relationships and affluent communities... you got to go where the action is at... success is about proximity",
+          "summary_en": "Put yourself in affluent rooms and build genuine relationships because people buy from people they like.",
+          "summary_zh": "走进富裕圈层建立高价值人脉",
+          "timestamp_sec": 414,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "price is only an issue when value is absent",
+          "summary_en": "Focus on delivering unmistakable value so price becomes secondary for buyers.",
+          "summary_zh": "交付高价值后价格便不再是问题",
+          "timestamp_sec": 456,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在洛杉矶卡森贫困社区长大，创业近10年；通过自建印花加工厂（丝网印刷、DTG、DTF）掌握生产端并拉高利润率，最终促成与Nike、Nordstrom的合作订单以及Macy's、Tillys的快闪合作，实现年收入七位数。",
+      "guest_name": "Los Angeles Samoan-Polynesian Apparel Brand & Print Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Apparel Brand Founder & Print Manufacturer",
+      "wealth_detail": "7-figure annual earnings across businesses",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "做好长期深耕品牌的准备并搭建稳固基础与团队；算清制造成本、利润率和备货现金流再承接大订单；主动走出原有环境，去富裕圈层和行业大会建立高价值人脉。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "you have to put it down like a speeding ticket start the next day brand new it's not your fault and go make your money",
+          "summary_en": "Treat severe financial setbacks like a speeding ticket—move on immediately and start fresh the next day to rebuild.",
+          "summary_zh": "亏钱受挫后立即翻篇重新赚钱",
+          "timestamp_sec": 585,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Walk Away From Difficult Clients",
+          "category": "Business & Strategy",
+          "quote": "if it's so difficult on the front end you can't get past the first stage fire and move on because there's a lot of good people out there",
+          "summary_en": "Fire overly difficult prospects early in negotiations to protect your energy and prioritize healthy relationships.",
+          "summary_zh": "果断放弃难缠客户保护合作关系",
+          "timestamp_sec": 609,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "they borrow money from the feds at zero right as example they sell it to you at 10% they hit you with fees",
+          "summary_en": "Understand how banks profit off interest rate spreads and fees rather than assuming they act in your interest.",
+          "summary_zh": "认清银行利差与费用剥削的本质",
+          "timestamp_sec": 634,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I do strictly commercial... the bigger the deal it's a lot easier may take a little longer but you've got professionals and the team and the time to pull it off and do it right",
+          "summary_en": "Focus on commercial real estate where larger deals bring professional teams and better execution than residential.",
+          "summary_zh": "专注商业地产大单借专业团队成事",
+          "timestamp_sec": 690,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "your life's not for sure your business is not for sure... the only thing is for sure is that guy it's all about that vertical line we draw with God",
+          "summary_en": "Anchor your life in faith rather than temporary business, wealth, or circumstances.",
+          "summary_zh": "商业无常唯有信仰是稳固根基",
+          "timestamp_sec": 718,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "与兄弟及几名合伙人共同创立INX公司，最终以6亿美元出售给纽约的Presidio公司；此前曾因得克萨斯州政府援引主权豁免权拒付3000万美元合同款而破产，但随后迅速重启并创造巨额财富。",
+      "guest_name": "INX Co-Founder & Commercial Real Estate Investor (65yo)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Real Estate Underwriting",
+        "Networking & Relationships",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Co-Founder of INX & Commercial Real Estate Investor",
+      "wealth_detail": "$600M company sale (INX to Presidio); lost $30M in Texas contract",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "遭遇重大亏损或破产后要立刻翻篇，第二天全新出发继续赚钱；若用10万美元投资地产，应避开住宅市场而专注商业地产，依靠专业团队做大单，同时关注政府空置商业楼宇机会。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "D0utmFm1l0o",
+  "video_type": "street_multi"
+}

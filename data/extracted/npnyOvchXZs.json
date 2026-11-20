@@ -1,0 +1,330 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I get rich? ... worked hard.",
+          "summary_en": "Attributed his wealth from tech exits to hard work.",
+          "summary_zh": "靠努力工作积累财富",
+          "timestamp_sec": 77,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Motivated by Avoiding Poverty",
+          "category": "Mindset & Resilience",
+          "quote": "Never planned to be wealthy, just planned to avoid being poor.",
+          "summary_en": "Was driven by avoiding poverty rather than chasing wealth.",
+          "summary_zh": "初衷并非追求暴富而是避免贫穷",
+          "timestamp_sec": 100,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在科技行业创办了多家公司，并将其中一家公司以数亿美元的价格出售。",
+      "guest_name": "Austin Tech Founder (Multi-Hundred-Million Exit)",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Tech Founder (Sold Multiple Companies)",
+      "wealth_detail": "Sold tech company for several hundred million dollars",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "At the early stage, when you're a startup founder, it's hard. You need that resilience. You need that grit to carry on.",
+          "summary_en": "Early-stage startup founders need resilience and grit to endure hardship and keep going.",
+          "summary_zh": "初创期极度艰难，需要极强韧性与毅力坚持下去",
+          "timestamp_sec": 168,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "So whether there's doubt or not, this is what I'm going to do for the rest of my life. You can't fail when you know why you're here.",
+          "summary_en": "Knowing your purpose and sense of responsibility makes you unstoppable even when self-doubt arises.",
+          "summary_zh": "明确人生使命与责任，便能无惧自我怀疑",
+          "timestamp_sec": 224,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "If you're wrestling with God, you are closer to God... I'm always growing deeper in that faith through that process.",
+          "summary_en": "Actively questioning and wrestling with your faith deepens your spiritual growth and gratitude.",
+          "summary_zh": "保持信仰并与之深度思辨，持续在精神上成长",
+          "timestamp_sec": 244,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "You name a personal development book, uh business book, I've probably read [it].",
+          "summary_en": "Read extensively across personal development and business books to build deep knowledge.",
+          "summary_zh": "广泛阅读个人成长与商业书籍，持续汲取知识",
+          "timestamp_sec": 277,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Don't wait to be on our deathbed to actually have the courage to live a life that we care about. It's not thinking about it, it's not talking about it, it's actually doing it.",
+          "summary_en": "Don't wait until the end of your life to live authentically—stop just talking and start taking action now.",
+          "summary_zh": "别只停留在空谈，趁现在立刻行动活出精彩",
+          "timestamp_sec": 332,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "5岁随第一代移民家庭一无所有地来到美国，在海军陆战队服役并完成大学学业后，在健康与保健领域创办了第一家公司，如今名下拥有120家企业并运营投资退伍军人科技企业的基金。",
+      "guest_name": "Austin Marine Veteran & Tech Investor (The Veteran Fund)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Dr. Bronnie Ware (The Top Five Regrets of the Dying)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Managing Partner at The Veteran Fund & Portfolio Owner",
+      "wealth_detail": "Portfolio of 120 companies generating billions in annual revenue across the board",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "找到自己的人生使命与责任感，即便心存自我怀疑也要凭借坚韧与毅力去行动，不要等到临终才后悔没有勇敢做大事。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "If your friends think you're amazing, you're in the wrong circle. I like to be in the room where I'm the least most important person.",
+          "summary_en": "Surround yourself with accomplished peers so you are the least important person in the room and constantly learning.",
+          "summary_zh": "置身更优秀的圈子，做房间里最不起眼的人",
+          "timestamp_sec": 622,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "There was always the sense that God had a bigger purpose... just gave me confidence to start a business, to take a risk.",
+          "summary_en": "Draw confidence from a higher purpose to start a business and take risks despite humble beginnings.",
+          "summary_zh": "心怀笃定信念，敢于迈出创业和冒险的一步",
+          "timestamp_sec": 513,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "In healthcare, we're jumping on [AI] and say, 'Hey, if we can help more people in a less expensive way, make a bigger difference in their life, we are going to be in the very center of it.'",
+          "summary_en": "Adopt new technologies like AI to serve more people at lower cost and make a bigger impact.",
+          "summary_zh": "善用AI降本增效，为更多人创造更大价值",
+          "timestamp_sec": 557,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I can't get comfortable. I listen to a book a week. I listen to podcasts.",
+          "summary_en": "Refuse to get comfortable; listen to a book every week and learn continuously via podcasts and conversations.",
+          "summary_zh": "绝不安逸躺平，每周坚持听书持续精进",
+          "timestamp_sec": 644,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "If you really want to change the world, you got to understand it's not about you. I'm the least important. It's about what I can do for others.",
+          "summary_en": "Stay humble and grounded in faith and service—changing the world starts with realizing it's not about you.",
+          "summary_zh": "世界并非以你为中心，去思考能为他人做什么",
+          "timestamp_sec": 667,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You have to expect to hear no every day. If you aren't hearing no and feeling embarrassed, you ain't trying.",
+          "summary_en": "Treat daily rejection and embarrassment as normal proof that you are pushing hard and taking risks.",
+          "summary_zh": "把每天被拒绝当作常态，否则说明还不够拼",
+          "timestamp_sec": 689,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You can't worry about what people think about you... At 60, you realize they weren't even thinking about you in the first place.",
+          "summary_en": "Stop caring about others' opinions early in life so nothing holds back your growth.",
+          "summary_zh": "别在意他人眼光，早日活出无所畏惧的心态",
+          "timestamp_sec": 701,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在南非长大，曾被父亲赶出家门并一度住在车里。后来拿着约12万美元的年薪养育三个孩子，同时白手起家创办医疗健康企业，并于五年前以4.6亿美元出售（个人占股约一半）。",
+      "guest_name": "Clint (Healthcare Founder)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "The Purpose Driven Life by Rick Warren"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Healthcare Entrepreneur & Founder",
+      "wealth_detail": "Sold healthcare business for $460M (owned ~50%, ~$230M)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "明确神赋予的使命并全力以赴；主动融入比自己更优秀的圈层并保持谦卑学习；每周听一本书；把被拒绝当成常态，不要在意他人评价。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "There is a creator that loves us, that created us in his image on purpose and for a purpose... our God's not just all powerful, he's also all personal.",
+          "summary_en": "Ground your life in faith and gratitude, knowing you were created with a deliberate purpose.",
+          "summary_zh": "坚信自己被赋予使命而造，保持个人化的信仰",
+          "timestamp_sec": 876,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Chase Meaningless Success",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The greatest form of tragedy is being successful at everything that doesn't matter... I have screwed up on this so much in my life. I've been chasing things that just don't matter.",
+          "summary_en": "Regretted getting caught up in chasing deals and status that ultimately do not matter.",
+          "summary_zh": "切勿在无关紧要的事情上成功而迷失人生",
+          "timestamp_sec": 956,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Legacy Over Mere Inheritance",
+          "category": "Mindset & Resilience",
+          "quote": "Make your life count. Make it matter for things that are really important... inheritance is what you leave for someone, but I believe legacy is what you leave in someone.",
+          "summary_en": "Focus on the legacy you leave inside people rather than just accumulating deals, companies, or inheritance.",
+          "summary_zh": "注重留给他人的精神遗产，而非仅留下钱财",
+          "timestamp_sec": 990,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "被NFL丹佛野马队选中开启职业橄榄球生涯，22岁左右成为百万富翁，职业生涯单年最高收入约500万至1000万美元；退役后投身打击人口贩卖与儿童剥削的公益事业。",
+      "guest_name": "Tim Tebow",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "C.S. Lewis",
+        "The Bible"
+      ],
+      "recommended_skills": [],
+      "role_or_title": "Former NFL Player & Anti-Human-Trafficking Advocate",
+      "wealth_detail": "Became a millionaire around age 22; peak NFL single-year earnings of $5M-$10M",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要陷入盲目追逐下一个交易或公司的老鼠赛跑，把精力与成功投入真正重要、能改变他人生命的使命中。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "It's trust. If you don't trust one another to do what they say they're going to do, and if you don't show up and do the things that you say you're going to do, like it doesn't happen.",
+          "summary_en": "Mutual trust and consistently following through on your word are non-negotiable for business and life partners.",
+          "summary_zh": "合伙与婚姻的关键是相互信任，且说到做到",
+          "timestamp_sec": 1092,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Purpose is really big in business and in life... freedom doesn't equal purpose. So, I think even though we sold our company, we're not done. We're not going to retire.",
+          "summary_en": "Financial freedom doesn't replace purpose—keep building meaningful work with people you enjoy.",
+          "summary_zh": "财富自由不等于使命，因热爱而继续创造",
+          "timestamp_sec": 1101,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "It was almost to the penny of what our mortgage was. And it was like this amazing unlock to say like God is paving the way for us, and this was a sign for us to keep going.",
+          "summary_en": "In moments of near-bankruptcy, recognize provision and faith as a sign to persevere.",
+          "summary_zh": "在最拮据时坚定信念，感受神为自己开路",
+          "timestamp_sec": 1155,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody wants what people don't have. But the question is, are you willing to do what others won't do to get it? ... to be an entrepreneur and have the things that others can't get, like there's no balance.",
+          "summary_en": "Achieving extraordinary entrepreneurial results requires doing what others won't and accepting no early work-life balance.",
+          "summary_zh": "想要超越常人的成就，就得做别人不愿做的事",
+          "timestamp_sec": 1165,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Get comfortable with being uncomfortable. That's what it takes to build and scale a business... Really lean into them cuz that's where growth happens.",
+          "summary_en": "Lean into uncomfortable moments when scaling a business because discomfort is where growth happens.",
+          "summary_zh": "习惯并主动拥抱不适感，成长正发生在其中",
+          "timestamp_sec": 1188,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "This world was created by people no smarter than you and I. And so if you have a dream, like you're smart enough, you're capable enough. Like just put in the work and go get it.",
+          "summary_en": "Remember the world was built by people no smarter than you—believe you are capable and put in the work.",
+          "summary_zh": "世界由普通人创造，相信自己并全力以赴",
+          "timestamp_sec": 1223,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Embarrassment is the most underexplored emotion when it comes to success. You have to go out there and make a fool of yourself because once you make a fool of yourself, then comes refinement, then comes clarity, then comes confidence.",
+          "summary_en": "Willingly embarrass yourself repeatedly—that cycle creates refinement, clarity, and lasting confidence.",
+          "summary_zh": "别怕当众出丑，反复试错才能换来精进与自信",
+          "timestamp_sec": 1233,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "夫妻合伙创业初期极为拮据，搬到达拉斯6个月时刚生下第一个孩子且差点付不起房贷；在房贷到期前一天意外收到政府因未申报受抚养子女而退回的税务支票（金额几乎与房贷相等），两人一路坚持最终将公司以20亿美元出售给百事公司。",
+      "guest_name": "Allison & Husband (PepsiCo $2B Exit Co-Founders)",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Co-Founders (Sold Company to PepsiCo)",
+      "wealth_detail": "Sold company to PepsiCo for $2 billion",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "愿意付出别人不愿付出的牺牲（初期没有所谓平衡），习惯并迎难而上应对不适感，不怕在外面反复出丑试错以换取清晰度与自信，相信自己和普通人一样有能力实现梦想。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "npnyOvchXZs",
+  "video_type": "street_multi"
+}

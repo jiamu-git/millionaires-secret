@@ -1,0 +1,258 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "all I did every single day without exaggeration I showed up at work early and I stayed late I was the first one there and the last one to leave",
+          "summary_en": "Show up early and stay late every single day with relentless work ethic.",
+          "summary_zh": "连续三年半早出晚归拼命工作",
+          "timestamp_sec": 2344,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "you need to eat good you need to take care of yourself and you need to stay out of no free time because free time is where drug dealers live free time is where depression and the devil live",
+          "summary_en": "Take care of your health, keep urgency in your schedule, and eliminate idle free time that breeds trouble.",
+          "summary_zh": "消除空闲时间，保持规律作息与紧迫感",
+          "timestamp_sec": 181,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "stay off the drugs off the porn off the chicks you're a young guy hustling you leave women alone save all that for later get rich",
+          "summary_en": "Eliminate distractions like drugs, pornography, and chasing romance while young so you can focus entirely on building wealth.",
+          "summary_zh": "年轻时远离毒品、色情和女色诱惑专注赚钱",
+          "timestamp_sec": 132,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I changed all my friends changed everywhere I went gave up a girlfriend gave up all the buddies quit going to those places",
+          "summary_en": "Cut off negative peers, unproductive hangouts, and wrong crowds when turning your life around.",
+          "summary_zh": "彻底换掉损友圈子与不良社交场所",
+          "timestamp_sec": 2306,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "you got to quit comparing yourself to everybody else what I do is I compare myself to the amount of money on the planet",
+          "summary_en": "Stop limiting yourself to $1M or middle-class benchmarks; calibrate your goals against the abundance of global capital.",
+          "summary_zh": "别只跟身边人比，要对标全球流通货币总量",
+          "timestamp_sec": 536,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "what's that cost what does it take to do that... I started doing the math I play with my phone all the time doing the math",
+          "summary_en": "Constantly run the numbers on costs, margins, and scale so you understand what big wealth actually requires.",
+          "summary_zh": "随时算清财务与成本账，用数字驱动决策",
+          "timestamp_sec": 2505,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to attach yourself to people because you cannot get money there's no money that will ever come to another human being without going through another human being",
+          "summary_en": "Learn to connect and build relationships with people because all money flows through other human beings.",
+          "summary_zh": "财富通过人流向你，学会与人建立连接",
+          "timestamp_sec": 592,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "wealth does not stop Rich stops when you die you pay your estate taxes the kids split it up money's gone wealthy people just keeps going",
+          "summary_en": "Build enduring brands and scalable assets that outlive you rather than relying solely on a high-paying active income.",
+          "summary_zh": "打造能跨代延续的品牌与资产，而非死工资",
+          "timestamp_sec": 678,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "do not save money don't plan for retirement take every penny you earn from every person you meet and reinvest that money in something that it's your business your marketing your brand your information",
+          "summary_en": "Don't hoard cash early; reinvest every earned dollar back into your business, marketing, brand, and capabilities.",
+          "summary_zh": "别死存钱，把赚到的钱全投向自己和业务",
+          "timestamp_sec": 931,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "build a brand you're building one anyway... I'm gonna make some noise and if you keep getting out there making noise you're going to figure out",
+          "summary_en": "Actively build a personal brand and consistently put yourself out there until the market recognizes you.",
+          "summary_zh": "持续发声打造个人品牌，吸引市场关注",
+          "timestamp_sec": 955,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "in the beginning you're going to be awkward and you're going to be an idiot and you're going to be made fun of",
+          "summary_en": "Accept looking awkward and facing ridicule early on, and keep showing up anyway until you master it.",
+          "summary_zh": "允许初期笨拙和被嘲笑，坚持每天上场",
+          "timestamp_sec": 977,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "my third deal it took three years I learned I went and started spending time and energy and resources and learning real estate",
+          "summary_en": "Invest dedicated time, energy, and resources into studying your target asset class before swinging big.",
+          "summary_zh": "投入时间精力深度学习房产等专业知识",
+          "timestamp_sec": 1134,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "you need a commitment you need to quit making all these excuses what you need is a commitment",
+          "summary_en": "Commit first and stop making excuses about lacking capital or credit—figure out how after committing.",
+          "summary_zh": "先下定决心行动，别找借口等待资金或信用",
+          "timestamp_sec": 1216,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "the bank doesn't lend Grant the money the bank lends the LLC the apartment complex... wealthy people don't have credit scores they got assets",
+          "summary_en": "Finance income-producing assets through business entities so the property's cash flow supports the loan rather than personal credit.",
+          "summary_zh": "用实体资产主体借好债，而非依赖个人信用分",
+          "timestamp_sec": 1246,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "start buying real estate next 18 months is going to be the greatest real estate opportunity in your lifetime... go buy as much real estate as you can",
+          "summary_en": "Buy scalable, cash-flowing real estate—especially multifamily properties during market discounts—rather than stopping at single units.",
+          "summary_zh": "趁低点买进规模化现金流房产，别买单套小房",
+          "timestamp_sec": 2626,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "people want to win something right I want to get lucky but you're not going to get lucky",
+          "summary_en": "Do not waste money or time hoping to get lucky on lotteries or shortcuts; build real value instead.",
+          "summary_zh": "别指望买彩票碰运气，致富靠实力而非侥幸",
+          "timestamp_sec": 1425,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "when I started looking at billionaires I'm like okay how many are there... if there's 10 of them what do they do all I'm going to do is go track what that cat did",
+          "summary_en": "Study and model what billionaires and top winners actually do, and follow where big money concentrates.",
+          "summary_zh": "盯紧并效仿十亿富豪的做法，跟着钱走",
+          "timestamp_sec": 1466,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "my first business couldn't scale it just it was in a very tiny vertical... now we're in 10x health that thing's scalable to the hundreds of billions of dollars",
+          "summary_en": "Avoid tiny niche verticals with low ceilings and choose massive, scalable markets.",
+          "summary_zh": "避开天花板极低的小赛道，选百亿级大市场",
+          "timestamp_sec": 1897,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "if you've got 3 000 employees you don't have a problem... you have a manager or two that has 3 000 problems but you don't have them anymore",
+          "summary_en": "Scale your organization and put capable managers in place so you are not held hostage by a handful of employees or clients.",
+          "summary_zh": "把团队做大并用职业经理人管理，摆脱琐事",
+          "timestamp_sec": 1873,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "80 percent of everything we do here is free now the 20 percent that pay me you know this year will pay me 150 million dollars... they came into my funnel... can I serve them when they're ready to pay",
+          "summary_en": "Give massive free value upfront to build a large audience funnel, then serve them with paid offers when they are ready.",
+          "summary_zh": "先免费提供海量价值吸粉，再转化付费客户",
+          "timestamp_sec": 2081,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "closing people is when you service them for the first time... when somebody actually buys your product service offer whatever your offer is that's when you finally service them",
+          "summary_en": "Reframe closing a sale as the first moment you truly serve the customer, and focus on earning repeat business.",
+          "summary_zh": "成交才是服务客户的开始，并持续促进复购",
+          "timestamp_sec": 2218,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "one of my downfalls was I didn't use it correctly I saved it I just stored it stacked it over and over and over again... I wouldn't stack money at all",
+          "summary_en": "Regrets letting cash sit idle in savings instead of deploying it sooner into self-development, business growth, and real assets.",
+          "summary_zh": "后悔早期只顾存现金，未及时投入自我与资产",
+          "timestamp_sec": 2588,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "at some point you want to quit investing in you in the business you want to invest in a third thing you want to invest in some real asset something outside of this thing that you're doing",
+          "summary_en": "Once your active business generates surplus cash, diversify into external real assets that create separate income streams.",
+          "summary_zh": "业务稳定后将利润配置到外部实体资产增收",
+          "timestamp_sec": 2614,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "25岁戒掉恶习后连续三年半每天早出晚归做销售积累本领；随后涉足房产投资，前两套独栋房产月现金流仅200美元，30岁时在无信用记录和自有资金的情况下募资35万美元拿下第3笔48套公寓项目，净赚370万美元实现财富跃迁。",
+      "guest_name": "Grant Cardone",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Marketing & Distribution",
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Real Estate Investor, Entrepreneur & Author (Cardone Capital / 10X)",
+      "wealth_detail": "Billionaire; $5B real estate portfolio (12,000 units), $1.1B raised via crowdfunding, $155M/yr revenue",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "消除空闲时间以杜绝懒散与诱惑，学会通过人脉建立连接（财富通过人流向你）；初期别死存现金，将赚到的每一分钱再投资于个人能力、品牌和业务，积累后尽早转向规模化的现金流房产等实体资产。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "yOSsd1Tpno4",
+  "video_type": "deep_dive_single"
+}

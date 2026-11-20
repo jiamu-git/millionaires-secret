@@ -1,0 +1,229 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "embracing the struggle realizing that the struggle is what makes you you is what's going to help you get to where you want to be",
+          "summary_en": "Embrace hardship because the struggle shapes you into the person capable of stewarding success.",
+          "summary_zh": "拥抱磨难，苦难造就未来成事的你",
+          "timestamp_sec": 115,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "realizing that you know God does everything for a reason... don't just sit there and pray but work towards it and work on those prayers",
+          "summary_en": "Trust that there is a bigger picture, and pair your faith and prayers with relentless action.",
+          "summary_zh": "心怀信仰，祈祷的同时更要付诸行动",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "you're going to get there it's only a matter of time but you have to focus on your own race",
+          "summary_en": "Stay locked in on your own lane and timeline rather than comparing yourself to others.",
+          "summary_zh": "专注自己的赛道，不被外界干扰",
+          "timestamp_sec": 135,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "going from 7 to8 figures you need to start delegating and relieving your time... find people who are smarter than you... pay people what they valued at",
+          "summary_en": "To scale from 7 to 8 figures, drop the solopreneur mindset, hire people smarter than you, and delegate.",
+          "summary_zh": "雇佣比自己更聪明的人并学会授权",
+          "timestamp_sec": 153,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build a Wealth Stewardship Mindset",
+          "category": "Mindset & Resilience",
+          "quote": "it's 80% mindset and 20% skill set... you can't start thinking about making money until you are in the mind to learn how to Steward that money and multiply that money",
+          "summary_en": "Success is 80% mindset and 20% skillset; build the mindset to steward and multiply money before chasing it.",
+          "summary_zh": "先修炼驾驭与倍增财富的心智",
+          "timestamp_sec": 211,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "5岁目睹母亲去世，16岁挚友被枪杀，17岁被大学退学后投身电商，19岁成为百万富翁，22岁实现单年营收3000万-3200万美元（利润约1900万美元）。",
+      "guest_name": "Miami 22-Year-Old E-commerce Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "E-commerce Founder",
+      "wealth_detail": "$30M-$32M revenue and ~$19M profit in a single year; became a millionaire at 19",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "接纳人生磨难并用行动践行信仰，专注自己的节奏；想从七位数突破到八位数必须学会授权并聘请比自己更聪明的人才，同时先修炼管理与倍增财富的心智。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you could have a Timex watch you could have a Rolex watch they will both tell you the right time... so it's not a question of money it's a question the way you are the way you treat life the way you treat yourself the way you treat others",
+          "summary_en": "Luxury watches and cars serve the same basic function as cheap ones; focus on character and how you treat people, not status symbols.",
+          "summary_zh": "别为炫耀挥霍，做人与待人之道更重要",
+          "timestamp_sec": 364,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "when you hit bottom the only way to go is up okay so you can hit bottom but then from there you go up and start going to the top",
+          "summary_en": "Do not fear hitting rock bottom; once you are at the bottom, the only direction left is up.",
+          "summary_zh": "跌入谷底时不要绝望，唯一的路就是向上",
+          "timestamp_sec": 395,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Know Yourself & Think Critically",
+          "category": "Mindset & Resilience",
+          "quote": "know thyself you got to know yourself you got to know what's good for you what's not good for you use your brain use the brain that God gave you",
+          "summary_en": "Know yourself deeply, recognize what is good or bad for you, and actively use your brain.",
+          "summary_zh": "认识你自己，善用头脑分辨是非利弊",
+          "timestamp_sec": 411,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Rick Sauce",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Serial Entrepreneur (Former Strip Club, Jewelry Store, Gambling Ship & Movie Studio Owner)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "看淡物质攀比，把重心放在个人修养和待人接物上；即便跌入谷底也要向上攀登，认识自己并善用头脑。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "get a better education if I had a better education it be a lot further along a lot younger... college degree is definitely not necessary to be successful but it gives you the tools to make better decisions",
+          "summary_en": "Invest in getting a strong education early; while a degree is not required, education equips you to make better decisions faster.",
+          "summary_zh": "趁早多读书受教育，提升决策能力",
+          "timestamp_sec": 490,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "take the risk can't take the risk and not going to get the reward that's what it comes down to take the risk or lose the chance",
+          "summary_en": "You cannot earn big rewards without taking risks; take the leap or lose the opportunity.",
+          "summary_zh": "敢于承担风险，不冒风险就没有回报",
+          "timestamp_sec": 509,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "that is one denominator we just can't teach you have to believe in yourself",
+          "summary_en": "Unshakable self-belief is the one essential trait nobody else can teach you.",
+          "summary_zh": "培养无人能替的强大自信，相信自己",
+          "timestamp_sec": 535,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18岁开始创业进入娱乐行业，曾经经历过破产/身无分文，24岁成为百万富翁，单年最高赚取2500万美元。",
+      "guest_name": "Franco",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Entertainment Business Owner",
+      "wealth_detail": "$25M in a single year; became a millionaire at age 24",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "尽早接受良好的教育以获得更好的决策工具，勇于承担风险抓住机会，并建立坚定不移的自信。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "they're all super super super hungry... and they execute it's not all BS like they'll execute on their craziness so I'd say hunger and actually executing on it",
+          "summary_en": "Top performers share an intense hunger to reach the next level paired with relentless execution.",
+          "summary_zh": "保持极度饥饿感并迅速将想法落地执行",
+          "timestamp_sec": 643,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "it's the Bible bro... just go read on the entrepreneurship lessons... and then yeah you got other books that will I think complement even the Bible like Think and Grow Rich",
+          "summary_en": "Study the entrepreneurship lessons in the Bible alongside foundational books like Think and Grow Rich.",
+          "summary_zh": "精读圣经与思考致富等书籍汲取创业智慧",
+          "timestamp_sec": 695,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "this wouldn't happened without my faith without the woman that I'm with which is my wife for almost a decade... it's my faith it's my marriage and then I have friends that have been with me for years",
+          "summary_en": "Build strong spiritual pillars—faith, a supportive marriage, and loyal longtime friends—to anchor you through rocky times.",
+          "summary_zh": "以信仰、婚姻与挚友作为逆境中的精神支柱",
+          "timestamp_sec": 717,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "if you're in doubt do not doubt bro do not doubt okay you can do it... if you have those goals and dreams in your life you will get it",
+          "summary_en": "Eliminate self-doubt and hold firm belief that you can achieve your goals and dreams.",
+          "summary_zh": "不要自我怀疑，坚定相信自己的目标与梦想",
+          "timestamp_sec": 756,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "for you to build the confidence you got to hit the goals... design the timeline and the process to do it and it's daily steps daily promises to yourself don't break promises to yourself",
+          "summary_en": "Build genuine confidence by designing a process and timeline, hitting daily goals, and never breaking promises to yourself.",
+          "summary_zh": "制定时间线，靠每天信守自我承诺建立自信",
+          "timestamp_sec": 776,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾极度贫困，靠他人捐赠食物维持家庭数周生计；4年前创办医疗健康公司，单年最高赚取1000万美元。",
+      "guest_name": "Dr. D",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "Think and Grow Rich"
+      ],
+      "recommended_skills": [],
+      "role_or_title": "Healthcare Company Owner",
+      "wealth_detail": "$10M in a single year (business owner for 4 years)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持极度渴望成功的饥饿感并全力执行；建立信仰、婚姻和挚友组成的精神支柱；制定目标时间表，每天严格兑现对自己的承诺来积累真正自信。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "hRFCQAIa0gA",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,318 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Delay Gratification & Think Long-Term",
+          "category": "Mindset & Resilience",
+          "quote": "Most people will sacrifice what they want most for what they want now and now is the most expensive word in the English language. You got to be able to hang into things for the long haul.",
+          "summary_en": "Avoid sacrificing long-term goals for instant gratification and commit to the long haul.",
+          "summary_zh": "延迟满足，坚持长期主义",
+          "timestamp_sec": 89,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I would say go to church, pray...",
+          "summary_en": "Turn to faith and prayer to ground yourself and get back on track.",
+          "summary_zh": "保持信仰、常去祈祷以重塑人生",
+          "timestamp_sec": 139,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Learn, be curious, figure out how things work and learn how to articulate that to other people.",
+          "summary_en": "Stay curious, learn how things work, and master communicating that knowledge clearly.",
+          "summary_zh": "保持好奇并深究原理，学会清晰表达",
+          "timestamp_sec": 139,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Scalable Recurring Revenue",
+          "category": "Business & Strategy",
+          "quote": "Think about businesses that generate recurring revenue that is non-transactional... scalability is a really important part of business.",
+          "summary_en": "Build scalable, non-transactional retainer businesses that generate recurring revenue rather than chasing one-off deals.",
+          "summary_zh": "打造非一次性交易的可规模化持续性收入",
+          "timestamp_sec": 161,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "I'm faithful to my wife, my family... just stay focused and do the right thing.",
+          "summary_en": "Stay faithful to your family, remain trustworthy, stay focused, and do the right thing.",
+          "summary_zh": "忠于家庭与原则，专注做正确的事",
+          "timestamp_sec": 205,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在金融投资与财富管理行业深耕40年，36岁成为百万富翁；13年前离开经纪行业创办自己的财富管理公司，规模扩大至原先经纪业务的约7倍，年收入最高达600万美元。",
+      "guest_name": "Houston Wealth Management Firm Founder (64)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Public Speaking & Communication",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Owner, Wealth Management Firm",
+      "wealth_detail": "$6M peak single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "去教堂祈祷、保持好奇心并不断学习，搞清楚事物运作原理并学会向他人清晰表达；切入能产生非一次性交易、可规模化的持续性收入（Recurring Revenue）商业模式。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "What keeps people broke in today's world? Ignorance... the way that you can collapse time is knowledge, right? So everywhere you feel like there's darkness, search for all of the knowledge that is allocated to getting you the results that you seek.",
+          "summary_en": "Eliminate ignorance by actively seeking targeted knowledge to collapse the time needed to get results.",
+          "summary_zh": "用知识消除无知，压缩成功所需时间",
+          "timestamp_sec": 276,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I would say cybersecurity... it's costing my country like 10% of its GDP, like hundreds of billions of dollars. So if you can be the kind of person that goes into an organization and helps protect the organization... you'll get the money you're looking for.",
+          "summary_en": "Enter massive, high-pain industries like cybersecurity where solving costly problems makes earning inevitable.",
+          "summary_zh": "切入痛点巨大、规模千亿级的刚需行业",
+          "timestamp_sec": 286,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Everywhere that I wanted to go, someone had already gone, and so I just needed to find people who had already gotten there, follow whatever it is that they did... you can take 10 years and collapse it into one getting around the right person.",
+          "summary_en": "Find people who have already achieved your goal and follow their blueprint to collapse 10 years into 1.",
+          "summary_zh": "追随已经拿到结果的人，把十年缩成一年",
+          "timestamp_sec": 314,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "约6年前（72个月前）仍身无分文，后创办网络安全公司帮助企业防御网络攻击，公司月营收突破100万美元，27岁当年成为百万富翁。",
+      "guest_name": "Houston Cybersecurity Founder (27)",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder, Cybersecurity Company",
+      "wealth_detail": "Company doing $1M+/mo (7 figures a month); became a millionaire at 27",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "通过主动学习消除认知盲区，寻找已经拿到目标结果的人并复制其路径，把十年的摸索压缩成一年；选择像网络安全这样能解决巨大商业痛点的行业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'd start in banking... if you understand where the money's coming from or who's got the money and how that all works, then you can do a lot more things and then you benefit personally a bit more from it.",
+          "summary_en": "Start in finance or banking to understand capital flows and who holds the money rather than staying purely technical.",
+          "summary_zh": "早入金融圈懂资金流向，勿只埋头做技术",
+          "timestamp_sec": 385,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Super aggressive, took a lot of risk, worked our asses off, and got in at the right time in the early stages when Mexico opened up and we were there and we took that risk and drilled that first well.",
+          "summary_en": "Be aggressive, enter emerging market openings early, and take bold calculated risks to scale from 8 to 9 figures.",
+          "summary_zh": "抓住早期窗口果断冒险，敢于下重注",
+          "timestamp_sec": 405,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Hustle your ass off, yeah, study, talk to people.",
+          "summary_en": "Outwork everyone, keep studying, and talk to people.",
+          "summary_zh": "拼命努力、持续钻研并主动与人交流",
+          "timestamp_sec": 417,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's all about people and work with good people. I've been working with this guy for 15 years cuz I trust him.",
+          "summary_en": "Build your career around trustworthy, high-character people you can partner with for decades.",
+          "summary_zh": "商业本质是人，与值得信赖的人长期共事",
+          "timestamp_sec": 417,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Our job is just to do one thing. We don't have to solve everything, but that one thing that you can do in your life can impact a country, impact an economy.",
+          "summary_en": "Focus on executing one core thing extraordinarily well rather than trying to solve everything.",
+          "summary_zh": "专注做好一件事，就能产生巨大涟漪效应",
+          "timestamp_sec": 428,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期从事地球物理与地质技术工作，在石油天然气行业深耕35年、60岁左右成为百万富翁；后来抓住墨西哥市场开放的早期时机冒险钻出第一口大油井，最终将公司以7.4亿至7.9亿美元出售，个人单年最高收入达800万美元。",
+      "guest_name": "Houston Oil & Gas Co-Founder (65)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Technical / Engineering",
+        "Networking & Relationships",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Co-Founder & Executive, Oil & Gas Company",
+      "wealth_detail": "$8M peak single-year income; company sold for $740M-$790M (with contingencies)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "如果重来会从银行业/金融起步，理解资金来源与资本运作而非仅做技术打工人；扩大企业规模需要极具进取心、抓住早期机遇敢于承担风险，并与值得信赖的好伙伴长期共事。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "If you want to go fast go by yourself, but if you want to go farther go with people together... take care of your people because if you take care of your people they will take care of your business.",
+          "summary_en": "Put together the right leadership and team structure and take great care of your people so they take care of the business.",
+          "summary_zh": "组建并善待核心团队，靠团队才能走得更远",
+          "timestamp_sec": 480,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You want to make money, especially in the United States, I wouldn't say entrepreneurship, you just got to go to commission sales, no questions.",
+          "summary_en": "Start in commission sales rather than jumping straight into entrepreneurship to build income and meet great people.",
+          "summary_zh": "想赚钱先从高佣金销售起步，锻炼成交能力",
+          "timestamp_sec": 536,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I knew I was going to be successful no matter what... invest in myself and here we are now.",
+          "summary_en": "Maintain unshakeable self-belief despite starting with nothing and continuously invest in yourself.",
+          "summary_zh": "坚定相信自己必能成功，持续投资自我",
+          "timestamp_sec": 548,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Do not let social media fool you because it's one thing reality with the reality of social media, so do not get caught up on the online gurus per se, all these people that they want to teach you how to make money.",
+          "summary_en": "Ignore social media illusions and online get-rich-quick gurus instead of getting trapped in their rat race.",
+          "summary_zh": "警惕社媒虚幻滤镜与网络致富导师陷阱",
+          "timestamp_sec": 569,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you want to learn something I think you can go to YouTube, you can go to Google... I go to ChatGPT... now we have so much free data.",
+          "summary_en": "Leverage abundant free resources like YouTube, Google, and ChatGPT to learn anything instead of paying gurus.",
+          "summary_zh": "善用YouTube、谷歌和AI等免费工具自学",
+          "timestamp_sec": 583,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "You don't really need a guru, but you might need a mentor.",
+          "summary_en": "Skip paid online gurus and seek a genuine mentor instead.",
+          "summary_zh": "不需要卖课网红，但需要真正的实战导师",
+          "timestamp_sec": 594,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Work your butt off and just keep going.",
+          "summary_en": "Work relentlessly hard and keep pushing forward.",
+          "summary_zh": "脚踏实地拼命干，保持行动不要停下",
+          "timestamp_sec": 606,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "来自洪都拉斯，儿时上学甚至没鞋穿，14岁赴美时不会英语；从佣金制销售起步积累人脉与实战经验，27岁成为百万富翁，后创办太阳能公司，单年最高收入达230万美元。",
+      "guest_name": "Houston Solar Company Founder (34)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Networking & Relationships",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder & Owner, Solar Company",
+      "wealth_detail": "$2.3M peak single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "想在美国赚钱先从佣金制销售而非盲目创业起步；脚踏实地拼命工作、投资自己，善用YouTube、Google和ChatGPT等免费信息与真正导师，远离社交媒体虚幻攀比和“成功学大师”。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I'm not in the lumber business, I'm in the people business... when you start getting at a certain level you do have to start considering letting go of certain things. The business owner can't be worried about the price of the toilet paper.",
+          "summary_en": "Scale by identifying great people and delegating minor operational details instead of micromanaging.",
+          "summary_zh": "识人用人并学会放权，老板不能事必躬亲",
+          "timestamp_sec": 646,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Execute With Precision & Follow-Through",
+          "category": "Business & Strategy",
+          "quote": "Ideas are cheap, execution is everything... it's not just taking action, it's how you execute, it's the follow through, it's the precision, it's the focus.",
+          "summary_en": "Focus on execution quality, precision, and follow-through since original ideas are cheap.",
+          "summary_zh": "点子廉价，精准专注与彻底跟进才是关键",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "35岁成为百万富翁，经营木材行业公司，2022年公司年营收达1.94亿美元。",
+      "guest_name": "Houston Lumber Industry Business Owner (54)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Business Owner, Lumber Industry",
+      "wealth_detail": "Company did $194M in 2022; became a millionaire at 35",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "靠识别并聘用优秀人才、逐步放权来突破8位数到9位数营收瓶颈；点子不值钱，核心在于专注、精准和彻底跟进的执行力。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "eSkosEaDnDw",
+  "video_type": "street_multi"
+}

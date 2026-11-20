@@ -1,0 +1,323 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I always made sure that I'd never over levered myself and I always paid my partners back as quick as I can, my banks off as quick as I can before I took money myself.",
+          "summary_en": "Never over-leverage yourself, and always pay back partners and banks before taking money for yourself.",
+          "summary_zh": "切勿过度加杠杆，优先还清合伙人与银行债务",
+          "timestamp_sec": 140,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Mike Milken helped me learn business, he gave me my business degree, and Harry Reid taught me about politics and policy.",
+          "summary_en": "Learn business and policy directly from accomplished mentors rather than relying solely on formal schooling.",
+          "summary_zh": "向商界与政界顶尖导师学习实战商业经验",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Listen. The customer, your friends, your bankers will always tell you the pathway. Listen, deliver equal or greater value.",
+          "summary_en": "Listen closely to customers and stakeholders—they will show you the path—and deliver equal or greater value.",
+          "summary_zh": "用心倾听客户与伙伴反馈并交付超额价值",
+          "timestamp_sec": 173,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Put the pen across the table and the first person who talks loses... when the deal is ripe it solves itself, just put the pen across the table and shut up.",
+          "summary_en": "In negotiations, present the terms and stay silent—let the other side speak first once the deal is ready.",
+          "summary_zh": "谈判桌递出笔后保持沉默，先开口者往往吃亏",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "I never negotiated rate. I always made sure my banks made a lot of money with me... everyone was always paid back early.",
+          "summary_en": "Make sure your banks and investors profit alongside you and get paid back early so they always back you.",
+          "summary_zh": "不与银行斤斤计较，让合作方早回本共赢赚钱",
+          "timestamp_sec": 209,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "You got to stay out of one zip code: the zip code of bad people. If they're around your life, make them go away.",
+          "summary_en": "Cut bad or untrustworthy people out of your life immediately and stay out of their circle.",
+          "summary_zh": "果断远离不良圈子与品行不端之人",
+          "timestamp_sec": 259,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You are who you hang around with, so hang around people that are smarter than you always, that are more successful than you, learn, learn, learn.",
+          "summary_en": "Surround yourself with people who are smarter and more successful than you and continuously learn from them.",
+          "summary_zh": "常与更聪明更成功的人为伍并持续向其学习",
+          "timestamp_sec": 271,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "There's no free lunch, there's no lottery... you have to earn it the old-fashioned way: work hard.",
+          "summary_en": "Reject get-rich-quick luck—there is no free lunch, and lasting wealth must be earned through hard work.",
+          "summary_zh": "世上没有免费午餐与捷径，必须靠努力踏实赚钱",
+          "timestamp_sec": 283,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "When you're leasing a Lamborghini or leasing a house in Bel Air or Beverly Hills you can't afford it, don't stay there, don't drive it until you can pay cash for it.",
+          "summary_en": "Avoid leasing luxury cars or mansions you cannot afford—wait until you can pay cash for them.",
+          "summary_zh": "买不起就别租豪车豪宅，能全款支付再消费",
+          "timestamp_sec": 293,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "父亲破产后背负2000万美元债务起步，在酒店业从端盘子一路做到董事会，最终创立Diamond Resorts International并卖给希尔顿。",
+      "guest_name": "Diamond Resorts International Founder",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Mike Milken (business mentorship)",
+        "Harry Reid (politics and policy mentorship)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder, Diamond Resorts International (Hospitality)",
+      "wealth_detail": "Billionaire; built company worth $2.2B-$3.3B enterprise value (sold to Hilton)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I had no money, but he offered me basically sweat equity... I don't put in any money, but I have 50% equity.",
+          "summary_en": "Even when starting with zero capital, negotiate sweat equity so you own meaningful upside for running the business.",
+          "summary_zh": "没本钱时可用精力换取股权，积极争取干股机会",
+          "timestamp_sec": 368,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Ask your employees, ask your customers what's working for you, what's not... most people don't want to hear bad feedback cuz it hurts.",
+          "summary_en": "Seek out uncomfortable feedback from employees and customers so you can see and fix what is broken.",
+          "summary_zh": "勇于倾听员工和客户的负面反馈并及时修正问题",
+          "timestamp_sec": 411,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "The littlest things can make some of the biggest differences... there's an ambiance that a business owner can create to make you as a customer feel comfortable.",
+          "summary_en": "Obsess over small operational details—cleanliness, staff attitude, and ambiance—to make customers want to return.",
+          "summary_zh": "极致关注门店细节与氛围，让顾客获得舒适体验",
+          "timestamp_sec": 430,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Be really careful who you get into business with... you don't want to raise money from the wrong people who aren't in lockstep with what you want to build.",
+          "summary_en": "Treat partnerships and fundraising like a marriage—never take money from investors who lack alignment with your vision.",
+          "summary_zh": "谨慎选择合伙人与投资人，确保双方愿景一致",
+          "timestamp_sec": 480,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "创业时身无分文，曾在Yahoo早期工作的哥哥出资并提供50%的干股，由她负责日常经营连锁美发沙龙。",
+      "guest_name": "Beverly Hills Hair Salon Chain Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder & Former Owner, Hair Salon Chain (Sold for $255M)",
+      "wealth_detail": "Sold hair salon company for $255M; raised ~$75M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I try not to make more than four or 5 million a year max in distributions because I rather reinvest majority of the profits... into buying more companies, expanding, hiring more people.",
+          "summary_en": "Take only enough distributions to cover expenses and reinvest the bulk of profits into growth, talent, and acquisitions.",
+          "summary_zh": "控制个人分红，把大部分利润再投入扩张与并购",
+          "timestamp_sec": 616,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "The number one highest ROI channel right now in marketing... is micro influencers between 1,000 and 100,000 followers... you can pay them commission base.",
+          "summary_en": "Use commission-based partnerships with engaged micro-influencers (1k-100k followers) as a high-ROI growth channel.",
+          "summary_zh": "借力高互动中小网红按销售佣金推广产品",
+          "timestamp_sec": 636,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Most businesses fail because they're going after too small of a TAM... you want to go after something really big and just try to capture a small percentage of it.",
+          "summary_en": "Target a massive Total Addressable Market (TAM) so capturing even a tiny percentage builds a huge business.",
+          "summary_zh": "瞄准庞大总目标市场，吃下极小份额即可做大",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "My first client paid me 5 grand a month, I made him 25 million in revenue, got three more referrals... it just kept scaling from doing really good work.",
+          "summary_en": "Generate outsized measurable results for your clients so referrals naturally compound your growth.",
+          "summary_zh": "为客户创造极致业绩回报，靠口碑转介绍裂变增长",
+          "timestamp_sec": 711,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Skip Unnecessary College",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I would not recommend anyone go to college unless you're in a profession that requires you to go to college.",
+          "summary_en": "Skip college unless your intended profession legally or strictly requires a degree.",
+          "summary_zh": "除非职业刚需，否则不建议盲目就读大学",
+          "timestamp_sec": 734,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "I would go buy a business from someone who's retiring in a boring, ugly field like roofing, plumbing, HVAC... put in technology... and grow the business.",
+          "summary_en": "Acquire profitable, boring service businesses from retiring owners and modernize them with basic software and local SEO.",
+          "summary_zh": "收购退休者手中的传统实业并做数字化升级增长",
+          "timestamp_sec": 744,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You would seller-based finance it... put down 2x profit which I can get bank financing for and you hold a note... the government helps, it's called SBA financing.",
+          "summary_en": "Combine seller financing with SBA bank loans to acquire cash-flowing businesses without personal upfront capital.",
+          "summary_zh": "结合卖家融资与SBA贷款低本金收购现金流企业",
+          "timestamp_sec": 768,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "15岁半起步帮人做网站引流，首个客户月付5000美元，帮其创收2500万美元后获得3个转介绍，月入升至2万美元并在17岁成为百万富翁。",
+      "guest_name": "Neil Patel",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Marketing Entrepreneur & Agency Co-Founder",
+      "wealth_detail": "Nine-figure annual revenue; takes $4M-$5M/yr in distributions; millionaire at age 17",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "若从零起步要在一年内赚100万美元，会利用卖家融资加SBA贷款收购60岁退休老板的屋顶、管道或暖通（HVAC）等传统枯燥实业，再通过表格自动化开票与Google本地排名优化实现增长。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "Transport is always going to be there, no electronic, no robot or anything like that is going to change it... it's recession proof and people can't replace it.",
+          "summary_en": "Focus on essential, recession-proof businesses like transport and trucking that technology cannot easily replace.",
+          "summary_zh": "选择抗衰退且难被科技取代的传统刚需行业",
+          "timestamp_sec": 864,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Consistency, never take no for an answer.",
+          "summary_en": "Be relentless in sales by staying consistent and never taking 'no' for an answer.",
+          "summary_zh": "销售秘诀在于持之以恒且绝不轻言放弃",
+          "timestamp_sec": 905,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Consistency and being at the right place, right time. You can take a bottle of water and move it from place to place and it changes its price.",
+          "summary_en": "Stay consistent and position yourself in the right place at the right time to maximize the value of what you offer.",
+          "summary_zh": "保持长期一致性并找准高价值定位与时机",
+          "timestamp_sec": 917,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Definitely get a mentor, because you don't have a mentor you don't have no direction, and find out his bad moves that he had made so you can grow from it.",
+          "summary_en": "Find a mentor to give you direction and study their past mistakes so you can grow faster.",
+          "summary_zh": "务必找位导师指引方向并借鉴其失败教训",
+          "timestamp_sec": 935,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "看到高速公路上川流不息的卡车且听人介绍后进入交通运输行业，认定该行业抗衰退且无法被替代。",
+      "guest_name": "Beverly Hills Transport & Trucking Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Owner, Transport & Trucking Company",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "qQIKf7YQBbA",
+  "video_type": "street_multi"
+}

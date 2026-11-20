@@ -1,0 +1,235 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "super strong focus on the consumer so like who are you trying to serve and what type of problems are you trying to solve for those people",
+          "summary_en": "Maintain a razor-sharp focus on who you serve and the specific problems you solve for your customers.",
+          "summary_zh": "极度聚焦消费者痛点，打造有价值的产品",
+          "timestamp_sec": 77,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Emotional Brand Storytelling",
+          "category": "Business & Strategy",
+          "quote": "we listened to those athletes and the insights that they gave us we translated into Innovative product that people coveted and desired and wanted and we told really emotional cool stories that connected the consumer to the brand",
+          "summary_en": "Translate customer insights into coveted innovative products and tell emotional stories that connect people to the brand.",
+          "summary_zh": "洞察用户需求做创新，用情感故事连接品牌",
+          "timestamp_sec": 121,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to be bold you got to be confident you got to stand up and ask people for the order",
+          "summary_en": "Overcome the fear of asking; be bold, confident, and directly ask prospects for the order.",
+          "summary_zh": "做销售要大胆自信，主动开口向客户成交",
+          "timestamp_sec": 146,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在耐克公司从销售、零售一路做到产品部门，最终升任耐克公司总裁。",
+      "guest_name": "Elliot Hill",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Former President of Nike",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "创业要极度聚焦消费者及其需要解决的问题，打造令人向往的创新产品并讲好情感故事；做销售则要大胆自信、主动开口向客户成交。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Self-Honesty & Avoiding Social Media Distraction",
+          "category": "Mindset & Resilience",
+          "quote": "honesty transparency honestly with yourself you know I think people today get caught up too much in social media remember what it's really about it's about yourself not what other people think about you",
+          "summary_en": "Be honest and transparent with yourself, and avoid getting caught up in social media or others' opinions.",
+          "summary_zh": "对自己诚实透明，别被社交媒体和他人评价左右",
+          "timestamp_sec": 196,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Communication Skills & Stepping Out of Comfort Zone",
+          "category": "Actionable Skills & Habits",
+          "quote": "ability to communicate you know the comfort zone talk to someone... be open with someone yeah that's the most important thing really because you can use that for anything... get out of your own way",
+          "summary_en": "Develop strong communication skills and step outside your comfort zone, as communication applies to every field.",
+          "summary_zh": "走出舒适区练好沟通，这能用于任何商业场景",
+          "timestamp_sec": 213,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:College Degree Optional Outside Licensed Professions",
+          "category": "Business & Strategy",
+          "quote": "I think it doesn't hurt I think it's good but I don't think it's the end-all be-all... depends what you want to do right if you want to be an attorney or a doctor you got to go to school",
+          "summary_en": "A college degree is helpful but not essential for success unless entering licensed fields like law or medicine.",
+          "summary_zh": "除律师医生等持证职业，学历并非成功必需品",
+          "timestamp_sec": 252,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Austin Finance & Business Duo",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Finance Professionals",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "对自我保持诚实与透明，别过度沉迷社交媒体或在乎他人看法；走出舒适区并提升沟通表达能力，除律师、医生等特定职业外，大学学历并非成功的必要条件。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Learn Marketing Skills",
+          "category": "Actionable Skills & Habits",
+          "quote": "go into marketing why marketing because that's a great skill to have",
+          "summary_en": "Go into marketing early because it is a foundational, high-leverage skill to possess.",
+          "summary_zh": "趁年轻进入营销领域，掌握核心获客技能",
+          "timestamp_sec": 283,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "invest save 10 15 of your paycheck try to put that pay down your debts first",
+          "summary_en": "Pay down debts first and consistently save and invest 10-15% of your paycheck.",
+          "summary_zh": "储蓄投资薪水的10%至15%，先还清债务",
+          "timestamp_sec": 291,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I think I would have invested more in like real estate and in stocks and stuff rather than just leaving it in cash and things like that or spending it on you know trips and stuff... still want to have maybe some targets right to shoot for",
+          "summary_en": "Set clear financial targets and invest earlier in real estate and stocks instead of sitting in cash or overspending on trips.",
+          "summary_zh": "后悔未尽早投资房产股票，别只留现金或享乐",
+          "timestamp_sec": 303,
+          "type": "regret"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Austin Business & Engineering Duo",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Business & Engineering Professionals",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时应学习营销技能，将收入的10%-15%用于储蓄和投资，先还清债务；不要把钱只存现金或全花在旅行上，要尽早定下目标投资房地产和股票。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "finding something that you're passionate about something where you can get paid for what you're worth in my case I was being in business for myself but not by myself",
+          "summary_en": "Pursue work where you are paid for what you are worth and are in business for yourself with team support.",
+          "summary_zh": "选能按价值获酬的事业，独立创业但有团队支撑",
+          "timestamp_sec": 496,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "the belief I've always had in my mind that I can be and do anything I want to do that belief and sometimes blind ambition that you just go for some things and kind of figure it out later",
+          "summary_en": "Cultivate unwavering self-belief and bold ambition that you can achieve anything you set your mind to.",
+          "summary_zh": "保持近乎盲目的野心与信念，相信自己无所不能",
+          "timestamp_sec": 518,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "just really start looking at the numbers go for it and see what you find so some of that has helped me not be scared not to be afraid to approach things",
+          "summary_en": "Don't be afraid to approach new opportunities—look at the numbers, go for it, and figure things out along the way.",
+          "summary_zh": "别怕迈出第一步，边行动边算账看清数据规律",
+          "timestamp_sec": 530,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "the truth of the matter is you actually probably should lean toward both... for younger people depends on their situation term is really fits them at the time as you get older... whole life may be a little bit better... on the long run whole life is cheaper even though you pay more money per month",
+          "summary_en": "Understand both term and whole life insurance: term offers affordable coverage for young families, while whole life builds invested value over the long run.",
+          "summary_zh": "根据人生阶段配置定期与终身寿险实现财富规划",
+          "timestamp_sec": 553,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Use Income-Producing Work to Fund Your Passion",
+          "category": "Business & Strategy",
+          "quote": "if you can work in your passion and be successful that's great but also you can work something else that makes you the money so you can live in your passion so when you're young and you don't have too many ties it's a lot easier for you to get out and try stuff travel put together money save money",
+          "summary_en": "If you can't monetize your passion immediately, work a lucrative job to fund your passion and try things while young with fewer obligations.",
+          "summary_zh": "先做能赚钱的工作积累资本，再去追求热爱",
+          "timestamp_sec": 647,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "if you don't quit you don't lose",
+          "summary_en": "Stay persistent through setbacks because you only lose when you quit.",
+          "summary_zh": "只要不轻言放弃，你就永远不会输",
+          "timestamp_sec": 664,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "take the time to find what works for the customer also what works for their budget instead of just giving them one solution to their problem... the impact you make on others is going to determine how successful you are",
+          "summary_en": "Tailor solutions to your customer's specific needs and budget; your level of success is determined by the impact you make on others.",
+          "summary_zh": "为客户量身定制方案，你的成就取决于助人多少",
+          "timestamp_sec": 710,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在MCI销售长途电话业务起步并成为最年轻的主管之一，后来做过名人专职司机；疫情期间重新投身保险行业，成为顶级核保人并建立自己的保险代理团队。",
+      "guest_name": "Lavon Perrin",
+      "industry": "Finance & Investing",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Insurance Agency Owner & Top Underwriter (sfg austin.com)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "要有近乎盲目的自信与野心，先行动再去研究数字并不断推进；不必非要从热爱的工作起步，可以先做能赚钱的行业积累资金来支撑梦想；年轻时多去尝试、旅行和攒钱，只要不放弃就不会输。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "jR6g__ogNkc",
+  "video_type": "street_multi"
+}

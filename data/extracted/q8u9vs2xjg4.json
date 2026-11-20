@@ -1,0 +1,191 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Take a risk that other people won't take that might fail, but if you win, you win huge... make sure that you can play again.",
+          "summary_en": "Burn the boats early and take bold risks others avoid, while ensuring you can survive failure and play again.",
+          "summary_zh": "敢冒他人不敢冒的风险，确保失败后仍能重新再来",
+          "timestamp_sec": 143,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I knew what strategic game I was playing... doing software things within Silicon Valley was a very good place to be doing it.",
+          "summary_en": "Pick the right strategic arena and geographic ecosystem, such as software in Silicon Valley or AI accelerating physical industries.",
+          "summary_zh": "选对核心赛道与产业集群，顺应时代技术浪潮",
+          "timestamp_sec": 163,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "More than two-thirds of my smart friends thought I was going to be a complete failure... What do I know that they don't know?",
+          "summary_en": "Don't be deterred when smart peers predict failure; invite critique to test what contrarian insight you hold that others miss.",
+          "summary_zh": "无视多数人唱衰，问自己掌握了什么别人不懂的真相",
+          "timestamp_sec": 200,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "The key thing is think what you can give someone. So what's something that you could do that would help them?",
+          "summary_en": "Build genuine relationships by leading with what useful insight or help you can offer someone, rather than asking for favors.",
+          "summary_zh": "人脉核心是先思考能为对方提供什么价值，而非索取",
+          "timestamp_sec": 418,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "One is curiosity. So, like intensely wanting to learn.",
+          "summary_en": "Cultivate intense curiosity and a relentless desire to learn, a core trait shared by the top 0.001% of successful people.",
+          "summary_zh": "顶级成功者都具备强烈的好奇心与持续学习的渴望",
+          "timestamp_sec": 458,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Another one is just raw grit and you know like I am going to make this work.",
+          "summary_en": "Develop raw grit and unyielding determination to push through obstacles and make your venture work.",
+          "summary_zh": "拥有“无论如何都要把事情做成”的原始韧劲与毅力",
+          "timestamp_sec": 465,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Companies are bought not sold. So, if you're selling, you have a problem. You want them to come in and buy you.",
+          "summary_en": "In M&A and deal-making, shift the power dynamic so buyers or investors pursue you rather than you desperately pitching them.",
+          "summary_zh": "公司是被买家主动收购的，而非靠卖家低姿态推销",
+          "timestamp_sec": 539,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "When you make the decision, you've chosen door A, not door B, but it's the only way you get opportunity in the long term.",
+          "summary_en": "Commit decisively to one path (door A over door B); narrowing short-term options is the only way to unlock long-term opportunity.",
+          "summary_zh": "果断选择一扇门并放弃备选，才能换取长期大机会",
+          "timestamp_sec": 576,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I'm playing a multi-time game. And I'm expecting that I'm going to fail along the way some... celebrate learning in order to win.",
+          "summary_en": "Treat entrepreneurship as a multi-round game where setbacks are expected—celebrate learning in order to win rather than glorifying failure.",
+          "summary_zh": "把创业当多次博弈，坦然面对挫折并从学习中获胜",
+          "timestamp_sec": 604,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "You need to go prove your credentials at launching products first... I actually went and ended up working at Apple Computer.",
+          "summary_en": "Before trying to raise capital without a track record, work at a strong company to prove you can launch products and build a network.",
+          "summary_zh": "融资前先去优秀企业推出产品，证明战绩并积累人脉",
+          "timestamp_sec": 641,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Fundraising & Investor Conviction",
+          "category": "Business & Strategy",
+          "quote": "Investors, they invest in people and they invest in businesses, not ideas... why would they take a bet on you?",
+          "summary_en": "VCs say yes to only 0–2 of 600–800 deals a year; pitch a massive current trend with a sharp, unmistakable reason why they should bet on you.",
+          "summary_zh": "投资人投的是人和大趋势，要给出非你不可的理由",
+          "timestamp_sec": 670,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Blitzscaling & High-Speed Execution",
+          "category": "Business & Strategy",
+          "quote": "How do I make decisions in a way that I do not take my foot off the accelerator? ... Not ever slowing down.",
+          "summary_en": "When blitzscaling into a large market, make product, market, and hiring decisions at full speed without taking your foot off the accelerator.",
+          "summary_zh": "闪电式扩张核心是在全速前进中做决策，绝不踩刹车",
+          "timestamp_sec": 770,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "The things that's most important to hire or partner with are the people who add their strengths against your weaknesses.",
+          "summary_en": "Life is a team sport—hire and partner with people whose operational strengths directly complement your weaknesses.",
+          "summary_zh": "人生是团队运动，招募能力能互补你短板的合伙人",
+          "timestamp_sec": 800,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "The companies are coming to us... make a slide deck... the sales guy came back with purchase orders and we're like okay we're building that product.",
+          "summary_en": "Listen to market pull and pivot when customers show up—validate demand with a pitch deck and purchase orders before building.",
+          "summary_zh": "顺应客户主动求购需求及时转型，先拿订单再做产品",
+          "timestamp_sec": 838,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Play 10-Year Compounding Games",
+          "category": "Business & Strategy",
+          "quote": "I almost never play a one-year game. I play a 10-year game... compounding to 10 years is one of the things that gives a differential edge.",
+          "summary_en": "Think in decades rather than one-year horizons; long-term compounding over 10 years creates a decisive competitive edge most people miss.",
+          "summary_zh": "拒绝一年期短视思维，坚持十年长线复利以建立壁垒",
+          "timestamp_sec": 877,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Network Growth Before Monetization",
+          "category": "Business & Strategy",
+          "quote": "Building a network and getting growth in the network and then monetization could come later.",
+          "summary_en": "Focus first on growing the network and reaching critical scale; monetization and the business model can be built on top afterward.",
+          "summary_zh": "先全力做大网络效应与增长，变现模式可随后建立",
+          "timestamp_sec": 896,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身公务员家庭，斯坦福AI专业毕业后先在苹果、富士通工作积累产品与人脉；随后创办首家公司Social（虽未成功但进入创业轨道），核心参与PayPal（15亿美元被eBay收购），并在2003年创立LinkedIn，最终以260亿美元售予微软（约38岁成为亿万富翁）。",
+      "guest_name": "Reed Hoffman",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Blitzscaling (his own book)",
+        "His father",
+        "Early lawyer mentor"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management",
+        "Technical / Engineering",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Co-founder of LinkedIn, VC & AI Startup Co-founder (Former PayPal Executive)",
+      "wealth_detail": "Sold LinkedIn to Microsoft for $26B (LinkedIn $16B annual revenue); PayPal acquired by eBay for $1.5B; became a billionaire around age 38",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "做与大多数人截然不同的事情；不玩一年期短线游戏，而是以10年为单位进行长远复利思考（例如创办AI抗癌新药研发公司），通过长期积累实现改变行业的颠覆性成果。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "q8u9vs2xjg4",
+  "video_type": "deep_dive_single"
+}

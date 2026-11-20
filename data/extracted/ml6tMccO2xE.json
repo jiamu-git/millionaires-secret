@@ -1,0 +1,136 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "for a typical person starting off with no money, no resources, the driving for dollars is going to be the answer, as you scale up then you get into person data",
+          "summary_en": "Start with zero capital by driving for dollars to spot distressed properties before paying for lead data lists as you scale.",
+          "summary_zh": "零资金起步先开车扫街找房，后续再买数据",
+          "timestamp_sec": 167,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you get the property too high you don't make no money so you have to know how to analyze a property, you have to run comparables",
+          "summary_en": "Master property underwriting and run comparable sales (comps) to calculate ARV so you never overpay on a contract.",
+          "summary_zh": "学会分析房产并对比同类成交价（ARV）",
+          "timestamp_sec": 202,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Lock Up Contracts With Earnest Money",
+          "category": "Business & Strategy",
+          "quote": "all that earnest money is, it's just to secure that you're serious, you know, they say have some skin in the game",
+          "summary_en": "Put down earnest money to prove seriousness and legally tie up the property under contract before finding cash buyers.",
+          "summary_zh": "付定金锁定独家合约，向卖家证明诚意",
+          "timestamp_sec": 254,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "me personally I like to work with a title company where I can go there I can talk to them, I can be face-to-face with them just in case anything goes down",
+          "summary_en": "Partner with investor-friendly local title companies where you can build face-to-face relationships to resolve closing issues.",
+          "summary_zh": "找支持批发的本地产权公司并当面建立关系",
+          "timestamp_sec": 308,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "they're paying me because I found a property at such a discount I was able to make money and I'm able to save them money",
+          "summary_en": "Secure properties at deep enough discounts so cash buyers still earn strong rehab profits while you collect a wholesale fee.",
+          "summary_zh": "以足够低价拿房，让买家和自己实现双赢",
+          "timestamp_sec": 326,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "it doesn't require a license, you get started right away",
+          "summary_en": "Take action immediately because real estate wholesaling requires no license or minimum age to begin.",
+          "summary_zh": "批发房产无需中介执照，零门槛可立即起步",
+          "timestamp_sec": 461,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "dealing with these sellers, building rapport, getting these contracts, learning different tools about the real estate",
+          "summary_en": "Develop seller communication and rapport-building skills to negotiate and close off-market contracts.",
+          "summary_zh": "与卖家建立信任关系并促成合约谈判签约",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "just sticking to it, learning the business and just sticking to it as you go",
+          "summary_en": "Accept that wholesaling is simple in concept but a daily grind, and stay persistent through the learning curve.",
+          "summary_zh": "房产批发流程简单但需硬磨，关键在于坚持",
+          "timestamp_sec": 504,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "there's a ton of different gurus online telling you how to do stuff, but once you figure out what works for you I think that's the key",
+          "summary_en": "Tune out conflicting advice from online gurus and double down on the specific process that works for you.",
+          "summary_zh": "别盲从网上各路导师，找到适合自己的方法",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "when you're wholesaling you're just basically getting the contract set up to someone else and you're not taking on all responsibility",
+          "summary_en": "Use wholesaling to limit rehab liability and build capital when you lack funding or credit to flip properties yourself.",
+          "summary_zh": "缺资金信用时先做批发赚现金流并规避风险",
+          "timestamp_sec": 530,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "if you guys are out there you're looking to get into this space looking to make some money, looking to make some moves, trust me real estate is where it's at",
+          "summary_en": "Enter real estate as a primary vehicle for generating capital and transitioning into long-term property investing.",
+          "summary_zh": "房地产是创造财富与跃迁的优质赛道",
+          "timestamp_sec": 575,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dom Does Deals",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Wholesaler & Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "零资金起步可先开车扫街寻找破旧或空置房产（Driving for Dollars），无需房产执照即可开始，先通过批发合约积累资金并规避翻修负债，同时可借助有经验的团队合作成交。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ml6tMccO2xE",
+  "video_type": "deep_dive_single"
+}

@@ -1,0 +1,442 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "You got to have big balls. Because if you're afraid, you're never going to make the move that you need to make.",
+          "summary_en": "Don't let fear stop you from making the bold moves required to succeed.",
+          "summary_zh": "敢于冒大风险，不要因恐惧而止步不前",
+          "timestamp_sec": 113,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "You got to work for yourself... I always took a majority ownership, cuz I'm going to be in charge.",
+          "summary_en": "Work for yourself and retain majority ownership and control of your company.",
+          "summary_zh": "为自己打工并牢牢掌握多数股权与控制权",
+          "timestamp_sec": 121,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "You have to have demand, first of all. If you have the demand for the business, it's scalable.",
+          "summary_en": "Enter a business with broad, undeniable demand so it can scale big.",
+          "summary_zh": "选择具备普遍强需求且可扩展的大市场",
+          "timestamp_sec": 150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Most of them are under-financed. If you don't have the pockets to stay around during the tough time, you don't make it through.",
+          "summary_en": "Ensure your business is well-capitalized enough to survive tough periods until profitability.",
+          "summary_zh": "创业切忌资金不足，需备足现金熬过低谷期",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You want to go get seed money and help you, but let them be loans, not owning your company.",
+          "summary_en": "Raise early seed capital as loans from people who trust you rather than giving away equity.",
+          "summary_zh": "用借款而非出让股权的方式筹集早期种子资金",
+          "timestamp_sec": 206,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Treat everybody like you treat yourself. Be fair, be honest, don't screw anybody, and do the right thing.",
+          "summary_en": "Treat people fairly and honestly, never cheat anyone, and always do the right thing.",
+          "summary_zh": "待人公平诚实，绝不坑人，始终做正确的事",
+          "timestamp_sec": 247,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You got to work your ass off. It doesn't come easy.",
+          "summary_en": "Success never comes easy; you have to work relentlessly hard.",
+          "summary_zh": "成功来之不易，必须拼尽全力去努力工作",
+          "timestamp_sec": 255,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "30岁前曾担任牧师，之后创业进入在线借贷行业，靠信任自己的朋友提供种子借款起步，最终打造出全球最大的在线借贷公司之一。",
+      "guest_name": "Scottsdale Online Lending Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of Online Lending Company (Former Minister)",
+      "wealth_detail": "$60M biggest single-year income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "摒弃恐惧为自己创业，挑选受众广、有刚需且可扩展的行业，备足资金并以借款形式融资以保住控股权。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Extreme Ownership & Self-Reliance",
+          "category": "Mindset & Resilience",
+          "quote": "If it's to be, it's up to me. Meaning nobody's going to come save you.",
+          "summary_en": "Take complete responsibility for your success because nobody is coming to save you.",
+          "summary_zh": "凡事靠自己承担，没有人会来拯救你",
+          "timestamp_sec": 332,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You put your blinders on. Cuz people will always doubt you. They always say that you not good enough to do it.",
+          "summary_en": "Put your blinders on and ignore people who doubt your ability to succeed.",
+          "summary_zh": "戴上眼罩专注前行，无视外界对你的质疑",
+          "timestamp_sec": 355,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Body, mind, and soul.",
+          "summary_en": "Maintain physical health alongside mental and spiritual discipline for long-term success.",
+          "summary_zh": "保持身体、心智与灵魂的全面健康与自律",
+          "timestamp_sec": 392,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Pricing is what it is. It doesn't really matter to people as long as it's good quality. So, people want quality, they're going to buy from us.",
+          "summary_en": "Focus on delivering exceptional product quality; customers willingly pay when quality is high.",
+          "summary_zh": "用过硬品质交付价值，客户自然愿为好产品买单",
+          "timestamp_sec": 426,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从小对设计感兴趣，观察他人运营企业的方式后决定自主创业，代理优质制造商为室内设计师批发家具、布料与灯具，年营收超过5000万美元。",
+      "guest_name": "Scottsdale Wholesale Interior Design Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Wholesale Furniture, Fabric & Lighting Business",
+      "wealth_detail": ">$50M/yr",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "凡事靠自己推进、别指望他人拯救；屏蔽质疑者的声音，专注打造高品质产品并保持身心健康。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Education to start with.",
+          "summary_en": "Start by getting a solid education when coming from nothing.",
+          "summary_zh": "白手起家时先通过扎实教育奠定基础",
+          "timestamp_sec": 516,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "No, I got a job first.",
+          "summary_en": "Get a job first after school to gain experience before going out on your own.",
+          "summary_zh": "毕业后先找份工作积累经验，再谋求独立发展",
+          "timestamp_sec": 524,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Keep moving. Just keep moving.",
+          "summary_en": "Keep moving physically and mentally to stay sharp well into your late 70s.",
+          "summary_zh": "持续保持行动与活力，到高龄依然保持敏锐",
+          "timestamp_sec": 541,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身一无所有，先通过接受大学教育并找工作起步，随后进入建筑承包企业Kiewit发展。",
+      "guest_name": "Kiewit Construction Contractor (79yo)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Contractor at Kiewit",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "先完成学业并进入职场工作积累，无论遇到多少质疑都要持续行动、不断向前。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "Started with a lawn mower, became the largest mowing company of individually mowing military bases all over the country.",
+          "summary_en": "Build scale in an unsexy traditional service business like mowing military bases.",
+          "summary_zh": "把传统割草这类“无聊生意”做到全美规模化第一",
+          "timestamp_sec": 572,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Never gave up... Never say I can't. Always say I can.",
+          "summary_en": "Refuse to quit in the face of adversity and eliminate 'I can't' from your vocabulary.",
+          "summary_zh": "面对逆境绝不放弃，永远说“我能行”而非“我不行”",
+          "timestamp_sec": 599,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Take care of your customer and your customer will take care of you.",
+          "summary_en": "Take great care of your customers and they will take care of your business.",
+          "summary_zh": "用心照顾好你的客户，客户自然会成就你的生意",
+          "timestamp_sec": 609,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Stay with what you know. Don't get in another man's game.",
+          "summary_en": "Stay within your circle of competence and avoid jumping into unfamiliar businesses.",
+          "summary_zh": "坚守自己熟悉的领域，不盲目跨界进入他人赛道",
+          "timestamp_sec": 640,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Stocks and real estate. All since I was 16, I've been doing stocks and real estate.",
+          "summary_en": "Consistently invest business earnings into stocks and cash-flowing real estate from a young age.",
+          "summary_zh": "从年轻时起就持续将资金投入股票与房地产",
+          "timestamp_sec": 650,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "The biggest thing is net worth means nothing and cash flow means everything.",
+          "summary_en": "Prioritize reliable cash flow over paper net worth so you can survive recessions.",
+          "summary_zh": "净资产毫无意义，持续稳定的现金流才是一切",
+          "timestamp_sec": 659,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I've never seen a hearse pull a U-Haul yet. So, no one's takes it with them. Help others while you're here, make an impact.",
+          "summary_en": "You cannot take wealth to the grave, so give generously and make an impact while alive.",
+          "summary_zh": "财富生不带来死不带去，在世时要多行善助人",
+          "timestamp_sec": 672,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Simplify your life with humbleness and listen to others. When I meet somebody, I don't say, 'How'd you get rich? What'd you do wrong?' So I can learn.",
+          "summary_en": "Stay humble and ask successful people what mistakes they made so you can learn from them.",
+          "summary_zh": "保持谦卑多倾听，向他人请教曾犯过的错以换取经验",
+          "timestamp_sec": 694,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "16岁时母亲去世，独自抚养四个妹妹和一个弟弟；靠一台割草机起步，逐步拿下标段成为全美最大的军事基地草坪修剪公司，最终以1000万美元出售。",
+      "guest_name": "Donny Huizenga",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Warren Buffett"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder of Military-Base Lawn Mowing Company & Real Estate/Stock Investor",
+      "wealth_detail": "Sold company for $10M; owns 2,600 apartments; donated >$10M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "永不言败、把“我能行”挂在嘴边，深耕自己熟悉的传统行业并照顾好客户，把利润持续投入现金流房产与股票。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "If you're doing it for yourself, it's not work. If you're doing it for someone else, it is.",
+          "summary_en": "Work for yourself rather than someone else so building your business feels fulfilling, not like work.",
+          "summary_zh": "为自己干就不算苦差事，尽早独立创业而非替人打工",
+          "timestamp_sec": 848,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Marriage & Family",
+          "category": "Mindset & Resilience",
+          "quote": "Marry a great gal that likes kids because when you get my age, you don't think about the theme parks... as much as you do with kids that you have and your grandkids.",
+          "summary_en": "Marry the right partner and build a loving family; late in life, family matters far more than assets.",
+          "summary_zh": "选对伴侣、重视家庭与子女，晚年时家人远比资产珍贵",
+          "timestamp_sec": 904,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You come out with people like you that are successful that believe in you. They know you're worth it.",
+          "summary_en": "Earn the trust of successful people who believe in you to help finance big ventures.",
+          "summary_zh": "赢得成功人士的信任，靠人脉与信誉撬动起步资金",
+          "timestamp_sec": 953,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "If you fast for a purpose with the Lord involved and you're praying... at the end of 24 hours, when you go forward thereafter, he's your partner.",
+          "summary_en": "Seek spiritual clarity through prayer and fasting before making major life or investment decisions.",
+          "summary_zh": "重大抉择前借由祈祷与禁食寻求内心笃定与指引",
+          "timestamp_sec": 1029,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You get out of life what you put in it. If you want to succeed in life, you have to set a goal and you have to work for it.",
+          "summary_en": "Set clear goals, work hard for them, and continually set new goals to develop your talents.",
+          "summary_zh": "一分耕耘一分收获，明确设定目标并全力以赴去实现",
+          "timestamp_sec": 1060,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Early to bed, early to rise, makes a man healthy, wealthy, and wise.",
+          "summary_en": "Maintain disciplined daily habits like going to bed early and rising early.",
+          "summary_zh": "保持早睡早起的自律作息，兼顾健康、财富与智慧",
+          "timestamp_sec": 1092,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "15岁起步、19岁起便未再替任何人打工，靠成功人士对其品格与能力的信任筹集借款，先后建造了13座游乐园以及高尔夫球场、购物中心与住宅项目。",
+      "guest_name": "George Brimhall",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Amusement Park & Real Estate Developer (Built 13 Amusement Parks)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "尽早为自己干、用行动力设定目标并持续耕耘，靠赢得成功者的信任筹资起步，同时选对伴侣经营长久幸福的家庭。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You've gone through so much that you have absolutely no fear of anything else happening to you. You take each day as a new day and you fight for it.",
+          "summary_en": "Let past hardship strip away fear and treat every single day as a fresh chance to fight.",
+          "summary_zh": "经历极端苦难后无所畏惧，把每天都当成新起点去拼搏",
+          "timestamp_sec": 1134,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Why are you doing the job and getting 40% of the money? Why don't you start the job as a phlebotomist and make a reputation for yourself?",
+          "summary_en": "Stop taking a fraction of the payout working for someone else; build your own reputation and business.",
+          "summary_zh": "别只打工拿四成抽成，要靠手艺建立个人口碑自己单干",
+          "timestamp_sec": 1235,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Cherish & Love Your Family",
+          "category": "Mindset & Resilience",
+          "quote": "Enjoy your family. They're gone so soon sometimes. Love each other.",
+          "summary_en": "Cherish and love your family now because loved ones can be gone too soon.",
+          "summary_zh": "珍惜并深爱家人，亲人随时可能转瞬消逝",
+          "timestamp_sec": 1324,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Live your life with a goal in mind, without fear. In fact, I will tell you that it's a no fear that has led me to success.",
+          "summary_en": "Pursue your goals completely without fear, as fearlessness is the root of success.",
+          "summary_zh": "心怀目标且无所畏惧地生活，正是无畏精神带来了成功",
+          "timestamp_sec": 1340,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Don't be afraid to get into something, to try something. It's not going to happen if you don't.",
+          "summary_en": "Just start and try something new; nothing can happen if you never take the plunge.",
+          "summary_zh": "别怕迈步尝试新事物，不行动就什么都不会发生",
+          "timestamp_sec": 1340,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大屠杀幸存者，16岁身无分文且从未上过一天学来到美国，历经朝鲜战争后自食其力，创立航空航天行业分销公司并带领32名员工。",
+      "guest_name": "90-Year-Old Holocaust Survivor & Aerospace Distributorship Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder, Aerospace Industry Distributorship",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "别满足于打工分润，要靠自身手艺建立口碑自主创业；怀抱目标、彻底摒弃恐惧勇敢去尝试，并珍惜身边的家人。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "KxoKCNCLOss",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,368 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Maintain Hunger & Healthy Fear",
+          "category": "Mindset & Resilience",
+          "quote": "if you've never felt broke before you don't have an healthy enough fear",
+          "summary_en": "Stay hungry and maintain a healthy fear of being broke to keep your edge.",
+          "summary_zh": "保持饥饿感与对贫穷的健康敬畏",
+          "timestamp_sec": 128,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "you got to do it you got to have the balls to do it now it's a perfect time",
+          "summary_en": "Have the courage to take action when markets reset and assets are down.",
+          "summary_zh": "克服恐惧并拿出魄力果断入局",
+          "timestamp_sec": 147,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "capital is not needed right now Solutions are go work with lenders go to foreclose single family home",
+          "summary_en": "You don't need capital if you bring solutions to distressed lenders and owners for a profit share.",
+          "summary_zh": "无需本金，靠帮人解决痛点入局",
+          "timestamp_sec": 172,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "befriend a very wealthy person and be his number two and have him throw you in deals that's the shortcut",
+          "summary_en": "Befriend a very wealthy operator, become their number two, and get brought into deals.",
+          "summary_zh": "结交富豪并做其二号人物借势起飞",
+          "timestamp_sec": 183,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期靠单户住宅建造项目起步，每周五从ATM取光现金维持周转，靠收取开发费维生并滚动借款做下一笔交易，25岁成为百万富翁，累计完成超200亿美元房地产交易。",
+      "guest_name": "Patrick (Miami Real Estate Founder)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Real Estate Investor & Company Founder",
+      "wealth_detail": "$100M+ peak annual personal income; $20B+ real estate assets transacted",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "在资产普遍下跌30%-40%的市场重置期果断出手，不需要自有资金也能靠提供解决方案入局：联系贷款机构接手无人愿碰的法拍单户住宅进行托管改造并分取10%利润，或结交富豪做其二号人物带自己入局。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Branding, Marketing & Business Systems",
+          "category": "Business & Strategy",
+          "quote": "branding took me to six figures marketing took me to seven figures systems took me to eight figures",
+          "summary_en": "Scale through stages by building branding for six figures, marketing for seven, and systems for eight.",
+          "summary_zh": "靠品牌、营销与系统三步实现跃升",
+          "timestamp_sec": 241,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "1,700 millionaires created every single day... nothing about me fit the millionaire description",
+          "summary_en": "Reject the belief that wealth is reserved for a chosen few; anyone can become a millionaire.",
+          "summary_zh": "打破自我设限，百万富翁人人可及",
+          "timestamp_sec": 285,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Take Total Personal Ownership",
+          "category": "Mindset & Resilience",
+          "quote": "nobody is coming to save you... it's all on me and every decision is all on you",
+          "summary_en": "Accept that no one is coming to save you and take full responsibility for every decision.",
+          "summary_zh": "没人会来救你，一切全靠自己担当",
+          "timestamp_sec": 300,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "get a 95 use that money to actually put into the business get those products and make it happen",
+          "summary_en": "Use income from a day job to fund your products, be resourceful, and take immediate action.",
+          "summary_zh": "用打工本金立即进货创业采取行动",
+          "timestamp_sec": 331,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾做时薪8美元的工作并步行两英里上班甚至晕倒在路边；三次创业破产后，补齐品牌、营销与系统短板，在电商行业实现单年最高970万美元收入并迈入八位数规模。",
+      "guest_name": "Miami Rolls-Royce E-Commerce Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "E-Commerce Entrepreneur",
+      "wealth_detail": "$9.7M peak single-year earnings; scaled e-commerce to 8 figures",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先找一份朝九晚五的工作，用打工攒下的钱投入生意进货，提升整合资源的能力（resourcefulness），靠自己采取行动改变命运。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "poor mindset make the money spend it on the dinners the cars the the expensive Penthouse",
+          "summary_en": "Stop spending earned income on dinners, cars, and penthouses; maintain financial discipline.",
+          "summary_zh": "戒掉虚荣消费，拒绝生活成本膨胀",
+          "timestamp_sec": 399,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "invested Into Cash flowing appreciating assets... AKA real estate... and then live off of that cash flow in perpetuity",
+          "summary_en": "Invest earned income into cash-flowing appreciating real estate and live off that cash flow.",
+          "summary_zh": "把赚来的钱投入产出现金流的房产",
+          "timestamp_sec": 413,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "they have to find whatever their thing is Right find your thing and have a blueprint and a road map",
+          "summary_en": "Find your one core thing, build a clear blueprint, and become the best in the world at it.",
+          "summary_zh": "选定唯一赛道并制定清晰行动蓝图",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Think Long-Term With a 5-Year Roadmap",
+          "category": "Business & Strategy",
+          "quote": "they're playing checkers not chess... you got to be 15 moves ahead I know what I'm doing month over month for the next 5 years",
+          "summary_en": "Play chess instead of checkers by mapping out your moves month-by-month five years ahead.",
+          "summary_zh": "像下国际象棋般提前做五年规划",
+          "timestamp_sec": 449,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you guys think it happens fast and then you don't look at the long term you need to have macro patience and micro urgency",
+          "summary_en": "Don't underestimate how long success takes; pair macro patience with micro urgency.",
+          "summary_zh": "保持宏观耐心与微观紧迫感忌暴富",
+          "timestamp_sec": 462,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "every single day you give it absolutely everything that you have to give that's how you win",
+          "summary_en": "Give everything you have every single day over many years to win at the highest level.",
+          "summary_zh": "每天倾尽全力，坚持长期主义积累",
+          "timestamp_sec": 487,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕戒瘾与心理健康治疗行业长达17年，2021年单年收入突破1亿美元并将企业以超1亿美元出售，同时投资房地产等资产。",
+      "guest_name": "Eric Spofford",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Addiction & Mental Health Treatment Founder & Real Estate Investor",
+      "wealth_detail": "Earned $100M+ in 2021; sold business for $100M+",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "找到自己的核心赛道并制定清晰的长期路线图（像下国际象棋一样提前布局未来5年），保持“宏观耐心与微观紧迫感”，并将赚到的钱投入能产生现金流的增值房产，靠其被动现金流生活。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "we are living in America... everybody can have three jobs and invest and make a deal... if you broke because you want to be broke",
+          "summary_en": "Reject the 'rich get richer, poor get poor' mindset and take advantage of abundant opportunities.",
+          "summary_zh": "摒弃穷人思维，相信美国遍地是机会",
+          "timestamp_sec": 560,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "don't go crazy with the money cuz nothing ever lasts... save your money",
+          "summary_en": "Don't blow your earnings on lifestyle because nothing lasts forever; save your money.",
+          "summary_zh": "赚钱后切忌挥霍，学会储蓄留存本金",
+          "timestamp_sec": 572,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "mature the business that you're doing do a lot of numbers make sure what is he selling up there",
+          "summary_en": "Know the numbers and unit sales deeply in the business you operate.",
+          "summary_zh": "吃透所在行业的财务数字与销售逻辑",
+          "timestamp_sec": 590,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Continuously Innovate & Adapt to Technology",
+          "category": "Business & Strategy",
+          "quote": "keep thinking about innovating you have to innovate all the time especially now with the Internet with all the apps nowadays",
+          "summary_en": "Constantly innovate and adapt to the internet and new apps to stay relevant.",
+          "summary_zh": "结合互联网与应用时代保持持续创新",
+          "timestamp_sec": 590,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "22岁起创业至今（现年47岁），曾单年亏损1200万美元并几乎身无分文，后向兄弟借2500美元在拉斯维加斯押黑连赢三把筹集东山再起的本金，重新投入工作做到单月最高收入55万美元。",
+      "guest_name": "47-Year-Old Miami Business Owner",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Business Owner",
+      "wealth_detail": "$550K peak single-month earnings; previously lost $12M in one year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "破除“穷人越穷”的思维定式，努力打多份工攒钱投资与谈交易；赚钱后切忌铺张挥霍，要吃透所做生意的数字、积极储蓄并紧跟互联网与应用趋势持续创新。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "get around people who think it's okay to have $500,000 a month in expenses... get around people who do not settle",
+          "summary_en": "Surround yourself with high-spending, ambitious operators who never settle.",
+          "summary_zh": "靠近高消费高标准、绝不将就的圈子",
+          "timestamp_sec": 663,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Use Money as a Tool to Grow Earned Income",
+          "category": "Wealth & Investing",
+          "quote": "the richest people they're not afraid to use money as a tool to grow their wealth to grow their earned income not only Passive",
+          "summary_en": "Don't be afraid to spend money aggressively as a tool to expand your active earned income.",
+          "summary_zh": "敢于花钱投资，用钱撬动更多主动收入",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Recurring Revenue",
+          "category": "Business & Strategy",
+          "quote": "Brad Lee told me the double R in the headrest stands for recurring Revenue build it",
+          "summary_en": "Focus on building a business model with recurring revenue.",
+          "summary_zh": "重点打造能够持续产生现金流的订阅制",
+          "timestamp_sec": 701,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "be the man you always needed... my company's based on the fact that I'll never miss",
+          "summary_en": "Be reliable and never miss on your commitments where others only talk a big game.",
+          "summary_zh": "做当年自己需要的人，说到做到绝不失约",
+          "timestamp_sec": 721,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "nothing in this world is going to work for you you got to work for it... don't take no for an answer",
+          "summary_en": "Nothing works unless you work for it; follow proven paths and refuse to take no for an answer.",
+          "summary_zh": "天下没有白吃的午餐，必须死磕到底",
+          "timestamp_sec": 748,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "I posted every day on Instagram... I've never missed a post on Instagram or YouTube... greatest marketing tool known to man",
+          "summary_en": "Use social media daily without missing a post as the ultimate free marketing engine.",
+          "summary_zh": "把社媒作为最强营销工具坚持每日更新",
+          "timestamp_sec": 768,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I chased something that I really loved and something that I needed I sell what I need I don't just sell anything people will buy",
+          "summary_en": "Build and sell what you genuinely love and need yourself rather than chasing random products.",
+          "summary_zh": "只卖自己真正热爱且自身需要的产品",
+          "timestamp_sec": 790,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "show me your habits I'll tell you your future... I get up at 2:45... train every day... keep the nutrition on point",
+          "summary_en": "Win the day through strict daily habits like waking early, training daily, and clean nutrition.",
+          "summary_zh": "用早起、高频健身等日常习惯决定未来",
+          "timestamp_sec": 799,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "being the source of what you see I literally can't live without serving others and that's the gift",
+          "summary_en": "Dedicate yourself to serving others and providing the positive value they need.",
+          "summary_zh": "全力服务他人，以利他创造真实价值",
+          "timestamp_sec": 828,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾在监狱服刑10年靠吃廉价泡面度日；在狱中便开始发Instagram分享健身与正能量，出狱时已积累1万粉丝并坚持每日在各平台发布内容，最终实现单月290万美元、年入2400万美元。",
+      "guest_name": "Wes Watson",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Brad Lea"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Fitness & Mindset Coach / Media Entrepreneur",
+      "wealth_detail": "$24M peak single-year earnings; $2.9M peak single-month earnings",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "效仿你想成为的成功人士并坚持不懈，将Instagram和YouTube等社媒作为最强营销工具坚持日更，只卖自己真正热爱且需要的内容；养成凌晨2:45起床和每日健身的自律习惯，靠近高消费高标准的圈子并打造持续性收入（Recurring Revenue）。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "BaxpJArMn9Y",
+  "video_type": "street_multi"
+}

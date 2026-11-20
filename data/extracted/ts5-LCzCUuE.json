@@ -1,0 +1,330 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "tell the truth... you don't keep your W in business you have no business",
+          "summary_en": "Tell the truth, be honest in sales, and always keep your word in business.",
+          "summary_zh": "做生意必须诚实守信，不守信用就没有生意",
+          "timestamp_sec": 95,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "be an expert about what you're talking about don't be a fool who listens to internet do your research do your homework and know more than anybody else knows",
+          "summary_en": "Do your homework and know more than anyone else in your field instead of listening to internet noise.",
+          "summary_zh": "做足功课成为领域专家，别盲听网络杂音",
+          "timestamp_sec": 125,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "finding a way to manage money don't be the bank",
+          "summary_en": "Manage your money and cash flow carefully, and avoid acting as the bank for others.",
+          "summary_zh": "学会管理资金，切勿充当他人的免费提款机",
+          "timestamp_sec": 137,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "be tougher than poverty... and be hungry",
+          "summary_en": "Be tougher than poverty and stay hungry to break out of hardship.",
+          "summary_zh": "比贫困更坚韧，始终保持对成功的饥饿感",
+          "timestamp_sec": 145,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Differentiate & Think Creatively",
+          "category": "Business & Strategy",
+          "quote": "standing out is the most important thing AI is going to replace commonality you got to use your brain you got to be creative you got to be inventive you got to find another angle",
+          "summary_en": "Stand out by being creative and inventive, because AI will replace everything common.",
+          "summary_zh": "AI会取代平庸，必须靠创意差异化突围",
+          "timestamp_sec": 155,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾两次破产陷入贫困，仅靠极少资金白手起家，在供应链行业创业40年并做到八位数营收，拥有三辆兰博基尼。",
+      "guest_name": "Highland Park 70yo Supply Chain Owner (Lamborghini)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Retired Supply Chain Business Owner",
+      "wealth_detail": "8-figure business revenue; owns 3 Lamborghinis",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "创业要诚实守信并深耕专业、做好研究，别轻信网络杂音；管好现金流切忌充当银行；保持饥饿感，并用创意与差异化脱颖而出。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "nothing comes easy yeah nothing comes overnight and be patient... a lot of people they want to instantly they want to get rich quick you got to trust your path",
+          "summary_en": "Nothing comes overnight; avoid get-rich-quick expectations, be patient, and trust your path.",
+          "summary_zh": "没有一夜暴富，别追快钱要耐心相信积累",
+          "timestamp_sec": 200,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "people today buy things that they can't afford... everyone sees things that they don't necessarily know the truth of... you need to live your own life",
+          "summary_en": "Stop buying things you cannot afford to copy social media appearances; live your own life.",
+          "summary_zh": "别攀比社媒光鲜生活而超前买负担不起之物",
+          "timestamp_sec": 226,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "go learn from somebody that's done it but understand that while you're learning you're not going to make what that person has and then take that knowledge and go do it",
+          "summary_en": "Learn from someone who has already done it—accepting lower pay during the learning phase—then go execute on your own.",
+          "summary_zh": "先跟成功者学习沉淀，学成后再独立单干",
+          "timestamp_sec": 252,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在私募股权公司任职，通过向经验丰富的从业者学习并长期沉淀积累，实现了单年七位数收入。",
+      "guest_name": "Highland Park Private Equity Executive (G-Wagon)",
+      "industry": "Finance & Investing",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Private Equity Executive",
+      "wealth_detail": "7-figure single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "别幻想一夜暴富，要保持耐心并接受延迟满足；不要因社交媒体的表象而超前消费；先去学习并跟着成功前辈积累经验，学成后再独立去干。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "what are you going to lose like me I was not going to lose anything if I try... I was already in the ground so whatever you do it just you just go forward",
+          "summary_en": "When you are broke at rock bottom, you have nothing left to lose—just try and keep moving forward.",
+          "summary_zh": "身处谷底毫无包袱，只管大胆尝试往前冲",
+          "timestamp_sec": 344,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "the first thing is you need to have God on your heart... whenever you have God in your heart everything is going to come to your life by itself",
+          "summary_en": "Keep God in your heart; staying grounded in faith brings direction and progress.",
+          "summary_zh": "心中保持信仰，坚定前行自然会迎来转机",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "my wife and I we start inside of the gas station it was just her me and one guy and then from there we just start to today we have five location",
+          "summary_en": "Start lean—even inside a gas station with minimal staff—and push hard to expand over time.",
+          "summary_zh": "从加油站小摊轻资产起步，靠拼搏逐步扩张",
+          "timestamp_sec": 387,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "it's no school to teach you business... how you're going to be teaching me you never have a business... if you really want to be a business guy you got to be on my side",
+          "summary_en": "Learn business directly alongside real entrepreneurs rather than relying on teachers who have never run a business.",
+          "summary_zh": "商学院教不出老板，要向实战创业者贴身学习",
+          "timestamp_sec": 426,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you got to wake up early don't matter how much money you have it don't matter how many business you have you still need to work hard",
+          "summary_en": "Wake up early and keep working hard regardless of how much money or how many businesses you have.",
+          "summary_zh": "无论身家多少都要早起，永远保持努力拼搏",
+          "timestamp_sec": 440,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾穷到睡在停车场，10年前与妻子和仅1名员工在加油站里卖塔可（Taco）起家，如今扩张至5家门店、85-100名员工，单年最高赚约1000万美元。",
+      "guest_name": "Dallas Taco Restaurant Chain Owner",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Restaurant Business Owner (5 Locations)",
+      "wealth_detail": "$10M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "一无所有时别怕尝试，只管往前冲；心怀信仰；从小本生意踏实起步，向真正做过生意的人学习实战而非空谈理论，无论成功与否都要早起苦干。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "save bread don't spend... hold on to it and just wait for the right circumstances... the trick is is to make it sustainable over a long period of time",
+          "summary_en": "Save your money, avoid overspending, and wait for the right opportunities so your wealth lasts long term.",
+          "summary_zh": "把钱存下来切忌乱花，让财富长期可持续",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to have the education Financial education at the same time save bread until you get there",
+          "summary_en": "Combine saving money with financial education so you know how to protect and manage your wealth.",
+          "summary_zh": "存钱同时学习金融知识，守住财富不归零",
+          "timestamp_sec": 537,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I always possessed the ability to evolve it was always people that was better than me it was always people that was Stronger Faster I just was resilient",
+          "summary_en": "Stay resilient and keep evolving even when competing against people who are stronger, faster, or initially better.",
+          "summary_zh": "面对更强对手保持进化与韧性，持续突破",
+          "timestamp_sec": 554,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "it's a little bit of God's grace too I can't sit here and say that I did this all on my own",
+          "summary_en": "Stay humble and grateful, recognizing grace rather than claiming you did everything alone.",
+          "summary_zh": "保持感恩与谦卑，不将一切成就全归功自己",
+          "timestamp_sec": 575,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "my job is to make sure my body's ready to go and not only physically but mentally I'm a huge proponent in mental health and self-awareness",
+          "summary_en": "Maintain physical readiness alongside mental health and self-awareness for career longevity.",
+          "summary_zh": "兼顾身体健康与心理自我觉察以延长职业寿命",
+          "timestamp_sec": 584,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "NFL布法罗比尔队职业线卫，在联盟征战约14年，单年最高收入达3800万美元。",
+      "guest_name": "Von Miller",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "NFL Linebacker (Buffalo Bills)",
+      "wealth_detail": "$38M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "赚到大钱后切忌挥霍，要把钱存下来并补足金融理财教育；在强手如林的环境中靠韧性与自我进化立足，同时管理好身体健康与心理健康。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "the biggest risks that you take early on are the ones that are really going to pay off and really nobody really meets their full potential unless they take risks early on",
+          "summary_en": "Take big risks early in your career because those risks pay off and unlock your full potential.",
+          "summary_zh": "趁年轻敢于冒险才能激发潜能并收获大回报",
+          "timestamp_sec": 685,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "stepping out on my own and not being content with a paycheck from a big company and working really hard just so that they could succeed... we're doing it or we'll regret it the rest of our lives",
+          "summary_en": "Do not settle for a big-company paycheck helping others succeed; overcome nervousness and bet on yourself.",
+          "summary_zh": "别满足于大公司死工资，趁早出来为自己拼",
+          "timestamp_sec": 696,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "really be willing to make sacrifices work hard",
+          "summary_en": "Be willing to make sacrifices and put in hard work to build wealth.",
+          "summary_zh": "愿意做出真正牺牲并付出实打实的努力",
+          "timestamp_sec": 709,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "don't show off",
+          "summary_en": "Avoid showing off wealth or status.",
+          "summary_zh": "保持低调务实，切忌盲目炫耀财富",
+          "timestamp_sec": 709,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "be honest I think honesty is the biggest thing",
+          "summary_en": "Make honesty your foundational rule in business and life.",
+          "summary_zh": "诚实守信是立身之本，做生意摆在第一位",
+          "timestamp_sec": 721,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "don't be afraid to reach out to people... afraid to pick up a phone or to call on somebody that they've worked with in the past and get advice from them or get some kind of support",
+          "summary_en": "Don't hesitate to pick up the phone and reach out to former colleagues for advice or support.",
+          "summary_zh": "别怕主动打电话向共事过的人脉请教求助",
+          "timestamp_sec": 721,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在商店打工时曾穷到吃不上饭，只能悄悄从同事午饭里各拿一点果腹；后来辞去大公司工作独立创业18年，个人单年最高收入达50万美元。",
+      "guest_name": "Highland Park 63yo Self-Made Business Owner",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Business Owner (18 Years)",
+      "wealth_detail": "$500k/yr personal income",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "趁年轻勇敢承担风险、脱离大公司为自己而战；愿意做出牺牲、诚实做人且不炫耀；不要害怕拿起电话向共事过的人脉请教或寻求支持。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ts5-LCzCUuE",
+  "video_type": "street_multi"
+}

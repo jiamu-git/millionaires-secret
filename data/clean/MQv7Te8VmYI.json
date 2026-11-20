@@ -1,0 +1,505 @@
+{
+  "id": "MQv7Te8VmYI",
+  "url": "https://www.youtube.com/watch?v=MQv7Te8VmYI",
+  "title": "How I Turned $1,000 Into $1 Billion",
+  "upload_date": "20230105",
+  "duration": 995,
+  "view_count": 25954,
+  "like_count": 708,
+  "comment_count": 35,
+  "chapters": [
+    {
+      "start": 0,
+      "end": 49,
+      "title": "intro"
+    },
+    {
+      "start": 49,
+      "end": 214,
+      "title": "How did you know that was the right idea to go all in on?"
+    },
+    {
+      "start": 214,
+      "end": 303,
+      "title": "How can people fund their business/idea?"
+    },
+    {
+      "start": 303,
+      "end": 410,
+      "title": "What are the most important things you incorporated into your life?"
+    },
+    {
+      "start": 410,
+      "end": 469,
+      "title": "What was the biggest risk you took and how important is risk to you?"
+    },
+    {
+      "start": 469,
+      "end": 528,
+      "title": "What are the most important traits to have in a team?"
+    },
+    {
+      "start": 528,
+      "end": 575,
+      "title": "What was the worst financial decision you ever made?"
+    },
+    {
+      "start": 575,
+      "end": 623,
+      "title": "What was the best financial decision you ever made?"
+    },
+    {
+      "start": 623,
+      "end": 644,
+      "title": "How can someone scale their company?"
+    },
+    {
+      "start": 644,
+      "end": 791,
+      "title": "3 Books Everyone Should Read"
+    },
+    {
+      "start": 791,
+      "end": 839,
+      "title": "Does Money Buy Happiness?"
+    },
+    {
+      "start": 839,
+      "end": 975,
+      "title": "What advice would you tell your younger self?"
+    },
+    {
+      "start": 975,
+      "end": 995,
+      "title": "Outro"
+    }
+  ],
+  "transcript_chunks": [
+    {
+      "start": 0,
+      "ts": "00:00",
+      "text": "within the first month we did fifty thousand dollars in Business Without any advertising and within 11 months we were doing almost as much as the security company and within four years we're doing 120 million in sales what's going on everyone welcome back to"
+    },
+    {
+      "start": 17,
+      "ts": "00:17",
+      "text": "episode 7 of 10 questions with a millionaire I'm James with the School of Hard Knocks and I'm here with Glenn Boyd he's a founder of a major tech company we're super excited to be with you today just kind of ask you some questions"
+    },
+    {
+      "start": 27,
+      "ts": "00:27",
+      "text": "about your journey could you kind of give us a little rundown about your story I started my career really young teaching myself to program then in my early 20s started a tech company that ended up taking public in 99 it was one"
+    },
+    {
+      "start": 40,
+      "ts": "00:40",
+      "text": "of the early.com companies as they say I got out before it all crashed and it did really well that I took it public and then ended up selling it in a merger later on your first company was originally called EG software I believe"
+    },
+    {
+      "start": 51,
+      "ts": "00:51",
+      "text": "that's correct at that time how did you know that that was the idea that you were going to take it to Market and how did you know that that was the company that you wanted to kind of invest in and go all in with the original product was"
+    },
+    {
+      "start": 61,
+      "ts": "01:01",
+      "text": "not that the original product was actually a security product and what it does is it was like a surveillance system for internal networks Because the Internet really hadn't been invented yet or it wasn't being utilized but there"
+    },
+    {
+      "start": 72,
+      "ts": "01:12",
+      "text": "was a lot of local area networks most of the Banks and financial institutions were being pushed to put in some type of audit control as more and more things were becoming computerized I saw an opportunity and wrote a product for"
+    },
+    {
+      "start": 84,
+      "ts": "01:24",
+      "text": "logging and analyzing all the traffic and all the access of what goes on on a local area network we had a great amazing little business we had the entire Federal Reserve we had almost every major Bank in the the US it was me"
+    },
+    {
+      "start": 97,
+      "ts": "01:37",
+      "text": "my partner Ellie and my wife worked in the business and my brother-in-law there was four of us and we were banging out a million dollars a year out of a little office about the size of this uh this room all of a sudden the internet comes"
+    },
+    {
+      "start": 109,
+      "ts": "01:49",
+      "text": "along Yahoo had gone public Netscape and I realized the world's going to change here it is I had been working in local area networks but now all of a sudden the whole world is becoming networked and we looked at like how do we"
+    },
+    {
+      "start": 119,
+      "ts": "01:59",
+      "text": "capitalize on that and I think the analogy I gave at the time to to Elias I said look you know I see this train going past and I see people on that train and they're all got champagne glasses I said if we start running now"
+    },
+    {
+      "start": 131,
+      "ts": "02:11",
+      "text": "we might be able to catch the the last car of that train because this is going to be the future so we spent the whole summer trying to figure out what product we were going to go into and what we're going to do almost willing to abandon"
+    },
+    {
+      "start": 143,
+      "ts": "02:23",
+      "text": "our really successful business then I don't know if it was him or me but we had this Epiphany that is that we pivoted our company so instead of having this product that analyzed local traffic and looking for say security violations"
+    },
+    {
+      "start": 155,
+      "ts": "02:35",
+      "text": "in a bank potential fraud it started analyzing Anonymous traffic that was coming into the web and instead of producing say a security report produced a marketing report so instead of trying to find somebody who's committing fraud"
+    },
+    {
+      "start": 165,
+      "ts": "02:45",
+      "text": "we said what if you analyze all this Anonymous data and identified how many people are interested in this and how many people are interested in that so some of our earliest clients and customers or people like Sports Illustrated magazine they had a website"
+    },
+    {
+      "start": 178,
+      "ts": "02:58",
+      "text": "everybody was brand new but they didn't know if they had a hundred thousand people coming or ten thousand people coming and visiting it 10 times because there was no product to be able to tell them that and I but I had this"
+    },
+    {
+      "start": 188,
+      "ts": "03:08",
+      "text": "technology that we had spent years building to could analyze massive amounts of data very quickly and we pivoted we had no idea if the product was going to be successful we didn't know if the dogs would eat the dog food within the first month we did 50 000 in"
+    },
+    {
+      "start": 202,
+      "ts": "03:22",
+      "text": "Business Without any advertising and within 11 months we were doing almost as much as the security company and within four years we're doing 120 million in sales a lot of people they tend to have these great ideas but they really"
+    },
+    {
+      "start": 216,
+      "ts": "03:36",
+      "text": "struggle to get the funding for them so what do you recommend to people that are trying to get that funding for their ideas to build companies well it always helps to have something demonstrable and not just an idea ideas are really"
+    },
+    {
+      "start": 227,
+      "ts": "03:47",
+      "text": "difficult to get funded and if you can build something that's a sample you know something that you can demonstrate I mean that goes a long long way there's an old expression that I think it was founded in the 70s and it happened to do"
+    },
+    {
+      "start": 238,
+      "ts": "03:58",
+      "text": "with all these advertising companies were creating you know I think it's called the dog food Wars where they're creating all these different dog foods and they spend all this money and they put them on television but it turns out"
+    },
+    {
+      "start": 248,
+      "ts": "04:08",
+      "text": "the dogs just didn't like the dog food and it didn't matter how great the advertising was or how flashy it was so the expression especially in the tech world was will the dogs eat the dog food and what that meant is will people"
+    },
+    {
+      "start": 261,
+      "ts": "04:21",
+      "text": "actually use the product so often you don't know completely until you build a product or build some of it and if you can get early adoption even if it's a small amount you can typically demonstrate a path to where you know"
+    },
+    {
+      "start": 273,
+      "ts": "04:33",
+      "text": "somebody will be willing to invest in it because they can say wow this is really not only a good idea but I can see how people are using it and they're really gravitating towards it and there's a huge chance of it exploding I mean you"
+    },
+    {
+      "start": 284,
+      "ts": "04:44",
+      "text": "just look at some of the examples whether it was YouTube it started out with just cat videos or Instagram it just started out with people wanting to share some of their personal you know photos to almost every tech company they"
+    },
+    {
+      "start": 295,
+      "ts": "04:55",
+      "text": "started as some little simple idea but it it really went viral or it really went to the level of the dogs loved the dog food in in today's world we're seeing a lot of light being shined on self-improvement personal development"
+    },
+    {
+      "start": 307,
+      "ts": "05:07",
+      "text": "for you throughout your career what would you say with some of the most pivotal things that you Incorporated whether it was into your routine or just throughout your life that led you to where you are today for any entrepreneur"
+    },
+    {
+      "start": 317,
+      "ts": "05:17",
+      "text": "it's always a challenge and it definitely was for me keeping life work balance even more so as I'm older it's Life Health work balance I started very young I had children very young and I had a high-tech super successful company"
+    },
+    {
+      "start": 329,
+      "ts": "05:29",
+      "text": "very young through that process I ended up divorced early on some of that was with the stress of starting a company and having young children and having a young marriage that was where I think some of that life work balance broke"
+    },
+    {
+      "start": 341,
+      "ts": "05:41",
+      "text": "down later on in life I ended up having a heart attack and a triple bypass surgery some of that led to me to realize that I have to as I'm getting older take my health almost as seriously as my physical health as seriously as my"
+    },
+    {
+      "start": 354,
+      "ts": "05:54",
+      "text": "mental health as well as Conquering the boredom of life it's easy to find yourself working too much as an entrepreneur because you love it but not everybody else around you can appreciate that and that's where your relationships"
+    },
+    {
+      "start": 365,
+      "ts": "06:05",
+      "text": "can suffer whether it's with your significant other or with your your family how can someone prioritize their mental health what were some of the steps that you kind of learned to take during that process to you focus on your"
+    },
+    {
+      "start": 375,
+      "ts": "06:15",
+      "text": "personal and mental health anybody who's looking for a good entrepreneurial work-life balance I would encourage them to you know partner with somebody I think there's no way I could have ever built my company if I hadn't have a"
+    },
+    {
+      "start": 387,
+      "ts": "06:27",
+      "text": "strong co-partner in founding the company and we were able to offload a lot of things for each other whether it was somebody has a personal emergency or just dividing up the work and finding somebody you trust is is critical and"
+    },
+    {
+      "start": 400,
+      "ts": "06:40",
+      "text": "somebody you enjoy working with and also somebody who has not just complimentary but even non-complementary skills so that you both bring something to the table that the other one doesn't have what was the biggest risk that you ever"
+    },
+    {
+      "start": 410,
+      "ts": "06:50",
+      "text": "took and how important has risk been to you I had a newborn on the way and gotten down to probably the last I think thousand dollars in my bank account oh actually I had somebody save up I quit my job and started writing my first"
+    },
+    {
+      "start": 425,
+      "ts": "07:05",
+      "text": "product and I got down to like the last thousand dollars into my bank account and went and sold the one asset I had at the time which is a motorcycle that got us through another month or two then my business partner and he came on board"
+    },
+    {
+      "start": 437,
+      "ts": "07:17",
+      "text": "and put some his personal money in and the two of us together went on to make a very successful company but to say that I put it all on the line is not an understatement at the time I my total risk mentality was the worst thing that"
+    },
+    {
+      "start": 450,
+      "ts": "07:30",
+      "text": "can happen to me is I can always I'll have to go get a job and so for me it was like let me take all this risk even though I had a newborn on the way I knew that if I failed I'll just have to go get a job but I also knew that if I"
+    },
+    {
+      "start": 463,
+      "ts": "07:43",
+      "text": "didn't try it I would be studying at a job someplace always wondering why didn't I try when you're creating a company it's important to build like a strong leadership team what are the three most important traits that you"
+    },
+    {
+      "start": 474,
+      "ts": "07:54",
+      "text": "look for in people when you're assembling like a leadership team or employing people for a company well I think you have to work with honest people you have to work with intelligent people you have to work with people that"
+    },
+    {
+      "start": 485,
+      "ts": "08:05",
+      "text": "they can take you know constructive feedback and that includes yourself I think that's that's critical you're not always going to get along our wives at the time in our first earlier days of the family of the company they thought"
+    },
+    {
+      "start": 496,
+      "ts": "08:16",
+      "text": "that my partner and I were going to kill each other because we were constantly arguing but what we were doing is really fleshing out the best path forward or the best idea forward I remember in the early days we we had some horaceous"
+    },
+    {
+      "start": 508,
+      "ts": "08:28",
+      "text": "arguments over which shade of red we were going to make our first packaging on our product and it turned out to be this inconsequential kind of thing but eventually through that process we became closer and closer friends and"
+    },
+    {
+      "start": 519,
+      "ts": "08:39",
+      "text": "trusted each other more and more to make independent decisions and we needed to go through that early on to order get to that level of confidence with each other what would you say is the worst financial decision that you've made"
+    },
+    {
+      "start": 529,
+      "ts": "08:49",
+      "text": "throughout your life getting involved in things you don't want to be involved in I had this Misfortune of doing a construction loan on a business that I really didn't want to be in I got kind of talked into it with a another friend"
+    },
+    {
+      "start": 542,
+      "ts": "09:02",
+      "text": "of mine it was supposed to be a temporary construction loan everything was collateralized and management was failing I had to step in and spend a couple of my years of my life turning it around only to have the whole thing"
+    },
+    {
+      "start": 552,
+      "ts": "09:12",
+      "text": "because of a tragic accident and somebody unfortunately passed away ended up costing the entire company I lost close to three million dollars on that and what that taught me is don't get involved with something you don't want"
+    },
+    {
+      "start": 563,
+      "ts": "09:23",
+      "text": "to get involved in my gut instinct was telling me from day one don't do it but I ended up doing it anyway then I powered through and thought and by circumstance I wished I'd just never done it but what was the best financial"
+    },
+    {
+      "start": 574,
+      "ts": "09:34",
+      "text": "decision that you've ever made probably for us both my partner and I at the time we founded the company the best decision was the company was growing so fast we were profitable but we felt like we needed additional Capital just to expand"
+    },
+    {
+      "start": 587,
+      "ts": "09:47",
+      "text": "faster and we sought out a venture capital firm and we spent a lot of energy working with them because Venture Capital can spend and take a lot of attention it's like there's a courtship that goes on and in the end they decided"
+    },
+    {
+      "start": 600,
+      "ts": "10:00",
+      "text": "to pass on us we were kind of glad because we were so frustrated with them and the process so they ended up not investing in us what that meant though is we didn't have that Financial underpinning that you would with ventral"
+    },
+    {
+      "start": 613,
+      "ts": "10:13",
+      "text": "Capital but we also so we're way more frugal with the decisions we made going forward and when we took the company public he and I owned 95 percent of the company what is your best piece of advice to someone trying to scale their"
+    },
+    {
+      "start": 624,
+      "ts": "10:24",
+      "text": "business keep your expenses controlled the problem with scaling is that expenses scale as well the numbers become multiples so you know one bad dip someplace can wipe out your whole business especially if you're trying to"
+    },
+    {
+      "start": 637,
+      "ts": "10:37",
+      "text": "stay profitable especially if you're trying to grow really fast you know just keep your expenses under control what are the three books that you'd recommend that any entrepreneur should read my favor that changed my it probably saved"
+    },
+    {
+      "start": 650,
+      "ts": "10:50",
+      "text": "my business or helped me understand my business there's actually two of them but one more than anything else at the time my business was growing so fast but I couldn't quite put my finger on what the problems were I would come home"
+    },
+    {
+      "start": 663,
+      "ts": "11:03",
+      "text": "because I'd had these hellaciously stressful days and I would try to read some just so I could sleep and I started reading Into Thin Air and then it clicked for me what the problem was with my company in the book he talks about"
+    },
+    {
+      "start": 674,
+      "ts": "11:14",
+      "text": "everybody has a level where they run out of oxygen when they go up in altitude and even the simplest task when you get up to a certain level like tying your shoes becomes very very difficult and everybody's built differently and unless"
+    },
+    {
+      "start": 686,
+      "ts": "11:26",
+      "text": "you have supplemental oxygen some people will tap out and it becomes deadly and they the only solution is to go down the mountain there are some people that are natural athletes who can you know or they're Sherpas because they were born"
+    },
+    {
+      "start": 696,
+      "ts": "11:36",
+      "text": "with the the genetics with their blood to carry the oxygen can go all the way to the top of Mount Everest without supplemental oxygen extremely rare but it does happen but what I was Finding is because my company was growing so fast"
+    },
+    {
+      "start": 706,
+      "ts": "11:46",
+      "text": "somebody that was an employee six months ago or a year ago who I hired and was just an amazing employee was failing and it dawned on me what they were really doing is they were out of oxygen because they had started out and they were"
+    },
+    {
+      "start": 717,
+      "ts": "11:57",
+      "text": "working maybe managing four people or six people or ten people because that's what I hired them at that level to do and then a year later or six months later they're managing 20 people or 30 people and it's the same analogy as if"
+    },
+    {
+      "start": 728,
+      "ts": "12:08",
+      "text": "you're good at juggling and you can juggle three balls and I hand you a fourth and you're good at that you hand you a fifth a six eventually you're you're going to reach the level you're going to drop all the balls and what I"
+    },
+    {
+      "start": 736,
+      "ts": "12:16",
+      "text": "realized is it was my responsibility to stop handing them balls and also in some cases take them down the mountain it also changed my hiring practices so that when I would hire somebody I would say okay so I know we were hiring you for to"
+    },
+    {
+      "start": 749,
+      "ts": "12:29",
+      "text": "manage 20 people and you managed 50 in the past but you'll be managing 50 people within a year and I need somebody who can who's already been up the mountain so that book to me saved my company you know and once we identified"
+    },
+    {
+      "start": 761,
+      "ts": "12:41",
+      "text": "that we changed our hiring practices across the company to hire above a level for the position that we were doing and people that were used to be good that were starting to fail we took them down the mountain and divided up their"
+    },
+    {
+      "start": 771,
+      "ts": "12:51",
+      "text": "responsibilities another one which is it's great for marketing and if we're launching a new uh product is called crossing the chasm and it's talking about the process and there's this chasm in the bell curve of getting your"
+    },
+    {
+      "start": 782,
+      "ts": "13:02",
+      "text": "product across before it gets into adoption and it really resonated in the early days when we were trying to grow our product and how to launch it into new markets you sold your company for over a billion dollars so my question"
+    },
+    {
+      "start": 793,
+      "ts": "13:13",
+      "text": "for you is you know you made a lot of money off that does money by happiness no my it just doesn't I think there's a certain level that money does I mean I grew up very poor I roof houses as a child in the Texas heat to help my dad"
+    },
+    {
+      "start": 808,
+      "ts": "13:28",
+      "text": "and then later washing dishes with my mother yes money definitely bought happiness when you reach a certain level beyond that when I finally was able to feel secure enough that I could send my children to college and that gave me a"
+    },
+    {
+      "start": 819,
+      "ts": "13:39",
+      "text": "lot more freedom to try new things but at a certain level the champagne doesn't get any better and a certain level the women don't get prettier or a certain level the the beaches don't get any nicer just making more and more money"
+    },
+    {
+      "start": 831,
+      "ts": "13:51",
+      "text": "doesn't buy happiness but there is probably a base level somewhere between poverty and paying all your bills if you were to go back to you know when you're 18 years old and you could have a conversation with younger Glenn what are"
+    },
+    {
+      "start": 843,
+      "ts": "14:03",
+      "text": "the three pieces of advice that you would tell yourself in a conversation with your younger self I mean I definitely would have said enjoy life a little bit more I mean I I didn't really have a childhood but that was also"
+    },
+    {
+      "start": 853,
+      "ts": "14:13",
+      "text": "because I they started working so young and was successful young but I also the intensity of it I had to process that later in my life after I sold my company it was like actually learning how to enjoy life you know not just work work"
+    },
+    {
+      "start": 866,
+      "ts": "14:26",
+      "text": "work work and so I think I would tell my 18 year old self is like maybe not be so ambitious and finish college maybe not be so ambitious and have a little bit deeper meaningful relationships here or there other advice I'd give myself I"
+    },
+    {
+      "start": 881,
+      "ts": "14:41",
+      "text": "think I I would tell myself to take care of my health better because I think that's the first and easiest thing to to let go as an entrepreneur when you're working you just can't get away from working 50 60 70 hours a week even if"
+    },
+    {
+      "start": 893,
+      "ts": "14:53",
+      "text": "you're not physically doing it you're thinking about it when you're at home you're here you're there that translates into your relationships don't spend so much money once you finally make it better yet would be get some really good"
+    },
+    {
+      "start": 904,
+      "ts": "15:04",
+      "text": "Financial advice once you finally do make good money we've interviewed hundreds of of millionaires and one of the biggest you know pieces of advice that they would tell their younger selves is they wish that they would have"
+    },
+    {
+      "start": 916,
+      "ts": "15:16",
+      "text": "started sooner for someone who has all these thoughts and great ideas and they're always say oh I'll start tomorrow I'll start tomorrow or whether it's a YouTube channel or this company but you actually you execute it you"
+    },
+    {
+      "start": 927,
+      "ts": "15:27",
+      "text": "created a company you sold it for a lot of money what is your advice to someone you know trying to really start and begin their business well procrastination is your worst enemy you know and I think that's what you're getting at and it's easy to always put"
+    },
+    {
+      "start": 939,
+      "ts": "15:39",
+      "text": "it off and not do it and not take the risk the one thing we do not have in life that's renewable is time and the longer you delay it the longer it's going to take you to get to where you want to be so I think there's an old"
+    },
+    {
+      "start": 951,
+      "ts": "15:51",
+      "text": "expression uh and I think it's even if you're going to fail fail fast get in there try it it didn't work move on do the next thing because if you're an entrepreneur you're probably gonna be an entrepreneur your whole life and if"
+    },
+    {
+      "start": 962,
+      "ts": "16:02",
+      "text": "you're going to make a mistake and have a failure get it out of the way and go learn from that and do the next one and the longer you delay for that perfect idea that just means you're that much further away from a success"
+    },
+    {
+      "start": 973,
+      "ts": "16:13",
+      "text": "well guys that wraps up today's episode of 10 questions with a millionaire we were super excited to be able to sit down here with Glenn Glenn thank you so much for coming on and it was great to meet you talk to you find out more about"
+    },
+    {
+      "start": 985,
+      "ts": "16:25",
+      "text": "your story today so stay tuned guys for more content if you enjoyed this video make sure that you like leave us a subscribe we got a ton of great content coming let's get it"
+    }
+  ],
+  "word_count": 3735
+}

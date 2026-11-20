@@ -1,0 +1,208 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "My company will do 300 million this year in revenue, right? If I were still doing it all myself, we might do three.",
+          "summary_en": "Master delegation and build an empowered team; doing everything yourself caps growth at a fraction of your potential.",
+          "summary_zh": "学会授权与培养团队，靠自己只能做小生意",
+          "timestamp_sec": 19,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I can give you skills, but I can't control your mindset. I can't give you passion, I can't give you drive.",
+          "summary_en": "Mindset matters more than skillset because technical skills can be taught, while passion and drive cannot.",
+          "summary_zh": "心态、激情与驱动力比单纯的技能更关键",
+          "timestamp_sec": 118,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't go out and blow money on that new Rolex, that new Patek, that Ferrari, the new Lambo... invest that money in something that's going to give you an ROI.",
+          "summary_en": "Avoid blowing money or taking on debt for watches, supercars, and consumables that generate zero ROI.",
+          "summary_zh": "别把钱浪费在豪车名表等无回报消费品上",
+          "timestamp_sec": 229,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "No matter how much money you make, you still got to live within your means.",
+          "summary_en": "Maintain strict personal spending discipline regardless of how high your income rises.",
+          "summary_zh": "无论赚多少钱，都必须坚持量入为出",
+          "timestamp_sec": 248,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Every dollar I made every week had to stay in the company to reduce my debt liabilities... then I still had to build my balance sheet and retained earnings to be able to grow.",
+          "summary_en": "Keep profits inside the business early on to pay down debt, build retained earnings, and self-fund scale.",
+          "summary_zh": "把每周利润全额留存企业降负债、筑资产",
+          "timestamp_sec": 256,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Keep Growing & Avoid Complacency",
+          "category": "Business & Strategy",
+          "quote": "The day you stop growing as a business is the day you begin to die on the vine... your competitors, they're not resting on their laurels.",
+          "summary_en": "Never settle when a business is merely doing okay; continuous growth is required or competitors will overtake you.",
+          "summary_zh": "企业停止增长之日，便是走向衰败之时",
+          "timestamp_sec": 276,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Rather than going taking out this loan, you took on all that risk at once and you didn't have the revenue to support it.",
+          "summary_en": "Do not take on large lump-sum loans before you have consistent revenue to support the risk; grow cash flow in small chunks.",
+          "summary_zh": "营收未稳切勿借大额贷款一次性承担高风险",
+          "timestamp_sec": 429,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've learned financial discipline... I learned how to build up a balance sheet in a business, which is imperative.",
+          "summary_en": "Develop rigorous financial discipline and build a strong balance sheet rather than pulling cash out prematurely.",
+          "summary_zh": "严守财务纪律，夯实公司资产负债表",
+          "timestamp_sec": 507,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Retain Equity & Bootstrap Early",
+          "category": "Business & Strategy",
+          "quote": "I'm sitting here today and I still own 100% of my business. I never sold off shares of my business to get the money.",
+          "summary_en": "Avoid giving up 51%–70% equity for early idea-stage capital; endure lean bootstrapping to keep ownership.",
+          "summary_zh": "宁可极简生活也守住股权，别过早稀释股份",
+          "timestamp_sec": 518,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I want to see that you already started hustling, you already started turning some revenue, maybe at a very small level... now we've got proof of concept.",
+          "summary_en": "Start hustling and generating small initial revenue to prove your concept before seeking outside growth capital.",
+          "summary_zh": "先自己跑通小规模营收，再谈融资扩张",
+          "timestamp_sec": 559,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "I made it all about our customer... by focusing on what was best for our customers, they continue to turn over more and more of their business to us.",
+          "summary_en": "Prioritize what is best for existing clients so they expand their contracts and trust you with more business.",
+          "summary_zh": "一切以客户利益为中心，用信任滚大订单",
+          "timestamp_sec": 609,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Coming in with more of a consultative sales approach where I'm here to see how I can make your business better... make you more profitable and make you more competitive.",
+          "summary_en": "Use a consultative sales approach focused on making the prospect's business more profitable and competitive.",
+          "summary_zh": "采用顾问式销售，先帮客户提升利润再成交",
+          "timestamp_sec": 635,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Establish relationships with bankers as fast as possible. You're going to need them if you're going to scale... start establishing those relationships before you have the need.",
+          "summary_en": "Build relationships with bankers early and let them guide your balance-sheet milestones before you urgently need credit.",
+          "summary_zh": "尽早与银行建立信任关系，为扩张铺平融资路",
+          "timestamp_sec": 867,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Got them to believe in me, believe in my integrity, my credibility, because they want to be taking risk with people that they believe have strong credibility.",
+          "summary_en": "Establish unimpeachable integrity and follow through on milestones so lenders and partners are willing to bet on you.",
+          "summary_zh": "用诚信与靠谱记录赢得银行和伙伴的信任",
+          "timestamp_sec": 916,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Get into a group where we're all there to learn and grow and collaborate and share experience with one another. That's probably the one thing if I were to go back to me at 24, 25 years old I would tell myself to do.",
+          "summary_en": "Join a non-soliciting peer group of founders and CEOs to learn from others' experience instead of spending 40 hours solving problems alone.",
+          "summary_zh": "尽早加入纯粹互助、不互相推销的创始人社群",
+          "timestamp_sec": 1039,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Let them have that win, okay, but now start looking long term... let's make it results driven... allow me to earn my margins... by making your business better.",
+          "summary_en": "In tough price negotiations, concede short-term price and tie future margins to measurable ROI and cost savings you deliver.",
+          "summary_zh": "谈判遇到压价时，改签与长期业绩挂钩的方案",
+          "timestamp_sec": 1134,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Now I'm at a place where I really want to give back. I love mentoring other people.",
+          "summary_en": "Use your success and passions as a platform to inspire and mentor younger people coming up behind you.",
+          "summary_zh": "成功后不忘回馈社会，积极指导下一代创业者",
+          "timestamp_sec": 1261,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I had a dream, I had a vision for something that I wanted for myself and at the end of the day it's the number one thing I tell people all the time: believe in yourself and just don't quit.",
+          "summary_en": "Hold onto a clear vision regardless of humble beginnings, believe in yourself, and refuse to quit.",
+          "summary_zh": "坚信自己的梦想，永远不要轻言放弃",
+          "timestamp_sec": 1295,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身农场且曾靠救济金生活；创业首个大单年化营收达900万美元，因30天账期需垫付约100万美元周转资金，靠21%高息应收账款保理垫资撑过前5周并坚持不分红全额留存再投资。",
+      "guest_name": "Lewis",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting",
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder & Owner, Effects Management Solutions (Labor Force Management)",
+      "wealth_detail": "$300M/yr revenue company (100% owned); $21M car collection",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要空手套白狼找早期投资人（否则会被拿走51%-70%股权），先低成本跑通最小营收和商业验证；尽量不给自己发工资、过极简生活，用现金流小步滚雪球；尽早与银行建立信任关系，加入不互相推销的创始人同行交流圈，并坚定自信、永不放弃。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "d4Yuq3iP5eI",
+  "video_type": "deep_dive_single"
+}

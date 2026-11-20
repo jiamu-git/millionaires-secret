@@ -1,0 +1,127 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I spent 10 years of my career at that firm until I left in 2009 to start my own",
+          "summary_en": "Spend years learning inside an established, reputable firm before launching your own company.",
+          "summary_zh": "先在老牌强企深耕十年再独立创业",
+          "timestamp_sec": 48,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "my day begins probably around 5 30. and I'm at the office by 6 15 the latest",
+          "summary_en": "Maintain a disciplined schedule starting early in the morning, staying late, and holding weekly individual review meetings.",
+          "summary_zh": "坚持早起进办公室与每周复盘的铁律",
+          "timestamp_sec": 129,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "brokers in this business they're not transactional they are relationship Centric",
+          "summary_en": "Build lifelong, repeat client relationships rather than treating deals as one-off transactions; landing five active clients can set you up.",
+          "summary_zh": "重长期客户关系，拿下五个活跃大客户",
+          "timestamp_sec": 156,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "no salary means that there's no ceiling I can make as much money as possible",
+          "summary_en": "Embrace commission-only upside because having no fixed salary means having no ceiling on your income.",
+          "summary_zh": "敢选无底薪赛道，不给收入设上限",
+          "timestamp_sec": 177,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I started at 5 30 in the morning arriving at the office staying till 6 PM that I went to a job working at night",
+          "summary_en": "Endure the long early runway with extreme grit—working side jobs at night and on weekends if needed while building your business.",
+          "summary_zh": "熬过两年无单期，打三份工扛住前期压力",
+          "timestamp_sec": 190,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I was able to buy my first deal using the commission earned from these transactions",
+          "summary_en": "Use commissions earned from brokerage deals to buy your own real estate properties.",
+          "summary_zh": "用经纪业务赚取的佣金买下个人商业地产",
+          "timestamp_sec": 274,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "he invited me over I sat and I watched them learned as much as I could",
+          "summary_en": "Research a mentor's personal interests to get in the room, ask to be taught, and observe closely before expecting business.",
+          "summary_zh": "投其所好破冰大佬，近身观摩向导师学习",
+          "timestamp_sec": 378,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Start Directly in Commercial Real Estate",
+          "category": "Business & Strategy",
+          "quote": "I don't recommend it because the process is completely different",
+          "summary_en": "Avoid starting in residential real estate to transition into commercial later unless you already have substantial capital; start directly in commercial.",
+          "summary_zh": "别从住宅地产迂回转型，直接切入商业地产",
+          "timestamp_sec": 433,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "by year five you're making seven figures yeah without question after a decade you're making probably 10 million dollars or more",
+          "summary_en": "Pick a high-upside industry like commercial real estate where mastering database building, relationships, and proposals can reach seven figures in five years.",
+          "summary_zh": "选高天花板赛道，做对五年即可年入百万",
+          "timestamp_sec": 483,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Leverage Modern Information & Tech Tools",
+          "category": "Actionable Skills & Habits",
+          "quote": "you could just go online and Google and find so much information about an owner so information is gold",
+          "summary_en": "Take advantage of online search and modern tools to research property owners, as information is gold.",
+          "summary_zh": "善用互联网与搜索工具挖掘业主黄金信息",
+          "timestamp_sec": 522,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1999年毫无经验进入纽约一家老牌商业地产经纪公司，在无底薪期间靠白天做经纪、晚上餐厅打工（时薪10-12美元）及周末卖尼桑汽车三份工度日；坚持近两年后于2001年8月在纽约宾厄姆顿成交首单获5.4万美元佣金，随后用布朗克斯公寓楼交易佣金买下自己首个地产项目，并于2009年创立个人经纪公司。",
+      "guest_name": "Kevin Salmon",
+      "industry": "Real Estate",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Julian Studley"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Commercial Real Estate Broker & Brokerage Founder",
+      "wealth_detail": "$2M best year (brokerage)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "建议新人直接从商业地产起步而非先做住宅地产（除非已攒下巨额资金）；入行前需做好财务支撑，扛过6至12个月无成交期；专注建立长期复购客户关系（拿下5个活跃客户即可站稳），先在成熟大公司历练并寻找导师，善用网络工具挖掘业主信息，保持高强度自律作息。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "3aG9DVb6vBs",
+  "video_type": "deep_dive_single"
+}

@@ -1,0 +1,131 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you can sharpen that ax and sharpen that sword and just slay sales for any business that has high demand you can be recession-proof",
+          "summary_en": "Master sales for high-demand businesses to make your income recession-proof regardless of market conditions.",
+          "summary_zh": "精通高需求行业的销售能力以对抗周期",
+          "timestamp_sec": 30,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "fail faster and don't make it mean anything... failing forward intelligently learning from their mistakes faster",
+          "summary_en": "Fail faster, learn intelligently from your mistakes, and stop attaching heavy emotional meaning to small setbacks.",
+          "summary_zh": "加速试错并从中学习，不为失败赋予沉重意义",
+          "timestamp_sec": 66,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "meditating every single day and drawing in abundance and possibility and removing limitations from your past",
+          "summary_en": "Meditate and visualize daily to recondition your subconscious mind and eliminate self-sabotaging limiting beliefs.",
+          "summary_zh": "每日冥想重塑潜意识，清除过往的自我设限",
+          "timestamp_sec": 217,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "taking actions consistent and documenting what's working what's not working... why feedback loops are so critical",
+          "summary_en": "Take consistent daily action and use end-of-day reports and feedback loops to analyze and sharpen your performance.",
+          "summary_zh": "坚持每日复盘与反馈闭环，记录有效与无效动作",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "you have to pay people who have the results you're looking for... do not reinvent the wheel, success leaves clues",
+          "summary_en": "Invest aggressively to learn from and model the patterns of people who already have the results you want.",
+          "summary_zh": "果断付费向已取得结果的人学习并复制其模式",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Let Go of Ego & Control",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "your ego is not your amigo... give up your old identity... really understand that you don't know what you don't know",
+          "summary_en": "Drop your ego, let go of your old identity, and stop trying to control everything yourself when you have blind spots.",
+          "summary_zh": "放下傲慢与过往身份，正视盲区与控制欲",
+          "timestamp_sec": 455,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "it starts with a really really good product then having the amazing vision to fundraise so that you can hire the top tier talent",
+          "summary_en": "Scale to eight and nine figures by building a great product, raising capital with strong vision, and hiring top-tier talent.",
+          "summary_zh": "用好产品与融资能力吸引并重金聘用顶尖人才",
+          "timestamp_sec": 619,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "you don't really need material things and nice things and nice places like this to really really do well you just need skills and you need connections",
+          "summary_en": "Focus on covering basic survival needs first rather than chasing luxury; skills and connections matter far more early on.",
+          "summary_zh": "起步期无需追求物质排场，先聚焦技能与人脉",
+          "timestamp_sec": 702,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "add value to people for free until they gave me testimonials and case studies and get an anchor client",
+          "summary_en": "Build connections by giving your skills away for free to earn testimonials, then leverage an anchor client to win paid deals in the niche.",
+          "summary_zh": "用技能免费赋能建立人脉，靠标杆案例变现",
+          "timestamp_sec": 727,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "until you understand who you're talking to and what they care about you can't solve problems on the phone",
+          "summary_en": "Deeply understand your buyer's demographics and psychology so your offer bridges the gap to their desired outcome rather than forcing an agenda.",
+          "summary_zh": "洞察客户真实痛点，用方案弥补现状与目标差距",
+          "timestamp_sec": 835,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "来自伊拉克移民家庭，在底特律贫困区长大且曾无家可归两年；通过钻研高客单价纯佣金销售实现翻身，24岁时年佣金达50万美元，并带队在两年内将公司营收翻倍至近九位数，由此赚取第一桶金并成为千万级富翁。",
+      "guest_name": "Johnny Anton",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Ryan Breslow",
+        "Bob Proctor"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Networking & Relationships",
+        "Public Speaking & Communication",
+        "Operations & Systems",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Sales Executive, Entrepreneur & Closer (\"Johnny The Closer\")",
+      "wealth_detail": "Multi-millionaire; previously earned $500k/yr in 100% commission sales at age 24; scaled multiple businesses to 9 figures ($100M+/yr revenue)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先去找客单价最高的产品方做销售，快速赚够房租与基本生活费；随后用自身技能免费帮他人创造价值以积累口碑和客户案例，拿下标杆客户后再向其同赛道竞争对手销售高价值、低风险的付费方案，最后组建销售团队并投流扩张。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "oRqUthcMi6I",
+  "video_type": "deep_dive_single"
+}

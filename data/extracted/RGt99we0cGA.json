@@ -1,0 +1,443 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "It made me a very successful hospital administrator doing something I love and it made a big difference in a lot of people's lives.",
+          "summary_en": "Follow your passion and do meaningful work you love to achieve top-level career success.",
+          "summary_zh": "热爱所做的事并用专业改善他人生活",
+          "timestamp_sec": 88,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Being street smart, always taking a perspective that you can learn something every day and not be too full of yourself.",
+          "summary_en": "Stay humble, be street smart, and approach every day as an opportunity to learn.",
+          "summary_zh": "保持谦逊与街头智慧，坚持每天学习新知",
+          "timestamp_sec": 98,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Live within your means. My philosophy early on, I had a mentor who said, 'Live on what you made 5 years ago and invest and bank the rest.'",
+          "summary_en": "Live on your income from five years ago and save and invest the surplus to build financial freedom.",
+          "summary_zh": "按五年前收入标准生活，余钱用于储蓄和投资",
+          "timestamp_sec": 109,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "依靠热爱医疗管理、街头智慧与谦逊好学的态度，一路晋升至医院院长，峰值年薪超过100万美元。",
+      "guest_name": "Texas Hospital Administrator ($1M+/yr)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Hospital Administrator",
+      "wealth_detail": "Over $1M/yr peak annual income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "量入为出，维持五年前的消费水平，把多出来的收入全部存起来并用于投资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Make sure you have a number of people who have been successful at launching startups give you advice.",
+          "summary_en": "Seek guidance from multiple founders who have already succeeded at launching startups.",
+          "summary_zh": "向多位有成功创业经验的前辈请教建议",
+          "timestamp_sec": 133,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Make sure you got a strong business plan. You got a strong marketing social media presence and make sure you got your funding in place.",
+          "summary_en": "Prepare a solid business plan, secure funding, and build a strong social media marketing presence before launching.",
+          "summary_zh": "备齐商业计划与资金，重视社交媒体营销推广",
+          "timestamp_sec": 144,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Customers or your clients aren't the most important priority. Your people are. If you take care of your people, they'll take care of your customers.",
+          "summary_en": "Prioritize and take care of your employees first so they in turn take great care of your customers.",
+          "summary_zh": "把员工放在第一位，善待团队自然能服务好客户",
+          "timestamp_sec": 149,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "经营一家高尔夫推杆训练器公司，峰值年收入接近150万美元。",
+      "guest_name": "Golf Putting Training Aid Founder ($1.5M/yr)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Sir Richard Branson"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Business Owner (Golf Putting Training Aid Company)",
+      "wealth_detail": "~$1.5M/yr peak annual income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "创业前先请教成功的创业者，做好商业计划、确保资金到位并建立强大的社交媒体营销阵地。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Just put myself in the customer's shoes. I really try to build relationships on just being so personal and real with folks and just trying to listen to what their challenges are.",
+          "summary_en": "Empathize with customers, build genuine personal relationships, and listen closely to their challenges.",
+          "summary_zh": "站在客户角度真诚沟通，倾听痛点建立信任关系",
+          "timestamp_sec": 203,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I like to find out why. Is it competition? Is it pricing? Where is it? It sets me up better for the next time.",
+          "summary_en": "Diagnose the exact reason behind every 'no'—whether pricing or competition—to improve your next pitch.",
+          "summary_zh": "被拒绝后追问真实原因，把每次拒绝转为下次胜算",
+          "timestamp_sec": 214,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾担任职业高尔夫球手，之后转行进入IT销售领域。",
+      "guest_name": "Former Golf Pro Turned IT Salesman",
+      "industry": "Tech & Software",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "IT Salesperson (Former Golf Professional)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Stay out of debt and don't get divorced. It's cheaper to keep her.",
+          "summary_en": "Avoid unnecessary debt to protect your financial foundation.",
+          "summary_zh": "远离负债，避免非理性借贷侵蚀个人财务",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Costly Divorce",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't get divorced. It's cheaper to keep her... I've been divorced and it cost me all quite a bit.",
+          "summary_en": "Protect your marriage and avoid divorce, which can devastate personal wealth.",
+          "summary_zh": "经营好婚姻避免离婚，离婚会造成巨大的财富损失",
+          "timestamp_sec": 226,
+          "type": "regret"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Austin Golf Course Tech Salesman",
+      "industry": "Tech & Software",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Tech Salesman",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻人应远离债务并尽量避免离婚，以免财务遭受重创。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I went to school with a bunch of people that didn't go to college that are as financially free as I am. And that's because they made good investments. They became business owners.",
+          "summary_en": "Business ownership and smart investments can create financial freedom even without a college degree.",
+          "summary_zh": "成为企业主并做好投资，比学历更容易通往财务自由",
+          "timestamp_sec": 244,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "They understood that they needed to invest. So, if you can invest your money early on, the earlier the better.",
+          "summary_en": "Start investing your money as early as possible rather than waiting after graduation.",
+          "summary_zh": "越早开始投资越好，不要等到错过最佳复利期",
+          "timestamp_sec": 250,
+          "type": "regret"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Austin Project Architect",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Project Architect at a High-End Design Firm",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "越早投资越好，不一定要依赖大学文凭，创办企业与明智投资同样能实现财务自由。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You can start a business. You can go to the SBA. You can borrow $200 or $300,000 and if you have a thing that you like to do, you can start it.",
+          "summary_en": "A college degree isn't mandatory; leverage SBA small-business loans to launch a business you care about.",
+          "summary_zh": "不必拘泥学历，可善用SBA创业贷款启动喜爱事业",
+          "timestamp_sec": 303,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Humbleness. If you do everything right, it all takes care of itself. And if you live right and you believe there's a guy upstairs that takes care of you... a lot of good things come to you.",
+          "summary_en": "Stay humble, do things the right way, and keep faith so good outcomes naturally follow.",
+          "summary_zh": "保持谦逊与信仰，行事端正自然会收获好运与回报",
+          "timestamp_sec": 327,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "You have to find out what you're made of... If you want to go into business, then you have to decide what are you interested in and then you decide how do you build that.",
+          "summary_en": "Know your personality and strengths, decide whether you belong in corporate or entrepreneurship, and build around your genuine interest.",
+          "summary_zh": "认清自身性格与兴趣，再决定打工还是自主创业构建事业",
+          "timestamp_sec": 344,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Then you go find out from other people that have done it.",
+          "summary_en": "Learn directly from people who have already built what you want to build.",
+          "summary_zh": "向已经做成这件事的过来人请教具体经验",
+          "timestamp_sec": 361,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "未读完德克萨斯大学，50年前银行账上仅67美元便开始创业，如今成为当地行业规模最大的公司，年收入达七位数。",
+      "guest_name": "Austin 50-Year Business Founder ($67 Start)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder & Business Owner",
+      "wealth_detail": "Seven-figure annual income ($1M+/yr)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先认清自己适合稳定就业还是创业，若想创业可用SBA贷款起步并向过来人取经。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Built a great team. It's all about the people. All about putting good people in places that they're going to be successful at and developing people and getting everybody on the same page.",
+          "summary_en": "Scale by building a strong team, placing people where they can win, developing talent, and aligning communication.",
+          "summary_zh": "打造优秀团队，将人才放对位置并保持高效协同沟通",
+          "timestamp_sec": 383,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I worked at Sony first at my first job, seven years at Sony and then I went to Dell Computers for seven years and then I got into software.",
+          "summary_en": "Build foundational industry and operational experience at established tech leaders before leading your own software company.",
+          "summary_zh": "先在索尼、戴尔等大厂深耕十余年，再投身软件创业管理",
+          "timestamp_sec": 396,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "When you get to a small team and you own that small team, you can remove the politics and focus on things like the customer and putting out a good solution and a good product.",
+          "summary_en": "Eliminate corporate politics in a small team so everyone stays focused on customers and building a great product.",
+          "summary_zh": "小团队要清除内耗与办公室政治，聚焦客户需求与好产品",
+          "timestamp_sec": 414,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "先后在索尼和戴尔各工作7年积累科技行业经验，随后担任软件公司PostUp的CEO，并以约3800万美元将其出售给上市公司Upland Software。",
+      "guest_name": "PostUp Former CEO ($38M Exit)",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former CEO of PostUp (Sold to Upland Software)",
+      "wealth_detail": "Sold PostUp to Upland Software for ~$38M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先在优秀大企业历练，带领小团队时远离内部政治、专注于打造优质产品与服务客户。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Fail. Fail a lot.",
+          "summary_en": "Embrace failing often early in life to learn fast and build resilience.",
+          "summary_zh": "年轻时要敢于多经历失败，从试错中快速成长",
+          "timestamp_sec": 463,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Find a mentor that's specific to what you want to be, what you want to do that allows you to excel.",
+          "summary_en": "Find a domain-specific mentor aligned with the exact role or path you want to excel in.",
+          "summary_zh": "尽早找到与自己目标领域高度匹配的导师加速成长",
+          "timestamp_sec": 468,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "With that, it's more money, more problems. If you don't learn how to manage the money, keep the money, and grow the money, you know, shame on you.",
+          "summary_en": "High income brings complexity—you must learn how to manage, preserve, and grow your money.",
+          "summary_zh": "收入越高越要学会管钱、守钱和让钱生钱的财务能力",
+          "timestamp_sec": 481,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "The challenge that I see with a lot of people that are younger than me... they don't always have those personal skills. The faster they can develop those personal skills, the better they're going to be.",
+          "summary_en": "Develop strong interpersonal skills quickly so you can connect with older generations who hold most of the wealth.",
+          "summary_zh": "尽快提升人际沟通与社交能力，以便对接掌握财富的人脉",
+          "timestamp_sec": 495,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "As we get older, medical is never one of those things that's going to go away. Medical has always been one of those things that allowed me to expand and to grow.",
+          "summary_en": "Choose evergreen, growing industries like healthcare and medical services that remain indispensable as populations age.",
+          "summary_zh": "选择医疗健康等受人口老龄化支撑、永不消退的常青赛道",
+          "timestamp_sec": 509,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕医疗行业实现持续扩张与增长，向税务局申报的最高单年收入超过100万美元。",
+      "guest_name": "Medical Industry Entrepreneur ($1M+/yr)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Public Speaking & Communication",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Medical Industry Business Owner / Executive",
+      "wealth_detail": "Over $1M/yr reportable annual income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "趁早多尝试失败、找准垂直导师，提升人际交往与理财能力，并关注医疗健康等长期刚需行业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Start your own business... I got disenchanted over time with corporate America and decided to start my own business.",
+          "summary_en": "Leave corporate employment behind and start or buy your own business to capture true upside.",
+          "summary_zh": "摆脱大企业打工心态，下决心自己创业掌握所有权",
+          "timestamp_sec": 517,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You don't need to have investors. Investors really are problematic. But you can go to the SBA and you can take out a $3 million loan with $150,000 down... If you want to buy a business for a million, then you need 50 grand.",
+          "summary_en": "Avoid troublesome equity investors early by using government-backed SBA loans (5% down) to buy a cash-flowing business.",
+          "summary_zh": "用低首付SBA贷款收购企业，避免早期引入外部股东的掣肘",
+          "timestamp_sec": 550,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Believing in growth, number one, constantly looking forward, not being scared, buying more trucks when people were not convinced trucks were a good idea, and every time we bought one, it made more money.",
+          "summary_en": "Believe in growth, stay forward-looking, and invest aggressively in revenue-producing assets even when others hesitate.",
+          "summary_zh": "坚信增长并克服恐惧，果断添置能直接创收的核心资产",
+          "timestamp_sec": 575,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Hiring more people when I could tell people were stressed out outside, buying good gear, outsourcing all the service side so we could focus on business.",
+          "summary_en": "Add staff before burnout hits, equip your team properly, and outsource non-core service functions so you can focus on growth.",
+          "summary_zh": "及时增员避免团队过劳，外包辅助业务以专注核心经营",
+          "timestamp_sec": 584,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从德大奥斯汀和沃顿商学院毕业后进入KPMG、PwC并成为Union Carbide总裁；因厌倦大企业官僚文化而收购新布朗费尔斯一家景观供应公司，4年后以4200万美元出售。",
+      "guest_name": "New Braunfels Landscape Supply Founder ($42M Exit)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former President of Union Carbide & Landscape Supply Company Owner",
+      "wealth_detail": "Sold landscape supply company for $42M after 4 years",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "与其找麻烦的投资人，不如用5%首付申请SBA政府担保贷款收购实体企业，并勇于追加创收设备投资与外包非核心服务。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "RGt99we0cGA",
+  "video_type": "street_multi"
+}

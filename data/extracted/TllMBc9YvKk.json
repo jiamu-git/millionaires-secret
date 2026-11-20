@@ -1,0 +1,435 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Whatever your past is, take that, take all the lessons and use it to just make a lot of money.",
+          "summary_en": "Turn past hardships and humble beginnings into fuel to build wealth rather than excuses.",
+          "summary_zh": "把过往困境与背景化为赚钱的动力",
+          "timestamp_sec": 128,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "The most important thing is hire people that are better than you in your company. Cuz I don't know it all.",
+          "summary_en": "Scale your company from $1M to $10M+ by hiring people who are smarter and better than you.",
+          "summary_zh": "雇佣比自己更优秀的人来规模化扩张公司",
+          "timestamp_sec": 145,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Most people want to have all the plan before they move. Just move. You will figure everything in the doing.",
+          "summary_en": "Avoid overthinking and waiting for perfection; act fast and figure out details along the way.",
+          "summary_zh": "别等计划完美再动手，先行动边做边调整",
+          "timestamp_sec": 172,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Obedience is what I was taught my whole life... But the side of me that rebbled is what made me successful and free.",
+          "summary_en": "Reject cultural doubts and limiting expectations placed on you in order to achieve freedom and success.",
+          "summary_zh": "打破外界偏见与顺从束缚才能赢得成功与自由",
+          "timestamp_sec": 194,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "If it's one thing to make you rich as a woman, sales, branding, you will never be broke.",
+          "summary_en": "Master sales and branding so opportunities come to you and you will never be broke.",
+          "summary_zh": "精通销售与品牌打造便永远不会缺钱缺机会",
+          "timestamp_sec": 205,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "The hook, the first 3 seconds is more important than the video... You have to polarize. Controversy is not a bad thing.",
+          "summary_en": "Win on social media by nailing the first 3-second hook, offering perspective shifts, and taking polarizing stances.",
+          "summary_zh": "社媒打造个人品牌要抓前3秒钩子并敢于鲜明立意",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Your consistency is unheard of... people our age, they're not doing it like that. They're not consistent.",
+          "summary_en": "Outperform peers by maintaining relentless consistency over time.",
+          "summary_zh": "靠长期且极致的持续执行力超越同龄人",
+          "timestamp_sec": 300,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18岁离开沙特阿拉伯上大学时因父亲生意失败断了经济来源，顶着英语不佳同时打两三份工养活自己和家人，在无路可退中被迫创业，23岁成为百万富翁。",
+      "guest_name": "26-Year-Old Saudi Entrepreneur in Miami",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Entrepreneur & Brand Builder",
+      "wealth_detail": "Became a millionaire at 23; business on track for $20M/yr (with partners)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "别等万事俱备再行动，要在行动中摸索成长；尽早掌握销售与个人品牌能力，利用短视频前3秒强钩子和鲜明观点建立个人影响力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "If I lost everything and I had literally no capital to start with, but I didn't have my network... I would go raise money.",
+          "summary_en": "A strong network allows you to raise capital and rebuild even if you start over with zero money.",
+          "summary_zh": "只要人脉网络还在，没钱也能融资东山再起",
+          "timestamp_sec": 358,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "They always complain about tanning in Arkansas... So, I saw a gap in the market and decided to take advantage of it.",
+          "summary_en": "Listen to customer complaints to spot underserved market gaps and build a business around them.",
+          "summary_zh": "从消费者抱怨中敏锐捕捉市场空白并果断切入",
+          "timestamp_sec": 366,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I don't pay attention to them. I've never met anybody who's doing better than me that hates on me.",
+          "summary_en": "Ignore haters because people doing better than you never spend time tearing you down.",
+          "summary_zh": "别理会喷子，比你优秀的人从不会嫉妒诋毁你",
+          "timestamp_sec": 383,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Recurring Revenue Models",
+          "category": "Business & Strategy",
+          "quote": "Focus on recurring revenue... Focus on anything that you can make recurring revenue from. That's where the money's at.",
+          "summary_en": "Build businesses around subscription and recurring revenue models for predictable, scalable wealth.",
+          "summary_zh": "专注打造订阅制与经常性收入的商业模式",
+          "timestamp_sec": 391,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "With the E-Myth, it talks about acting as if you have 500 locations, even when you have one. So, we built systems and processes in place.",
+          "summary_en": "Build standardized systems and processes from day one as if you already operate 500 locations.",
+          "summary_zh": "从第一家店起就按500家店的规模建立标准系统",
+          "timestamp_sec": 410,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "Go find you a boring business from somebody who's looking to retire... the pest control guy, the HVAC company, all those people are making real money.",
+          "summary_en": "Buy profitable boring businesses like pest control or HVAC from retiring baby boomers instead of chasing flashy trends.",
+          "summary_zh": "收购婴儿潮退休者出让的无聊但赚钱的传统生意",
+          "timestamp_sec": 453,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I would owners finance it. That's how I got my first business. I owners financed it. I didn't have money.",
+          "summary_en": "Use seller/owner financing to acquire cash-flowing businesses even when you lack upfront capital.",
+          "summary_zh": "没本金时善用卖方融资杠杆收购现金流生意",
+          "timestamp_sec": 471,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Leverage AI for Operational Efficiency",
+          "category": "Business & Strategy",
+          "quote": "Any person that wants to be in the workforce in the next 10 years needs to learn how to utilize AI... AI is going to make the worker more efficient.",
+          "summary_en": "Adopt AI across operations and upskill with AI tools to double workforce efficiency.",
+          "summary_zh": "积极学习并应用AI工具大幅提升团队人效",
+          "timestamp_sec": 475,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21岁在阿肯色大学就读时发现当地美黑沙龙品质远逊达拉斯，在没有资金的情况下通过卖方融资（Owner Financing）收购第一家店，并按《E-Myth》理念建立标准化体系扩张至约270家连锁门店。",
+      "guest_name": "270-Location Tanning Salon Franchise Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The E-Myth"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder & Franchise Owner / Commercial Real Estate Investor",
+      "wealth_detail": "Over $100M net worth; 270 tanning salon franchise locations",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "通过卖方融资收购婴儿潮一代退休出售的害虫防治、暖通空调等“无聊但稳赚”的实体生意，从小店起就搭建可复制流程，并尽可能设计成经常性收入模式。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "COVID if anything exploded the industrial market... Everybody's getting packages delivered... Warehouses, right? Distribution centers.",
+          "summary_en": "Position yourself in high-tailwind sectors like industrial warehouses and distribution centers driven by e-commerce.",
+          "summary_zh": "选择受电商与物流趋势强力推动的工业仓储赛道",
+          "timestamp_sec": 601,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I was working for a developer and my partner was working for my direct competitor for about 10 years and we said you know what time to take a risk go on our own.",
+          "summary_en": "Spend years learning the industry inside an established developer before launching your own firm.",
+          "summary_zh": "先在行业开发商深耕十年积累经验再独立创业",
+          "timestamp_sec": 620,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody's a little bit afraid. You just got to go for it... Mortgaged every last thing we had our homes, credit lines, credit cards.",
+          "summary_en": "Fear is normal, but building massive wealth requires going all-in on high-conviction opportunities.",
+          "summary_zh": "心怀畏惧也要敢于背水一战抓住大机会",
+          "timestamp_sec": 629,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Never be satisfied. Keep taking risk, keep going for it... when you don't have anything you have drive.",
+          "summary_en": "Stay hungry and never get complacent; having nothing gives you the drive to outwork everyone.",
+          "summary_zh": "永不满足保持饥饿感，一无所有才最有拼劲",
+          "timestamp_sec": 664,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody, even family... Thought I was crazy... everybody wants you to succeed, but never more than them.",
+          "summary_en": "Don't let skepticism from family or peers deter you from leaving a safe job to pursue big goals.",
+          "summary_zh": "别被亲友的质疑劝退，勇敢离开安稳工作去闯",
+          "timestamp_sec": 689,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "We found investors that understood what we're aiming for... Consider them like your own kids, your own family. Make them a lot of money.",
+          "summary_en": "Partner with aligned investors, treat them like family, and prioritize making them great returns so they back you.",
+          "summary_zh": "找到同频投资人并像家人般对待，全力帮他们赚大钱",
+          "timestamp_sec": 706,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "We're looking for opportunities in Miami... with the multirez business we see huge opportunities where people are going to be freed away from condos from owning to renting.",
+          "summary_en": "Target real estate in growing cities like Miami, especially multi-residential rentals as affordability shifts people toward renting.",
+          "summary_zh": "布局迈阿密等人口增长城市的多户住宅租赁地产",
+          "timestamp_sec": 722,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "先在地产开发商工作约10年掌握行业经验，2019年9月与在竞争对手处工作的合伙人一起单干，卖掉资产、抵押房产与信用额度切入工业仓储开发，乘着疫情电商物流爆发把公司做到估值超40亿美元。",
+      "guest_name": "Jagger (Industrial & Multi-Res Real Estate Developer)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Networking & Relationships",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Co-Founder & Real Estate Developer (Industrial & Multi-Res)",
+      "wealth_detail": "Company valued at over $4B (co-founded in 2019)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "进军地产不需要很多自有资金，关键是要敢于冒险并找到信任你的投资人，用专业和诚意帮投资人赚到丰厚回报，他们就会成为你最坚实的后盾。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "My ability as an entrepreneur to be successful was finding the things before people found them... nobody knows about this. Nobody's built a big brand around this.",
+          "summary_en": "Win by entering emerging categories early before major brands exist and aligning them with your core strengths.",
+          "summary_zh": "抢先一步切入尚未出现大品牌的早期蓝海赛道",
+          "timestamp_sec": 858,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I created a northstar. So, from the very beginning, I knew what my endgame was... having that clear sight of path, I never got distracted.",
+          "summary_en": "Define a clear long-term endgame from day one so you say no to premature buyouts or franchising distractions.",
+          "summary_zh": "从一开始就锚定终局目标，拒绝半路分心诱惑",
+          "timestamp_sec": 934,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "You have to find something that fills you up, that you feel authentically connected to, that you're going to want to work on it even through a two-year pandemic.",
+          "summary_en": "Choose a business you genuinely love so you have the stamina to push through crises like a two-year pandemic.",
+          "summary_zh": "选择真正热爱的事业才能熬过长达两年的危机期",
+          "timestamp_sec": 978,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "It wasn't about the money for me. It was always about the impact. Knowing if I did a really good job and created value for people, the payday would be there.",
+          "summary_en": "Focus on enhancing people's lives and delivering real value; the financial payday follows naturally.",
+          "summary_zh": "先专注为他人创造价值与影响，财富回报自然会来",
+          "timestamp_sec": 1018,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I think people doubt you because they love you and they want to protect you... they don't want to see you fail.",
+          "summary_en": "Recognize that loved ones doubt you out of protection, and trust your own skills anyway.",
+          "summary_zh": "理解亲友质疑多出于保护，仍要坚定相信自己能力",
+          "timestamp_sec": 1028,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I would rather pay 5% than sell my stocks and pay 20%. I don't have to pay any taxes on the money that I borrow.",
+          "summary_en": "Borrow against appreciating equities at a low margin rate instead of selling stocks and triggering capital gains taxes.",
+          "summary_zh": "用低息股票质押融资替代卖股，合法避开高额资本利得税",
+          "timestamp_sec": 1180,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "The only person who loses when you decide not to learn about money is you. Like read a book, listen to a podcast. These things are available to absolutely everybody.",
+          "summary_en": "Take responsibility for your financial education through freely available books and podcasts.",
+          "summary_zh": "主动通过读书和播客学习理财，别拿没学过当借口",
+          "timestamp_sec": 1211,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Stop putting your money into a bank... You should be putting it into the stock market, whether it's index funds... you have to stack your assets and you need to just let them continue to compound.",
+          "summary_en": "Keep minimal cash in low-yield bank accounts and invest consistently in equities and index funds to let compounding work.",
+          "summary_zh": "别把钱闲置在银行，投入股市与指数基金吃复利红利",
+          "timestamp_sec": 1243,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "One of my values is generosity. Like when I have a great month, like I'm giving away money. I'm making donations.",
+          "summary_en": "Practice generosity by donating, sharing experiences, and educating friends on how to build wealth.",
+          "summary_zh": "保持慷慨心态，赚钱后积极捐赠并教朋友理财",
+          "timestamp_sec": 1328,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "It doesn't matter if you're starting with $10,000, $1,000. You got to start somewhere... everybody has to have a day one.",
+          "summary_en": "Start investing and building immediately regardless of how small your initial capital is.",
+          "summary_zh": "哪怕只有一千美元也要迈出投资与创业的第一步",
+          "timestamp_sec": 1349,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Read the book How to Win Friends and Influence People... It's really getting someone to like you and believe in you. And that comes with a lot of confidence.",
+          "summary_en": "Win negotiations by meeting in person, building genuine rapport, and projecting conviction in your vision.",
+          "summary_zh": "谈判核心在于当面真诚沟通，让人喜欢并相信你的愿景",
+          "timestamp_sec": 1359,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "You got to be an entrepreneur... figure out what your special thing is that you know how to do better than like 95% of the population.",
+          "summary_en": "Achieve true financial freedom by becoming an entrepreneur around a skill where you outperform 95% of people.",
+          "summary_zh": "围绕自身顶尖专长创业拥有股权，才能实现财富自由",
+          "timestamp_sec": 1418,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "What made it all worth it is I felt like I made my money with pride and with integrity and I loved like the whole journey.",
+          "summary_en": "Build your business with pride and integrity so the entire journey feels worthwhile beyond the exit payday.",
+          "summary_zh": "坚守诚信与自豪感赚钱，享受创业全过程而非只看套现",
+          "timestamp_sec": 1440,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "26、27岁时曾处于负资产，先创办了帮助无家可归者的公益组织Back on My Feet，后抢先发现精品普拉提健身的早期空白并创立Solidcore，靠口碑前4年零营销费扩张，9年半后以超3亿美元估值出售公司，个人股权套现约9000万美元。",
+      "guest_name": "Ann Malum",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "How to Win Friends and Influence People"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder of Solidcore & Back on My Feet; Entrepreneur & Investor",
+      "wealth_detail": "~$100M net worth; sold Solidcore at >$300M valuation (~$90M personal equity payout); $64M in public equities",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "找到自己超越95%人群的独特专长并结合热爱的领域去创业；不要把钱存银行拿微薄利息，通过书籍和播客学习投资，哪怕从1000美元开始也要尽早投入股市（如指数基金）享受复利。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "TllMBc9YvKk",
+  "video_type": "street_multi"
+}

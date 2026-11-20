@@ -1,0 +1,182 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "for business you don't necessarily need it you just need to solve problems",
+          "summary_en": "College isn't required for entrepreneurship; success in business comes down to solving real problems.",
+          "summary_zh": "做生意不必依赖大学文凭，关键在于解决实际问题",
+          "timestamp_sec": 83,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you're great at sales and then great at marketing you can grow really quick",
+          "summary_en": "Master content-driven marketing to generate leads and sharpen your sales skills to scale revenue fast.",
+          "summary_zh": "精通内容流量营销与销售成交，才能快速扩大营收",
+          "timestamp_sec": 114,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Finance understanding how your cash flows work",
+          "summary_en": "Understand how business cash flows work rather than confusing one-off capital gains with sustainable cash flow.",
+          "summary_zh": "区分资本利得与现金流，必须搞懂企业财务运作",
+          "timestamp_sec": 123,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "the way that you get more sales is always going to change your personal Brand's not going anywhere",
+          "summary_en": "Build a strong personal brand and content distribution because offers and markets change, while your reputation stays.",
+          "summary_zh": "商业模式会变，但长期积累的个人品牌永远跟随你",
+          "timestamp_sec": 193,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you need to have partners that are essentially crucial to the business... being with someone that you actually have the same values and aligned with",
+          "summary_en": "Keep partnerships small (2-3 max) and only partner with people who bring crucial capabilities and share your core values.",
+          "summary_zh": "合伙贵精不贵多，须各具核心价值且价值观一致",
+          "timestamp_sec": 326,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "when it comes to failure is if you can set aside your ego your pride and the identity of what you found in that prior Venture then you can actually start to see things for what they really are",
+          "summary_en": "Approach failure by dropping your ego and attachment to past ventures so you can see reality objectively.",
+          "summary_zh": "面对失败要放下傲慢与过往身份，才能看清现实",
+          "timestamp_sec": 263,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "it's having a great team behind you man I can't do it all by myself",
+          "summary_en": "Build a loyal, execution-focused team and align their efforts because you cannot scale a business alone.",
+          "summary_zh": "个人无法单打独斗，必须依靠优秀的团队共同执行",
+          "timestamp_sec": 274,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Avoid Taking Emergency Business Loans",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "in business you should never want to take out loans or to do certain things like that",
+          "summary_en": "Avoid taking out personal or flash loans to cover payroll when business partners refuse to share the burden.",
+          "summary_zh": "切忌在合伙人未共担风险时独自借贷发薪水",
+          "timestamp_sec": 581,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm a big believer in education and like you can never really go bankrupt on yourself",
+          "summary_en": "Reinvest profits into self-education, courses, and business books—you can never go bankrupt investing in your own skills.",
+          "summary_zh": "大力投资自我教育与课程，投资自己永远不会破产",
+          "timestamp_sec": 613,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I think you should stick to one thing primarily",
+          "summary_en": "Avoid trying to become an expert in everything; stick primarily to one core focus while keeping only 2-3 side interests.",
+          "summary_zh": "别试图精通所有领域，应该专注深耕一项核心业务",
+          "timestamp_sec": 633,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I then invested into another mentorship and other mentorship... I'm trying to condense time",
+          "summary_en": "Invest in mentorships and masterminds to condense your learning curve and unlock catalyst connections.",
+          "summary_zh": "付费链接导师和私董会，用金钱换取成长时间",
+          "timestamp_sec": 654,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "relationships really matter but the right relationships matter the most",
+          "summary_en": "Invest time and money into a few core, mutually supportive relationships rather than collecting superficial friendships.",
+          "summary_zh": "人脉不在多而在精，要花时间金钱深耕核心关系",
+          "timestamp_sec": 693,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I've gone the full burnout way where you working 16 hours a day... health is very very serious",
+          "summary_en": "Don't burn yourself out with 16-hour days and sleep deprivation; a severe health scare proved physical health must come first.",
+          "summary_zh": "切勿为工作过度透支身体，失去健康一切归零",
+          "timestamp_sec": 712,
+          "type": "regret"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "become a different version of myself that I know that I can become and so chasing potential",
+          "summary_en": "Evolve your \"why\" from survival to betting on yourself and chasing your highest human and multifaceted potential.",
+          "summary_zh": "持续押注自己并追逐潜能，不断突破人生天花板",
+          "timestamp_sec": 791,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "for me it's for my mom for my family... I know that I can take care of my mom",
+          "summary_en": "Anchor your success in supporting your family, repaying those who invested in you, and creating positive impact for others.",
+          "summary_zh": "赚钱不只是为了钱本身，更要照顾家人并创造影响",
+          "timestamp_sec": 832,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "19岁读大学时，在朋友影响下于2015-2016年早期接触加密货币，将1500至2000美元本金投入比特币、以太坊及NEO（AntShares），四个月内资产增值至约25万美元，由此获得人生第一笔大额启动资金，并借此转向免费授课、演讲及电商与数字营销创业。",
+      "guest_name": "Robert Miller",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Road Less Stupid by Keith Cunningham",
+        "Multipliers by Liz Wiseman",
+        "Predictable Revenue by Aaron Ross",
+        "Tai Lopez (marketing course)"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder, E-commerce & Digital Marketing Entrepreneur, Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不必盲目依赖大学学历，创业核心在于解决实际问题；应优先掌握内容流量营销与销售成交能力，并搞懂企业现金流运作；同时持续打造个人品牌，把早期利润投入自我教育、优质课程与导师私董会，用金钱换取时间、专注深耕单一核心业务并严选价值观一致的合伙人。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "TpVlJpiV6U8",
+  "video_type": "deep_dive_single"
+}

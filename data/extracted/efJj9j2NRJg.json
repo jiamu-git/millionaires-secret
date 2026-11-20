@@ -1,0 +1,339 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Hire slow and fire fast.",
+          "summary_en": "Hire slowly and fire quickly when building a business.",
+          "summary_zh": "谨慎招聘，果断解雇",
+          "timestamp_sec": 61,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "代理欧洲医疗器械并在美国创办分销公司，目前处于起步阶段，年营收约300万至400万美元。",
+      "guest_name": "Miami Medical Device Distributorship Founder",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Owner, Medical Device Distributorship",
+      "wealth_detail": "$3M-$4M/yr (company revenue)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "创业招人要做到谨慎招聘、果断解雇。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Everyone's gonna have to work, you might as well get paid really well while you do it... find something you love that also pays well.",
+          "summary_en": "Since everyone has to work, choose a career you enjoy that also pays extremely well.",
+          "summary_zh": "选择热爱且高回报的行业",
+          "timestamp_sec": 95,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "It's really about being willing to keep going if you get no for an answer.",
+          "summary_en": "Keep pushing forward even when you hear 'no' for an answer.",
+          "summary_zh": "被拒绝后仍坚持前行",
+          "timestamp_sec": 118,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "You got to be willing to like put it on the line man... you got to be willing to hustle, you gotta be willing to take a risk.",
+          "summary_en": "Be willing to put yourself on the line, hustle hard, and take risks to build wealth.",
+          "summary_zh": "敢于冒险并全力以赴",
+          "timestamp_sec": 130,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "If you have like the vision and the opportunity, kind of go for it man, yeah, just gotta do it.",
+          "summary_en": "When you see the vision and the opportunity, take immediate action and go for it.",
+          "summary_zh": "看到愿景和机会就立刻行动",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在住院医师实习期间用个人信用卡透支并连续两年倒卡周转创办医美诊所，最终还清所有债务并做到年总营收1550万美元（净利润约一半）。",
+      "guest_name": "Miami Med Spa Physician & Founder",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Physician & Med Spa Owner",
+      "wealth_detail": "$15.5M gross / ~$7.75M net in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "找到自己热爱且高薪的行业；遇到拒绝不放弃，敢于赌上一切去拼搏冒险，有想法和机会就立刻行动。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Now just kind of like dipping more into real estate, so like more like hard assets.",
+          "summary_en": "Reinvest business profits into hard assets such as real estate.",
+          "summary_zh": "将利润配置到房地产等硬资产",
+          "timestamp_sec": 175,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Going from like 1 million to 10 million, now you need a team... have people who are smarter than me... who can do what you can do but better.",
+          "summary_en": "To scale from $1M to $10M, hire people smarter than you who share your vision so you can focus on growth ideas.",
+          "summary_zh": "聘用比自己更优秀的人并授权",
+          "timestamp_sec": 205,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Learn a skill and don't put a time limit on that skill... you have to learn a skill that the economy deems valuable.",
+          "summary_en": "Learn a high-value skill that the economy demands and master it thoroughly without setting an arbitrary time limit.",
+          "summary_zh": "不设期限精通一项市场高需求技能",
+          "timestamp_sec": 249,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "The more times you fail, the more times you learn... it's really good because now you know exactly what not to do.",
+          "summary_en": "Treat failures as valuable lessons that teach you exactly what not to do.",
+          "summary_zh": "把失败视为知道什么不该做的学习",
+          "timestamp_sec": 271,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "School teaches you how to become an employee, learn how to become a boss.",
+          "summary_en": "School trains you to be an employee; focus on learning how to become an owner and boss.",
+          "summary_zh": "学会成为老板而非打工者",
+          "timestamp_sec": 291,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学辍学后通过电商在线销售产品起家，先独自做到年入百万美元，再招募毕业于斯坦福和耶鲁的高管及优秀团队扩展至年利润870万美元、年营收约1700万至1800万美元，并开始布局房地产。",
+      "guest_name": "Miami College-Dropout E-Commerce Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "E-Commerce Business Owner & Real Estate Investor",
+      "wealth_detail": "$8.7M profit / $17M-$18M revenue in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要给学习设定短期时限，去精通一项市场认可的高价值技能（如建站），在不断试错中总结经验，学会成为老板而非打工者。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Make your money make money for you... if that money is working for you even when you're sleeping, vacationing...",
+          "summary_en": "Don't rely on a 9-to-5 job where losing your employer puts you back at square one; own assets that pay you even while you travel or sleep.",
+          "summary_zh": "别只靠打工，要让钱替你工作",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "The kids mastering their crafts at the early ages are the ones that live a carefree life at the later ages of life.",
+          "summary_en": "Focus on studying and mastering a craft early instead of partying so you can enjoy freedom later in life.",
+          "summary_zh": "年轻时专注学习打磨技艺，以后才能轻松",
+          "timestamp_sec": 399,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "经营一家不需要亲自驻店工作也能持续盈利的理发店，借此实现全球旅行和经济独立。",
+      "guest_name": "Miami Traveling Barbershop Owner",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Barbershop Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时要抵制派对玩乐，专心学习并精通一门手艺；同时要让钱和资产为你工作，而不是一辈子依赖朝九晚五的工资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Working very hard, yeah, and music, absolute rapping.",
+          "summary_en": "Build wealth through relentless hard work in your craft.",
+          "summary_zh": "靠拼命努力在音乐领域打拼",
+          "timestamp_sec": 422,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Do whatever the [expletive] you want... and don't take no for an answer from nobody.",
+          "summary_en": "Pursue your own path boldly and refuse to accept 'no' from anyone.",
+          "summary_zh": "按自己意愿前行，绝不接受他人否定",
+          "timestamp_sec": 446,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Differentiate Yourself",
+          "category": "Business & Strategy",
+          "quote": "Doing different.",
+          "summary_en": "Stand out in a crowded, competitive industry by doing something different.",
+          "summary_zh": "靠做出差异化在竞争中脱颖而出",
+          "timestamp_sec": 455,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从街头混迹转向说唱音乐（trapping turned to rapping），凭借高强度努力在音乐行业跻身百万富翁行列。",
+      "guest_name": "Rich the Kid",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Rapper & Recording Artist",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "勇敢去做自己想做的事，不要接受任何人的否定，并通过做出差异化在激烈竞争中突围。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Penny saved is a penny earned. When you raise money with VCs... don't spend it all, just hold on to your cash... you've got to create value out of it.",
+          "summary_en": "A penny saved is a penny earned; don't burn through VC funding—preserve cash, stay measured, and create real value.",
+          "summary_zh": "融资后保持克制，珍惜现金并创造价值",
+          "timestamp_sec": 516,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在巴西创办线上美妆电商公司，规模超越丝芙兰线上业务，年营收达1亿至2亿美元，现从事科技公司投资。",
+      "guest_name": "Brazilian Cosmetics E-Commerce Founder & Tech Investor",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Tech Investor & E-Commerce Founder",
+      "wealth_detail": "$100M-$200M/yr (company revenue)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to get yourself in the room first... be in the rooms with the people that you want to be when you're older, network with as many people as you can.",
+          "summary_en": "Get yourself into the right rooms and industry conventions to network with people you aspire to become, even if you are broke.",
+          "summary_zh": "即便没钱也要设法进入高端人脉圈",
+          "timestamp_sec": 567,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Treat Everyone With Equal Respect",
+          "category": "Mindset & Resilience",
+          "quote": "I shake the bathroom attendant's hand and I shake the owner's hand and I treat them the same... treating everybody with the equal amount of respect.",
+          "summary_en": "Treat everyone—from the bathroom attendant to the owner—with the exact same level of respect.",
+          "summary_zh": "对从保洁到老板的所有人一视同仁",
+          "timestamp_sec": 577,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "11 USA Group Hospitality Executive",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Hospitality Executive, 11 USA Group",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "哪怕身无分文也要设法进入行业大会和目标圈子的房间里广泛结交人脉，并且无论对方职位高低都给予同等的尊重。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I do what I do because I love to do what I just love to do, but people got to pay me to do what they want me to do.",
+          "summary_en": "Do work you genuinely love and build a career where people pay you for your passion.",
+          "summary_zh": "做真正热爱的事并以此变现",
+          "timestamp_sec": 656,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Don't talk about what you're gonna do and just do it. Put your actions where your mouth is.",
+          "summary_en": "Stop talking about your plans and prove yourself through immediate action.",
+          "summary_zh": "少说废话，用实际行动去执行",
+          "timestamp_sec": 691,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Anybody that's feeling less confident, then success is just not meant for you.",
+          "summary_en": "Maintain strong self-confidence, because doubting yourself keeps you from achieving success.",
+          "summary_zh": "保持绝对自信才能赢得成功",
+          "timestamp_sec": 703,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "来自芝加哥，早年痛失双胞胎兄弟后被迫早早创业，依靠做服装品牌、音乐及品牌咨询白手起家，单年最高合法收入达18万美元。",
+      "guest_name": "Chicago 'No Talking' Brand Founder & Consultant",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Clothing Brand Founder, Musician & Brand Consultant",
+      "wealth_detail": "$180,000 in a single year",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "少说多做，用实际行动兑现承诺；专注做自己真正热爱的事并保持绝对自信，不要盲目追钱，让金钱自然随价值而来。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "efJj9j2NRJg",
+  "video_type": "street_multi"
+}

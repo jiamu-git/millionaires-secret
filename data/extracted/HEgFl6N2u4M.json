@@ -1,0 +1,180 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "give people what their want or need you'll become successful if you solve people's problems you'll become wealthy",
+          "summary_en": "Meeting wants and needs brings success, while solving people's problems builds true wealth.",
+          "summary_zh": "满足需求能成功，解决问题才能真正致富",
+          "timestamp_sec": 120,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从医30年，2006年冒着最大风险独立创办诊所，创业18年来单年最高收入达170万美元。",
+      "guest_name": "Houston Chiropractor & Clinic Founder",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Chiropractor & Clinic Owner",
+      "wealth_detail": "$1.7M highest single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "faith without works is dead so you have to have faith and you have to work and together you have success",
+          "summary_en": "Pair unwavering faith with consistent hard work—neither works without the other.",
+          "summary_zh": "信仰必须与行动结合，两者兼备才能成功",
+          "timestamp_sec": 197,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "you actually can rent where you live and you can rent what you own... make sure it's cash flow is a good investment",
+          "summary_en": "Focus on positive cash flow in real estate and rent business space as a tax write-off instead of blindly buying.",
+          "summary_zh": "重视现金流而非盲目买楼，确保房产有正向现金流",
+          "timestamp_sec": 230,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "you need to have a personal brand your personal brand drives your business people buy into you and they buy into whatever you sell",
+          "summary_en": "Build a personal brand in any occupation because people buy into you before they buy your product.",
+          "summary_zh": "无论何种职业都要打造个人品牌，让客户先认可你",
+          "timestamp_sec": 262,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you cannot give up even if you don't get the ratings you don't get the support you need you got to keep on going",
+          "summary_en": "Keep pushing even without immediate traction or support, because one breakthrough moment can change everything.",
+          "summary_zh": "即使没有流量和支持也别放弃，坚持下去才有突破",
+          "timestamp_sec": 272,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学毕业时背负15万美元助学贷款，创办数字营销公司12年，单年最高收入达430万美元，同时持有佛罗里达州房产经纪执照。",
+      "guest_name": "Houston Digital Marketing Agency Founder",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Digital Marketing Company Owner & Licensed Realtor",
+      "wealth_detail": "$4.3M highest single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I probably could have gone broke probably four times in the last 30 years and it just you got to keep finding a way",
+          "summary_en": "Get creative with financing—including customer capital—and relentlessly find a way when near bankruptcy.",
+          "summary_zh": "濒临破产也要保持韧性，想方设法找资金活下去",
+          "timestamp_sec": 421,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Lead With Where You Are #1",
+          "category": "Business & Strategy",
+          "quote": "if you're ever going to talk about something tell me where you're the best at not where you're second best at right nobody cares",
+          "summary_en": "Pitch and position yourself around what you are #1 at—nobody cares about second best.",
+          "summary_zh": "只主打你做到第一的领域，没人关心第二名",
+          "timestamp_sec": 441,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "原本打算成为诉讼律师，30年前偶然进入回收行业，四度濒临破产并四处借钱及争取客户出资周转，最终打造出全美第二大回收企业。",
+      "guest_name": "Rick Perez",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Anheuser-Busch Chairman & CEO (Advisor)"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder & Owner, 2nd Largest US Recycling Company",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "believing that you can is way more profitable than believing that you can't",
+          "summary_en": "Self-belief directly generates far greater returns than self-doubt.",
+          "summary_zh": "相信自己能成，远比怀疑自己更赚钱",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "stay small enough long enough you'll be big enough soon enough that means keep the expenses low whenever money is high don't be in a rush to actually get the Cullinan and all the jewelry",
+          "summary_en": "Keep overhead low even when revenue rises and wait until you have millions saved before buying luxury cars.",
+          "summary_zh": "高收入时保持低开销，积累百万后再买豪车",
+          "timestamp_sec": 556,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "scrolling watching other people live their life versus getting it after themselves",
+          "summary_en": "Stop passively scrolling and watching others live their lives; go get after it yourself.",
+          "summary_zh": "别光刷手机看别人生活，要亲自去拼搏行动",
+          "timestamp_sec": 584,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "we never look down on anybody unless we're willing to help them up",
+          "summary_en": "Stay humble on your way to the top and only look down to lift others up.",
+          "summary_zh": "保持谦卑，若向下看只为拉别人一把",
+          "timestamp_sec": 596,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创业14年，前5年陷入困境甚至靠卖血浆凑油钱；因妻子失望的神情和女儿出生深受触动后发力突破，在2020年单年最高赚到1600万美元。",
+      "guest_name": "Houston Rolls-Royce Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Entrepreneur & Business Owner (14 Years)",
+      "wealth_detail": "$16M highest single year (2020)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "HEgFl6N2u4M",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,185 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "to bring in good people they have to believe in you you know your dream's got to be so big that everybody's dream can fit inside of it",
+          "summary_en": "Attract talented people with a vision big enough for everyone's dreams to fit inside.",
+          "summary_zh": "用宏大愿景凝聚优秀人才",
+          "timestamp_sec": 96,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "faith is really taking action before you have what you need... when you put money behind something that's when you know you're committed",
+          "summary_en": "Take action before you feel ready and commit resources upfront to force execution.",
+          "summary_zh": "资源未齐先行动并投入承诺",
+          "timestamp_sec": 107,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "low stress is low performance but when you put yourself in these uncomfortable situations that's when that greatness that lies within comes out",
+          "summary_en": "Put yourself in uncomfortable, high-pressure situations to unlock your highest performance.",
+          "summary_zh": "主动置身高压环境激发潜能",
+          "timestamp_sec": 138,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "you focus on one thing you become really good at it then that becomes your bread and butter and then you start to diversify",
+          "summary_en": "Master one core cash-flowing business before diversifying into other industries.",
+          "summary_zh": "先专注深耕单一业务再多元化",
+          "timestamp_sec": 172,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "you have to get obsessed to be great at something like for me I wanted to be great in the home security industry",
+          "summary_en": "Become obsessed with your craft and commit to long-term improvement to reach the top.",
+          "summary_zh": "保持极致痴迷才能做到行业顶尖",
+          "timestamp_sec": 198,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I would split my check three ways and I would live on a third of it one would go towards IRS and savings and then the other one would go towards a reserve account",
+          "summary_en": "Split every paycheck three ways: live on one-third, set aside taxes and savings, and keep an untouchable reserve.",
+          "summary_zh": "收入三等分控制生活开销并存储备",
+          "timestamp_sec": 230,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I was like I'm not leaving here until I get a deal... the reason people don't buy from you is cuz you look desperate",
+          "summary_en": "Persist until you close the deal and project calm confidence rather than desperation when selling.",
+          "summary_zh": "销售保持自信不显迫切且不达目标不收工",
+          "timestamp_sec": 336,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Build an Abundance Relationship With Money",
+          "category": "Wealth & Investing",
+          "quote": "if you're always worried about not having enough money... you start to hoard all of your money... in reality you should become first then take action",
+          "summary_en": "Avoid hoarding money out of scarcity; build an abundance mindset so you can act boldly.",
+          "summary_zh": "建立富足金钱观而非因恐惧囤钱",
+          "timestamp_sec": 441,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "believing in yourself means believing something in your heart before you actually have it believing that you're worth a million dollar a year",
+          "summary_en": "Believe in your high worth internally before the financial results show up in reality.",
+          "summary_zh": "在成功之前先发自内心相信自己配得",
+          "timestamp_sec": 505,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Break Goals Down and Set Deadlines",
+          "category": "Actionable Skills & Habits",
+          "quote": "break it down to the ridiculous the more you can break it down to the ridiculous the more attainable it becomes... put a date on when you're going to do it by",
+          "summary_en": "Break ambitious goals down into small, attainable daily steps and set strict deadlines.",
+          "summary_zh": "将宏大目标拆解到极致并设定截止日期",
+          "timestamp_sec": 549,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "right as you're going to get your blessing you're going to get your biggest test... I can't tell you how many times Miracles have happened just cuz I did not quit",
+          "summary_en": "Expect your toughest test right before a breakthrough and refuse to quit when knocked down.",
+          "summary_zh": "遭遇重创时绝不放弃才能迎来转机",
+          "timestamp_sec": 581,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "for me to make six seven eight figures a year you don't have to be that smart you just need to find an opportunity that allows you to make that kind of money",
+          "summary_en": "Pick an opportunity or industry with enough upside to support the income level you want.",
+          "summary_zh": "选择天花板足够高的行业与机会",
+          "timestamp_sec": 646,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "you need to find someone who's got a bested interest in your success is going to help you do it",
+          "summary_en": "Find a successful mentor who has a vested interest in helping you succeed.",
+          "summary_zh": "寻找利益绑定且愿助力你成功的导师",
+          "timestamp_sec": 657,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "90% of winning in life is just being positive and that's where faith is so important... live inside out which has been the biggest game Cher for me is gratitude exercises",
+          "summary_en": "Choose faith and positivity over fear, and practice daily gratitude to live from the inside out.",
+          "summary_zh": "保持信念、感恩与积极心态克服恐惧",
+          "timestamp_sec": 685,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Don't Confuse Material Pleasure With Happiness",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I used to think that exterior factors like women exotic cars big houses would give me happiness... those things didn't bring me happiness they brought me pleasure",
+          "summary_en": "Remember that external luxuries bring temporary pleasure rather than lasting happiness.",
+          "summary_zh": "别把外在物质享乐误当成真正的幸福",
+          "timestamp_sec": 752,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Program Your Subconscious (RAS) for Opportunity",
+          "category": "Mindset & Resilience",
+          "quote": "your subconscious mind filters what information it's going to send to your conscious mind... by the way of the reticular activating system... dreams... selfworth... survival",
+          "summary_en": "Feed your reticular activating system big dreams, self-worth, and urgency so you recognize life-changing opportunities.",
+          "summary_zh": "用宏大梦想与自我价值感训练潜意识识别机遇",
+          "timestamp_sec": 837,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫困，父母入狱后曾住寄养家庭，15岁起养家；21岁辞去7万美元年薪工作创办家庭安防公司，提前买下小货车组建上门推销团队，为兑现90天内给母亲买房的承诺全力销售实现突破。",
+      "guest_name": "Edwin Aave",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder & CEO (Home Security & Solar Companies)",
+      "wealth_detail": "$600M+ cumulative business revenue over 25 years; $200M/yr current revenue; multi-million dollar LA home",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先想清楚支撑自己的核心动力（Why），寻找能赚取目标收入的行业机会并找到利益绑定的成功导师；将大目标拆解到极致并设死线，在资源未齐时先行动，同时把收入三等分以保障现金储备。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "prPvzJwgHqg",
+  "video_type": "deep_dive_single"
+}

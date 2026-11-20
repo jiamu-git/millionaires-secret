@@ -1,0 +1,346 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Follow your gut. If you feel it, take the risk. Step out and do it.",
+          "summary_en": "Follow your gut and take the entrepreneurial leap if you feel it is in you.",
+          "summary_zh": "相信直觉，果断迈出创业冒险的一步",
+          "timestamp_sec": 229,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Men and women that consistently hit their sales targets are gold.",
+          "summary_en": "Great salespeople who start at zero each month and consistently hit targets are gold.",
+          "summary_zh": "销售能力至关重要，持续达标者价值连城",
+          "timestamp_sec": 99,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I do longevity. I work out every day. I eat the right foods, and I'm amazingly good at what I do, staying healthy.",
+          "summary_en": "Prioritize longevity by working out daily and eating the right foods.",
+          "summary_zh": "坚持每日锻炼和健康饮食，保持长寿活力",
+          "timestamp_sec": 115,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "There's only three things you have to get done every day. That's called the signal... The ratio has to be 80% signal, 20% noise.",
+          "summary_en": "Follow Steve Jobs' 80/20 signal-to-noise rule by completing your three core daily priorities and blocking distractions.",
+          "summary_zh": "每天只聚焦三件核心大事，剔除八成干扰",
+          "timestamp_sec": 136,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I've never met somebody with great wealth who doesn't have great purpose.",
+          "summary_en": "Great wealth stems from having great purpose and deep passion for your business rather than chasing money.",
+          "summary_zh": "怀抱伟大使命与热爱，财富自然随之而来",
+          "timestamp_sec": 189,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创办儿童教育软件公司（致力于提升阅读和数学成绩）起家并获得成功，后成为《创智赢家》常驻投资人。",
+      "guest_name": "Kevin O'Leary",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Steve Jobs"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Shark Tank Investor & Educational Software Founder",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "精进销售并持续达成业绩目标；运用80%信号与20%噪音法则每天聚焦三件要事；追随直觉勇于承担创业风险。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master AI & Emerging Skills",
+          "category": "Actionable Skills & Habits",
+          "quote": "AI. Beyond that, though, we're in the creator economy.",
+          "summary_en": "Master AI and leverage opportunities in the creator economy as the top modern skills.",
+          "summary_zh": "掌握AI与创作者经济等前沿时代技能",
+          "timestamp_sec": 89,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Sales. You got to know sales... Good sales people sell a product. Great sales people sell value.",
+          "summary_en": "You must know sales, and great salespeople focus on selling value rather than just a product.",
+          "summary_zh": "销售要卖价值而非产品，必须精进销售力",
+          "timestamp_sec": 89,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Constant forward momentum. Every day, there are two or three things that advance the ball. Know what those are.",
+          "summary_en": "Maintain constant forward momentum by identifying and executing the two or three daily tasks that move the ball forward.",
+          "summary_zh": "每天识别并推进两三件能推动进展的事",
+          "timestamp_sec": 166,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "There's always a mentor in your life. You just have to listen for it.",
+          "summary_en": "Always stay attentive to mentors around you and internalize wisdom from proven leaders.",
+          "summary_zh": "人生总有导师出现，关键在于用心倾听",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Don't chase the money, chase the dream. The money will follow.",
+          "summary_en": "Focus on a mission and enjoy the journey rather than chasing money; financial rewards follow passion.",
+          "summary_zh": "别追逐金钱而要追随使命与梦想，享受过程",
+          "timestamp_sec": 199,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创办大型科技公司起家，后成为《创智赢家》知名投资人。",
+      "guest_name": "Robert Herjavec",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Warren Avis"
+      ],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Sales & Persuasion",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Shark Tank Investor & Tech Company Founder",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "优先学习AI、创作者经济和价值型销售；每天聚焦推进关键事项并保持前进动量；用心向身边的导师学习，热爱创业过程。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I never listen to them. That's why I made it. You can't listen to nobody but yourself and your heart.",
+          "summary_en": "Ignore doubters and listen only to yourself and your own heart.",
+          "summary_zh": "屏蔽外界质疑声音，只倾听自己内心选择",
+          "timestamp_sec": 405,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I understood my potential, and I was going to throw the dice, and that's what I did, and I did it a lot of different ways.",
+          "summary_en": "Recognize your potential and be willing to take bold swings across different business ventures.",
+          "summary_zh": "认清自身潜力后敢于下注，多渠道去闯荡",
+          "timestamp_sec": 447,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Imagine how many times you've let those $7 walk out of your store over the last 20 years... Somebody else going to get that business.",
+          "summary_en": "Never leave money on the table; close the partial sale today and keep the customer coming back rather than losing business to competitors.",
+          "summary_zh": "绝不放走任何一笔成交，哪怕先收部分货款",
+          "timestamp_sec": 483,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I believe in me controlling what I'm best at and whatever my weaknesses are, I'll let someone that's mastered that handle that for you.",
+          "summary_en": "Focus on controlling what you do best and delegate your weaknesses to passionate operators who have mastered those areas.",
+          "summary_zh": "自己只管最擅长的部分，短板交给专家处理",
+          "timestamp_sec": 539,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Go out there, stick your hand out and introduce yourselves to people and say, 'Yo, man, this what I'm here to do... If you need me, holler at me.'",
+          "summary_en": "Get out of the house, proactively introduce yourself to people, and pitch what you do best.",
+          "summary_zh": "主动走出家门结识他人，推销自己的能力",
+          "timestamp_sec": 570,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "It's called 'multiples'. Why not? You got to give yourself the opportunity. I don't close the doors on myself. Leave the door open.",
+          "summary_en": "Embrace diversification and build multiple income streams while keeping every opportunity door open.",
+          "summary_zh": "保持收入多元化，不给自己关上任何机会门",
+          "timestamp_sec": 592,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you asking if I'm not hustling, you're crazy. And it's Sunday right now and it's going down.",
+          "summary_en": "Enjoy life while never stopping the hustle, even on Sundays.",
+          "summary_zh": "哪怕周末也不停歇，始终保持高强度拼搏",
+          "timestamp_sec": 601,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "You got to make sure you enjoying life. Don't live and put yourself in a position where you hate what's going on. You got to wake up, feel good about it, go and get it.",
+          "summary_en": "Make sure you enjoy what you do so you wake up excited to pursue your goals.",
+          "summary_zh": "务必享受生活与事业，别让自己讨厌现状",
+          "timestamp_sec": 611,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "靠音乐起家，28岁成为百万富翁，随后跨界商业投资，持有30多家Wingstop特许经营店及30余个商业合作项目，累积数亿美元资产。",
+      "guest_name": "Rick Ross",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "J Prince",
+        "Grant Cardone"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Hip-Hop Artist, Entrepreneur & Wingstop Franchisee",
+      "wealth_detail": "Hundreds of millions of dollars",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要理会质疑者；主动走出去自我推销并抓住每笔交易；专注自身强项并将短板授权给专业人才；多渠道布局收入且保持热忱与拼劲。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You aspire to things. You never know where you end up. But, you got to think big.",
+          "summary_en": "Think big and aspire to ambitious goals because you never know how far they can take you.",
+          "summary_zh": "敢于立下远大志向，格局要足够宏大",
+          "timestamp_sec": 712,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "It's really execution. You know, today everybody has ideas. It's the ability to execute... When you see opportunity, you have to act upon [it].",
+          "summary_en": "Everyone has ideas, but success comes down to executing and acting decisively when you spot an opportunity.",
+          "summary_zh": "人人都有想法，成败关键在于看到机会就执行",
+          "timestamp_sec": 733,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "They love what they're doing. And I mean, it's not about the money. It's about the love of success, how that makes you feel, and doing things that other people aren't doing.",
+          "summary_en": "Billionaires love what they do and thrive on the impact and fulfillment of achieving what others won't, not just money.",
+          "summary_zh": "热爱所做之事与成功本身，而非只为金钱",
+          "timestamp_sec": 762,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "It's not all about making money. You're giving back the same time. And if you don't have that feeling of giving back, you lose that fulfillment of having done something.",
+          "summary_en": "Combine making money with giving back and creating real impact so your work remains fulfilling.",
+          "summary_zh": "在创造财富同时回馈社会，才能获得成就感",
+          "timestamp_sec": 810,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "You got to take risks... I believe in myself and if I fail, not everything works out the way you expect, but you just got to believe overall what you're doing.",
+          "summary_en": "Entrepreneurship requires taking risks without fear and maintaining self-belief even when things don't go as planned.",
+          "summary_zh": "创业必须敢于承担风险，失败了也要相信自己",
+          "timestamp_sec": 799,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You got to shoot to be the best and you want your organization and people to believe in that... It's about people. You don't do it yourself.",
+          "summary_en": "Aim to be best-in-class and build a united organization of great people, because you cannot scale alone.",
+          "summary_zh": "追求成为行业顶尖，并依靠优秀团队成事",
+          "timestamp_sec": 830,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "South Florida, I see Palm Beach County, West Palm Beach is probably offering the most amount of opportunity of any place... state of Florida is probably the best business state.",
+          "summary_en": "Operate in high-opportunity, business-friendly markets like South Florida and West Palm Beach.",
+          "summary_zh": "选对高增长且营商环境优越的地区发展",
+          "timestamp_sec": 840,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Self-Awareness & Decisive Action",
+          "category": "Mindset & Resilience",
+          "quote": "Understand yourself, know yourself and then go for it.",
+          "summary_en": "Develop deep self-awareness first, then go after your goals wholeheartedly.",
+          "summary_zh": "充分认识和了解自己，然后放手去拼搏",
+          "timestamp_sec": 870,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家（以1万美元创业且从未拿过外部投资者一分钱），通过房地产开发在35岁左右成为亿万富翁，后收购NFL迈阿密海豚队。",
+      "guest_name": "Stephen Ross",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate Developer & Miami Dolphins Owner",
+      "wealth_detail": "$17B net worth (over $15B)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "先了解自己，随后立大志并付诸行动；看准机会果断执行，敢于承担风险；瞄准行业一流并组建强大团队，同时兼顾社会影响力与回馈。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "QZhB_KADwoA",
+  "video_type": "street_multi"
+}

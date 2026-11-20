@@ -1,0 +1,418 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you stay away from toxic people",
+          "summary_en": "Stay away from toxic people to break out of poverty and protect company culture.",
+          "summary_zh": "远离有毒的人际关系，不让负能量影响你",
+          "timestamp_sec": 76,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "think big but you always got to be learning otherwise you can be on a treadmill doing the same thing for the next 20 years",
+          "summary_en": "Keep thinking big and never stop learning, or you will stay stuck in the same place for decades.",
+          "summary_zh": "保持大格局并终身学习，避免原地踏步",
+          "timestamp_sec": 84,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "running out of cash is obviously number one",
+          "summary_en": "Running out of cash is the number one mistake that stops business owners from scaling.",
+          "summary_zh": "严防现金流断裂是企业扩张的首要前提",
+          "timestamp_sec": 94,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "for me it's all about culture and people we're always hiring way smarter people than me",
+          "summary_en": "Prioritize people and culture by consistently hiring people much smarter than yourself.",
+          "summary_zh": "重视企业文化，始终招募比自己更聪明的人",
+          "timestamp_sec": 104,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I never doubted myself ever I've always wanted it",
+          "summary_en": "Maintain unwavering self-belief and intense desire without ever doubting yourself.",
+          "summary_zh": "保持绝对自信，永远不要自我怀疑",
+          "timestamp_sec": 115,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "think about how do you maximize the value of your relationships... be a giver not a taker",
+          "summary_en": "Treat business as relationships rather than transactions by being a giver and maximizing relationship value.",
+          "summary_zh": "商业本质是关系，要懂得给予而非索取",
+          "timestamp_sec": 127,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "不喜欢为别人打工，进入金融行业创业深耕25年，曾经历过多次破产又重新翻身，单年最高收入达2000万美元。",
+      "guest_name": "Scottsdale Finance Business Owner",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Finance Business Owner",
+      "wealth_detail": "$20M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "远离有毒的人，保持大格局并终身学习；在商业中注重人和与团队文化，始终做到给予而非索取，全力提升人脉关系价值。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "our customers are our investors you treat your customer as best as you can you build products that work",
+          "summary_en": "Treat your customers like your investors by delivering top-tier care and building products that genuinely work.",
+          "summary_zh": "像对待投资人一样服务客户并打磨好产品",
+          "timestamp_sec": 184,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "you choose a market that's got enough size and you do it over and over again",
+          "summary_en": "Pick a market with sufficient size and execute consistently on what works.",
+          "summary_zh": "选择规模足够大的市场并持续重复深耕",
+          "timestamp_sec": 184,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "you recruit an incredible team cuz without a team you can't do anything",
+          "summary_en": "Recruit an exceptional team because you cannot build something massive alone.",
+          "summary_zh": "招募卓越团队，靠单打独斗无法成大事",
+          "timestamp_sec": 194,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "that was one of my motivations was how do I change my situation and I would do whatever it took to not be broke anymore",
+          "summary_en": "Use past hardship as fuel and commit to doing whatever it takes to change your situation.",
+          "summary_zh": "把摆脱贫穷的渴望化为不惜一切的动力",
+          "timestamp_sec": 205,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "surround yourself with people doing better than you never be the smartest person in the room listen more than you talk",
+          "summary_en": "Surround yourself with more successful people, listen more than you talk, and master communication and follow-up.",
+          "summary_zh": "多与优秀者为伍，永远别当房间里最聪明的人",
+          "timestamp_sec": 215,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you're not your biggest fan it's very hard for people to get on the bandwagon... think what's in it for them before you think what's in it for me",
+          "summary_en": "Be your own biggest advocate to sell yourself and always lead with what is in it for the other person.",
+          "summary_zh": "先学会推销自己，站在对方利益角度思考",
+          "timestamp_sec": 235,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "you've got to have the conviction think big think it through",
+          "summary_en": "Have deep conviction in what you are building and think much bigger than average.",
+          "summary_zh": "保持强大信念与大格局，敢于把梦想做大",
+          "timestamp_sec": 244,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在亚利桑那州普通家庭长大（曾靠坐公交出行），13岁便开始创业，后打造出在线口腔护理品牌 Snow，今年营收预计达2亿美元。",
+      "guest_name": "Snow Oral Care Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Public Speaking & Communication",
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder of Snow Oral Care",
+      "wealth_detail": "$200M/yr business revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "多与比自己优秀的人在一起，多听少说、善于提问与跟进；把沟通能力当作商业头号技能，同时有大格局信念并学会推销自己。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "you get the right people that's going to sell for you",
+          "summary_en": "Get the right people in place who can effectively sell and represent your company.",
+          "summary_zh": "找对能帮你把公司和产品卖出去的顶尖人才",
+          "timestamp_sec": 294,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you've got to sell your company you got to sell yourself... convince them that our company is going to keep growing and they'll push our stock",
+          "summary_en": "Master selling both yourself and your company's growth story to customers and Wall Street investors.",
+          "summary_zh": "学会推销自己与公司，向资本讲好增长故事",
+          "timestamp_sec": 294,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Develop Street Smarts & Practical Adaptability",
+          "category": "Mindset & Resilience",
+          "quote": "street smart they know how to handle situations that you don't necessarily find in a book",
+          "summary_en": "Develop practical street smarts to handle real-world situations that cannot be learned from books.",
+          "summary_zh": "培养书本之外的街头智慧与实战应变力",
+          "timestamp_sec": 315,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm 85 and I'm taking care of myself I work out every day and play golf",
+          "summary_en": "Take care of your health consistently by staying active and working out every day.",
+          "summary_zh": "坚持每天锻炼保养身体，保持高度自律",
+          "timestamp_sec": 328,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "you could throw 10 things on a wall... and nine of them fall off and you still got that one up there you're ahead of the person never tried",
+          "summary_en": "Keep trying even if nine out of ten attempts fail, because one success puts you far ahead of those who never try.",
+          "summary_zh": "敢于试错十次哪怕九次失败，也胜过不行动",
+          "timestamp_sec": 336,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家创办 Employee Solutions（300多名员工），将公司年营收做到近10亿美元，于1993年在纳斯达克上市并在1995年退休。",
+      "guest_name": "Employee Solutions Founder",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder of Employee Solutions (NASDAQ)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "想做什么就坚持去试，就算十件事里失败九件，只要有一件成功，你就已经远远领先于那些从未尝试过的人。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "buy real estate don't sell it unless you need the money or there's a better opportunity... use the tax code 1031 exchange to be able to defer your tax",
+          "summary_en": "Buy real estate, hold it long-term, and use 1031 exchanges to defer taxes and scale into bigger properties.",
+          "summary_zh": "买下优质房产长期持有，善用1031条款延税",
+          "timestamp_sec": 386,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "money is like [ __ ] if you leave it in a pile it stinks and if you spread it around things grow",
+          "summary_en": "Keep deploying money into productive assets rather than letting cash sit idle so your wealth compounds.",
+          "summary_zh": "别让资金闲置堆积，让钱流动起来才能增值",
+          "timestamp_sec": 422,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "have more real estate conversations than anybody else",
+          "summary_en": "Out-communicate the competition by having more real estate deal conversations than anyone else.",
+          "summary_zh": "比任何人都更高频地与人沟通房产交易",
+          "timestamp_sec": 429,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "find starters estate planners and Enders... build a small Network... and then the education to get the deal closed or vendor Partners like title companies and lending",
+          "summary_en": "Build a focused network of peers, asset-rich capital partners (enders), and reliable title/lending vendors to close deals.",
+          "summary_zh": "搭建涵盖新手、资产规划师与资金方的人脉网",
+          "timestamp_sec": 444,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you got to go hustle and find the deal once you find the deal... the money will find the deal",
+          "summary_en": "Hustle relentlessly to source great deals, because capital naturally flows to strong deals.",
+          "summary_zh": "主动出击拼命找好项目，好项目自带资金",
+          "timestamp_sec": 454,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "进入住宅房地产经纪领域，团队单年累计成交额达14亿美元；个人34岁成为百万富翁，单年最高收入接近200万美元。",
+      "guest_name": "Scottsdale Real Estate Brokerage Owner",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Residential Real Estate Broker",
+      "wealth_detail": "Close to $2M in a single year (became millionaire at 34)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "比任何人都更勤奋地发起房产沟通；建立包含老手资金方与产权贷款机构的优质人脉圈并全力寻找好交易，找到好项目后资金自然会找上门。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "if anybody wanted to get rich anyone learn sales learn leadership and this Market will reward you in ways you've never imagined",
+          "summary_en": "Learn sales and leadership as core skills because the market rewards them exponentially.",
+          "summary_zh": "想变富就学销售与领导力，靠带团队放大收入",
+          "timestamp_sec": 706,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "if I could lead a bunch of people I could get a little cut on a bunch of people",
+          "summary_en": "Transition from solo selling to leading a large team so you earn leverage from many people's output.",
+          "summary_zh": "利用团队杠杆带人销售，从众人业绩中获益",
+          "timestamp_sec": 482,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I had a lot of distractions along the way",
+          "summary_en": "Eliminate distractions early so you don't waste years before waking up to your full potential.",
+          "summary_zh": "减少成长路上的分心诱惑，专注于核心目标",
+          "timestamp_sec": 510,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I out self-develop them they've slowed down and that's why I keep growing",
+          "summary_en": "Never stop self-developing after reaching an initial goal; keep growing while others get comfortable.",
+          "summary_zh": "保持高强度自我成长，在他人松懈时持续超越",
+          "timestamp_sec": 531,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "sometimes your blood family isn't the one that supports you when you go bigger... they Envy you or they get jealous and then they hate on you and once you do that I'm out",
+          "summary_en": "Distance yourself from anyone—even blood relatives—who envies your growth or hates on your big goals.",
+          "summary_zh": "果断远离嫉妒并打压你梦想的负能量人群",
+          "timestamp_sec": 560,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I pay cash for everything I have nothing financed in my life... I only buy what I can get when I can pay cash for it",
+          "summary_en": "Avoid financing cars, buildings, or lifestyle items; pay cash so you owe nothing and avoid interest drain.",
+          "summary_zh": "坚持全款消费不借贷，消除利息支出与负债",
+          "timestamp_sec": 601,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "confidence is a big deal and you'll never out earn your own self-worth... I have a delusional belief in me",
+          "summary_en": "Cultivate unshakeable, even delusional self-belief because your income will never exceed your self-worth.",
+          "summary_zh": "培养极度自信，收入永远不会超过你的自我价值",
+          "timestamp_sec": 666,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I talk about Fitness because you can see what you look like... if you don't think you look the best and you're feel good about yourself you're not going to close that deal",
+          "summary_en": "Stay disciplined with physical fitness because looking and feeling your best fuels closing confidence.",
+          "summary_zh": "坚持健身与形象管理，保持最佳精神状态",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "if you got good intentions and you like people",
+          "summary_en": "Pair strong sales and leadership skills with genuine good intentions and care for people.",
+          "summary_zh": "带着善意与真诚待人，市场才会给你丰厚回报",
+          "timestamp_sec": 720,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年长期穷困，年轻时从销售起步，后来转向团队领导力靠团队杠杆放大收益，如今44岁预计今年个人收入超九位数（1亿美元以上）。",
+      "guest_name": "Andy Elliott",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Sales & Leadership Trainer / Entrepreneur",
+      "wealth_detail": "$100M+ (nine figures plus) in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "学习销售与领导力，保持极度自信和宏大梦想；坚持健身并保持高强度自我提升，同时远离嫉妒自己成长的人并只用现金消费。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "nReWQdfRSC8",
+  "video_type": "street_multi"
+}

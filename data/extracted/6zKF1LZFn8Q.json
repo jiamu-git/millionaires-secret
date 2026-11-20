@@ -1,0 +1,203 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Find properties that are below value... think very long term with it... real estate does not go to zero.",
+          "summary_en": "Buy undervalued real estate and hold long-term; unlike stocks or businesses, real estate doesn't go to zero.",
+          "summary_zh": "买入低估房产并长期持有，房地产不会归零",
+          "timestamp_sec": 12,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "The leverage that you get with real estate is unreal. You might put ten thousand dollars down on a property, but if it's worth 300,000 and it goes up ten percent that year, you just tripled your money.",
+          "summary_en": "Leverage in real estate allows a small down payment to control a large asset and multiply returns as it appreciates.",
+          "summary_zh": "善用房地产高杠杆以小博大，放大净值回报",
+          "timestamp_sec": 23,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "That type of agent can come here and find that opportunity and we'll buy it with them and we'll show them how to do it and we'll give them equity.",
+          "summary_en": "Look beyond commissions by partnering on real estate deals to own equity and build generational wealth.",
+          "summary_zh": "不止赚佣金，与团队合伙买房持有股权资产",
+          "timestamp_sec": 241,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Empower Team as Partners",
+          "category": "Business & Strategy",
+          "quote": "We go and say hey, what are you really trying to do and how can we support that? And we're a built-in business partner—build your own brand, build your own team.",
+          "summary_en": "Treat agents as business partners by supporting their personal brand, team building, and long-term wealth goals rather than just pushing commissions.",
+          "summary_zh": "把员工当商业合伙人，全力扶持其打造个人品牌",
+          "timestamp_sec": 288,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "The only way to scale and to get a message out is through social media... instead of talking to 10 people, we'd like to talk to 10 million.",
+          "summary_en": "Digital content and social media provide massive leverage, scaling your reach from 10 people to 10 million.",
+          "summary_zh": "善用社交媒体规模化传播，将触达从十人放大到千万",
+          "timestamp_sec": 555,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "We knew that he had certain things that he wanted to talk about... so we just did it for him in the first five minutes... if you're persistent and you just shoot your shot, doesn't matter who it is, get creative.",
+          "summary_en": "Be persistent, get creative, and shoot your shot with high-value people by leading with what they want to promote.",
+          "summary_zh": "主动创造价值、大胆破局链接高价值人脉",
+          "timestamp_sec": 624,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Deal Sourcing & Valuation",
+          "category": "Business & Strategy",
+          "quote": "If you can learn the one skill of how to identify value in anything that you're looking at and learn how to identify an opportunity and find deals, then you can go into any market in any condition and make money.",
+          "summary_en": "Master the skill of spotting undervalued assets and sourcing deals so you can profit in any market condition.",
+          "summary_zh": "掌握识别价值与找项目的核心技能，无惧市场周期",
+          "timestamp_sec": 721,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在德州奥斯汀深耕房地产13年，从早年无力独自拿下商业地产起步，通过寻找低估房产、运用杠杆长期持有及批发土地交易，逐步建立起拥有130套房产和近200名经纪人的创业型房产经纪公司。",
+      "guest_name": "Matt Teifke & Alex Kaufman",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Grant Cardone"
+      ],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Co-Owners of Teifke Real Estate",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "如果从零开始且必须在一年内赚到100万美元，会选择在奥斯汀批发土地（Wholesale Land）：寻找优质地块并以好价格签下合同，再转售给愿意出更高价的开发商或买家，做成一两笔即可轻松赚到100万。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I just try and be authentic. I'm just who I am, I love to talk to people, I'm just authentic.",
+          "summary_en": "The key to cold-calling sales is staying authentic and genuinely enjoying talking to people.",
+          "summary_zh": "电销成交的秘诀在于真诚做自己、热爱与人沟通",
+          "timestamp_sec": 332,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You might hear someone's got 20 properties, it doesn't mean that they're just making all this money—they got to keep pushing forward and keep hustling.",
+          "summary_en": "Owning multiple rental properties still comes with constant maintenance problems; you have to keep pushing forward and hustling.",
+          "summary_zh": "拥有多套房产并非躺赚，仍需持续拼搏解决运维难题",
+          "timestamp_sec": 368,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "单亲妈妈在建筑行业全职工作抚养两个儿子，同时通过坚持陌生开发电话（Cold Call）和持续投资积累了16-17套房产（仅剩3套未还清贷款），目前月收入约1.9万美元。",
+      "guest_name": "Killer Kim",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Cold Caller & Real Estate Investor (Matt's Mom)",
+      "wealth_detail": "$19k/month (16-17 properties, all paid off except 3)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I practiced law for about 15 years and realized hour for hour work is only going to get you paid hour for hour and there's 24 hours in a day, so I decided to move over into the real estate industry, started a title office.",
+          "summary_en": "Leave hourly-capped work behind and build a team-run business so your income isn't limited to 24 hours a day.",
+          "summary_zh": "跳出按小时卖时间的陷阱，创办团队运作的产权公司",
+          "timestamp_sec": 929,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Sometimes you got to jump out of a plane and build the parachute on the way down. It doesn't matter what horse you're on, just make sure you're on a horse.",
+          "summary_en": "Take the leap and figure out the details as you go—the most important thing is getting into the game.",
+          "summary_zh": "敢于纵身一跃先上场，在行动过程中边做边完善",
+          "timestamp_sec": 948,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Surround yourself with people who are smarter than you.",
+          "summary_en": "Surround yourself with people who are smarter than you to accelerate your growth.",
+          "summary_zh": "多与比自己更聪明、更有经验的人为伍",
+          "timestamp_sec": 952,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "If some old dog is offering their time to you, take it.",
+          "summary_en": "Whenever an experienced veteran offers to spend time mentoring you, always accept it.",
+          "summary_zh": "前辈愿意花时间指点你时，一定要抓住机会虚心请教",
+          "timestamp_sec": 955,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "My 22-year-old was trying to figure out if he wanted to buy a house or not... I just did everything I could to make him buy the house. Gotta get started.",
+          "summary_en": "Stop overthinking early decisions like buying your first property—you simply have to get started.",
+          "summary_zh": "年轻时别过度犹豫，尽早迈出买房和行动的第一步",
+          "timestamp_sec": 962,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "取得法学学位并执业律师15年后，意识到按小时收费存在时间上限，随即转型进入房地产行业并创办产权过户公司（Title Office），依靠团队运营实现收入增长。",
+      "guest_name": "Title Office Founder & Former Attorney",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Title Office Owner (Former Attorney)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "6zKF1LZFn8Q",
+  "video_type": "deep_dive_single"
+}

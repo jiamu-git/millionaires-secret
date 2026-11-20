@@ -1,0 +1,377 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Real estate values never go down. They might recede in a recession, but they always correct above the line. Buy and hold.",
+          "summary_en": "Buy and hold real estate long-term because land is finite and values recover above trend after recessions.",
+          "summary_zh": "长期买入并持有房地产，土地稀缺且长期必涨",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Resiliency, grit, self-reliance, believing in yourself. Rainbows only follow storms. Can't have a rainbow without a storm first.",
+          "summary_en": "Young founders succeed through resilience, grit, self-reliance, and enduring storms before seeing success.",
+          "summary_zh": "创业者须具备韧性与毅力，经历风雨方见彩虹",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Stop BSing people. The more real somebody is, the more authenticity they're looking for... Really, the product is you. Be authentic.",
+          "summary_en": "In sales and negotiation, drop the games and be authentic so clients recognize your personal value.",
+          "summary_zh": "销售谈判要真诚不作假，让自己成为核心价值",
+          "timestamp_sec": 220,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's not about what you get, but what you have to give. And so, when you meet with somebody, say, 'What can I do for you?'",
+          "summary_en": "Wealthy people want genuine relationships, so lead by asking what you can do for them instead of taking.",
+          "summary_zh": "高端人脉重在先问能为对方提供什么价值",
+          "timestamp_sec": 246,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Surround yourself with givers, get the toxicity out of your life... If you hang around nine broke people, you'll be the tenth.",
+          "summary_en": "Remove toxic takers from your circle and surround yourself with givers, as proximity shapes your outcome.",
+          "summary_zh": "远离消耗型人群，与付出者同行才能提升圈层",
+          "timestamp_sec": 263,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "When I got my exit, when the wire came through, I was sitting at Taco Bell ordering a number three. Stay small enough long enough, you'll be big enough soon enough.",
+          "summary_en": "Stay grounded and stay lean long enough without chasing flashy spending even after a massive exit.",
+          "summary_zh": "保持谦逊简朴，长期稳扎稳打终会做大做强",
+          "timestamp_sec": 305,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20多岁积累百万美元流动资产，50岁完成超1亿美元的九位数公司退出套现。",
+      "guest_name": "John Hope Bryant",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate & Finance Entrepreneur / Investor",
+      "wealth_detail": "$100M+ exit (nine-figure exit); millionaire in 20s, liquidity event at 50",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "把自己当成产品来投资，保持真实不虚伪，先思考能为他人提供什么价值并远离消耗型人群，同时长期持有房地产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Founder, big problem, and a deep innovation... A big idea can move mountains, but you need big ideas consistently every day.",
+          "summary_en": "Winning ventures combine a strong founder, a big problem, deep innovation, and continuous daily creativity.",
+          "summary_zh": "好项目需强创始人、大痛点、深创新与持续创意",
+          "timestamp_sec": 429,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Doing something you're really passionate about, working with people that you really love... focusing on a problem you would have wanted to solve whether you could make money at it or not.",
+          "summary_en": "Achieve alignment by working with people you love on problems you care about regardless of money.",
+          "summary_zh": "与喜爱之人共事，解决不图钱也愿解决的问题",
+          "timestamp_sec": 481,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "First you have to know yourself, then you have to love yourself, and then you have to be yourself.",
+          "summary_en": "Know, love, and be yourself instead of trying to imitate others just to fit in.",
+          "summary_zh": "先认识自己、爱自己再做自己，不必迎合他人",
+          "timestamp_sec": 540,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "约31岁成为百万富翁，创立MoviePass与智能牙刷品牌Fino并投资Ring等产品，单年最高收入约数百万美元。",
+      "guest_name": "Beverly Hills VC & MoviePass / Fino Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Venture Capitalist & Consumer Product Founder (Age 54)",
+      "wealth_detail": "Millionaire at ~31; highest single-year income ~$2M (not a billionaire)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先认识自己、爱自己、做自己，选择与自己价值观契合且即便不赚钱也想解决的真问题，并与志同道合的人共事。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Learn to listen. Learn to be with the smartest people around... Surround myself with people that are way smarter than me.",
+          "summary_en": "Practice listening and deliberately surround yourself with people who are much smarter than you.",
+          "summary_zh": "学会倾听，主动靠近并围绕比自己更聪明的人",
+          "timestamp_sec": 708,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Two things. Listen to your mom and dad and follow your favorite mentors. Jamie is one of my favorite mentors ever.",
+          "summary_en": "Listen to your parents and closely follow great mentors as a core key to success.",
+          "summary_zh": "听取父母忠告并紧跟优秀导师学习，是成功秘诀",
+          "timestamp_sec": 767,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18岁成为百万富翁；后因在街头看到许多人穿猫王T恤而结识Authentic Brands Group的Jamie并向其学习商业品牌运作。",
+      "guest_name": "Shaquille O'Neal",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Jamie (Authentic Brands Group)",
+        "Mom and Dad"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "NBA Hall of Famer, Businessman & Investor (Age 54)",
+      "wealth_detail": "Became a millionaire at age 18",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "学会倾听，靠近比自己更聪明的人，听取父母建议并向优秀导师学习。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Acquire Brands With Cultural Vitality",
+          "category": "Business & Strategy",
+          "quote": "Companies are broken, but, you know, brands, they have to have a heartbeat... that's the most important thing is when you're buying a brand that actually has a heartbeat and it's alive.",
+          "summary_en": "When acquiring distressed businesses, only buy brands that still have a strong cultural heartbeat and relevance.",
+          "summary_zh": "收购品牌重在看其是否仍有鲜活的生命力与影响力",
+          "timestamp_sec": 688,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Do what you say you're going to do. Your word is your bond and make sure that you keep your word even if it costs you money.",
+          "summary_en": "Always keep your word as your bond and honor commitments even when doing so costs you money.",
+          "summary_zh": "一诺千金，哪怕为此花钱也要坚决兑现自己的承诺",
+          "timestamp_sec": 732,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Prioritize Fulfillment & Happiness",
+          "category": "Mindset & Resilience",
+          "quote": "Money's just a scorecard. What's really important is to make sure you wake up every day, you have a great time doing what you're doing... always focus on happiness.",
+          "summary_en": "Treat money merely as a scorecard and prioritize enjoying what you do every single day.",
+          "summary_zh": "金钱只是记分牌，最重要的是每天开心做喜欢的事",
+          "timestamp_sec": 755,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "约36岁赚到第一个百万美元，深耕服装与品牌收购40年，旗下约50个品牌年营收达400亿美元。",
+      "guest_name": "Jamie (Authentic Brands Group)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Two late mentors (unnamed)"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Authentic Brands Group Executive / Brand Owner (Age 63)",
+      "wealth_detail": "First million at ~36; company generates $40B/yr across ~50 brands",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "坚守信用、言出必行，哪怕亏钱也要守约；把金钱当记分牌，专注于每天做能带来快乐的事业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "You can never work for anybody else and get rich. You have to have your own desire, especially now with all the AI applications coming on. Work for yourself.",
+          "summary_en": "You cannot get rich working for someone else; leverage AI and build something for yourself.",
+          "summary_zh": "打工无法真正致富，应善用AI机会为自己创业",
+          "timestamp_sec": 829,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "The youth needs to learn the value of capital markets. Youth needs to learn that nothing is free... Somebody's got to pay for it.",
+          "summary_en": "Learn how capital markets work and recognize that nothing promised as 'free' is truly free.",
+          "summary_zh": "年轻人要懂资本市场，明白世上没有真正的免费午餐",
+          "timestamp_sec": 847,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You have to be happy and find happiness in what you do. Share wealth. Enjoy the families. Enjoy the life.",
+          "summary_en": "Find joy in your work, share your wealth with others, and enjoy your family and life.",
+          "summary_zh": "在事业中寻找快乐，乐于分享财富并珍惜陪伴家人",
+          "timestamp_sec": 890,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You have to stay young because mentally you have to be very strong, and you can't worry about little aches and pains. It's all here.",
+          "summary_en": "Maintain a youthful, resilient mindset and refuse to let minor setbacks or aches slow you down.",
+          "summary_zh": "保持年轻心态与强大意志力，别为小挫折内耗",
+          "timestamp_sec": 906,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Create something of value of society, don't ask for free... get your act together, don't blame the society, blame yourself.",
+          "summary_en": "Take personal accountability, stop blaming society, and create genuine value for the world.",
+          "summary_zh": "别向社会索取也别怪环境，靠自身行动创造社会价值",
+          "timestamp_sec": 920,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从印度身无分文来到纽约，早期在华尔街机构交易数十亿美元资产，后自主创立Pre-IPO股权交易及硬资产借贷平台。",
+      "guest_name": "Rich (Pre-IPO Trader & Hard Money Lender)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Pre-IPO Shares Trader & Hard Money Lending Founder",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不要指望打工致富或等待免费施舍，要理解资本市场并利用AI为自己创业，停止抱怨社会、通过创造社会价值改变命运。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "They had no classes on how to be an investor. So, I started reading books... Most everything you need to know you can learn by reading.",
+          "summary_en": "Teach yourself investing and business fundamentals because nearly everything you need can be learned from books.",
+          "summary_zh": "通过大量阅读自学成才，所需知识几乎都在书里",
+          "timestamp_sec": 1040,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Persistence. Never giving up.",
+          "summary_en": "Persistence and refusing to give up through rejection is the common trait of top performers.",
+          "summary_zh": "坚持不懈、永不放弃是所有顶尖成功者的共性",
+          "timestamp_sec": 1053,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Optimism... You have to be optimistic in order to be successful.",
+          "summary_en": "Maintain optimism and self-belief even when others doubt you or reject your ideas.",
+          "summary_zh": "面对质疑和拒绝时保持乐观与坚定自信才能成功",
+          "timestamp_sec": 1062,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Great Ideas Over Connections",
+          "category": "Business & Strategy",
+          "quote": "What you know is more important. The ideas are more valuable than the relationships. Because if you have a great, creative, brilliant idea, the capital will find you.",
+          "summary_en": "Knowledge and brilliant ideas matter more than connections because great ideas naturally attract capital.",
+          "summary_zh": "真才实学与绝妙创意胜过人脉，好点子自会吸引资本",
+          "timestamp_sec": 1080,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Learn everything there is to know about AI. Start learning how to code using Claude code. Build a company. Build a website. Build something.",
+          "summary_en": "Master AI and coding tools like Claude Code now to build a business during this historic entrepreneurial wave.",
+          "summary_zh": "全面学习AI并用Claude Code编程建站，抓住创业黄金期",
+          "timestamp_sec": 1095,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Being able to be long-term in a world of short-term people, that's a huge advantage.",
+          "summary_en": "Adopt a multi-decade, long-term perspective in a world dominated by short-term thinkers.",
+          "summary_zh": "在充满短视者的世界里坚持长期主义是巨大优势",
+          "timestamp_sec": 1140,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Biggest challenge when you're young is you want to make money really fast. That's almost in investing a guaranteed bad outcome.",
+          "summary_en": "Trying to get rich quickly as a young investor almost guarantees poor investment outcomes.",
+          "summary_zh": "年轻时切忌急功近利想赚快钱，投资中这几乎必败",
+          "timestamp_sec": 1143,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "想学投资却发现商学院没有相应课程，于是靠大量读书自学，并在早期不断打电话推销（smiling and dialing）与顶住拒绝中踏入投资管理行业。",
+      "guest_name": "Bill Ackman",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Technical / Engineering",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Billionaire Investment Manager (Age ~60)",
+      "wealth_detail": "$9B net worth (referred to as worth $9 billion by host)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "靠大量阅读自学投资知识；立刻深入学习AI并用Claude Code等工具动手写代码创办项目；摒弃赚快钱心态，以数十年为周期坚持长期主义与永不放弃的乐观精神。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "Z7aS-7Mw_Wg",
+  "video_type": "street_multi"
+}

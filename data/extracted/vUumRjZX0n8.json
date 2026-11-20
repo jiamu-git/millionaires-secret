@@ -1,0 +1,354 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I never finished school... it was in me like this fire to prove people wrong that without having a degree you can still do a lot of things",
+          "summary_en": "Use the drive to prove doubters wrong and don't let a lack of formal education limit your ambition.",
+          "summary_zh": "学历不代表上限，用证明自己的斗志打破限制",
+          "timestamp_sec": 122,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "always have full control over the money... know where it's going know where it's coming from",
+          "summary_en": "Maintain strict control over your business finances and track every dollar coming in and going out.",
+          "summary_zh": "时刻掌控企业每一笔现金流的去向与来源",
+          "timestamp_sec": 142,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "every rejection we get is a lesson for the yes we're going to have",
+          "summary_en": "Treat every rejection in sales as a learning lesson that brings you closer to the next yes.",
+          "summary_zh": "把每一次被拒绝都当成通往成交的必经课程",
+          "timestamp_sec": 173,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to ask a lot of yes questions not a lot of no questions... amateur tell Pros ask",
+          "summary_en": "Top salespeople ask strategic questions that elicit 'yes' responses rather than lecturing the prospect.",
+          "summary_zh": "顶尖销售靠多提“是”类问题引导成交",
+          "timestamp_sec": 204,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "my mindset was no okay you know what I have to save save save invest and once we reach a certain threshold then we can get something to reward ourselves",
+          "summary_en": "Cut out unnecessary subscriptions and lifestyle expenses early on to aggressively save and invest first.",
+          "summary_zh": "初期砍掉非必要订阅消费，先储蓄再投资",
+          "timestamp_sec": 238,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "if you have an idea execute on that idea whatever idea that is no matter what people tell you",
+          "summary_en": "Execute immediately on your business idea regardless of what skeptics say.",
+          "summary_zh": "有商业想法就立刻去执行，不要光想不做",
+          "timestamp_sec": 250,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "when you bring that idea to someone who actually has a business they will tell you bro go for that business... it depends on who you get your advice from",
+          "summary_en": "Seek business advice only from people who actually run businesses, not from outsiders who fear risk.",
+          "summary_zh": "只向真正做成事业的实战派请教，远离外行劝退",
+          "timestamp_sec": 282,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾穷到卖婚戒付1300美元房租，未完成学业，从挨家挨户做销售起步，后投身金融行业创业，8年内做到1200万美元年营收。",
+      "guest_name": "James Roger",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Finance Business Owner",
+      "wealth_detail": "$12M annual turnover",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "有想法就立刻去执行，不要听信不懂商业的人的质疑；初期砍掉所有不必要订阅消费，拼命存钱并持续投资，同时牢牢掌控公司资金流向。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "focus on being at the right place and at the right time... I also mean the industry... either I would choose AI or I would choose blockchain or web three",
+          "summary_en": "Position yourself in the right industry at the right time, such as AI or blockchain/Web3 today.",
+          "summary_zh": "选对时代风口行业，当前聚焦AI与Web3",
+          "timestamp_sec": 378,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "when you come from nothing you can only go up you cannot go down the sky is the limit",
+          "summary_en": "Coming from nothing is an advantage because you have nothing to lose and can only go up.",
+          "summary_zh": "一无所有是最大优势，没有退路只能向上突破",
+          "timestamp_sec": 411,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "it's actually good to be broke when you're starting up because you realize the importance of money even when you make a lot of money you don't spend that much money",
+          "summary_en": "Starting broke teaches you the value of money so you avoid overspending even after becoming wealthy.",
+          "summary_zh": "经历过贫穷更懂金钱价值，富了也保持节制",
+          "timestamp_sec": 421,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Low-Yield Bank Deposits",
+          "category": "Wealth & Investing",
+          "quote": "they want you to invest in fixed deposit but you shouldn't... Banks make money on your money... when you invest it's your own money turning into double triple four times",
+          "summary_en": "Don't park money in low-yield bank fixed deposits where banks profit off your capital; invest directly for growth.",
+          "summary_zh": "别把钱存银行吃死利息，应投资高增长资产",
+          "timestamp_sec": 430,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Asset Liquidity",
+          "category": "Wealth & Investing",
+          "quote": "I love crypto because it's liquid real estate is not liquid... if you own $15 million in crypto one minute you have your money out",
+          "summary_en": "Favor liquid assets like crypto over illiquid real estate so you can exit positions rapidly when needed.",
+          "summary_zh": "相比不动产，更应重视加密资产的高流动性",
+          "timestamp_sec": 485,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身印度德里普通家庭，16岁开始创业，2021年4月创立区块链公司，在11个月内融资超1亿美元、估值达15亿美元。",
+      "guest_name": "Delhi-Born Blockchain Unicorn Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder & CEO of $1.5B Blockchain Company",
+      "wealth_detail": "$1.5B company valuation ($100M+ raised)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "选择处于正确风口的行业（当前看好AI与区块链/Web3），从一无所有起步反而没有包袱且更懂金钱价值，不要把钱存在银行定期，而是投资高增长且高流动性的资产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "make friends be a non-transactional person... start humanizing the relationships first and then once you create a human to human relationship with the wealthiest people they'll take you everywhere",
+          "summary_en": "Approach wealthy and successful people non-transactionally to build genuine human friendships before talking business.",
+          "summary_zh": "先交朋友不谈生意，以非功利真心建立人脉",
+          "timestamp_sec": 629,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Execution Beats Ideas",
+          "category": "Business & Strategy",
+          "quote": "the worst ideas executed well are going to outperform the best ideas executed poorly",
+          "summary_en": "Strong execution always outperforms great ideas that are poorly executed.",
+          "summary_zh": "执行力永远胜过好点子，烂点子做好也能大卖",
+          "timestamp_sec": 666,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "life is too damn short to be shy... you want to make it and you want to make it big run your mouth... a closed mouth does not get fed",
+          "summary_en": "Overcome introversion and shyness, speak up, and actively pitch yourself and your ideas to win big opportunities.",
+          "summary_zh": "绝不要害羞，多开口推销才能抓住商业机会",
+          "timestamp_sec": 697,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Create Collision Hours (Intentional Serendipity)",
+          "category": "Actionable Skills & Habits",
+          "quote": "if we can get enough people with the right mindset to just take a moment to talk to each other over a coffee... you got to create these Collision hours for yourself",
+          "summary_en": "Don't wait for lucky encounters—proactively host coffees and gatherings to create serendipitous 'collision hours' with driven people.",
+          "summary_zh": "主动组织聚会制造碰撞时刻，创造合作契机",
+          "timestamp_sec": 745,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Infinitely Scalable Digital Products",
+          "category": "Business & Strategy",
+          "quote": "tech has infinite scale when you're building software you don't need to produce a physical good... it then becomes all about investing in your go to market strategy",
+          "summary_en": "Build digital products with infinite scalability rather than physical goods, and invest heavily in your go-to-market distribution.",
+          "summary_zh": "做能无限复制的数字科技产品，用营销放大规模",
+          "timestamp_sec": 764,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "think about the problem that needs to be solved in 5 years from now and invest in it from right now... don't follow Trends... invest in deep Tech... future of AI and automation",
+          "summary_en": "Avoid chasing current trends and instead build deep-tech solutions in AI, automation, and supporting infrastructure for problems 5 years ahead.",
+          "summary_zh": "别追逐现有热点，提前五年布局AI与深科技",
+          "timestamp_sec": 801,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "mortgage Tech I know it sounds boring but boring businesses are really really great businesses to invest in",
+          "summary_en": "Boring businesses like mortgage tech are often among the most profitable and reliable investments.",
+          "summary_zh": "枯燥但刚需的传统垂直行业往往最赚钱",
+          "timestamp_sec": 874,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Companies With an Exit in Mind",
+          "category": "Business & Strategy",
+          "quote": "investments in the AI space right now that are both going to get Acquired and so they were purposely built to be acquired",
+          "summary_en": "Consider building specialized tech startups purposefully designed to solve a strategic need and get acquired by major players.",
+          "summary_zh": "从创立起就以被大厂收购为目标来打造项目",
+          "timestamp_sec": 884,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "计算机专业出身，早年做程序员并曾多次破产，在科技与风投领域深耕创业17年，单年最高收入超5000万美元。",
+      "guest_name": "Dubai Tech & VC Entrepreneur",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Tony Hsieh (Zappos)"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Public Speaking & Communication",
+        "Marketing & Distribution",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Tech Founder & Venture Capitalist",
+      "wealth_detail": "$50M+ best single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要害羞，走出屏幕主动社交并制造“碰撞时刻”，以非功利交友的方式结交高端人脉；同时选择可无限复制的数字/科技产品，盯着5年后的未来趋势提前布局。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Concentrate to Build Wealth, Diversify to Keep It",
+          "category": "Wealth & Investing",
+          "quote": "first you have to make it you go all in on your idea because you don't have money but when you have money you have to be Diversified",
+          "summary_en": "Go all in on one idea while building your initial fortune, then diversify to stay balanced once you have wealth.",
+          "summary_zh": "没钱时孤注一掷死磕，致富后必须分散配置",
+          "timestamp_sec": 958,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "if everyone wants to leave I go there and work overnight right you just don't give up you just keep going",
+          "summary_en": "Outwork everyone, stay late overnight when needed, and refuse to give up.",
+          "summary_zh": "团队下班后依然通宵死磕，绝不轻言放弃",
+          "timestamp_sec": 979,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "if you lose money on certain things you don't give up you take the knowledge that you got from that experience and you go and create other stuff",
+          "summary_en": "When a venture fails, take the hard-earned knowledge from that loss and apply it to build your next project.",
+          "summary_zh": "失败亏钱不可怕，把踩坑经验转化为新项目",
+          "timestamp_sec": 1010,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Allocate Core Capital to Leading Crypto Assets",
+          "category": "Wealth & Investing",
+          "quote": "bitcoin's the god of blockchain right... where you put most of your money in and then you put some in the other ones... buy sol... salana blockchain",
+          "summary_en": "Anchor crypto exposure in Bitcoin as the foundational asset while allocating a portion to fast, scalable Layer-1 networks like Solana.",
+          "summary_zh": "核心资金配置比特币，同时布局高扩展公链",
+          "timestamp_sec": 1020,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "you cannot be complacent and you have to keep developing and you have to get the best people to work with you Henry Ford said only with a team you can make it... it's all about talent",
+          "summary_en": "Never get complacent; recruit top talent and build a great team because you cannot succeed alone.",
+          "summary_zh": "拒绝自满，聚拢顶尖人才与技术团队做大事业",
+          "timestamp_sec": 1064,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "trust yourself just go for it yourself do things you love and then if it becomes a business you're going to be very happy",
+          "summary_en": "Trust yourself and pursue things you genuinely love so that building a business brings fulfillment.",
+          "summary_zh": "相信自己并投身热爱之事，把热爱做成事业",
+          "timestamp_sec": 1105,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "key is to invest invest invest don't save but invest invest in yourself in your health in your head and in the businesses... just invest all your life",
+          "summary_en": "Don't just hoard cash—invest continuously throughout your life in your health, mind, businesses, equities, and crypto.",
+          "summary_zh": "别只顾存钱，要终身投资健康、大脑与资产",
+          "timestamp_sec": 1105,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出生在苏联时期的立陶宛（成长于澳大利亚），白手起家；2000年互联网泡沫破灭时曾倾家荡产，随后凭借对谷歌排名的理解创办全球第一扑克网站PokerNews.com翻身，现经营区块链公司年入1亿美元、净资产3亿美元。",
+      "guest_name": "Lithuanian-Born Blockchain & PokerNews Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Henry Ford"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Technical / Engineering",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Blockchain Company Founder & Investor",
+      "wealth_detail": "$300M net worth; $100M personal annual income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "没钱时要孤注一掷拼命干并组建顶尖团队，失败了也不要放弃而是把经验用到下一个项目；有钱后要做好多元化配置，不要只存钱，要持续投资自己的健康、大脑、事业以及股票和区块链资产。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "vUumRjZX0n8",
+  "video_type": "street_multi"
+}

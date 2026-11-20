@@ -1,0 +1,219 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I spent roughly $500,000 on learning to sell learning to Market going into masterminds I turned that into $33 million",
+          "summary_en": "Invest heavily in learning sales, marketing, and joining masterminds to multiply your financial returns.",
+          "summary_zh": "重金投资学习销售、营销与智囊团",
+          "timestamp_sec": 84,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on Value & ROI Over Cost",
+          "category": "Mindset & Resilience",
+          "quote": "rich people they worry about what they get not what it costs and when they understand what they get they understand what they stand to lose",
+          "summary_en": "Evaluate opportunities by the value and upside you stand to gain rather than focusing only on upfront cost.",
+          "summary_zh": "关注投入能换来什么价值，而非只看价格",
+          "timestamp_sec": 123,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "a strong brand is when you know exactly what you stand for exactly what you stand against",
+          "summary_en": "Build an enduring personal brand by clearly defining what you stand for and against, modeled after iconic archetypes.",
+          "summary_zh": "明确立场与反对对象，像超级英雄一样打造个人品牌",
+          "timestamp_sec": 142,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you're a business owner and you have never read the shareholder letters of Steve Jobs to his company... you are not even remotely trying hard enough to grow a business",
+          "summary_en": "Study top business leaders like Steve Jobs by reading their shareholder letters and watching their presentations.",
+          "summary_zh": "深入研读顶尖企业家的股东信与演讲，持续精进",
+          "timestamp_sec": 190,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "花费约50万美元学习销售、营销并加入高端智囊团，将其转化为3300万美元回报。",
+      "guest_name": "Dan (\"Iron Dan\")",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Steve Jobs (Shareholder Letters & Presentations)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "8-Figure Business Owner (15 years)",
+      "wealth_detail": "$13M best single year; $33M generated after $500k investment in skills/masterminds",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "any business that you have should make money three or four ways... you should have at least four verticals to your business always",
+          "summary_en": "Build a recession-proof business with at least four revenue verticals: digital products, in-person events, core services, and high-ticket mentorship.",
+          "summary_zh": "构建至少四条变现业务线，打造抗衰退模式",
+          "timestamp_sec": 251,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "if you can make $100,000 a year and you can save you know 25% of it 20% of it... it's not a dollar amount that I have to go out and generate per year it's what I do with the money",
+          "summary_en": "Wealth is determined by how you structure your finances and save 20–25% of your income, not just hitting a high income number.",
+          "summary_zh": "靠结构化储蓄与资金分配致富，非只追高收入",
+          "timestamp_sec": 298,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "my real estate portfolio where I'm investing into real estate how much Equity is growing",
+          "summary_en": "Invest consistently in a real estate portfolio to build long-term equity.",
+          "summary_zh": "将资金配置到房地产投资中积累长期净值",
+          "timestamp_sec": 310,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "the difference with the middle class and the wealthy is that they get educated on all of these different [vehicles] so that that way they can make sound decisions",
+          "summary_en": "Educate yourself on different investment, insurance, and wealth vehicles so you can allocate capital wisely.",
+          "summary_zh": "学习各类理财与资产工具知识以做出明智决策",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Marcus",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Recession-Proof Entrepreneur & Business Owner (since 2006)",
+      "wealth_detail": "$18M best single year; crossed Funnel Hacking Live stage doing over $25M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Deploy Capital Actively (Play Offense)",
+          "category": "Wealth & Investing",
+          "quote": "rich people do the opposite they take their money and they find ways they treat them like an army of soldiers... go put that Soldier out to go and make more money",
+          "summary_en": "Do not hoard cash defensively; deploy every dollar like a soldier to build businesses, invest in your brain, and multiply returns.",
+          "summary_zh": "别囤积现金，把每一块钱当士兵派出去钱生钱",
+          "timestamp_sec": 386,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "if you play your whole life on defense saving and just trying to cut costs and cut Corners you'll look back and you'll really regret how you played your life... play Big roll the dice on yourself",
+          "summary_en": "Play life on offense instead of merely cutting costs—take big swings and bet on yourself to avoid future regret.",
+          "summary_zh": "人生要打进攻战，敢于下大注并押注自己",
+          "timestamp_sec": 414,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "take every bit of time that you have every dollar that you have at a young age invest in knowledge information masterminds YouTube video online courses",
+          "summary_en": "Prioritize learning skills over chasing short-term pay when young by investing time and money in courses, videos, and masterminds so skills compound.",
+          "summary_zh": "年轻时投资知识、课程与智囊团，让技能产生复利",
+          "timestamp_sec": 470,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "look yourself in the mirror and know it's all on you it's on no one else out here so get your ass off the phone open up some books watch some courses and get your ass in the game",
+          "summary_en": "Own full responsibility for your life, put down the phone, study, and immediately get in the game.",
+          "summary_zh": "清醒认识到一切靠自己，放下手机立刻下场行动",
+          "timestamp_sec": 497,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21岁时做销售年入15万美元，主动辞职去做年薪3万美元的工作以学习技能，用21至29岁的积累在第30年单年赚到超越过去9年的收入。",
+      "guest_name": "Eddie",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Masterminds & Online Courses"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Marketing Agency Owner (Social Media Ads)",
+      "wealth_detail": "$25M/yr across all companies combined",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "年轻时不要只追逐高薪工作，把时间和金钱全部投入学习知识、课程与智囊团，承担全部责任并立刻下场行动，技能的复利会带来爆发式回报。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "when I graduated college that I didn't get the right knowledge and information that I needed so I got a mentor and I actually paid this person $55,000 for the year but this person helped me scale my business to over $5 million a year",
+          "summary_en": "Invest in high-level mentors who have already built what you want rather than relying solely on school education.",
+          "summary_zh": "付费向实战导师学习，借力将业务规模放大",
+          "timestamp_sec": 561,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "you can add trade lines which is considered authorized users to your credit profile and it'll boost up your credit profile... now I can go access to 50 to $100,000 in credit so now I can go start and grow and scale my business",
+          "summary_en": "Improve credit metrics using authorized-user tradelines to unlock $50k–$100k in business credit to start and scale a business.",
+          "summary_zh": "善用授权用户记录提升信用，撬动商业授信扩张",
+          "timestamp_sec": 587,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学毕业后意识到传统教育无法教人致富，花费5.5万美元聘请导师一年，将生意规模做到年入超500万美元。",
+      "guest_name": "AI Credit Compliance Software & Business Credit Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Paid Business Mentor ($55,000/year)"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder, AI Metro-2 Credit Software & Business Credit Educator (8 years)",
+      "wealth_detail": "$10M-$11M projected best single year; scaled past $5M/yr with mentor",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "YU_58awAISY",
+  "video_type": "street_multi"
+}

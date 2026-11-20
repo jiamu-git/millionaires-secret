@@ -1,0 +1,277 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "work hard",
+          "summary_en": "Work hard early on to build your wealth foundation.",
+          "summary_zh": "保持努力工作，夯实财富基础",
+          "timestamp_sec": 137,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Invest Conservatively & Preserve Capital",
+          "category": "Wealth & Investing",
+          "quote": "make conservative Investments a lot of people make a lot of money a lot of those people don't keep a lot of money",
+          "summary_en": "Make conservative investments because many people make money, but fail to keep it.",
+          "summary_zh": "保守稳健投资，守住赚到的财富",
+          "timestamp_sec": 137,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "长期深耕华尔街股市与金融行业，30多岁末期成为百万富翁，巅峰期单年收入达八位数美元。",
+      "guest_name": "Marina District Wall Street Finance Veteran",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Wall Street / Stock Market Finance Professional",
+      "wealth_detail": "8 figures ($10M+) in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "努力工作并做稳健保守的投资；很多人能赚到钱，但守不住钱。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "don't listen to anybody else",
+          "summary_en": "Ignore outside naysayers and trust your own conviction.",
+          "summary_zh": "屏蔽外界质疑，坚持自己的判断",
+          "timestamp_sec": 260,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "find something you love to do and do it over and over again until you find product Market fit and you have to have conviction",
+          "summary_en": "Do something you genuinely love with real conviction and iterate until you find product-market fit.",
+          "summary_zh": "热爱并坚守信念，打磨出市场契合",
+          "timestamp_sec": 260,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "you got to lose a lot of money and make money",
+          "summary_en": "Accept losing money and enduring tough payroll moments as part of entrepreneurship.",
+          "summary_zh": "接受创业中的亏损与低谷期考验",
+          "timestamp_sec": 270,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "the best way to sell something is not to sell it I think if you get too wrapped up in the outcome it's over",
+          "summary_en": "In sales and negotiation, don't get too attached to the outcome; avoid pushing too hard.",
+          "summary_zh": "销售谈判别过度执着于最终结果",
+          "timestamp_sec": 305,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "AI cuz it's the internet of today",
+          "summary_en": "Enter artificial intelligence because it represents the foundational tech wave of today.",
+          "summary_zh": "顺应时代浪潮，切入AI核心赛道",
+          "timestamp_sec": 315,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从未上过大学，连续创办七家公司并多次成功退出，如今经营AI公司Cantina，单年公司营收最高达5000万美元。",
+      "guest_name": "Cantina AI Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Founder of Cantina (Artificial Intelligence)",
+      "wealth_detail": "$50M/yr peak company revenue",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "别听信他人质疑，找到热爱的事并反复打磨直到实现产品市场契合；谈判销售别太执着结果，当前应切入AI赛道。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "you have to be comfortable with the risk of things going to zero and five of them are going to pay off 100 fold",
+          "summary_en": "Be comfortable with most bets going to zero in venture capital, knowing a few winners will pay off 100x.",
+          "summary_zh": "理解风投幂律，敢于承担归零风险",
+          "timestamp_sec": 419,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "started saving my money I got good jobs I moved around yeah so I just hustled",
+          "summary_en": "Save money early, land good jobs, stay mobile for opportunity, and hustle relentlessly.",
+          "summary_zh": "早期坚持储蓄并全力拼搏积累",
+          "timestamp_sec": 432,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "the more hands you shake the more money you make",
+          "summary_en": "Don't stay isolated working from home; get out and network because more connections create more wealth.",
+          "summary_zh": "走出家门多社交，人脉决定财路",
+          "timestamp_sec": 444,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "they can't scale because they won't hire a players and they won't hire good people around them and they won't delegate",
+          "summary_en": "Scale by hiring A-players who can do the job better than you and delegating real responsibility.",
+          "summary_zh": "招募A级人才并充分放权才能扩张",
+          "timestamp_sec": 484,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to be a sponge absorb information",
+          "summary_en": "Act like a sponge and constantly absorb information and learn.",
+          "summary_zh": "像海绵一样不断吸收新信息学习",
+          "timestamp_sec": 517,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "don't worry about making mistakes everybody worries about making mistakes",
+          "summary_en": "Stop letting the fear of making mistakes hold you back.",
+          "summary_zh": "别害怕犯错，放下顾虑勇敢试错",
+          "timestamp_sec": 517,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "28岁通过储蓄、换取优质工作与拼搏成为百万富翁；后自筹资金创办RxList并在三年半后以33倍回报卖给WebMD，又推动Medable估值升至21亿美元。",
+      "guest_name": "RxList & Medable Venture Capitalist",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Venture Capitalist & Founder of RxList / Medable",
+      "wealth_detail": "Millionaire at 28; sold RxList (33x); Medable at $2.1B valuation (close to billionaire)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "早年多储蓄并抓住好工作机会，多出门社交握手积累人脉；创业后聘请比自己更强的A级人才并学会放权，像海绵一样学习且不怕犯错。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "it's on the buy not the sell actually yeah you always want to make the best deal on the buy otherwise the exit's easy",
+          "summary_en": "Make your money when you buy real estate rather than relying on the sell, so the exit is easy.",
+          "summary_zh": "地产投资赚在买入，低买才好退出",
+          "timestamp_sec": 633,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "make sure you're negotiating with the other principal don't let anybody get in the middle of your deal",
+          "summary_en": "Negotiate directly with the principal buyer or seller without letting middlemen get in the way.",
+          "summary_zh": "直接与核心决策者谈判，剔除中介",
+          "timestamp_sec": 678,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "just keep your head down and you just got to keep plowing through it",
+          "summary_en": "During market downturns, keep your head down, work hard, and plow through adversity.",
+          "summary_zh": "遭遇低谷时沉住气低头苦干熬过去",
+          "timestamp_sec": 689,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Buy During Forced Selling & Low Prices",
+          "category": "Wealth & Investing",
+          "quote": "when people are selling that's the time to buy",
+          "summary_en": "Buy real estate when people need to get out and heavy selling drives prices to their lowest.",
+          "summary_zh": "在市场抛售潮价格最低时果断买入",
+          "timestamp_sec": 710,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "that's the only way to buy real estate is leveraging... you cannot over leverage",
+          "summary_en": "Use debt leverage to acquire real estate, but never over-leverage yourself.",
+          "summary_zh": "买地产须用杠杆但切忌过度负债",
+          "timestamp_sec": 721,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "keep myself healthy that's really key is to be healthy and stay healthy don't spend your time partying",
+          "summary_en": "Prioritize staying healthy, skip endless partying, and stay disciplined and focused on business.",
+          "summary_zh": "保持身体健康自律，戒掉无效派对",
+          "timestamp_sec": 747,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "keep your head down work hard and have faith in God",
+          "summary_en": "Stay humble, work hard, and maintain strong faith in God.",
+          "summary_zh": "保持信仰与敬畏，沉下心努力工作",
+          "timestamp_sec": 759,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "专注于商业地产（公寓、办公楼与零售物业），38岁成为百万富翁，名下拥有约10万平方英尺地产，个人峰值年收入50万美元、公司年营收约100万美元。",
+      "guest_name": "Financial District Commercial Real Estate Investor",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Commercial Real Estate Owner & Investor",
+      "wealth_detail": "Millionaire at 38; $500k/yr personal income, $1M/yr business revenue; owns ~100,000 sq ft",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "地产赚钱在买入环节，趁他人急售低价时买进并直接与对方本人谈判；善用杠杆但勿过度负债，低谷期保持健康自律、低头苦干与信仰。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "G_GZbtj0uP8",
+  "video_type": "street_multi"
+}

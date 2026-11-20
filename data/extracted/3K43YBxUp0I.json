@@ -1,0 +1,139 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't get so caught up that you forget the fact that you've got health and your family's got health.",
+          "summary_en": "Don't get so caught up pursuing business and money that you neglect your health and family.",
+          "summary_zh": "别为逐利忽视健康与家人",
+          "timestamp_sec": 203,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "If I could learn how to build institutions and understand operations I can build entities that last a lot longer than I can last.",
+          "summary_en": "Learn operations and build enduring institutions to solve real problems beyond what one person can accomplish alone.",
+          "summary_zh": "建立持久机构规模化解决真实痛点",
+          "timestamp_sec": 282,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "To scale is going to be understanding how to standardize what you do, how to train people what you do, and how to select the right people.",
+          "summary_en": "Scale a business by writing standard operating procedures, selecting the right people, training them, and inspiring managers.",
+          "summary_zh": "标准化流程并选育人才实现规模化",
+          "timestamp_sec": 436,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you do it carrying the flag of the people around you... when you fall down and you look up and you see the flag you're carrying, then you'll always get back up.",
+          "summary_en": "Anchor your efforts to a greater purpose—your family and community—so you always have the resolve to get back up when you fall.",
+          "summary_zh": "心怀更大使命方能在挫折后站起",
+          "timestamp_sec": 488,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "You got to keep account how much goes to taxes and how much you're going to reinvest for growth... so it's not like I want to spend it right away.",
+          "summary_en": "Account for taxes and reinvest profits back into business growth rather than spending peak-year earnings right away.",
+          "summary_zh": "预留税款并将利润再投入企业增长",
+          "timestamp_sec": 558,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "The best financial decision I made was to save a lot and take the risk, but of course you got to calculate your risk and you got to have your backup plan.",
+          "summary_en": "Save aggressively, calculate risk with a backup plan, and don't fear loss or poverty when investing in your first business.",
+          "summary_zh": "攒足本金并克服恐惧去承担可控风险",
+          "timestamp_sec": 610,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Practice Extreme Accountability & Self-Reflection",
+          "category": "Mindset & Resilience",
+          "quote": "Always holding yourself accountable is the key to growth, because if you always think that you didn't do anything wrong... you're never going to get any better.",
+          "summary_en": "Never point fingers when things go wrong; hold yourself accountable for what you missed and how to improve next time.",
+          "summary_zh": "停止推卸责任并用自我问责驱动成长",
+          "timestamp_sec": 707,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "They'll still screw it up because they'll get greedy, they'll get emotional, they won't do what they say, or they'll sit on their butts instead of doing the next step.",
+          "summary_en": "Build self-control, meet deadlines, and execute consistently—without discipline and character, even $1M in funding won't prevent failure.",
+          "summary_zh": "先修克制与执行力才能驾驭财富",
+          "timestamp_sec": 770,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "You got to be honest, you got to treat everybody fairly and people got to know that hey if he talks we should listen.",
+          "summary_en": "Be honest, treat everyone fairly, and build credibility so people trust and listen when you speak.",
+          "summary_zh": "做人诚实守信并公平对待每个人",
+          "timestamp_sec": 906,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Tribalism & Think Constructively",
+          "category": "Mindset & Resilience",
+          "quote": "We keep falling for these emotional decisions and we keep fighting each other... how do we become more constructive and actually find it in our nature to work together.",
+          "summary_en": "Avoid falling for divisive narratives and emotional tribalism; seek to understand opposing views and collaborate constructively.",
+          "summary_zh": "警惕情绪叙事操纵学会求同存异",
+          "timestamp_sec": 984,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Do good in everything you do and then money will hopefully become a byproduct... always protecting the most important thing which is who you are as a person.",
+          "summary_en": "Do good for others and protect your character so that money remains a byproduct and never changes who you are.",
+          "summary_zh": "行善积德且不被金钱改变本心",
+          "timestamp_sec": 1083,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在东非医疗援助期间，意识到单靠一名医生只能解决表面问题，于是回国学习运营并依靠行医攒下的积蓄创办第一家急诊中心，随后拓展至医生团队、房地产开发及豪华汽车租赁等七家以上企业。",
+      "guest_name": "Abdulla Kudrath",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "His father (primary mentor)",
+        "T. Boone Pickens (book)",
+        "Benjamin Franklin (historical role model)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Emergency Room Doctor & Serial Entrepreneur",
+      "wealth_detail": "Built multiple eight-figure businesses; most made in a single year: \"a couple million in a year\"",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先努力攒钱作为启动本金，做好风险测算与备用方案，克服对亏损和贫穷的恐惧勇敢创业；同时先打磨自律、守信和执行力等品格，才能真正接住并守住财富。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "3K43YBxUp0I",
+  "video_type": "deep_dive_single"
+}

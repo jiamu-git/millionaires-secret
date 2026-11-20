@@ -1,0 +1,264 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Never get money advice from somebody that makes less money than you, never get business advice from somebody who's got a smaller business than you.",
+          "summary_en": "Only take financial and business advice from people who have achieved greater results than you.",
+          "summary_zh": "只向比自己更富有、生意更大的人请教",
+          "timestamp_sec": 125,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Every industry is competitive and I actually salivate at the mouth when I find out an industry is competitive because it means there's a lot of people in it.",
+          "summary_en": "Seek out competitive markets because high competition proves strong customer demand and opportunity.",
+          "summary_zh": "拥抱竞争激烈的赛道，人多代表市场大",
+          "timestamp_sec": 168,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you're willing to grind like a gorilla in the markets that are competitive you're always going to win.",
+          "summary_en": "Outwork complacent competitors relentlessly to dominate any competitive industry.",
+          "summary_zh": "在竞争市场里拼命苦干就能击败懈怠者",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创业约28年，9年前银行账户一度只剩78美元，通过专注学习销售与授权管理，在全美医疗睡眠检测行业击败大型老牌竞争对手并做到行业第一。",
+      "guest_name": "Tampa Medical Sleep Testing Company Owner",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Owner of Largest Medical Sleep Testing Company in the US",
+      "wealth_detail": "Multiple 8 figures peak single-year income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "只向结果比你更好的人请教钱和生意；不要害怕竞争激烈的市场，在多数人松懈时保持狠劲就能赢。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Assume the close... if you're trying to close somebody make that person laugh cuz nobody's going to say no to someone that they like.",
+          "summary_en": "Assume the sale from the start and build likability through humor so prospects want to say yes.",
+          "summary_zh": "预设成交并逗笑客户，让人喜欢你就难拒绝",
+          "timestamp_sec": 277,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Protect Business With Proper Insurance",
+          "category": "Business & Strategy",
+          "quote": "I was sued by a couple billion dollar corporations... I had great business insurance to cover a lot of it, so make sure you got business insurance.",
+          "summary_en": "Carry strong business insurance to protect your company against major lawsuits.",
+          "summary_zh": "务必买好商业保险以抵御巨额诉讼风险",
+          "timestamp_sec": 313,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Build Resilience for Constant Problem-Solving",
+          "category": "Mindset & Resilience",
+          "quote": "This is not for the weak-hearted... your job is to constantly fix problems so if you can't handle that stress and all those trials and tribulations then don't do it.",
+          "summary_en": "Entrepreneurship requires constant problem-solving under pressure; do not start if you cannot handle the stress.",
+          "summary_zh": "创业就是不断解决问题，抗压差就别入局",
+          "timestamp_sec": 324,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Figure it the out... work like a son of a, this shit's not going to be given.",
+          "summary_en": "Nothing is handed to you; figure things out independently and outwork everyone with high ambition and confidence.",
+          "summary_zh": "没人会白给你机会，靠狠劲与野心自己破局",
+          "timestamp_sec": 346,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Reinvest the money, it's not rocket science... I just had a very high level of ambition in myself and confidence in myself and work ethic in myself.",
+          "summary_en": "Reinvest your profits back into the business rather than taking everything out early.",
+          "summary_zh": "把赚到的利润持续再投资到事业中滚大",
+          "timestamp_sec": 356,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创业10至11年，经营加密数字资产对冲基金并涉足多家企业，曾遭数家十亿美元级公司起诉但凭借商业保险与坚持胜诉，峰值年收入达450万美元。",
+      "guest_name": "Tampa Digital Assets Hedge Fund Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder of a Digital Assets Hedge Fund",
+      "wealth_detail": "$4.5M peak single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "别等别人施舍，靠超强野心、自信与拼劲自己摸索并把钱投回生意；同时配置好商业保险，做好承受高压的准备。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Believe in yourself cuz I doubted myself a lot before I actually took that big leap into working on my own.",
+          "summary_en": "Overcome self-doubt and believe in your ability before making the leap into entrepreneurship.",
+          "summary_zh": "克服自我怀疑，相信自己才能迈出单干第一步",
+          "timestamp_sec": 433,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "You got to try something, you got to try, you don't know if you don't try.",
+          "summary_en": "Take action and test your ideas instead of staying paralyzed by uncertainty.",
+          "summary_zh": "必须去尝试，不迈出行动永远不知道结果",
+          "timestamp_sec": 444,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose the Right Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "It's one of the most important things cuz if you marry the wrong person it take you in the opposite direction of what you're trying to go.",
+          "summary_en": "Marrying the right partner propels your growth, whereas the wrong spouse pulls you away from your goals.",
+          "summary_zh": "选对伴侣至关重要，错的人会拖垮你的方向",
+          "timestamp_sec": 453,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Faith has been like my number one go-to, that has been kind of like my backbone that I rely on to get through day to day.",
+          "summary_en": "Lean on faith as a daily backbone to stay grounded and persevere through challenges.",
+          "summary_zh": "把信仰作为日常支柱，支撑自己渡过难关",
+          "timestamp_sec": 470,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Don't overextend yourself and make sure the money is working for you not against you.",
+          "summary_en": "Avoid overleveraging yourself and deploy capital so your money compounds in your favor.",
+          "summary_zh": "别过度透支负债，要让钱为你工作而非反噬",
+          "timestamp_sec": 480,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "2019年起自主创业，此前曾多次落魄破产，在丈夫的支持下克服自我怀疑并大胆尝试，如今单年最高收入达250万美元。",
+      "guest_name": "Tampa Female Rolls-Royce Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Business Owner / Entrepreneur",
+      "wealth_detail": "$2.5M peak single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "相信自己并勇于尝试，选一个能支持你前进的伴侣，保持信仰并避免过度负债。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Before I made any real money I was making the copies and making the coffee for people and I just ended up being a really good copy maker and coffee maker.",
+          "summary_en": "Excel at humble entry-level tasks while learning the business before launching your own practice.",
+          "summary_zh": "入行先从端茶复印等小事做起做到极致",
+          "timestamp_sec": 511,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I pulled up to a Labor Ready at 3:30 a.m. and worked on the docks to fill up oil barrels with a college degree. I'm not afraid to work, I can live a Spartan life.",
+          "summary_en": "Drop ego, do whatever hard labor is required, and live frugally until you build momentum.",
+          "summary_zh": "放下身段不怕苦力，必要时过斯巴达式简朴生活",
+          "timestamp_sec": 551,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Move in Silence & Stay Calm Under Pressure",
+          "category": "Mindset & Resilience",
+          "quote": "Never let them see you sweat, remain calm, remain in control... I moved in silence because if I told them I'm going to change my life they would have started hating.",
+          "summary_en": "Stay composed under pressure and keep your plans private to avoid envy and distractions from others.",
+          "summary_zh": "保持冷静掌控局面，成名前保持低调避免嫉妒",
+          "timestamp_sec": 574,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Humble & Don't Believe Your Own Hype",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't believe your own propaganda. If you start to believe your own hype that you're manufacturing you're going to start making careless decisions and you'll become a tyrant.",
+          "summary_en": "Never buy into your own manufactured hype, as ego leads to reckless decisions and bad leadership.",
+          "summary_zh": "别轻信自己制造的吹捧，膨胀会让人做出蠢决定",
+          "timestamp_sec": 632,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be able to walk away. Everybody's looking for a deal, not me. You get what you pay for, so the first person to speak loses. I present my value... be willing to walk away.",
+          "summary_en": "Demonstrate clear value and case studies, never compete on cheap pricing, and be willing to walk away from bad deals.",
+          "summary_zh": "展示自身价值与案例，谈判中敢于直接转身离开",
+          "timestamp_sec": 645,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Faith is super important... in order to follow me you have to have the fear of God and model ourselves after Jesus Christ.",
+          "summary_en": "Ground your character and life decisions in deep religious faith and reverence.",
+          "summary_zh": "以深厚的宗教信仰与敬畏心塑造自身品格",
+          "timestamp_sec": 760,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身布鲁克林，早年靠卖仿版球鞋和球衣攒钱离开纽约；有大学学历仍凌晨3点半去码头做苦力，入行从复印和端咖啡做起，深耕15年在35岁赚到第一个100万美元，峰值年入140万美元。",
+      "guest_name": "Caesar (Tampa Lobbyist & Publicist)",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Lobbyist, Publicist & Consulting Practice Owner",
+      "wealth_detail": "$1.4M peak single-year income; first million at age 35",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不怕做底层脏活累活并能过极简生活；在暗处蓄力不要对外炫耀野心，保持冷静与谦逊，谈判中坚守自身价值并敢于拒绝低价单。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "n7FLA5IZkWA",
+  "video_type": "street_multi"
+}

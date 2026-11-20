@@ -1,0 +1,249 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Continuous Evolution & Adaptability",
+          "category": "Mindset & Resilience",
+          "quote": "you always need to be evolving. I think a lot of people find one thing they like and then they just try to stick with that one thing.",
+          "summary_en": "Always evolve and adapt rather than sticking to just one approach.",
+          "summary_zh": "永远保持进化和变化，不要固守单一打法",
+          "timestamp_sec": 107,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "That's just my faith. My faith with God, being rooted in that... Just come with an honest heart.",
+          "summary_en": "Stay rooted in faith and approach God humbly with an honest heart.",
+          "summary_zh": "保持对神的信仰与谦卑真诚的内心",
+          "timestamp_sec": 128,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Taxes will destroy you. You have to pay attention to that... put that mental into the tax game.",
+          "summary_en": "Pay close attention to taxes and plan ahead so the IRS does not destroy your finances.",
+          "summary_zh": "高度重视税务规划，避免被高额税负摧毁",
+          "timestamp_sec": 192,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Nobody's coming to save you... It's your job to put in the work, put in the time, put in the effort",
+          "summary_en": "Nobody is coming to save or discover you; put in the daily work and effort yourself.",
+          "summary_zh": "没人会来拯救或发掘你，必须自己每天努力",
+          "timestamp_sec": 232,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "whatever video got you the most, tweak that a little bit. Boom. Put another one out there... just hammer it till you get the views.",
+          "summary_en": "Iterate slightly on your best-performing video, post consistently, ignore comments early, and treat it as a business.",
+          "summary_zh": "微调爆款视频高频发布，无视评论当生意做",
+          "timestamp_sec": 296,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Treat your body like a temple. Don't let everybody as you're growing up tell you this is cool... keep your mind straight.",
+          "summary_en": "Treat your body like a temple, resist peer pressure, and keep your mind straight.",
+          "summary_zh": "像圣殿一样爱惜身体，保持头脑清醒自律",
+          "timestamp_sec": 367,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "7岁开始练拳，出身底层家庭，全家倾尽所有支持他追梦，最终成为世界级拳王并单年收入达3500万美元。",
+      "guest_name": "Ryan Garcia",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "Jesus Christ"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Professional Boxer",
+      "wealth_detail": "$35M single-year income; paid $35M in career taxes",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "没有人会来拯救或发掘你，必须自己每天投入训练并打磨心态；做个人品牌可以从表现最好的视频微调起步、高频输出、无视质疑。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I always pictured myself in the end state... you start walking like a millionaire, talking like a millionaire, conducting your life like a millionaire.",
+          "summary_en": "Picture yourself in the end state, drop mental excuses, and conduct yourself like a millionaire early.",
+          "summary_zh": "具象化终局目标，消除借口像富人一样行事",
+          "timestamp_sec": 491,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Don't fit in, fit out... If everyone's just working out 2 hours a day, do 3 hours. Go outside the box. Put that extra effort in cuz it's going to pay off.",
+          "summary_en": "Don't fit in, fit out—put in extra hours and effort beyond what everyone else is doing.",
+          "summary_zh": "不要合群而要出众，比别人多付出一小时努力",
+          "timestamp_sec": 647,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I'm investing a lot in robotics, drones, energy, data infrastructure, the infrastructure layer, not the end product.",
+          "summary_en": "Invest in foundational infrastructure layers like robotics, drones, energy, and data rather than only end products.",
+          "summary_zh": "投资机器人能源数据等底层基建而非终端产品",
+          "timestamp_sec": 562,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Leveraging your NIL to put yourself in these rooms. And when you educate yourself and understand the business, then you come with a double edge",
+          "summary_en": "Leverage your personal brand and status to enter deal rooms while educating yourself on business fundamentals.",
+          "summary_zh": "利用个人影响力进入核心圈层并学习商业知识",
+          "timestamp_sec": 572,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "No shortcuts. What you put in, what you get out, right?... Never have shortcuts. They have a shortcuts. That's where there's room for failure",
+          "summary_en": "Never take shortcuts; what you put in is what you get out, and shortcuts invite failure.",
+          "summary_zh": "永远不要走捷径，投机取巧只会带来失败",
+          "timestamp_sec": 622,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "my mom always told me who God has blessed, no man can curse... God's in it's in all of us.",
+          "summary_en": "Stay grounded in faith in God to overcome self-doubt and difficult origins.",
+          "summary_zh": "坚定对神的信仰，心怀信念走出低谷",
+          "timestamp_sec": 630,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身多伦多政府廉租房，16岁独自赴美读预科顶住质疑成为全美第一高中生，19岁进入NBA赚取超1亿美元并让父母退休。",
+      "guest_name": "Tristan Thompson",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Mother",
+        "Elon Musk (as NIL/brand model)"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "NBA Champion & Tech/Infrastructure Investor",
+      "wealth_detail": "$100M+ NBA career earnings; compounded 2x-3x through business & investments",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先在心理上把目标终局具象化并像成功人士一样自律行事；比所有人多投入一份努力，绝不走捷径。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I wasn't classically trained and never went to film school... I had to kind of outwork everybody, but had a lot of real life experience that I could draw on",
+          "summary_en": "Compensate for lacking formal training by outworking everyone and leveraging real-life experience.",
+          "summary_zh": "没有背景就靠拼命工作和真实阅历胜出",
+          "timestamp_sec": 827,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Partner With Experts & Have Skin in the Game",
+          "category": "Business & Strategy",
+          "quote": "I had to be in the restaurant business with serious adults in that space... we have skin in the game in every business... We cut checks. And when you're cutting checks, you're making sure that you're watching everything.",
+          "summary_en": "Partner with seasoned operators in new industries, put your own capital at risk, and stay closely involved.",
+          "summary_zh": "与业内资深人士合伙并亲自出资紧盯生意",
+          "timestamp_sec": 845,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I wake up every morning with such gratitude, a heart full of gratitude, and I'm ready to just go and attack the day.",
+          "summary_en": "Wake up with gratitude and faith, stay hungry, and aim to leave a positive legacy.",
+          "summary_zh": "心怀感恩与信仰迎接每天，力求留下传承",
+          "timestamp_sec": 883,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "you can't live with the regrets... Anything that I didn't kind of execute the way I wanted to, you know, I've learned from it, moved on",
+          "summary_en": "Do not live with regrets; learn from mistakes, move forward, and execute better next time.",
+          "summary_zh": "别沉溺遗憾，从失误中学习并继续前行",
+          "timestamp_sec": 985,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "family is more important than anything. It's like, what good are you if you're successful in business and fail as a father or husband? What's it all for?",
+          "summary_en": "Maintain balance and put family first; business success is hollow if you fail as a spouse or parent.",
+          "summary_zh": "家庭比事业更重要，别为赚钱忽视家人平衡",
+          "timestamp_sec": 1003,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Purpose & Impact Over Money",
+          "category": "Mindset & Resilience",
+          "quote": "Find something that's going to make you happy in life that you can do. It's not about the money... Find something that you can be proud of and that you can share that's going to enhance people's lives.",
+          "summary_en": "Pursue meaningful work you are proud of that enhances people's lives rather than chasing money alone.",
+          "summary_zh": "追求热爱的事业，创造价值而非只为赚钱",
+          "timestamp_sec": 1053,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒、九个孩子中最小，毫无科班背景，先在音乐界短暂成名后靠现实生活阅历争取试镜机会，再将好莱坞片酬投入餐饮、汽车等实体生意。",
+      "guest_name": "Mark Wahlberg",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Jesus Christ / Faith",
+        "Seasoned industry partners"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Actor, Producer & Multi-Business Owner",
+      "wealth_detail": "Estimated hundreds of millions (host-stated); owns ~6 businesses",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "用加倍努力弥补专业背景不足，把真实生活阅历转化为独特优势；做生意要与业内资深行家合作并亲自出资紧盯全局。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "R0d1S_WnD3o",
+  "video_type": "street_multi"
+}

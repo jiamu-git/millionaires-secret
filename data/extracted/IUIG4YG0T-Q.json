@@ -1,0 +1,286 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "My first collection I did with $500 and then I was able to write some orders, I had a decent amount of margin, I was able to reinvest in the business.",
+          "summary_en": "Start lean with minimal capital and reinvest healthy margins back into growth.",
+          "summary_zh": "小额启动并把利润持续再投入",
+          "timestamp_sec": 87,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Keep your head down, build a profitable business, not just a business that looks good top line. You got to have EBITDA, baby.",
+          "summary_en": "Focus on building actual profitability and EBITDA rather than vanity top-line revenue.",
+          "summary_zh": "重视盈利能力与EBITDA而非虚胖营收",
+          "timestamp_sec": 121,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Don't be intimidated by the men in suits... I had to have that confidence within myself to know I know what I'm talking about.",
+          "summary_en": "Have unshakeable self-confidence and refuse to be intimidated in any room.",
+          "summary_zh": "保持自信不被西装大佬气场吓倒",
+          "timestamp_sec": 153,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Don't go to any negotiation or any contract negotiation without doing your homework. Know exactly who is going to be sitting in that room.",
+          "summary_en": "Listen closely and research the other party thoroughly so you can surprise them in negotiations.",
+          "summary_zh": "谈判前做足背调以信息差出奇制胜",
+          "timestamp_sec": 190,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "用500美元启动首个饰品系列，靠订单利润再投资与信用卡负债苦撑10年自力更生，直到门店大排长龙后风投和私募才主动找上门。",
+      "guest_name": "Kendra Scott",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Her mentor (\"If you build it, they will come\")",
+        "Her father (\"Don't be intimidated by the men in suits\")"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder of Kendra Scott (Jewelry & Accessories Brand)",
+      "wealth_detail": "Founded $1B+ brand (started with $500)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Put Ego Aside",
+          "category": "Mindset & Resilience",
+          "quote": "Everything that you want is on the other side of your ego. You got to get your ego out of the way.",
+          "summary_en": "Remove your ego so it does not block your growth and success.",
+          "summary_zh": "放下自我与傲慢才能达成目标",
+          "timestamp_sec": 285,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "There's a hustle and a grind that's absolutely necessary that most people are not willing to put the effort into.",
+          "summary_en": "Recognize that entrepreneurship demands relentless hustle and grind most people will not endure.",
+          "summary_zh": "创业需要常人难以承受的拼搏与磨砺",
+          "timestamp_sec": 294,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I have a system and process that gives me all data... I have people that I empower and then they run the same system across every single company.",
+          "summary_en": "Build replicable data-driven systems and empower people to run them across multiple businesses.",
+          "summary_zh": "用可复制的系统和授权团队批量扩张",
+          "timestamp_sec": 314,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Right now, AI and tech... because it has the greatest opportunity for scale. Everyone knows they need it.",
+          "summary_en": "Target AI and technology for the greatest scalability and market demand.",
+          "summary_zh": "选对AI与科技赛道获取最大规模红利",
+          "timestamp_sec": 333,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身并不富裕，靠白手起家进入私募股权行业，2019年单年以12.7亿美元出售76家公司，现同时运营86家公司。",
+      "guest_name": "Houston Private Equity Founder (86 Companies)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Ego Is the Enemy by Ryan Holiday"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Private Equity Founder & Operator (86 Companies)",
+      "wealth_detail": "Sold 76 companies for $1.27B in 2019",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I wanted to go in an industry that had a lot of white space where there was not a lot of competitors... the consolidation opportunity was really clear.",
+          "summary_en": "Pick industries with white space, low competition, low regulation, and clear consolidation potential.",
+          "summary_zh": "选择竞争少且有整合空间的空白市场",
+          "timestamp_sec": 444,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Stay Balanced Through Highs & Lows",
+          "category": "Mindset & Resilience",
+          "quote": "Understanding that you're going to have good times and bad times, you got to find the middle and be comfortable with it.",
+          "summary_en": "Stay emotionally centered through business highs and lows rather than riding extremes.",
+          "summary_zh": "在巅峰与低谷间保持平和稳定的心态",
+          "timestamp_sec": 475,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Hire people that are wicked smart that make you look stupid, because you're going to end up being the smartest person in the room for hiring them.",
+          "summary_en": "Hire people smarter than you who are willing to challenge you and tell you when you are wrong.",
+          "summary_zh": "雇用比自己更聪明且敢于说不的人才",
+          "timestamp_sec": 491,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Wanting to be flashier than they should, thinking that perception of what they look like is more important than who they are.",
+          "summary_en": "Avoid flashy status spending and prioritize real substance over outward perception.",
+          "summary_zh": "别为虚荣炫富买单而应注重内在实力",
+          "timestamp_sec": 520,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Prove to them by having the right information, doing the right research, outworking them every single day, and never be entitled to anything... show up first and you leave last.",
+          "summary_en": "Overcome age barriers by doing the homework, dropping entitlement, and outworking everyone daily.",
+          "summary_zh": "年轻人靠充分调研和最拼努力赢得席位",
+          "timestamp_sec": 581,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20年前看中竞争少、监管少且具备整合空间的房车（RV）行业，从零做到如今70亿美元规模、单年最高盈利9.8亿美元。",
+      "guest_name": "Marcus Lemonis",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Entrepreneur & Investor (\"The Profit\", $7B RV Business)",
+      "wealth_detail": "$7B business; $980M max annual company profit",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要让年龄成为障碍，靠充分准备与调研、戒掉理所当然的心态、最早到最晚走地拼命工作来赢得一席之地。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Control Money, Don't Let It Control You",
+          "category": "Wealth & Investing",
+          "quote": "Money's a great slave, but a horrible master.",
+          "summary_en": "Use money as a tool under your control rather than becoming controlled by it.",
+          "summary_zh": "让金钱做你的好仆人而非坏主人",
+          "timestamp_sec": 631,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Timing Over Being Too Early",
+          "category": "Business & Strategy",
+          "quote": "Pioneers get slaughtered and settlers prosper... you could be too early on something and nobody gets it... take my time, let me settle, let me figure it out.",
+          "summary_en": "Avoid being so early that the market rejects you; move deliberately and let things mature.",
+          "summary_zh": "别盲目做过早的先驱而要稳健落地",
+          "timestamp_sec": 633,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Daymond John",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Fashion Entrepreneur & Business Owner (40 Years)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "If a bird lands on the branch, does the bird trust the branch or does it trust its wings?... Trust your wings.",
+          "summary_en": "Trust your own capabilities rather than relying on external safety nets.",
+          "summary_zh": "相信自身羽翼而非依赖外在树枝",
+          "timestamp_sec": 692,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Maintain Deliberate Clarity",
+          "category": "Business & Strategy",
+          "quote": "Deliberate clarity. You can't manage a secret.",
+          "summary_en": "Operate with deliberate clarity across your business because hidden issues cannot be managed.",
+          "summary_zh": "保持刻意清晰才能有效管理业务",
+          "timestamp_sec": 725,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Set & Enforce Non-Negotiable Standards",
+          "category": "Business & Strategy",
+          "quote": "Start with a standard. What you accept, you can't change... you got to play to the standard.",
+          "summary_en": "Set a clear standard from the start because whatever you tolerate becomes permanent.",
+          "summary_zh": "从一开始就立下不可妥协的高标准",
+          "timestamp_sec": 736,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to know your worth, know your value, you can't give freebies... if you pay me this $5,000, I'll make you $5 million.",
+          "summary_en": "Know your worth, stop giving away freebies, and frame your price as clear ROI for clients.",
+          "summary_zh": "拒绝免费赠送并向客户讲清投资回报",
+          "timestamp_sec": 761,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "5年前独立创业创办LinkedXL，通过咨询与软件业务，个人单年最高收入达100万至300万美元。",
+      "guest_name": "Billy Ray Taylor",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "His mother (\"Start with a standard; what you accept, you can't change\")"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "CEO of LinkedXL & Author of \"The Winning Link\"",
+      "wealth_detail": "$1M-$3M personal income in best single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "像鸟一样相信自己的翅膀而非树枝，坚守标准并清晰展现自己的价值回报。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "IUIG4YG0T-Q",
+  "video_type": "street_multi"
+}

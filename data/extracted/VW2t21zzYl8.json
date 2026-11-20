@@ -1,0 +1,372 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Reading. ... Well, of course, the Bible first and then seven habits.",
+          "summary_en": "Make continuous reading a priority, starting with foundational books like The Bible and The 7 Habits of Highly Effective People.",
+          "summary_zh": "坚持阅读经典书籍以提升认知",
+          "timestamp_sec": 114,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "That's the cornerstone. Five Fs. Faith, family, friends, fitness, and finances.",
+          "summary_en": "Anchor your life on faith as the cornerstone alongside family, friends, fitness, and finances.",
+          "summary_zh": "以信仰为基石平衡人生五大支柱",
+          "timestamp_sec": 128,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Understand Companies Before Investing",
+          "category": "Wealth & Investing",
+          "quote": "Just learning a company, understanding a company, and investing in that business, public or private.",
+          "summary_en": "Thoroughly study and understand how a business works before investing in it, whether public or private.",
+          "summary_zh": "投资前深入研究并理解公司业务",
+          "timestamp_sec": 146,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Buckhead Investments Executive",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "The 7 Habits of Highly Effective People by Stephen Covey"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Investor (Public & Private Companies)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "坚持阅读（如《圣经》与《高效能人士的七个习惯》），以信仰为基石平衡生活与财务，并在投资前深入研究和理解公司。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Do what you love. And I think you got to find the right thing because if you chase the wrong thing, it's not going to work for you.",
+          "summary_en": "Pursue work you genuinely love and find the right vehicle that aligns passion with profitability.",
+          "summary_zh": "选择热爱且能盈利的正确赛道",
+          "timestamp_sec": 246,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You got to work every day and make sure you pay attention to what's going on.",
+          "summary_en": "Scale multi-location businesses by showing up daily and staying closely attentive to operations.",
+          "summary_zh": "每天坚持工作并紧盯业务运营细节",
+          "timestamp_sec": 264,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Make sure you make ends meet. Make sure that you cash flow and make sure that you stay productive.",
+          "summary_en": "Keep finances tight by ensuring positive cash flow, covering expenses, and remaining productive.",
+          "summary_zh": "确保正向现金流并维持高产出",
+          "timestamp_sec": 279,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身工薪阶层，22岁成为华夫饼屋（Waffle House）加盟商并发展到14家门店，随后家族涉足酒店业并进一步拓展至家居行业。",
+      "guest_name": "Atlanta Waffle House Franchisee & Hotel Owner",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Waffle House Franchisee (14 Locations), Hotel & Home Furnishings Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "找到自己热爱且能赚钱的正确事业，每天亲力亲为并关注运营细节，确保收支平衡与正向现金流。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Take Care of Your Employees",
+          "category": "Business & Strategy",
+          "quote": "Take care of your employees.",
+          "summary_en": "Prioritize taking good care of your employees as the foundation of running a successful business.",
+          "summary_zh": "经营企业最重要的是善待员工",
+          "timestamp_sec": 389,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose the Right Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "The number one thing, period. I couldn't have done nothing without it.",
+          "summary_en": "Choosing the right spouse is the single most important decision for long-term success.",
+          "summary_zh": "选对人生伴侣是成功的头等大事",
+          "timestamp_sec": 400,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be sellable.",
+          "summary_en": "In sales and negotiation, focus on making yourself genuinely likable, credible, and sellable.",
+          "summary_zh": "让自己成为值得信赖和认可的人",
+          "timestamp_sec": 433,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "God.",
+          "summary_en": "Place God and spiritual faith at the center as your ultimate guiding principle in life.",
+          "summary_zh": "将对神的信仰作为人生最高准则",
+          "timestamp_sec": 471,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "并非出身富裕家庭，因不想替人打工决心自主创业；在佛罗里达经人引荐进入教育行业，与妻子共同经营两所大型私立学前班，单年营收/收入接近200万美元。",
+      "guest_name": "Sean (Atlanta Preschool Owner)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Private Preschool Owner (2 Large Locations)",
+      "wealth_detail": "Close to $2M in a single year from preschools",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "善待员工、选对人生伴侣并坚守信仰，同时在商业往来中让自己具备被他人信赖的魅力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Prison doesn't really help you become better. You got to take it upon yourself to be better. Keep going.",
+          "summary_en": "Take full responsibility for self-improvement regardless of harsh circumstances and refuse to quit.",
+          "summary_zh": "主动自我提升并在逆境中坚持不懈",
+          "timestamp_sec": 632,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Invest in the best companies in America. Right now, we investing in Nvidia. We investing in Google. We're investing in Palunteer.",
+          "summary_en": "Consistently put capital to work in leading American companies driving the future rather than sitting on the sidelines.",
+          "summary_zh": "持续投资美国顶尖科技龙头企业",
+          "timestamp_sec": 673,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Ownership is the key to wealth. Without ownership, you'll always be the slave to somebody else's dream.",
+          "summary_en": "Stop trading time for money and focus on acquiring ownership and equity so your money works for you.",
+          "summary_zh": "获取资产所有权而非单纯出卖时间",
+          "timestamp_sec": 699,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Stocks are good to increase your wealth. Real estate is good to down pay your taxes.",
+          "summary_en": "Pair equity investing for wealth growth with commercial real estate ownership to legally offset taxes.",
+          "summary_zh": "用商业地产投资来合法抵减税负",
+          "timestamp_sec": 719,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "I wound up getting a CPA and I learned about cost structure, tax structure, how to structure my businesses, how to write stuff off, how to start a charity.",
+          "summary_en": "Hire a CPA and master business cost structure, tax write-offs, and nonprofit structures to legally minimize taxes.",
+          "summary_zh": "聘请注册会计师并精通税务与慈善架构",
+          "timestamp_sec": 749,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Cyber security and AI. ... The government just signed a $17 billion deal for cyber security.",
+          "summary_en": "Focus capital and attention on massive secular tailwinds like cybersecurity and artificial intelligence.",
+          "summary_zh": "布局网络安全与人工智能等高增长赛道",
+          "timestamp_sec": 794,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Once a man gets information, it makes it hard for him to be a slave. Information changes situations only through implementation.",
+          "summary_en": "Read voraciously to gain high-value information and immediately implement what you learn.",
+          "summary_zh": "大量阅读获取知识并坚决落地执行",
+          "timestamp_sec": 818,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "If you dependent on that one source of income, then that becomes financial suicide.",
+          "summary_en": "Avoid relying on a single paycheck or job and build independent income streams to buy your time back.",
+          "summary_zh": "切忌依赖单一收入来源以免陷入财务被动",
+          "timestamp_sec": 848,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "The number one book I read that changed my life was the Bible. Deuteronomy 8:18 says God gives us the ability to produce wealth.",
+          "summary_en": "Ground your wealth-building mindset in scripture and biblical principles on stewardship.",
+          "summary_zh": "从《圣经》中汲取创造与管理财富的智慧",
+          "timestamp_sec": 891,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Create Family SOPs for Generational Wealth",
+          "category": "Wealth & Investing",
+          "quote": "Wealthy people learn how to consistently pass down not just money, but information. And so, you create what's called family SOPs.",
+          "summary_en": "Document family standard operating procedures to pass down financial knowledge and playbooks, not just money.",
+          "summary_zh": "建立家族SOP以传承财富知识与方法论",
+          "timestamp_sec": 921,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身新奥尔良贫困家庭，13岁流落街头，16岁入狱服刑10年；在狱中开始大量阅读并学习投资与所有权概念，出狱后通过美股交易（曾在英伟达拆股前单日盈利110万美元）以及实业与商业地产投资积累财富，35岁左右成为百万富翁，巅峰年入千万美元以上。",
+      "guest_name": "New Orleans Former-Inmate Eight-Figure Investor",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "Frederick Douglass"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Investor & Multi-Company Business Owner",
+      "wealth_detail": "Eight figures ($10M+/yr) in 2024; $1.1M single-day Nvidia trade; bought a $5.5M business/building; paid $4M federal + $600K state taxes in biggest year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "停止仅靠时间换钱，通过大量阅读并落地执行改变处境；投资美股头部科技公司（AI、网络安全）获取所有权，并用商业地产和慈善架构合法节税，同时建立家族SOP传承知识。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "What if I work for no money a month and just 33% straight commission? Would you give me a chance? A year later, I bought the firm.",
+          "summary_en": "Eliminate employer risk by offering to work on straight commission to break into an industry without credentials.",
+          "summary_zh": "敢于零底薪纯佣金换取入行与翻身机会",
+          "timestamp_sec": 1024,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You can have everything in the world you want if you help other people get what they want. I asked them what did they need and then I fulfilled that need.",
+          "summary_en": "Master sales by uncovering what the other person truly needs and focusing on fulfilling that win for them.",
+          "summary_zh": "先了解客户真正需求再全力帮其达成目标",
+          "timestamp_sec": 1045,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "It's not my money. It's God's money.",
+          "summary_en": "Maintain humility and faith by viewing wealth as stewardship entrusted to you by God.",
+          "summary_zh": "怀抱信仰并将财富视为神的托付",
+          "timestamp_sec": 1066,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's a book called What They Don't Teach You at Harvard ... what they don't teach you at Harvard is how to deal with people.",
+          "summary_en": "Study executive summaries and practical books on street smarts and dealing with people.",
+          "summary_zh": "广泛阅读商业实战书籍并学习为人处世之道",
+          "timestamp_sec": 1108,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Understand What People Truly Want",
+          "category": "Business & Strategy",
+          "quote": "You have to look at what people want and that you're more interested in them and helping them than you are yourself.",
+          "summary_en": "Unlock influence and leadership by learning people's personal motivations and genuinely helping them achieve their goals.",
+          "summary_zh": "洞察他人内心真实诉求并真心帮助他们",
+          "timestamp_sec": 1161,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "There's nobody that knows more about tax, marketing, and accounting ... I never would abdicate to any professional lawyer or anybody.",
+          "summary_en": "Never blindly outsource tax, accounting, legal, or marketing knowledge—study and master them yourself.",
+          "summary_zh": "亲自学透税务财务与营销，绝不盲目外包",
+          "timestamp_sec": 1221,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I never saw myself as a victim. ... Take ownership of your failures and you learn from them and then get up one more time than you fall down.",
+          "summary_en": "Reject a victim mindset, take full personal ownership of failures, learn from them, and get back up every time.",
+          "summary_zh": "摒弃受害者心态，为失败负全责并屡败屡战",
+          "timestamp_sec": 1254,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从小生活在贫困公租房，13岁进入寄养家庭并辗转多个家庭与学校，19岁因付不起学费大学辍学；20岁因无学历求职被拒后，主动提出不要底薪、只拿33%纯佣金入行，一年后买下该公司，26岁成为百万富翁，最终在医疗领域创立并拥有超22家公司（年营收30亿美元）。",
+      "guest_name": "Rick Jackson",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "What They Don't Teach You at Harvard Business School by Mark McCormack",
+        "Georgia State University PhD tutor (hired at age 26 for $2,000/month)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Billionaire Healthcare Entrepreneur (22+ Companies) & Gubernatorial Candidate",
+      "wealth_detail": "Billionaire; $3B/yr revenue across 22+ healthcare companies; became a millionaire at age 26",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "摒弃受害者心态并对自己的人生与失败负全责；入行时敢于用纯佣金证明自己，与人合作先帮对方赢，同时保持强烈求知欲亲自学透税务、会计与营销。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "VW2t21zzYl8",
+  "video_type": "street_multi"
+}

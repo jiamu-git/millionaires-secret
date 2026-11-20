@@ -1,0 +1,195 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I instead would try to come up with somebody who is super influential and spend as much time with them as they possibly could learn as much as they can so that at the time they actually enter the workforce they've learned real life skills",
+          "summary_en": "Instead of attending college, attach yourself to a highly influential person and spend as much time as possible learning real-life skills from them.",
+          "summary_zh": "与其读大学不如紧跟极具影响力的人学习实战技能",
+          "timestamp_sec": 55,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Disrupt Traditional Industries",
+          "category": "Business & Strategy",
+          "quote": "be a disrupter trying to figure out like a better Mouse trap... how am I going to disrupt an industry that have done it the same way for the last 20 30 years what can we do leveraging technology or leveraging expertise that'll completely disrupt",
+          "summary_en": "Build a better mousetrap by leveraging technology or expertise to disrupt industries that have operated the same way for 20 to 30 years.",
+          "summary_zh": "打造更好产品，用技术或专业颠覆传统行业",
+          "timestamp_sec": 90,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "as an entrepreneur I take a lot of risks financially... I can make more but I have a low risk tolerance with time so I'm going to go for it... get that bat off your shoulder and swing away",
+          "summary_en": "Have a high risk tolerance with money because you can make more, but a low risk tolerance with time—stop hesitating and swing away.",
+          "summary_zh": "金钱可再赚但时间有限，创业要敢于承担财务风险",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "borrow other people's money invest into real estate refinance do it all over again... get outside the major metropolitan areas get into areas where there's still a lot of growth potential",
+          "summary_en": "Use other people's money to invest in real estate outside major metropolitan areas where untapped growth remains, refinance, and repeat.",
+          "summary_zh": "用他人资金买潜力区房产并再融资循环投资",
+          "timestamp_sec": 161,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "make sure that whatever you're going to do you're all in don't try things out you have to go for it and you have to give it time a year two years three years is not enough time you got to be shooting for at least five years where you are all in",
+          "summary_en": "Go completely all-in on what you choose rather than just trying things out, and commit for at least five years.",
+          "summary_zh": "选定方向就全力以赴至少坚持五年",
+          "timestamp_sec": 192,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "sleep on someone's couch don't go out to eat put all the money you have away so that you can go for it in a way that most people will never have the discipline to do",
+          "summary_en": "Live frugally early on—sleep on couches, skip eating out, and save every dollar so you can go all-in on your venture.",
+          "summary_zh": "初期极致节俭不外食，攒下所有钱投入创业",
+          "timestamp_sec": 202,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "进入K-12教育咨询行业，将专业知识打包提供给客户，随后将该咨询与专业化模式复制到其他多个行业。",
+      "guest_name": "Chris (K-12 Education Consulting & Real Estate Entrepreneur)",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "K-12 Education Consultant & Multi-Industry Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "利用他人资金（OPM）投资大都市外围40英里等尚未开发的潜力区房产（商业、住宅或翻新），再融资后循环复投。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "always put God first I did not have God in high school in college um and I will tell you the minute I found in my life improved that was my north compass",
+          "summary_en": "Put God first as your north compass; grounding yourself in faith improves your life and reduces worry.",
+          "summary_zh": "永远把信仰放在首位，当作人生的指南针",
+          "timestamp_sec": 309,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find a Supportive Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "find someone that loves you for who you are... when I found that I just Unleashed full potential I had someone that I could come home to and talk to I had someone in the Peaks and The Valleys that was there",
+          "summary_en": "Find a partner who loves you for who you are and stands beside you through both peaks and valleys, which unlocks your full potential.",
+          "summary_zh": "找到真正爱你本真的人，伴侣支持释放潜能",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "find a really good Mentor and then find someone that you can pour into as well... that platform should never stop so find a good Mentor that'll pour into you and then find someone that you can pour into as well because that's where the growing happens",
+          "summary_en": "Find a great mentor who invests in you and also find someone to mentor yourself, because mutual mentorship is where growth happens.",
+          "summary_zh": "找位好导师向他学习，同时也要去指导他人",
+          "timestamp_sec": 347,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Cedar Park Event Expert Panelist (Faith & Mentorship Speaker)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Event Expert Panelist",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Define Success on Your Own Terms",
+          "category": "Mindset & Resilience",
+          "quote": "don't listen to the world about what success looks like... the only person that you're racing is yourself",
+          "summary_en": "Ignore the world's external definition of success and remember that you are only competing against yourself.",
+          "summary_zh": "不被外界成功标准左右，只跟自己赛跑",
+          "timestamp_sec": 385,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "do it in community",
+          "summary_en": "Pursue entrepreneurship within a supportive community rather than trying to do it in isolation.",
+          "summary_zh": "在社群和同路人中一起创业成长",
+          "timestamp_sec": 385,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "take time to enjoy life while you're doing it um it's a lonely Place burnout is rampant",
+          "summary_en": "Make time to enjoy life while building your venture, as entrepreneurship can be lonely and burnout is widespread.",
+          "summary_zh": "创业途中也要享受生活，警惕孤独与倦怠",
+          "timestamp_sec": 385,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Cedar Park Event Expert Panelist (Young Entrepreneur Advisor)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Event Expert Panelist",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "scalability is always going to come back to how important you think you are in that organization I have over the last five to six years really tried to become as unnecessary as possible and the way that I do that is I try to bring out the greatness in everybody on my team",
+          "summary_en": "To scale a business, make yourself as unnecessary as possible by empowering and bringing out the greatness in every team member.",
+          "summary_zh": "扩大规模关键是让自己不再不可或缺，赋能团队",
+          "timestamp_sec": 423,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Cedar Park Event Expert Panelist (\"Mr. Mayor\" Business Scaler)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Mayor & Business Owner (Event Expert Panelist)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "__CY9eanfV4",
+  "video_type": "street_multi"
+}

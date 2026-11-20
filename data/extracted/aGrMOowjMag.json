@@ -1,0 +1,484 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've got billionaire mentors.",
+          "summary_en": "Learn directly from billionaire mentors.",
+          "summary_zh": "寻找亿万富翁导师并向赢家学习",
+          "timestamp_sec": 91,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "The best entrepreneurs in the world, they look at their core business and all the different ways they can make money.",
+          "summary_en": "Build multiple monetization streams around your core business (agency, consulting, brand deals, ad revenue, community).",
+          "summary_zh": "围绕核心业务打造多元变现渠道",
+          "timestamp_sec": 102,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "When my partners and I were making $30,000 a month in profit. We were only paying ourselves $2,000... we were saving like crazy and we were reinvesting in our businesses like champions.",
+          "summary_en": "Pay yourself barely enough to cover living expenses early on and reinvest profits back into the business.",
+          "summary_zh": "早期保持低薪并把利润再投入增长",
+          "timestamp_sec": 555,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "I have 3 million followers on Facebook and I make more money off of Facebook than any other platform... You have to be everywhere at every time on every platform.",
+          "summary_en": "Distribute content across every social platform so you never leave attention or money on the table.",
+          "summary_zh": "全平台布局打造无处不在的品牌曝光",
+          "timestamp_sec": 706,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "通过打造The School of Hard Knocks自媒体频道（1700万粉丝），并围绕核心媒体业务拓展营销代理、咨询、品牌合作、广告及付费订阅社群，实现月入超70万美元、年营收超600万美元。",
+      "guest_name": "The School of Hard Knocks Host",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Billionaire mentors"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder of The School of Hard Knocks, Marketing Agency & Consulting Company",
+      "wealth_detail": "Over $700,000/month; well over $6M/year business",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先向亿万富翁导师学习，围绕核心业务拓展多元变现模式，早期保持低个人薪资把利润投入再生产，并在所有社媒平台保持高频曝光。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Take Advice From Unqualified People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Taking advice from somebody who hasn't done what you want to do is almost insanity. Like listening to people who haven't done the thing that you want to do, that makes you crazy.",
+          "summary_en": "Never take advice from people who have not accomplished what you want to achieve.",
+          "summary_zh": "不听未成功者建议，只向做成事的人学习",
+          "timestamp_sec": 157,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Will Smith",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Actor & Entertainer",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不要听取从未做过你想做的事的人的意见，只向真正取得过相关成果的人学习。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you don't know anybody, you got to become the person other people want to know... You want to network with successful people, become successful.",
+          "summary_en": "Focus on becoming successful and valuable first so high-value people naturally want to connect with you.",
+          "summary_zh": "先让自己变得有价值，成功者自会来结交",
+          "timestamp_sec": 239,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "You want to network when you provide something of value. Build your own brand. Other people will come to you.",
+          "summary_en": "Build your own credibility and personal brand so opportunities and people come to you.",
+          "summary_zh": "打造个人品牌与价值，吸引高质量人脉",
+          "timestamp_sec": 247,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通工人家庭（母亲是接待员，父亲在工厂扫地），23岁白手起家，第一家公司以3000万美元出售，最近一家公司以数亿美元出售。",
+      "guest_name": "Robert Herjavec",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Entrepreneur & Shark Tank Investor",
+      "wealth_detail": "Sold first company for $30M; last company for hundreds of millions",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要迷信“靠关系”，在没有背景时要专注提升自身实力、建立战绩和个人品牌，成为别人主动想结交的对象。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Wealthy people put their money to work... they give their money a job description. You cannot save or work your way to wealth. You can only invest your way there.",
+          "summary_en": "You cannot save or work your way to wealth; you must put your money to work through investing.",
+          "summary_zh": "不能靠存钱致富，必须让钱为你投资工作",
+          "timestamp_sec": 317,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "2013年离开华尔街创办科技公司，2017年开始实现盈利，33岁成为百万富翁，单年最高收入接近1000万美元。",
+      "guest_name": "Ashley Fox",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Tech Company Founder & Former Wall Street Professional",
+      "wealth_detail": "Just shy of $10M in a single year; owns an eight-figure tech company; millionaire at 33",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要把钱只存进储蓄账户，要像富人一样给每一分钱安排工作，通过投资实现财富积累。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Stay small enough long enough, you'll be big enough soon enough. That means keep the expenses low. Whenever your money is high, don't be in a rush to actually get the color in and all the jewelry and everything like that.",
+          "summary_en": "Keep living expenses low and resist buying jewelry or luxury status symbols even when income spikes.",
+          "summary_zh": "保持低消费不炫耀，避免生活方式膨胀",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I was making $30,000 a month with about three or $4,000 overhead. It wasn't until I had millions saved where I was forced to go from a Kia Optima to a Maserati in that same year.",
+          "summary_en": "Run lean with minimal overhead until you have millions saved before upgrading your lifestyle.",
+          "summary_zh": "创业早期严控运营成本，保持精益经营",
+          "timestamp_sec": 522,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期月入3万美元时将成本控制在3000-4000美元，长期开起亚Optima直到攒下数百万美元才换购玛莎拉蒂，2020年单年收入达1600万美元。",
+      "guest_name": "Houston Multi-Millionaire (2020 $16M Earner)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Houston Entrepreneur",
+      "wealth_detail": "$16M in a single year (2020)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "在真正强大之前保持低调和精益运营，赚到钱后不要急于购买豪车珠宝消费，先积累百万级储蓄。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Think Long-Term & Compound Over Decades",
+          "category": "Business & Strategy",
+          "quote": "I almost never play a one-year game. I play a 10-year game... compounding to 10 years is one of the things that gives a differential edge... that's actually how you create something that's epic. It changes industries.",
+          "summary_en": "Play a 10-year game rather than a 1-year game because long-term compounding creates an industry-changing edge.",
+          "summary_zh": "放弃一年短期思维，以十年复利打造事业",
+          "timestamp_sec": 608,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "联合创办LinkedIn，并以260亿美元价格出售给微软。",
+      "guest_name": "Reed Hoffman",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Co-Founder of LinkedIn",
+      "wealth_detail": "Sold LinkedIn to Microsoft for $26B",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不要只看一年的短期回报，要以十年为周期进行长远布局与复利积累，才能建立改变行业的伟大公司。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Master the art of sales and marketing.",
+          "summary_en": "Master sales and marketing to scale a business to billions.",
+          "summary_zh": "精通销售与营销，用产品创造传播力",
+          "timestamp_sec": 672,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Create Omnipresent Marketing & Self-Marketing Products",
+          "category": "Business & Strategy",
+          "quote": "You want omnipresence. You want to be everywhere at every time and be known by everyone. And the way I did that with not so much resources in the beginning was to make the product market itself.",
+          "summary_en": "Achieve market omnipresence early on with limited resources by designing products that market themselves.",
+          "summary_zh": "追求全渠道曝光，让产品自带营销属性",
+          "timestamp_sec": 683,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在迪拜打造全球首个布加迪豪宅与梅赛德斯-奔驰豪宅项目，单年最高营收/收入近50亿美元。",
+      "guest_name": "Muhammad Binghatti",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Real Estate Developer (Bugatti & Mercedes-Benz Residences)",
+      "wealth_detail": "Almost $5B in a single year",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "精进销售与营销能力，在早期资源有限时通过打造自带话题和传播属性的产品，实现无处不在的品牌知名度。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Stay Hungry & Never Get Comfortable",
+          "category": "Mindset & Resilience",
+          "quote": "I'm happy. I'm not content because there's a lot more to do. When the big guy on top gets a little too comfortable, the starving entrepreneurs are going to eat their lunch.",
+          "summary_en": "Be happy with your progress but never get content or comfortable, or hungry competitors will overtake you.",
+          "summary_zh": "永远不要满足现状，保持饥饿感持续冲刺",
+          "timestamp_sec": 767,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "两次以数十亿美元级别出售企业，其中2021年11月将BodyArmor以80亿美元出售给可口可乐。",
+      "guest_name": "BodyArmor Founder ($8B Coca-Cola Exit)",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Co-Founder of BodyArmor",
+      "wealth_detail": "Sold BodyArmor to Coca-Cola for $8B; sold two companies for billions",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "取得阶段性成功后可以感到快乐但绝不能自满安逸，否则充满饥饿感的新创业者会抢走你的市场。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I'm smart enough to know I'm not smart and I'm smart enough to hire people who are smart... I hire scientists. I'm not a smart guy, but I'm smart enough to go find smart guys and girls.",
+          "summary_en": "Acknowledge your own limitations and hire domain experts and people smarter than you, just like Rockefeller did.",
+          "summary_zh": "承认自身局限，雇佣比自己更聪明的人才",
+          "timestamp_sec": 810,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "通过律所业务白手积累财富，成为福布斯认证亿万富翁及美国最富有的律师。",
+      "guest_name": "John Morgan",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Titan (book about John D. Rockefeller)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Billionaire Attorney & Law Firm Founder",
+      "wealth_detail": "Forbes billionaire",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不需要自己成为全能天才，关键在于拥有自知之明，懂得寻找并雇佣各领域最聪明的人才为你工作。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "If you don't find a way to make money while you sleep, you'll work until you die... try to find a way to make money with your brain. It'll outlast your back.",
+          "summary_en": "Build ways to make money while you sleep using your brain and scalable systems rather than physical labor.",
+          "summary_zh": "打造睡后收入，用脑力与资产而非体力赚钱",
+          "timestamp_sec": 886,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "成为顶尖互联网营销人，单年最高收入超过1100万美元。",
+      "guest_name": "Joshua Crisp",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Internet Marketer",
+      "wealth_detail": "Over $11M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "尽早摆脱纯靠体力出卖时间的模式，用脑力建立能在睡觉时也持续产生收益的系统。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Embrace Change as Opportunity",
+          "category": "Business & Strategy",
+          "quote": "Change is reality and change equals opportunity... If you embrace it, you'll see that if I respond to this change and others don't, I'm going to turn that into shareholder value.",
+          "summary_en": "Embrace change while others resist it, because responding positively to change creates competitive opportunity and value.",
+          "summary_zh": "拥抱变化而非抗拒，变化本身就是机遇",
+          "timestamp_sec": 1007,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在企业界一路晋升，先后担任7-Eleven与Blockbuster两家财富500强巨头公司的董事长兼CEO。",
+      "guest_name": "Former CEO of 7-Eleven & Blockbuster",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [
+        "Harvey Mackay"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former Chairman & CEO of 7-Eleven and Blockbuster",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "大多数人讨厌变化，但变化是不可避免的现实；谁能第一时间适应并驾驭变化，谁就能将其转化为商业机遇。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Marketing & Brand Visibility",
+          "category": "Business & Strategy",
+          "quote": "Marketing. What they don't teach in school is that everybody needs you. They just don't know who you are. So, your job is identify who those people are, get to the highest mountain top that you can, and tell them who you are.",
+          "summary_en": "Prioritize marketing to reach the customers who need your solution, because nobody can buy from you if they don't know you exist.",
+          "summary_zh": "高度重视营销曝光，让目标客户知道你是谁",
+          "timestamp_sec": 1077,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "旗下多家公司年总营收达9000万至1亿美元，个人单年最高收入达2500万美元。",
+      "guest_name": "Todd Johnson",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Multi-Company Entrepreneur in Beverly Hills",
+      "wealth_detail": "$90M-$100M annual company revenue; $25M personal income in a year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "学校不教但商业最关键的是营销：找到真正需要你的人，然后全力站上高处大声告诉他们你的存在。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Procrastination is the assassination of all destination. You do not procrastinate. So what you can do for today, you don't delay for tomorrow because tomorrow is reserved for the labor of the lazy.",
+          "summary_en": "Eliminate procrastination and act immediately on today's tasks rather than waiting for tomorrow.",
+          "summary_zh": "拒绝拖延立刻行动，今天的事绝不推到明天",
+          "timestamp_sec": 1139,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Miami Bentley Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不要等待所谓“准备好的完美时机”，拖延会扼杀一切目标，没有行动的梦想只是空想。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "It is the same stress to worry about thousand problems as $10,000, hundred thousand, million, 10 million, 100 million... When you raise the bar, when you raise your standards... you have zero competition cuz most people are trained to think small.",
+          "summary_en": "Think bigger and solve high-stakes problems; the stress is the same as small problems, yet competition at the top is far lower.",
+          "summary_zh": "放大格局敢想敢干，高层次竞争反而更少",
+          "timestamp_sec": 1196,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "旗下品牌累计销售额突破10亿美元。",
+      "guest_name": "Billion-Dollar Brand Founder",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder of Billion-Dollar Brands",
+      "wealth_detail": "Brands have done over $1B in sales",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "打破从小被灌输的“小富即安”局限思维，去解决更大体量的问题，因为顶层赛道竞争者极少。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Believe in you. If a bird lands on the branch, does the bird trust the branch or does it trust its wings?",
+          "summary_en": "Believe in your own abilities rather than relying on external circumstances, just as a bird trusts its wings rather than the branch.",
+          "summary_zh": "坚定相信自己，依靠自身能力而非外部依赖",
+          "timestamp_sec": 1282,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "成为规模达100亿美元企业的高管。",
+      "guest_name": "Billy Ray Taylor",
+      "industry": "Other / Unspecified",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Executive at a $10B Company",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "无论处于什么环境，都要像飞鸟相信自己的翅膀一样坚定相信自己。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Live each day as a life in miniature. Live it on steroids and wake up with gratitude. Thank God I got today is a vote of God saying this is for you. Live it like you dream.",
+          "summary_en": "Recognize how limited and fragile healthy years are; wake up with gratitude and live every single day to the fullest.",
+          "summary_zh": "生命短暂健康无常，心怀感恩活在当下",
+          "timestamp_sec": 1384,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "57-Year-Old Retired Mentor (Time Ribbon Metaphor)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Retired Mentor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "人生健康且高质量的时间极其有限，不要把今天视为理所当然，要心怀感恩并全力以赴过好每一天。"
+    }
+  ],
+  "is_compilation_warning": true,
+  "video_id": "aGrMOowjMag",
+  "video_type": "topic_compilation"
+}

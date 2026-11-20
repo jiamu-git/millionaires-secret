@@ -1,0 +1,251 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I was walking up and down the streets of Manhattan at 7:00 a.m. in the morning, letting people try my products door by door... rinse, and repeat for many, many years.",
+          "summary_en": "Hustle door-to-door from 7 a.m. to 7 p.m. and repeat relentlessly for years.",
+          "summary_zh": "早七晚七挨家挨户推销并多年坚持",
+          "timestamp_sec": 144,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Everyone doubted me. Like even my parents, who I love so much, thought, 'What is this crazy Mexican Jewish lawyer doing selling sundried tomato spreads in the streets of Manhattan?'",
+          "summary_en": "Ignore doubts—even from loved ones—and pursue your unconventional vision.",
+          "summary_zh": "无视包括父母在内的质疑坚持己见",
+          "timestamp_sec": 125,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "10 years of mistakes in the natural food industry... Made so many mistakes, but eventually had an idea for a healthy snack that you could travel with and that exploded and did really well.",
+          "summary_en": "Learn from years of mistakes in your industry before finding a breakout product.",
+          "summary_zh": "经历十年试错与失败后找到爆款",
+          "timestamp_sec": 115,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Consistent With Brand & Values",
+          "category": "Business & Strategy",
+          "quote": "Be consistent. Don't try to change things because if you try to please everybody, you're going to please nobody... Set a value statement. What does my brand stand for? And very importantly, what it is not",
+          "summary_en": "Stay consistent with your brand identity and core values instead of trying to please everyone.",
+          "summary_zh": "保持品牌与价值观一致不盲从讨好",
+          "timestamp_sec": 164,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I need to go into this convenience store. And I would like sell or try to get the product on the right shelves one at a time... It took years and years and years of knocking down all those doors",
+          "summary_en": "Win retail distribution one store at a time by personally pitching and knocking on doors.",
+          "summary_zh": "一家店一家店地推攻克零售货架",
+          "timestamp_sec": 253,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "A man that's too proud to pick up a penny is not worth a penny... Mind the pennies, and the dollars will mind themselves.",
+          "summary_en": "Stay humble, appreciate every penny, and stretch every dollar.",
+          "summary_zh": "保持节俭谦逊重视并省下每一分钱",
+          "timestamp_sec": 274,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you're planning to grow for the future that a C corp structure is good and you aim to just keep the money with the company, reinvest, reinvest, grow, grow, grow, and then you're compounding without having to be paying taxes every year.",
+          "summary_en": "Choose the right corporate entity structure to retain profits, reinvest, and compound tax-efficiently.",
+          "summary_zh": "选对公司架构留存利润再投资复利",
+          "timestamp_sec": 359,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Be kind to every human being... Whether he's the bank teller or the bank president... try to emulate to make this a better world than the way we found it.",
+          "summary_en": "Be kind to every person regardless of status and leave the world better than you found it.",
+          "summary_zh": "平等善待每一个人让世界变得更好",
+          "timestamp_sec": 304,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "40岁左右成为百万富翁。斯坦福法学院毕业后放弃高薪律所工作，先创办PeaceWorks在天然食品行业试错10年，每天早7晚7拎公文包在曼哈顿挨家推销并亲自送货；后创立Kind健康零食棒实现年销超10亿美元并出售公司。",
+      "guest_name": "Daniel Lubetzky",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of KIND Snacks",
+      "wealth_detail": "Over $1B/year in sales; sold Kind company; confirmed billionaire",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "亲力亲为逐店开拓渠道并坚持多年；节俭务实、重视每一分钱；早期选对公司架构以利利润再投资与复利增长；保持品牌与价值观始终一致，并善待每一个人。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Pivot Boldly When Markets Shift",
+          "category": "Business & Strategy",
+          "quote": "Electric vehicles have gotten decimated over the past handful of years. And so we actually made the bold move of pivoting out of that industry... we still have capital left on our balance sheet. Why don't we go into a different market where we see so much growth?",
+          "summary_en": "Use remaining balance-sheet capital to pivot boldly out of a declining sector into a high-growth market.",
+          "summary_zh": "行业衰落时果断利用资金转型新赛道",
+          "timestamp_sec": 580,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Right now, AI is booming. It is unbelievable... we got the way to power AI, power data centers. So, that's the industry I've chosen, and I think it's a winner.",
+          "summary_en": "Target booming sectors with massive structural demand, such as powering AI and data centers.",
+          "summary_zh": "瞄准AI与算力供电等高增长行业",
+          "timestamp_sec": 646,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Winning is your only option. You can't think about what ways could I potentially lose at this?... You got to put all your time and effort into figuring out how am I going to win? And just work relentlessly at that.",
+          "summary_en": "Treat winning as the only option, avoid dwelling on failure, and work relentlessly toward victory.",
+          "summary_zh": "把赢当作唯一选项不设退路全力以赴",
+          "timestamp_sec": 625,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Never get into a position where you're desperate... Leverage is everything in a negotiation. And you need to be willing to walk away when it doesn't make sense... always keep a plan B",
+          "summary_en": "Never negotiate from desperation; maintain leverage, know your worth, keep a Plan B, and walk away if needed.",
+          "summary_zh": "谈判忌绝境保持筹码备选与离场底气",
+          "timestamp_sec": 665,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "figure out what you want to do in your life and then go all in. One of the mottos at Carnegie Melon was my heart is in the work. And I think that's a great thing to live by.",
+          "summary_en": "Figure out what you want to pursue in life, go all in, and put your heart into the work.",
+          "summary_zh": "找到人生热爱的方向并将心注入工作",
+          "timestamp_sec": 725,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在卡内基梅隆大学辍学创业，切入商用车电动化领域，28岁时带领公司在纽交所上市（估值达100亿美元，累计融资约7.5亿美元），成为最年轻的白手起家亿万富翁；后因电动车行业遇冷收购GE航空航天技术转型电力生产。",
+      "guest_name": "Thomas Healy",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Founder & CEO (Electric Powertrains & Power Generation)",
+      "wealth_detail": "Became billionaire at 28; company hit $10B valuation; raised $750M",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "确定人生方向后全情投入；把赢当成唯一选项；紧盯AI等高增长趋势及时转型；谈判时绝不让自己陷入绝境，始终保留筹码、Plan B与随时离开的底气。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "it's passion and finding something, you know, that you're passionate about that it's not what I do, it is who I am... very passionate about learning, very passionate about storytelling.",
+          "summary_en": "Find a passion that defines who you are and stay deeply curious about learning your craft.",
+          "summary_zh": "找到融于自我的热爱并持续保持好奇",
+          "timestamp_sec": 845,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I don't mind being afraid. I know fear is the unknown and I enjoy feeling that because it also puts me in a position of I want to know... I look for knowledge that I can apply... And when I do that, the fear goes away.",
+          "summary_en": "Recognize fear as the unknown, acquire applicable knowledge to master the challenge, and overcome fear.",
+          "summary_zh": "用可落地的知识与实践化解未知恐惧",
+          "timestamp_sec": 924,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'll set a goal and I'll write a list of all the things I think I need to know, to learn, to be in order to get a shot like this... look for knowledge that you can apply to your lives because there's so much information out there that doesn't mean that it's accurate.",
+          "summary_en": "Set a clear goal, list everything you need to learn to achieve it, and seek accurate, applicable knowledge.",
+          "summary_zh": "围绕目标列学习清单获取准确实用知识",
+          "timestamp_sec": 1015,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Excellence interests me and it's something that I know that absolutes are unattainable but that I'm going to constantly strive for it... understand how to do that job and then do it at the very highest level that I possibly can.",
+          "summary_en": "Strive constantly for excellence and seek to perform every job at the highest possible level.",
+          "summary_zh": "无论何种工作都力求做到最高水准",
+          "timestamp_sec": 1059,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I'm someone who says when I hear it can't be done I'm like I don't know maybe... The important thing is to keep pursuing your dreams",
+          "summary_en": "Challenge doubts when people say something cannot be done and keep pursuing your dreams.",
+          "summary_zh": "不轻信不可能的质疑坚定追逐梦想",
+          "timestamp_sec": 1094,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Servant Leadership & Helping Others",
+          "category": "Mindset & Resilience",
+          "quote": "to lead is to serve. Not to tell people what to do, but to help them to be better... How you can contribute to your friends, to your family, to your workplace in a very positive way.",
+          "summary_en": "Practice servant leadership by helping others improve and contributing positively to your team, family, and friends.",
+          "summary_zh": "领导即服务赋能他人并正向回馈团队",
+          "timestamp_sec": 1118,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Tom Cruise",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Technical / Engineering",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Actor & Film Producer (Top Gun, Mission: Impossible)",
+      "wealth_detail": "$600M (title); earned hundreds of millions personally; billions at the box office",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "寻找真正准确且可应用到目标中的知识；正视恐惧并用学习与行动化解它；在任何岗位上都追求卓越；以服务他人和帮助身边人变更好作为领导与处世核心。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "vMcZyzTNoIc",
+  "video_type": "street_multi"
+}

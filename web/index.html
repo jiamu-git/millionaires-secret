@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <title>Millionaires' Secret: @theschoolofhardknocks 富豪经验全量图谱</title>
+    <script>
+      try {
+        var params = new URLSearchParams(window.location.search);
+        var qTheme = params.get('theme');
+        var savedTheme = localStorage.getItem('ms-theme-v2');
+        var initialTheme = qTheme === 'light' || qTheme === 'dark' ? qTheme : savedTheme === 'light' ? 'light' : 'dark';
+        if (initialTheme === 'light') {
+          document.documentElement.classList.remove('dark');
+        } else {
+          document.documentElement.classList.add('dark');
+        }
+        var qLang = params.get('lang');
+        var savedLang = localStorage.getItem('ms-lang');
+        var initialLang = qLang === 'en' || qLang === 'zh-TW' || qLang === 'zh-CN' ? qLang : savedLang;
+        if (initialLang === 'en') document.documentElement.lang = 'en';
+        else if (initialLang === 'zh-TW') document.documentElement.lang = 'zh-Hant';
+        else document.documentElement.lang = 'zh-Hans';
+      } catch (e) {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-canvas text-ink antialiased selection:bg-gold-soft selection:text-gold-ink">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

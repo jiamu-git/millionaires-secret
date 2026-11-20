@@ -1,0 +1,199 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I worked in the business so I knew exactly what I needed to do.",
+          "summary_en": "Work inside your target industry first to learn operations hands-on before starting your own company.",
+          "summary_zh": "创业前先在目标行业打工摸清门道，再动手单干",
+          "timestamp_sec": 181,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I use rejection as fuel. Every time somebody told me, 'Hey, this will never work,' I was like, you know what? I'll prove it to you... believe in yourself.",
+          "summary_en": "Use rejection and doubters as fuel, believe in yourself, and prove your business concept works.",
+          "summary_zh": "把拒绝和质疑当成燃料，坚信自己并证明给别人看",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Once I raised a lot of my own personal equity, about $50,000, I was able to go in and get a small SBA loan for $50,000 and get this dilapidated old restaurant space and do the work myself.",
+          "summary_en": "Earn your initial startup capital through hard work, leverage SBA loans and advisory programs like SBDC and SCORE, and renovate leanly yourself.",
+          "summary_zh": "苦干攒首笔本金，借SBA贷款低成本自装修起家",
+          "timestamp_sec": 296,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to know your numbers inside and out. You have to believe in them. Low, mediums, and highs.",
+          "summary_en": "Know your financial numbers inside and out, including low (break-even), medium, and high projections.",
+          "summary_zh": "吃透盈亏平衡与高中低财务预测，熟知所有数字",
+          "timestamp_sec": 318,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Best negotiation advice I can give anybody is believe in what you're doing and know your numbers inside and out. And don't let people talk you down on your numbers.",
+          "summary_en": "In negotiations, believe in your numbers, refuse to be talked down if the math works, and take the deal elsewhere if needed.",
+          "summary_zh": "谈判时笃定自身数据不被压价，不合适就换下一家",
+          "timestamp_sec": 336,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I almost broke our business. I overlevered it... since that day, I've never overleveraged our business. I don't take on too much debt. I grow with more equity.",
+          "summary_en": "Avoid overleveraging with excessive debt; after Hurricane Katrina nearly broke the business, grow primarily with equity.",
+          "summary_zh": "切忌过度加杠杆负债扩张，优先用自有股权稳健成长",
+          "timestamp_sec": 486,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Do one thing and do it better than anybody else. Focus on that. Know what you're good at and execute on a daily basis. Then scale.",
+          "summary_en": "Focus on one core offering and execute it better than anyone else every day instead of branching out prematurely.",
+          "summary_zh": "聚焦单一核心业务做到极致，每日精进再规模化",
+          "timestamp_sec": 516,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "You have to have an amazing product and service... something that's cravable. If you have a mediocre product, you'll never make it.",
+          "summary_en": "Build an exceptional, cravable core product and service; a mediocre product will never succeed long-term.",
+          "summary_zh": "必须打造让人上瘾的卓越核心产品，平庸产品必败",
+          "timestamp_sec": 537,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Since I own the business, I get to make the right decisions based on the long-term success of the business... I don't have to make short-term decisions to do short-term gains.",
+          "summary_en": "Retain controlling equity ownership (91-92%) so you can prioritize long-term crew and customer health over short-term investor pressure.",
+          "summary_zh": "紧握控股权，才能做长期正确决策而非迎合短期利益",
+          "timestamp_sec": 577,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "What I can do with hiring people and having a great place to work and what I can do for the money I can give back to communities. That for me just drives me.",
+          "summary_en": "Stay driven by faith and purpose—creating great jobs, serving people, giving back to communities, and leaving the world better.",
+          "summary_zh": "怀抱回馈社会与服务的使命感，才能永不懈怠",
+          "timestamp_sec": 631,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Lead by Example & Care for Your Team",
+          "category": "Business & Strategy",
+          "quote": "Lead by example and lead people by their hearts and minds. They see me working in the restaurants... taking care of my crew, so they work hard for me.",
+          "summary_en": "Lead by example from the front lines and take genuine care of your team's hearts and minds so they deliver great service.",
+          "summary_zh": "以身作则并用心关怀员工，员工才会全力回报",
+          "timestamp_sec": 693,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I think you learn more from your mistakes than you do from your successes, and we're constantly getting knocked back.",
+          "summary_en": "Expect constant setbacks and learn from mistakes, which teach far more than successes.",
+          "summary_zh": "从错误和挫折中学到的永远比从成功中学到的更多",
+          "timestamp_sec": 721,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "There's some bad people out there that want to take advantage of you. Surround yourself by good people. Trust, but verify. And if they screw you over, then move on.",
+          "summary_en": "Surround yourself with good people, trust but verify, and cut ties immediately with anyone who takes advantage of you.",
+          "summary_zh": "警惕想占便宜的人，信任但要核实，被坑即刻止损",
+          "timestamp_sec": 729,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Concentrate more on progress rather than perfection... That one training program can be version one. You can be on version 100 a year from now.",
+          "summary_en": "Prioritize progress over perfection; launch version one and iterate instead of stalling your business.",
+          "summary_zh": "重进步而非求完美，先推第一版再持续迭代优化",
+          "timestamp_sec": 739,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "My best advice I can give a young entrepreneur when they're getting started is never ever ever ever give up... Nothing ever happens unless somebody pursues a vision fanatically.",
+          "summary_en": "Accept extreme hours, pressure, and high risk tolerance early on, pursue your vision fanatically, and never give up.",
+          "summary_zh": "创业要承受极高压力与牺牲，狂热执着且绝不放弃",
+          "timestamp_sec": 814,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Scale Proven Businesses Relentlessly",
+          "category": "Business & Strategy",
+          "quote": "The only difference between millionaire business owners and billionaire business owners are scale. It's just that want to grow... Grow it and scale it and you'll become a billionaire.",
+          "summary_en": "Once you build a proven million-dollar business, relentless growth and scale are what separate billionaires from millionaires.",
+          "summary_zh": "百万富翁与亿万富翁的唯一差距在于持续做大规模",
+          "timestamp_sec": 856,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Always better quality, better service. Even if it cost you more, pays off in the end. So one of our values is sales driven, but still being profit smart.",
+          "summary_en": "In tight-margin businesses (5-10 cents on the dollar), drive high sales volume while staying profit-smart and never cutting quality or service.",
+          "summary_zh": "薄利靠规模销量取胜，宁可多花成本也要保品质服务",
+          "timestamp_sec": 954,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "高中大学在餐厅打工积累行业经验，因商业计划被教授打全班最低分且遭当地银行悉数拒贷，只身赴阿拉斯加住帐篷做商业捕鱼攒下约5万美元启动资金，再申请5万美元SBA小企业贷款，亲手翻修破旧店面于1996年创立Raising Cane's。",
+      "guest_name": "Todd Graves",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Small Business Development Center (SBDC)",
+        "SCORE (Service Corps of Retired Executives)"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of Raising Cane's",
+      "wealth_detail": "North of $20B net worth; $400M highest single-year income; owns 91-92% of Raising Cane's (900+ locations)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "若一无所有重启，会继续选择自己熟悉的餐饮业，寻找另一款让人上瘾的爆款单品，聚焦单点做到极致并围绕它组建团队后规模化扩张；没钱且借不到钱时要靠体力劳动自攒本金，并善用SBA贷款、SBDC和SCORE等政府及导师资源。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "n5EmUiLNVjg",
+  "video_type": "deep_dive_single"
+}

@@ -1,0 +1,276 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "It's not about smartness. It's people who ship, people who do things. ... And the difference is getting started, putting something out there.",
+          "summary_en": "Wealth goes to people who ship and put ideas out into the world rather than sitting on them or overthinking.",
+          "summary_zh": "别光想不动，立即动手做出产品并发布",
+          "timestamp_sec": 68,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Put in your idea, see what comes out, iterate from there, and then go sell. Go market. Go put your ideas out there.",
+          "summary_en": "Once you have a working prototype, iterate quickly and immediately go sell and market it to win paying customers.",
+          "summary_zh": "做出雏形后立刻去营销推广、卖给客户",
+          "timestamp_sec": 87,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Have incredible patience. Our business took 8 years to take off. Most people quit in a year... move incredibly fast in the short term.",
+          "summary_en": "Think big and pair long-term 10-to-20-year patience with rapid short-term execution rather than quitting after one year.",
+          "summary_zh": "胸怀大志并保持十年磨一剑的长期耐心",
+          "timestamp_sec": 129,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Is Zuckerberg that much better than me? Is Elon that much better than me? ... They're not. And if you just have that self-belief, that self-talk, I think you're going to be able to achieve amazing things.",
+          "summary_en": "Cultivate strong self-belief and positive self-talk, recognizing that top tech founders are not inherently superior to you.",
+          "summary_zh": "建立强大自信，相信自己不输顶尖富豪",
+          "timestamp_sec": 163,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Literally pick any industry, any vertical that you have experience in and go figure how to apply AI into.",
+          "summary_en": "Combine AI with a vertical or domain where you already have experience and obsession to transform that industry.",
+          "summary_zh": "将AI融入熟悉行业，转型创造巨大市场",
+          "timestamp_sec": 182,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身约旦难民家庭，年少时父亲买了一台电脑让他自学编程并开始创业；后创办AI软件平台Replet（Replit），耗时8年才迎来起飞，并在38岁成为亿万富翁（2019年曾拒绝10亿美元收购邀约）。",
+      "guest_name": "Amjad Masad",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Sales & Persuasion",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Co-Founder & CEO of Replit (AI Software Platform)",
+      "wealth_detail": "Became a billionaire at age 38; rejected a $1B acquisition offer in 2019",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不要空等或过度思考，用AI工具快速把想法做成产品发布、迭代并立即去推销获客；选择自己有经验或热爱的垂直行业切入AI转型，同时保持短期快跑与长期耐心。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Do what you would do if no one ever found out about it and you didn't make any money from it. What would you do where if tomorrow it completely failed, you wouldn't feel like you wasted all your time today.",
+          "summary_en": "Pursue work you genuinely care about even without money or recognition, so failure never feels like wasted time.",
+          "summary_zh": "做即便没钱赚、失败也不后悔的热爱之事",
+          "timestamp_sec": 315,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "They were like, hey, I want to create my own stream, too. How do I do that? ... And so, we opened up as a platform. And then eventually that turned into Twitch.",
+          "summary_en": "Pay attention to what users actually ask for—opening Justin.tv as a platform for others' streams created Twitch.",
+          "summary_zh": "倾听用户需求并顺势转型，打造真正平台",
+          "timestamp_sec": 370,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Negotiate With Options & Walk-Away Leverage",
+          "category": "Business & Strategy",
+          "quote": "I think you always want to have options. If you are able to walk away, you have multiple options. That's always going to give you the strongest position... Don't negotiate from a place of weakness.",
+          "summary_en": "Always maintain multiple options and the willingness to walk away so you never negotiate from desperation or weakness.",
+          "summary_zh": "谈判中保持多种选择，绝不从弱势地位妥协",
+          "timestamp_sec": 489,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "If someone can talk you out of your idea for your business, that's a bad sign... you have to have almost that reality distortion field.",
+          "summary_en": "Hold unshakable conviction in your vision despite naysayers so you can persuade investors, employees, and customers to join.",
+          "summary_zh": "无视他人质疑，用坚定愿景感召团队和客户",
+          "timestamp_sec": 529,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "You want to commoditize your compliments, right? You want to not be the commodity layer. You want to be something where you're adjacent to the commodity layer.",
+          "summary_en": "In the AI era, avoid competing in the commoditized software layer and build adjacent businesses—such as hardware—that benefit from free software.",
+          "summary_zh": "避开AI商品化底层，布局受益的相邻赛道",
+          "timestamp_sec": 548,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Intrinsic Purpose & Service Over Money",
+          "category": "Mindset & Resilience",
+          "quote": "Money alone or any sort of extrinsic motivator whether it's money or fame will never give you lasting happiness... being of service to people around me being a good friend a good father a good family member. That's really what gave me lasting happiness.",
+          "summary_en": "Wealth brings security but not lasting happiness; true fulfillment comes from serving others and being present for friends and family.",
+          "summary_zh": "金钱不能带来持久幸福，服务他人与家庭才是",
+          "timestamp_sec": 582,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "母亲是白手起家的移民，给了他中产家庭成长环境；他20岁开始首次创业，大学时与合伙人自主研发直播技术创办Justin.tv，后顺应用户需求开放成平台并演化为Twitch，于2014年以9.7亿美元出售给亚马逊。",
+      "guest_name": "Justin Kan",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Negotiation Genius (Book)"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Technical / Engineering",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Co-Founder of Twitch",
+      "wealth_detail": "Sold Twitch to Amazon in 2014 for $970M (previously walked away from ~$1B Google offer)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "选择即便失败也不觉得浪费时间的事业；面对质疑时保持坚定信念；谈判时多留退路和备选方案；在AI让软件趋于免费时，去打造受益于免费软件的相邻产品（如软硬结合的硬件）。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I just try to be generous with them and be as helpful to them as I possibly can... when you know the right people, they will show you the shortcut.",
+          "summary_en": "Be generous and helpful to sharp people; knowing the right people opens your eyes to shortcuts and what is possible.",
+          "summary_zh": "结交高人脉并慷慨助人，借力看见成功捷径",
+          "timestamp_sec": 720,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I met these people that were seeing the world in a different way. And I was just curious enough to ask them what that way was. And they taught me a lot of things.",
+          "summary_en": "Approach accomplished leaders with genuine curiosity and ask how they view the world so you can learn directly from them.",
+          "summary_zh": "保持好奇心，主动向顶尖成功人士请教学习",
+          "timestamp_sec": 761,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build a Support System & Right Partner",
+          "category": "Mindset & Resilience",
+          "quote": "Nobody does it alone... having a support ecosystem around you that is rooting for you when things don't go right. That's the only way. Like everybody fails.",
+          "summary_en": "Choose the right life partner and build a loyal support ecosystem of family or friends to lift you up when inevitable failures happen.",
+          "summary_zh": "选对伴侣并建立支持系统，在失败低谷时托举",
+          "timestamp_sec": 795,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Love thy neighbor as thyself. It's about the only thing there is. Everything else is commentary.",
+          "summary_en": "Live by the principle of loving your neighbor as yourself; everything else is secondary.",
+          "summary_zh": "爱人如己，以善意与同理心待人是根本之道",
+          "timestamp_sec": 826,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从好莱坞演员转型硅谷风险投资人，通过结识Mark Cuban、Ron Conway、Marc Benioff、Jason Calacanis等硅谷顶尖人物并慷慨助人、虚心请教，逐渐成长为硅谷最成功的投资人之一。",
+      "guest_name": "Ashton Kutcher",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Mark Cuban",
+        "Ron Conway",
+        "Marc Benioff",
+        "Jason Calacanis"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Actor & Venture Capital Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "主动接触优秀的人并尽可能慷慨地帮助他们，保持好奇心向他们请教看待世界的方式；同时建立由伴侣或家人组成的支持体系，在遭遇失败时帮你重新站起来。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Somebody smart told me that, hey, just be with smart people. And my superpower is I can convince people that are way smarter than me to hang out with me and even follow me to the ends of the earth.",
+          "summary_en": "Surround yourself with people smarter than you and attract them through a compelling vision and mission.",
+          "summary_zh": "与更聪明的人同行，用使命感吸引顶尖人才",
+          "timestamp_sec": 1022,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You have to take bad news. You have to take setbacks and I call it chewing cactus. You just chew the cactus, you listen, you smile, you learn, you adjust, and you keep moving forward.",
+          "summary_en": "Be ferocious, detail-obsessed, and urgent; endure bad news and setbacks by 'chewing the cactus,' learning, adjusting, and pushing ahead.",
+          "summary_zh": "保持凶悍执着与紧迫感，吞下挫折继续前行",
+          "timestamp_sec": 1065,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "If you have to ask then the answer is no. You have to just have such conviction that there's no force in the universe that's going to prevent you from reaching your destiny.",
+          "summary_en": "Do not start a company unless you have total conviction—if you have to ask someone else whether you should quit your job, don't do it.",
+          "summary_zh": "创业需100%笃定信念，犹豫则不应开始",
+          "timestamp_sec": 1112,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Stay foolish. Stay hungry. I'm a fool... I go into areas I don't know nothing about... Go out there, be a fool, learn, try different things and be ferocious.",
+          "summary_en": "Stay hungry and foolish by boldly entering unfamiliar fields, learning fast, and trying new things without fear.",
+          "summary_zh": "保持愚蠢与饥渴，敢于跨入未知领域去尝试",
+          "timestamp_sec": 1144,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从印度赴美落地波士顿时口袋里只有50美元，此后创办多家软件公司：首家公司以1.3亿美元出售（另有2.5亿美元分红），之后再创软件公司上市并一度达到300亿美元市值（并有50亿美元软件公司出售战绩），随后买下NBA萨克拉门托国王队。",
+      "guest_name": "Vivek Ranadivé",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Steve Jobs"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Networking & Relationships",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Tech Founder, Investor & Owner of the Sacramento Kings",
+      "wealth_detail": "Made billions; sold first company for $130M (+$250M payout), took another company public worth $30B at peak (also cited as $5B software exit)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "与比自己更聪明的人为伍，用清晰的使命与凶悍的执行力吸引他们追随；学会像“嚼仙人掌”一样消化坏消息和挫折；创业必须拥有百分之百的信念；保持“求知若饥，虚心若愚”，勇于跨界尝试。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "cPnZArgZi8w",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,137 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "it kind of goes back to like the fail fast method um I would drop clothes literally every week ... nobody's waiting for six months for your big project",
+          "summary_en": "Use a fail-fast approach by launching weekly instead of spending six months trying to perfect one project.",
+          "summary_zh": "每周高频上新快速试错，而非苦磨半年",
+          "timestamp_sec": 91,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Break Big Goals Into Small Multiples",
+          "category": "Business & Strategy",
+          "quote": "money is a game it's a game of doubles um it's a game of numbers ... all you have to do is make ten thousand ten times to get to a hundred and then make a hundred ten times get to a million",
+          "summary_en": "Avoid getting overwhelmed by seven-figure targets by breaking $1M down into repeatable 10x milestones.",
+          "summary_zh": "把百万目标拆解为十个十万的倍数来推进",
+          "timestamp_sec": 138,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I never use any ads or any budget to necessarily Propel my work I feel like it was more like bootstrapping",
+          "summary_en": "Bootstrap early operations without relying on paid ad budgets to force organic traction.",
+          "summary_zh": "零广告预算冷启动，靠自力更生打磨业务",
+          "timestamp_sec": 163,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "we just have to understand that we got to show up yeah so consistency was everything",
+          "summary_en": "Show up in the field every single day regardless of obstacles; consistency drives growth.",
+          "summary_zh": "每天坚持到场执行，保持高度一致性",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "don't push because when you push it makes them seem like you need them ... I'd rather be so good and so massive that people come to me and I'm selecting who's able",
+          "summary_en": "Never chase or pressure prospects; build enough value and exclusivity that customers come to you.",
+          "summary_zh": "销售切忌硬推，用实力与稀缺感吸引客户",
+          "timestamp_sec": 188,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "you're a product your environment ... I always want to be around people who are doing what I'm doing or more",
+          "summary_en": "Surround yourself with peers performing at or above your level so you stay challenged and avoid complacency.",
+          "summary_zh": "置身比自己更优秀的圈层，避免安于现状",
+          "timestamp_sec": 247,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Lead With Value When Networking",
+          "category": "Actionable Skills & Habits",
+          "quote": "focusing on yourself and investing in yourself is the biggest easiest way to get into those rooms so instead of going into the room with your hand out you're going into the room with something to offer",
+          "summary_en": "Sharpen a valuable skill first so you enter high-level rooms offering mutually beneficial expertise rather than asking for favors.",
+          "summary_zh": "社交先提升自身技能，带着交换价值入局",
+          "timestamp_sec": 277,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "whatever money that you receive you use it to buy assets that make you more money so it's like you get money and then you buy more money",
+          "summary_en": "Reinvest earned cash into income-producing assets so your money continuously buys more money.",
+          "summary_zh": "用赚到的钱持续购入能生钱的资产",
+          "timestamp_sec": 332,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "careful selection with what you use your time on I think time is worth more than money ... it's so easy to pick the easier things ... versus the boring consistent and simple things",
+          "summary_en": "Value time above money by staying disciplined and choosing the boring, high-leverage fundamentals over flashy distractions.",
+          "summary_zh": "珍惜时间胜过金钱，自律深耕枯燥核心事",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "social media marketing is like the number one Catalyst if you're trying to scale a business from zero to a million",
+          "summary_en": "Master social media marketing as the highest-leverage catalyst for scaling a business from $0 to $1M.",
+          "summary_zh": "掌握社媒营销，低成本撬动百万级增长",
+          "timestamp_sec": 406,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "start a short form business car detailing or something like that just to stack up my funds ... once I stack that up that I can dive back into like digital",
+          "summary_en": "If starting from zero, launch a quick cash-flow service business like car detailing to stack capital before scaling into digital ventures.",
+          "summary_zh": "从零起步先做汽车精洗攒现金流再转线上",
+          "timestamp_sec": 425,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "19岁银行账户归零时创立电商品牌 For The Low Clothing，靠每周上新的快速试错打法占领社媒曝光并起步。",
+      "guest_name": "Victor",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Chris Johnson"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "E-commerce & Multi-Business Entrepreneur (Founder of For The Low Clothing, @goat_vicc)",
+      "wealth_detail": "Over $10M net worth; $6M half-year ($12M/yr per title)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先向人脉圈朋友借1万美元启动资金，做汽车精洗等线下短平快生意攒够本金后，再重返数字线上业务。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "7Cxfg0N_MUw",
+  "video_type": "deep_dive_single"
+}

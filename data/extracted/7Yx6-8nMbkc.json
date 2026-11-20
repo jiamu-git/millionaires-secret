@@ -1,0 +1,534 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I say work hard. Work hard. Follow your dreams.",
+          "summary_en": "Work hard and follow your dreams.",
+          "summary_zh": "努力工作，坚持追逐自己的梦想",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Don't listen to what other people say.",
+          "summary_en": "Ignore outside doubters and do not listen to what other people say.",
+          "summary_zh": "不要理会外界杂音，坚持自我信念",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Align on Shared Values in Relationships",
+          "category": "Mindset & Resilience",
+          "quote": "Values. You have to have things in common... I think values are very important.",
+          "summary_en": "Choose a life partner with shared interests, values, and morals.",
+          "summary_zh": "选择人生伴侣要看重共同价值观与品德",
+          "timestamp_sec": 242,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Boca Raton Private Equity Executive's Spouse",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Spouse of Private Equity Executive",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "My secret was going store to store, mouth to mouth... every week I log 140 hours.",
+          "summary_en": "Outwork everyone with 140-hour weeks doing door-to-door store outreach.",
+          "summary_zh": "每周工作140小时，挨家门店街头地推",
+          "timestamp_sec": 322,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I had 39 failed companies... that 40th one hit. It was a rocket ship.",
+          "summary_en": "Keep pushing after 39 failed companies until the 40th becomes a rocket ship.",
+          "summary_zh": "经历39次失败后，第40次创业一飞冲天",
+          "timestamp_sec": 332,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I said this is what God has put me on the earth to do... And I went all in.",
+          "summary_en": "Go all in when you find a mission you feel called to pursue and love competition.",
+          "summary_zh": "将事业视为使命，全情投入并热爱竞争",
+          "timestamp_sec": 352,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "So I went in the stores asked questions... We knew we had to deliver the best product with the best experience.",
+          "summary_en": "Ask store owners about product defects and deliver a reliable, high-margin solution.",
+          "summary_zh": "深入一线调研，解决产品缺陷并提升利润",
+          "timestamp_sec": 392,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I mastered guerilla marketing by being in the streets, in the stores... simplicity sells.",
+          "summary_en": "Master guerrilla marketing in the streets and keep product messaging simple so it sells itself.",
+          "summary_zh": "走上街头与店主直接沟通，极简卖点促成交",
+          "timestamp_sec": 445,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I started with 10 grand... I got paid upfront. I always say no consignment commitment.",
+          "summary_en": "Start lean with $10K, refuse consignment, and insist on getting paid upfront.",
+          "summary_zh": "仅用一万美元起步，坚持先款后货拒绝寄售",
+          "timestamp_sec": 322,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I took over New York and the five burrows. I didn't even go to the West Coast. I stayed focused on the East Coast.",
+          "summary_en": "Dominate one core geographic market first instead of expanding prematurely.",
+          "summary_zh": "初期聚焦纽约本地市场，不盲目跨区扩张",
+          "timestamp_sec": 499,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Use Trademarks for Brand Positioning",
+          "category": "Business & Strategy",
+          "quote": "Trademarks are very powerful. You can make claims with trademarks... register under electronic cigarettes the most trusted brand.",
+          "summary_en": "Use clever trademark registrations to establish powerful brand positioning without costly focus groups.",
+          "summary_zh": "善用商标注册打造权威品牌宣称，省去高昂调研",
+          "timestamp_sec": 467,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I don't compare to anybody else. I just look at my results and my results speak for themselves.",
+          "summary_en": "Stop comparing yourself to others and let your own results speak for themselves.",
+          "summary_zh": "不与他人攀比，只专注自身结果与持续进步",
+          "timestamp_sec": 521,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾任私人教练，连续经历39次创业失败；在一次会议上看到电子烟后投入仅有的1万美元创立Logic，挨家店线下地推铺货，5年内通过高盛卖给日本烟草。",
+      "guest_name": "Howie (Logic E-Cigarettes Founder)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Tim Ferriss (asking the right questions)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder, Logic Electronic Cigarettes (formerly Personal Trainer)",
+      "wealth_detail": "$100M peak single-year revenue; started with $10K and sold company to Japan Tobacco via Goldman Sachs in under 5 years",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "从1万美元起家，靠街头地推和精准提问发现市场痛点，用最简单直白的包装和商标策略打开销路，拒绝寄售、坚持先款后货。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Honestly, it's innovation, market demand, timing, luck plays a lot to do with it.",
+          "summary_en": "Bet early on emerging market demand, innovation, and timing.",
+          "summary_zh": "抓住市场需求、创新与时机等关键窗口",
+          "timestamp_sec": 647,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "No one's successful alone, especially in tech. I don't know how to code, but I definitely know how to find the number one person as a CTO that does.",
+          "summary_en": "Recruit A-players like a top CTO to cover technical skills you lack.",
+          "summary_zh": "成功离不开团队，找最顶尖的技术合伙人",
+          "timestamp_sec": 658,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "My best negotiation advice is not to let emotion come into a deal... the moment it gets emotional or you get emotional, you lose.",
+          "summary_en": "Keep emotion out of negotiations and be willing to wait deals out.",
+          "summary_zh": "谈判切忌情绪化，情绪波动必将导致输掉交易",
+          "timestamp_sec": 679,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you don't have a mentor, you will not be successful either... The easiest way to find a mentor... is saying these three words. Let's have coffee.",
+          "summary_en": "Find mentors one step ahead in every venture simply by asking to grab a 15-minute coffee.",
+          "summary_zh": "主动约成功者喝咖啡，请教各领域实战导师",
+          "timestamp_sec": 710,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I used the $10,000 and I bootstrapped it from my kitchen table.",
+          "summary_en": "Bootstrap lean from your kitchen table instead of raising outside capital prematurely.",
+          "summary_zh": "借一万美元在自家餐桌起步，自力更生不融资",
+          "timestamp_sec": 626,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I've invested in over 150 companies because my grandma made a bet on me and I want to pay that forward.",
+          "summary_en": "Pay forward early support by backing and mentoring the next generation of entrepreneurs.",
+          "summary_zh": "心怀感恩并回馈社会，投资超过150家初创",
+          "timestamp_sec": 774,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I love the love of the game. I love to win and I love to help people.",
+          "summary_en": "Keep building out of pure love for the game, winning, and helping others.",
+          "summary_zh": "保持对商业博弈和帮助他人成功的纯粹热爱",
+          "timestamp_sec": 774,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾在一家融资1亿美元却倒闭的公司工作，随后向祖母借款1万美元，在自家厨房餐桌上白手起家创办互联网广告科技公司，最终以2.35亿美元出售。",
+      "guest_name": "Kim Pel",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Her grandmother (early supporter)",
+        "Industry-specific mentors for each venture"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Tech Entrepreneur & Angel Investor (4 Active Companies)",
+      "wealth_detail": "Sold last tech company for $235M; started with $10K loan from grandmother; invested in 150+ companies",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "找准早期市场趋势和需求，小资金白手起家并靠自身能力建立团队（不懂编程就找最顶尖的CTO），并主动用一句“一起喝杯咖啡”结交各行各业的导师。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "It's a lot better to make money for yourself and the people that work for you as opposed to really big companies. So the best advice I can give is to start something on your own.",
+          "summary_en": "Start your own business to build equity for yourself rather than enriching huge corporations.",
+          "summary_zh": "为自己创业持股，远比替大公司打工更有前景",
+          "timestamp_sec": 884,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I worked at a big company and had a really good mentor... he was the one who said, 'If you really want to be successful and make a lot of money, it's not going to happen if you're working for a big company.'",
+          "summary_en": "Seek mentors who push you to look beyond corporate salaries for real wealth.",
+          "summary_zh": "听从职场导师点拨，趁早寻找打工之外的出路",
+          "timestamp_sec": 904,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "So, I started a little side business while I was working full-time and realized that that was my passion.",
+          "summary_en": "Launch a side business while still employed full-time to test and discover your passion.",
+          "summary_zh": "全职工作期间先做副业试水，找到热爱即行动",
+          "timestamp_sec": 914,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I'm still taking risk and I'm not stopping... Again, the message is betting on yourself.",
+          "summary_en": "Bet on yourself and keep taking calculated entrepreneurial risks at every age.",
+          "summary_zh": "六十岁依然敢于押注自己，持续承担创业风险",
+          "timestamp_sec": 946,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build With a Scalable Future Vision",
+          "category": "Business & Strategy",
+          "quote": "Some people see one restaurant, I see a chain of restaurants. Whenever I do something, I try not to focus on the present. Try to focus on the future.",
+          "summary_en": "Envision a scalable chain and future growth rather than focusing only on the single unit today.",
+          "summary_zh": "着眼长远规模化愿景，而非只局限于眼前单店",
+          "timestamp_sec": 957,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "I'm 95% in equities... if someone has a modest risk profile, it [crypto] should probably be 10 to 15% of their profile.",
+          "summary_en": "Stay heavily invested in equities for growth while sizing crypto conservatively based on risk profile.",
+          "summary_zh": "重仓股票长期复利，适度配置加密资产分散风险",
+          "timestamp_sec": 1002,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身布鲁克林蓝领家庭，曾在华尔街和三家全球顶级大公司担任高管；在一位导师的启发下，利用业余时间创办副业，最终于2018年以近1亿美元出售其专业金融公司。",
+      "guest_name": "Boca Raton Specialty Finance Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Corporate mentor who advised him to build outside big companies"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder, Specialty Finance Company & Former Wall Street Broker",
+      "wealth_detail": "Sold specialty finance company for almost $100M in 2018; 95% in equities and 25% in a crypto fund",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要只为大公司打工，在全职工作期间先做副业起步，敢于押注自己并独立创业，同时着眼长远愿景。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I find need-based products... when I can't run out of leads and it's need-based and I can't run out of people to get in front of... it's an amazing business.",
+          "summary_en": "Pick unsexy, need-based industries with endless lead flow and huge demand.",
+          "summary_zh": "选择刚需且客源不断的大市场，生意自然好做",
+          "timestamp_sec": 1078,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You need to build other people up by learning how to delegate... Anything that you can teach somebody to do, even if they're half as effective as you at it, then you build something massive.",
+          "summary_en": "Delegate everything you can teach and empower leaders to make decisions, even mistakes.",
+          "summary_zh": "学会充分授权与培养下属，才能突破规模瓶颈",
+          "timestamp_sec": 1190,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Life insurance, I stayed involved cuz I love the business I'm in, and I want to continue to take it to the next level.",
+          "summary_en": "Stay deeply involved in businesses you genuinely love to take them to billion-dollar scale.",
+          "summary_zh": "深耕并热爱所处行业，才能持续把业务做大",
+          "timestamp_sec": 1252,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to have such great confidence and you have to be so presumptive. No matter what you're doing, you can't ask for anything. You instruct somebody.",
+          "summary_en": "Sell with total confidence and a presumptive close rather than timidly asking.",
+          "summary_zh": "销售要高度自信并预设成交，用引导代替乞求",
+          "timestamp_sec": 1269,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Tell people the truth. They're dying for the truth. What are clients afraid of? Being lied to.",
+          "summary_en": "Win buyer trust by asking permission to be brutally honest and telling the full truth.",
+          "summary_zh": "买家最怕被欺骗，用极致坦诚赢得客户信任",
+          "timestamp_sec": 1311,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Sales doesn't require talent... I'm going to work my ass off. I'm going to invest in leads and I'm going to invest in me.",
+          "summary_en": "Beat talent in sales by outworking competitors and investing heavily in leads.",
+          "summary_zh": "销售不靠天赋，全靠加倍努力与大量获客",
+          "timestamp_sec": 1379,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've had plenty of reps... They train every day, 8, 10, 12 hours a day.",
+          "summary_en": "Get massive daily reps and train consistently like a pro fighter.",
+          "summary_zh": "每天坚持高强度训练与实战，积累大量练习",
+          "timestamp_sec": 1406,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "The reason I'm good at it is I'm very teachable... I'm going to invest in me and getting better.",
+          "summary_en": "Stay highly teachable and continuously invest in improving your own skills.",
+          "summary_zh": "保持虚心受教，持续投资自己与提升能力",
+          "timestamp_sec": 1379,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "成长于单亲贫困家庭，母亲打三份工养家。早年涉足房地产与废品管理并成功退出，随后转入刚需型人寿保险行业，把公司做到年营收8.5亿至10亿美元。",
+      "guest_name": "Sean Mike",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Arthur Blank",
+        "Multi-billionaire mentor who advised him on delegation"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder & CEO, Life Insurance Company",
+      "wealth_detail": "$5B cumulative company sales; $850M revenue last year and projecting $1B this year",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "选择刚需且永不缺客户的行业，比别人更努力并不断获取潜在客户（Leads）；销售靠的是绝对的自信、预设成交和极致坦诚，而非天赋。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I bought my first forplex... I lived in one and I rent the other three and that's how it started.",
+          "summary_en": "Start in multifamily real estate by buying a fourplex, living in one unit, and renting the rest.",
+          "summary_zh": "买下四户住宅自住一户出租三户，低成本起步",
+          "timestamp_sec": 1485,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "The last deal I think I bought $72 million I bought with zero money... It's a creative financing rather.",
+          "summary_en": "Use creative financing instead of banks to acquire large real estate deals with little or no cash down.",
+          "summary_zh": "善用创意融资，靠信用和口碑实现零首付拿地",
+          "timestamp_sec": 1516,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "You got to build your reputation and you got to build the credit and there's people that want to give you the money all the time.",
+          "summary_en": "Build strong credit and a trustworthy reputation so capital partners willingly fund your deals.",
+          "summary_zh": "做人必须建立良好信用与口碑，资金自会找你",
+          "timestamp_sec": 1525,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I don't learn [ __ ] from my successes... It's about the lessons and the failure I made in my life.",
+          "summary_en": "Extract your deepest growth from major failures rather than coasting on past successes.",
+          "summary_zh": "成功学不到真东西，人生的失败才是最好的老师",
+          "timestamp_sec": 1535,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "My businesses becomes my identity versus I have my own identity... workaholism... it's a sedation because we don't want to be in the present moment.",
+          "summary_en": "Do not let workaholism sedate you or allow your business to become your entire identity.",
+          "summary_zh": "别把工作当成麻痹逃避，更别将身份绑定生意",
+          "timestamp_sec": 1575,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Seek Trusted Support & Daily 1% Steps",
+          "category": "Mindset & Resilience",
+          "quote": "Baby steps... Just a little day at the time, 1% at the time... talk to somebody. Do not hide... make sure that you have trusted people.",
+          "summary_en": "Take small 1% daily steps during hard times and open up to trusted people instead of hiding.",
+          "summary_zh": "低谷时会过去，每天进步百分之一并找人倾诉",
+          "timestamp_sec": 1630,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Chase External Validation Through Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I was always looking for validation from the outside world... Money doesn't buy happiness. The only thing money buys you buys you time.",
+          "summary_en": "Stop seeking external validation; money only buys time and amplifies who you already are.",
+          "summary_zh": "金钱买不到快乐，不要用外界认可定义自我",
+          "timestamp_sec": 1585,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Invest in Yourself & Enjoy the Journey",
+          "category": "Mindset & Resilience",
+          "quote": "You are the biggest asset in the world... Go enjoy the journey, not the destination... don't get any shortcuts.",
+          "summary_en": "Invest in yourself as your greatest asset, avoid shortcuts, and enjoy the journey.",
+          "summary_zh": "你自己是最大资产，不走捷径并享受成长过程",
+          "timestamp_sec": 1699,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "受亲戚一句话启发进入多户住宅领域，卖光所有汽车并借了5万美元买下第一栋四户住宅（fourplex），自住一户出租三户起步，随后用创意融资滚雪球至7200万美元大单。",
+      "guest_name": "Boca Raton Multifamily Real Estate Investor",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Family member who introduced him to multifamily fourplexes"
+      ],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Multifamily Real Estate Investor",
+      "wealth_detail": "Bought a $72M deal with zero money down via creative financing; lost $250M in equity and cash in one down-market year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不必等攒够巨额资金再买房，可以从小型多户住宅自住兼出租起步，靠积累信用和口碑运用创意融资；同时重视自我成长、身心健康与诚实面对困境。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "7Yx6-8nMbkc",
+  "video_type": "street_multi"
+}

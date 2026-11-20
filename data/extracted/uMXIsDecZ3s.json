@@ -1,0 +1,283 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "There's two types of people on this planet. People that talk... and people that do... You got to be an action taker.",
+          "summary_en": "Be an action taker rather than someone who just talks, because doing leads to a good life.",
+          "summary_zh": "少空谈多行动，做行动派",
+          "timestamp_sec": 138,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Give Genuine Praise, Never Flatter",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to speak life onto people. Compliment people. Build them up... Don't flatter people. Never flatter people cuz it's creepy.",
+          "summary_en": "Encourage and compliment people genuinely to build them up, while strictly avoiding insincere flattery.",
+          "summary_zh": "真诚赞美他人，绝不谄媚",
+          "timestamp_sec": 141,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "If you put your faith in God, miracles will happen. Doors will open.",
+          "summary_en": "Put your faith in God and surrender control so unexpected doors and miracles can open in your life.",
+          "summary_zh": "心怀信仰，奇迹与机会自来",
+          "timestamp_sec": 150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Take Radical Ownership & Drop Victimhood",
+          "category": "Mindset & Resilience",
+          "quote": "The moment I took autonomy over myself, once I finally conceded to my innermost self that everything going on in my life was my fault... there's nothing you can't do.",
+          "summary_en": "Drop the victim mentality and take complete personal responsibility for everything good and bad in your life.",
+          "summary_zh": "摆脱受害者心态，负起全责",
+          "timestamp_sec": 195,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I started at 33 homeless and penniless. I wash dogs. I clean houses. I wash cars... I did whatever the... I had to do. I worked seven days a week.",
+          "summary_en": "Do whatever honest work is available when starting from zero and outwork everyone seven days a week.",
+          "summary_zh": "放下身段做苦活，每周工作七天",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Make more money than you spend. Invest that money. Save that money. Invest that money.",
+          "summary_en": "Spend less than you earn, save the difference, and consistently invest that money.",
+          "summary_zh": "入大于出，存钱并持续投资",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "For the young men out there, don't look at that porn... That's your life force. Put that away.",
+          "summary_en": "Practice self-discipline and avoid pornography so you protect your drive and life force.",
+          "summary_zh": "远离色情消耗，守住生命能量",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Honor & Take Care of Family",
+          "category": "Mindset & Resilience",
+          "quote": "Young men out there, take care of your mom. Call her every day and tell her you love her... That's the highest level of manhood.",
+          "summary_en": "Call your mother every day, show her love, and take care of her while you still can.",
+          "summary_zh": "善待母亲，每天表达爱与感恩",
+          "timestamp_sec": 246,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21年前曾无家可归并深陷毒瘾，33岁身无分文时靠洗狗、打扫房屋、洗车起步并每周工作七天，后创立果昔品牌，13年间做到年营收3200万至3500万美元。",
+      "guest_name": "Austin Smoothie Chain Founder",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Smoothie Business Founder & Entrepreneur",
+      "wealth_detail": "$23M revenue last year; projected $32M-$35M revenue this year (13 years in business)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "停止受害者心态并对自己的人生负全责，放下身段拼命工作、赚得比花得多并把余钱拿去投资，同时坚守信仰并善待母亲与家人。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Africa as an industry, as a concept, is the most overlooked, undervalued investment opportunity for entrepreneurs and investors right now in 2025.",
+          "summary_en": "Target overlooked, high-growth markets with favorable demographics like Africa, where 9 of the 20 fastest-growing economies are located.",
+          "summary_zh": "关注被低估的非洲高增长市场",
+          "timestamp_sec": 364,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You delight your employee. Everything flows from that because then your employees want to stick around. The greatest expense that any entrepreneur will ever have is employee churn.",
+          "summary_en": "Delight, empower, and care for your employees so they stay, serve customers well, and generate your best business ideas.",
+          "summary_zh": "善待并赋能员工以降低流失率",
+          "timestamp_sec": 395,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "28岁赚到第一个100万美元，其所创立的公司年营收合计超过10亿美元，目前从事私募股权与风险投资。",
+      "guest_name": "Austin PE & VC Investor ($1B+ Revenue Founder)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Private Equity & Venture Capital Investor / Serial Founder",
+      "wealth_detail": "Made first $1M at age 28; founded companies generating well over $1B in annual revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "寻找被市场忽视的高成长赛道（如非洲市场），并通过真正关心和赋能员工来减少人才流失，让员工自发服务好客户并推动企业创新。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Make health your number one life priority... I really traded health for wealth and it hurt my ability to create wealth.",
+          "summary_en": "Regrets trading health for wealth during his startup grind, noting that peak health yields better entrepreneurial performance.",
+          "summary_zh": "别为赚钱透支健康，健康排第一",
+          "timestamp_sec": 583,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Sleep is your number one life priority. Nothing's more important than sleep.",
+          "summary_en": "Prioritize sleep above everything else daily to maintain peak cognitive performance and slow aging.",
+          "summary_zh": "将高质量睡眠作为每日首要任务",
+          "timestamp_sec": 738,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Audit & Eliminate Environmental Toxins",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've tested over the years everything I put into my body... we're now working on trying to source our own foods, test them all for all these chemicals, and try to have a pure food source.",
+          "summary_en": "Test and eliminate heavy metals and chemical contaminants in your food, water, and air.",
+          "summary_zh": "检测并远离食物和环境中的毒素",
+          "timestamp_sec": 746,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "There's no reason why we should have some kind of tempered expectations or ambitions, right?",
+          "summary_en": "Reject conventional limits on human lifespan and ambition given rapid advances in AI and biotechnology.",
+          "summary_zh": "打破寿命限制，敢于设定宏大目标",
+          "timestamp_sec": 834,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21岁时立志改变世界并决定先通过创业赚钱，后创办支付公司Braintree（含Venmo）并以8亿美元出售，现投身长寿与抗衰老领域。",
+      "guest_name": "Bryan Johnson",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Founder of Braintree/Venmo & Rejuvenation Olympics Competitor",
+      "wealth_detail": "Sold Braintree/Venmo for $800M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要为了赚钱牺牲健康，应把健康和高质量睡眠放在人生首位，同时检测并远离日常饮食与环境中的有害毒素。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Spend 90% on Job, 10% on Career",
+          "category": "Actionable Skills & Habits",
+          "quote": "My advice to younger folks is to spend about 90% of your time on your job and 10% on your career.",
+          "summary_en": "Dedicate 90% of your energy to excelling at your current job and reserve 10% to network and plan your next career move.",
+          "summary_zh": "90%精力做本职，10%谋划职业",
+          "timestamp_sec": 948,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "You got to solve those $100,000 million problems... Ultimately... it's going to come down to do they believe we're the best partner, the best company that's going to solve their problem.",
+          "summary_en": "To sell to large enterprises, focus on solving high-stakes problems and prove you are their best partner.",
+          "summary_zh": "为大客户解决高价值核心痛点",
+          "timestamp_sec": 1010,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to show them... proofs of concept or pilot... You got to have typically very strong references... using our existing references to help our new potential prospects trust that we can solve their problem.",
+          "summary_en": "Win enterprise deals through hands-on proofs of concept, pilots, and strong existing customer references.",
+          "summary_zh": "用试点项目和客户背书赢取信任",
+          "timestamp_sec": 1060,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Surround yourself with a great team. It all comes down to people. Never do this by yourself.",
+          "summary_en": "Build a great team with domain-specific engineers, salespeople, and marketers rather than trying to build alone.",
+          "summary_zh": "组建优秀团队，切勿单打独斗",
+          "timestamp_sec": 1100,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "You got to have a big enough market problem to get to a billion dollar business for sure.",
+          "summary_en": "Identify an emerging, sufficiently large market problem that can sustain a billion-dollar scale business.",
+          "summary_zh": "选择足够庞大的市场与问题规模",
+          "timestamp_sec": 1108,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Treat others the way you like to be treated... They're going to feel good. They're going to feel valued.",
+          "summary_en": "Treat everyone with care and respect regardless of differences so people feel genuinely valued.",
+          "summary_zh": "待人以己所欲，让他人感到被重视",
+          "timestamp_sec": 1157,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "My identity is not in being a business guy or an entrepreneur, right? My identity is being a child of God... I'm not going to base my worth on whether my business works or not.",
+          "summary_en": "Anchor your personal identity and self-worth in faith and family rather than tying it to business outcomes.",
+          "summary_zh": "不把自我价值绑定在生意成败上",
+          "timestamp_sec": 1174,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "40年前从IBM起步进入科技行业，深耕15年后赴奥斯汀加入创业公司，2000年与三位好友创办首家企业，42岁赚到个人第一个100万美元，现任软件公司年营收超8.5亿美元。",
+      "guest_name": "Austin Enterprise Security Software Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [
+        "Senior colleague at IBM (1980s)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Technical / Engineering",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Enterprise Software Founder & CEO",
+      "wealth_detail": "Personally made first $1M at age 42; current company generates over $850M in annual revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "将90%的精力投入本职工作、10%用于拓展人脉与规划下一步；找准大市场痛点，组建专业团队并用试点和客户背书建立信任，同时不要把自我价值完全绑定在生意成败上。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "uMXIsDecZ3s",
+  "video_type": "street_multi"
+}

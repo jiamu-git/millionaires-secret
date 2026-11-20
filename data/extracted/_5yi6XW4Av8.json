@@ -1,0 +1,219 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "one of the things that I love to teach my son is take a risk",
+          "summary_en": "Take calculated risks when starting out instead of letting fear hold you back.",
+          "summary_zh": "创业起步要敢于承担风险",
+          "timestamp_sec": 123,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "if you believe in yourself and you believe in what you do then the chances are you will be a success",
+          "summary_en": "Believe deeply in yourself and your work to create a high likelihood of success.",
+          "summary_zh": "坚定相信自己和所做之事",
+          "timestamp_sec": 135,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I was able to reinvest my profit over and over and over and what that did was that allowed me to get larger and larger",
+          "summary_en": "Continuously reinvest profits back into your business to scale from six to seven figures and beyond.",
+          "summary_zh": "把利润反复再投资以做大规模",
+          "timestamp_sec": 159,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "do a 1031 exchange and what that does it allows you to push out your taxes because you rolling your profit into your next build",
+          "summary_en": "Use tax-deferral tools like 1031 exchanges to roll profits into larger real estate builds.",
+          "summary_zh": "善用1031置换递延税款滚大项目",
+          "timestamp_sec": 173,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I'm a great believer in hard work pays off",
+          "summary_en": "Maintain a strong work ethic because consistent hard work pays off over time.",
+          "summary_zh": "坚信努力付出终有回报",
+          "timestamp_sec": 197,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "know your goal focus on the goal and don't stop until you get there",
+          "summary_en": "Define your goal clearly, stay locked in on it, and refuse to quit until you achieve it.",
+          "summary_zh": "明确目标并保持专注直到达成",
+          "timestamp_sec": 208,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年从事模特行业，退役后转型翻修房屋，再逐步发展为独立住宅开发与建造商，通过持续将利润再投资滚大项目规模。",
+      "guest_name": "Los Angeles Former Model & Real Estate Developer",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Real Estate Developer & Home Builder (Former Model)",
+      "wealth_detail": "$3.5M profit on last property",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "起步时要敢于冒险并相信自己，把赚到的利润不断再投资并善用1031置换延税以做大规模。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "don't get down on yourself don't start second guessing yourself and just keep working at it every single day is a new day",
+          "summary_en": "Do not dwell on setbacks or slow sales; treat every day as a fresh chance to keep pushing forward.",
+          "summary_zh": "面对挫折别自我怀疑，每天坚持向前",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I can make a decision in a split second and I don't overthink things and don't worry about too many things I just jump right in",
+          "summary_en": "Make decisions quickly without overthinking and jump straight into execution.",
+          "summary_zh": "果断决策不内耗，直接下场行动",
+          "timestamp_sec": 364,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "early on I always just was like I hustled I figured out how to like get stuff done and I never uh I never took any shortcuts",
+          "summary_en": "Hustle hard early on, figure out how to get things done, and never take shortcuts.",
+          "summary_zh": "早期拼命实干解决难题，绝不走捷径",
+          "timestamp_sec": 374,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "just work hard invest well save and go for it",
+          "summary_en": "Work hard, save diligently, and invest wisely to reach your major financial goals.",
+          "summary_zh": "努力工作、积极储蓄并做好投资",
+          "timestamp_sec": 404,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从软件工程起步，曾创办科技初创公司并最终被收购，随后转型创办营销代理公司并稳定经营9年。",
+      "guest_name": "Los Angeles Software Engineer & Marketing Agency Founder",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Marketing Agency Founder & Former Software Engineer",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要过度思考、果断决策行动，脚踏实地拼命干且绝不走捷径；同时努力工作、精明投资并坚持储蓄。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "to bring in good people they have to believe in you you know your dreams got to be so big that everybody's dream can fit inside of it",
+          "summary_en": "Scale by casting a vision large enough that talented people can fulfill their own dreams inside yours.",
+          "summary_zh": "用足够宏大的愿景吸引优秀人才",
+          "timestamp_sec": 561,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "faith is really taking action before you have what you need... when you put money behind something that's when you know you're committed",
+          "summary_en": "Take action and commit resources before everything is in place to force real commitment.",
+          "summary_zh": "条件未齐先行动，用真金白银倒逼投入",
+          "timestamp_sec": 573,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "low stress is low performance but when you put yourself in these uncomfortable situations that's when that greatness that lies within comes out",
+          "summary_en": "Intentionally place yourself in high-pressure, uncomfortable situations to unlock peak performance.",
+          "summary_zh": "主动置身高压不适环境以激发潜能",
+          "timestamp_sec": 606,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "people don't have to believe what you're saying they have to believe that you believe what you're saying cuz everything's a transfer of belief",
+          "summary_en": "Validate your offering until you have total conviction, because selling is a transfer of belief.",
+          "summary_zh": "销售本质是信念传递，先让自己坚信产品",
+          "timestamp_sec": 642,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I would split my check three ways and I would live on a third of it one would go towards IRS and savings and then the other one would go towards a reserve account",
+          "summary_en": "Divide every paycheck into thirds: live on one-third, set aside one-third for taxes/savings, and lock one-third in an untouched reserve.",
+          "summary_zh": "收入三等分，只用三分之一生活并留备用金",
+          "timestamp_sec": 663,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "if you don't come from a rich family a rich family can come from you and I made the decision in my family that I was going to be the one person that changed my family tree forever",
+          "summary_en": "Decide that even if you were not born into wealth, you will be the one to transform your family's trajectory.",
+          "summary_zh": "即便出身贫寒，也要立志改写家族命运",
+          "timestamp_sec": 710,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "6岁随家人从哥伦比亚移民美国，两周后父母因执法突袭双双入狱，15岁挑起家庭重担打工谋生，21岁创办家庭安防公司并带队挨家挨户地推起步。",
+      "guest_name": "Calabasas Home Security & Solar Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Home Security & Solar Company Founder (Inc. 5000 #20)",
+      "wealth_detail": "$200M annual revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "条件尚未齐备时就先行动并投入资源逼自己一把，坚持将收入三等分（1/3生活、1/3缴税储蓄、1/3设为绝对不动的备用金），靠自己彻底改写家族命运。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "_5yi6XW4Av8",
+  "video_type": "street_multi"
+}

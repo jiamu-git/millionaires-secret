@@ -1,0 +1,292 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "We've been through recessions. We've been through the pandemic. In the pandemic, I went from $30 million in revenue to over $100 million in just a 2-year span.",
+          "summary_en": "Traditional trades like plumbing, HVAC, and electrical are resilient through recessions and pandemics and can scale past $100M.",
+          "summary_zh": "传统技工行业抗周期且能规模化做到上亿美元",
+          "timestamp_sec": 349,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Once you learn how to pay people and treat them properly, you could build any business... as long as you're taking care of your people, that's where the biggest opportunities are.",
+          "summary_en": "Hire the best talent, pay them well, and treat them right so you can scale beyond your own daily labor.",
+          "summary_zh": "雇佣顶尖人才并善待员工才能真正做大企业",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I got a little bit over 290 billboards all at once... What was more expensive is not making the money. Scared money don't make money.",
+          "summary_en": "Take bold marketing swings like putting up 290+ billboards at once because scared money does not make money.",
+          "summary_zh": "敢于投入重金扩张，胆小怕亏反而赚不到钱",
+          "timestamp_sec": 398,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I saw other people doing it and I'm like, they're not smarter than me. They don't work harder than me... if I could do it, the opportunities are endless, man.",
+          "summary_en": "Ignore doubters including family and recognize that successful people are no smarter or harder-working than you.",
+          "summary_zh": "无视质疑并坚信别人能做到自己也能做到",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "There's only two ways to grow a business, and that's capital or debt... you could grab a million dollars in debt and it's the same thing.",
+          "summary_en": "Use debt strategically to fuel high-pace business growth when the growing company value exceeds the debt.",
+          "summary_zh": "善用债务杠杆推动高增长企业快速发展",
+          "timestamp_sec": 477,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "The biggest opportunity right now is the electricians... Private equity... are about to buy all the electricians. AI cannot exist without electricians.",
+          "summary_en": "Target industries with massive tailwinds like electrical trades, which AI infrastructure needs and private equity is acquiring.",
+          "summary_zh": "选择受益于AI基建与私募收购浪潮的电工赛道",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "In order for everybody to eat, somebody's got to sell. Sales is the most pivotal part of the business. You got to learn and master sales.",
+          "summary_en": "Master sales first before anything else because nothing moves in a business until someone sells.",
+          "summary_zh": "把销售作为第一要务彻底学透并掌握",
+          "timestamp_sec": 557,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Build Proper Legal & Entity Foundation",
+          "category": "Business & Strategy",
+          "quote": "We used a corporation right when we started our first business... The foundation has to be there in the business in order for it to scale.",
+          "summary_en": "Set up your corporate/legal entity structure properly from day one to protect yourself and enable future scaling.",
+          "summary_zh": "创业初期就要搭好规范的公司主体与风控架构",
+          "timestamp_sec": 578,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Either you're 100% in or 100% out. If you're not 100% into whatever you're going to do, guess what? You're going to fail no matter what.",
+          "summary_en": "Never play the middle—commit 100% to your goal or you will quit when things get tough.",
+          "summary_zh": "切忌半途而废，做事必须百分之百全力以赴",
+          "timestamp_sec": 626,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "5岁偷渡来到美国且不会说英语，后来白手起家创办水暖、空调和电工工程公司（NextG），疫情两年间将年营收从3000万做到超1亿美元并成功出售。",
+      "guest_name": "Ishmael Valdez",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Former Owner, NextG Air Conditioning & Plumbing",
+      "wealth_detail": "Made over $100M in 2022; sold plumbing/AC/electrical company for $100M+ ($100M+ revenue)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "进入电工等传统技工行业（AI发展离不开电工，入行第一年就能赚10万至30万美元），优先学好销售，并在起步时就搭建好规范的公司实体架构。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I left an amazing job... Left $3 million of stock options on the table to take a risk, bet on myself... there's no better person in the world to bet on than you.",
+          "summary_en": "Escape golden handcuffs and bet on yourself even when leaving lucrative stock options behind seems crazy to others.",
+          "summary_zh": "敢于放弃高薪金手铐，勇敢押注在自己身上",
+          "timestamp_sec": 867,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It really takes long hours, 100 hours a week if you're going to do it right... My superpower in business is tenacity.",
+          "summary_en": "Understand that building a real company requires 100-hour workweeks, sacrifice, and relentless tenacity.",
+          "summary_zh": "创业需要每周百小时投入与极其顽强的韧性",
+          "timestamp_sec": 882,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "The key to AI is knowing how to use it... people should educate themselves, even take classes today on how to most effectively use it to improve their businesses.",
+          "summary_en": "Educate yourself and take classes on AI tools now so your business gains massive efficiency instead of falling behind.",
+          "summary_zh": "主动学习并深研AI工具以大幅提升商业效率",
+          "timestamp_sec": 909,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "There's nothing better at the end of the day than getting rejected to your face over and over and over again cuz the first 100 tries you get a no. On the 100th yes, you say, okay, I forgot about the first 99 no.",
+          "summary_en": "Build resilience through cold calling and face-to-face rejection until the eventual yes makes the 99 nos irrelevant.",
+          "summary_zh": "在反复被当面拒绝中锤炼销售抗挫与成交能力",
+          "timestamp_sec": 966,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I wrote 300 letters. Each one took 5 hours to write... I got 80 meetings out of 300... You got to ask for the order.",
+          "summary_en": "Do the outreach others call a waste of time, trust your gut, and directly ask for the job or order.",
+          "summary_zh": "用笨功夫大量写信争机会并敢于直接开口要单",
+          "timestamp_sec": 1002,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to build relationships long term... always end a meeting saying, 'What are you doing that I can help you with?' You always should look to add value to somebody.",
+          "summary_en": "Maintain relationships every 6 months and end every call by asking how you can help the other person.",
+          "summary_zh": "长期维护人脉并在每次交流结尾主动寻求帮人赋能",
+          "timestamp_sec": 1065,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Prepare more than anybody else. I call it extreme preparation. You spend 25,000 hours from kindergarten through college, and yet most people spend only 15 to 30 minutes preparing for a job interview.",
+          "summary_en": "Out-prepare everyone else through daily discipline and extreme preparation for every major opportunity.",
+          "summary_zh": "用极致准备和每日自律训练彻底拉开竞争差距",
+          "timestamp_sec": 1188,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学时期在宿舍挨门推销T恤练就销售能力；带3000美元赴洛杉矶失业后，花每封5小时写了300封定制信给顶级CEO拿到80个面谈机会并获得理想工作；后放弃世界500强300万美元期权，联合创立网络流量科技公司。",
+      "guest_name": "Randall Kaplan",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Co-founder of Web Traffic Technology Company",
+      "wealth_detail": "Co-founded $12B company ($35B peak dotcom valuation, $4B annual revenue); left $3M Fortune 500 stock options",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "永远别放弃并押注自己，用极致准备迎接每次机会，主动开口提出诉求，系统学习AI并坚持长期为身边人脉提供价值。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "It was made from fixing pain. Necessity is the mother of invention... helping people was the key thing.",
+          "summary_en": "Create products out of real necessity to solve genuine pain and improve how customers feel.",
+          "summary_zh": "从解决自身和用户的真实痛点出发创造好产品",
+          "timestamp_sec": 1303,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "If you're doing something and you have your friends and family challenging you like, 'What are you doing?' That kind of means you're on the right track.",
+          "summary_en": "Treat skepticism from friends and family as confirmation that you are building something original.",
+          "summary_zh": "亲友质疑往往恰恰说明你走在了正确的创新路上",
+          "timestamp_sec": 1331,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Protect Intellectual Property & Patents",
+          "category": "Business & Strategy",
+          "quote": "You have to own the IP. Your intellectual property is so important... you also have to understand it's an investment to protect that property.",
+          "summary_en": "Secure patents and invest in legal protection to shut down copycats while staying emotionally noble about competition.",
+          "summary_zh": "尽早布局专利并投入资源保护核心知识产权",
+          "timestamp_sec": 1376,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "The third thing which is most important is press, PR. You need people talking about it... Bill Gates said that if he was down to his last dollar, he'd spend it on PR.",
+          "summary_en": "Combine influencers/athletes, industry professionals, and aggressive PR/social media so the market learns about your product.",
+          "summary_zh": "借力达人专业背书与公关媒体引爆产品传播",
+          "timestamp_sec": 1417,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "You've got to be able to move fast, especially in the early days. There's an opportunity that comes, you need to jump on it.",
+          "summary_en": "Move fast, pivot quickly, and seize high-visibility opportunities like major events in the early days.",
+          "summary_zh": "早期创业必须反应迅速并果断抓住关键曝光机会",
+          "timestamp_sec": 1435,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "If you're trying to create a product just to make money, you're just going to move on to the next thing... I'm truly committed to this. I'm trying to change people's lives.",
+          "summary_en": "Build at the intersection of Ikigai—skills, profit, and helping the world—rather than chasing money alone.",
+          "summary_zh": "找准热爱擅长与助人的交汇点而非只为赚钱而做",
+          "timestamp_sec": 1471,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I've seen in my life where clearly the things that happened to me were out of my control. They were in God's hands... we had these people that showed up at the right time.",
+          "summary_en": "Stay grounded in faith and gratitude for the right people who show up at critical moments.",
+          "summary_zh": "心怀信仰与感恩，珍惜关键时刻出现的贵人助力",
+          "timestamp_sec": 1485,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "身为脊椎按摩师，2007年遭遇摩托车事故后为缓解自身伤痛在2008年发明了筋膜枪（Theragun/Therabody），靠达人运动员、理疗师背书与公关传播做到单年4亿美元营收。",
+      "guest_name": "Theragun / Therabody Founder (Massage Gun Inventor)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Founder & Inventor, Theragun / Therabody",
+      "wealth_detail": "Company generated $400M revenue in a single year",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "Fe7v_SWuhY4",
+  "video_type": "street_multi"
+}

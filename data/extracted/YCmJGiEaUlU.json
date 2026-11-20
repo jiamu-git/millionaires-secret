@@ -1,0 +1,224 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Investments. ... Tax free IRAs. ... Everything.",
+          "summary_en": "Make your money work for you by investing broadly, including tax-free IRAs.",
+          "summary_zh": "将资金投入免税IRA等多元资产持续增值",
+          "timestamp_sec": 91,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Professional Presence & Etiquette",
+          "category": "Actionable Skills & Habits",
+          "quote": "Dressed well, well-mannered, well-spoken.",
+          "summary_en": "Stand out and advance in business by dressing well, being well-mannered, and speaking articulately.",
+          "summary_zh": "注重着装礼仪与谈吐，提升职场专业形象",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find Your Own Path",
+          "category": "Business & Strategy",
+          "quote": "Well, it's not one-size-fits-all. So what works for Bill Gates doesn't work for me.",
+          "summary_en": "There is no single formula for wealth; find what works for your own situation.",
+          "summary_zh": "成功没有固定模板，需找到适合自己的路径",
+          "timestamp_sec": 157,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "All right, well you'll go far. You're persistent.",
+          "summary_en": "Persistence is a defining trait that takes you far in business.",
+          "summary_zh": "保持坚持不懈的韧性，才能在事业上走得更远",
+          "timestamp_sec": 191,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "34岁成为百万富翁，在华尔街深耕投资60年。",
+      "guest_name": "70-Year-Old NYC Wall Street Veteran",
+      "industry": "Finance & Investing",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Wall Street Finance Veteran (60-year career)",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "尽早工作、努力拼搏，把钱投入IRA免税账户等多元资产持续增值，同时注重体面着装、良好礼仪与谈吐，并坚持不懈。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Always positive self-talk... if you prepare like it's your last game, or you want to be great, then like you can live with the results. ... Your self-talk is everything.",
+          "summary_en": "Maintain positive self-talk during tough stretches and prepare with total commitment.",
+          "summary_zh": "保持积极的自我对话，并像最后一场般全力备战",
+          "timestamp_sec": 278,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Play the Long Game",
+          "category": "Mindset & Resilience",
+          "quote": "Everyone's path is different. Like, you might not get the praise or adulation you get as a teenager... It's the long game you play, you know?",
+          "summary_en": "Ignore early doubters or lack of hype; focus on playing the long game on your own path.",
+          "summary_zh": "无视早期质疑，专注长期主义，每人路径不同",
+          "timestamp_sec": 307,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I definitely believe in a higher power, and I believe in doing right by others and treating others how you want to be treated.",
+          "summary_en": "Stay grounded in faith and treat others with fairness and respect.",
+          "summary_zh": "心怀信仰与善意，以己度人、正直待人",
+          "timestamp_sec": 316,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "That's the secret, really. It's just the passion for the game... I love this game more than anything in the world.",
+          "summary_en": "True career longevity comes from genuine love and passion for your craft.",
+          "summary_zh": "长青的秘诀是对所从事事业发自内心的热爱",
+          "timestamp_sec": 335,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I would say think of the big picture... There's always a higher purpose for why you're going through those times and tough times don't last, but tough people do.",
+          "summary_en": "Keep the big picture in mind during slumps or injuries because tough times don't last, but tough people do.",
+          "summary_zh": "低谷期着眼大局，艰难时刻终会过去而强者留存",
+          "timestamp_sec": 375,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "23岁成为百万富翁，出身NBA世家（父亲为NBA状元），凭借职业篮球最高单年收入约4000万美元。",
+      "guest_name": "Klay Thompson",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Father (Mychal Thompson)",
+        "Mother"
+      ],
+      "recommended_skills": [],
+      "role_or_title": "NBA Basketball Player",
+      "wealth_detail": "~$40M peak single-year income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持积极自我对话并全力准备；对热爱的事业怀有纯粹热情；着眼大局与长远发展，坚韧度过低谷期。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "the opportunities that I was looking for were outside of Philadelphia... sometimes you got to be uncomfortable to get comfortable.",
+          "summary_en": "Relocate and embrace discomfort if the opportunities you seek lie outside your hometown.",
+          "summary_zh": "敢于离开舒适圈，去机会更集中的地方闯荡",
+          "timestamp_sec": 581,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "relationships are key in anything that you do... I'm also not afraid to simply introduce myself. I'm not afraid to ask the questions... I'm also not afraid to be the dummy in the room.",
+          "summary_en": "Never hesitate to introduce yourself to top performers and ask questions—even if it means looking like the dummy in the room.",
+          "summary_zh": "主动结交顶级人物，不耻下问建立高价值人脉",
+          "timestamp_sec": 618,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Partner & Share Equity to Scale",
+          "category": "Business & Strategy",
+          "quote": "To make real money, you need the partnerships, the association with people who have done it before... not to try to own 100% of nothing.",
+          "summary_en": "Partner with proven operators and share equity to create real value instead of owning 100% of something worthless.",
+          "summary_zh": "借力合作分享股权，别独占毫无价值的100%",
+          "timestamp_sec": 686,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Expand Globally & Appeal to Masses",
+          "category": "Business & Strategy",
+          "quote": "The world is big, Kevin, and if you can find a way to be appealing to the world, to the masses... I wanted to become a global asset, a global entity, a global brand.",
+          "summary_en": "Broaden your appeal beyond a narrow niche to build a global brand that compounds at mass scale.",
+          "summary_zh": "面向全球大众市场打造品牌，突破单一圈层局限",
+          "timestamp_sec": 758,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "understanding how to take your likeness and put your likeness in a position where your likeness creates value for you... through brand partnerships, association.",
+          "summary_en": "Monetize attention by leveraging your likeness into major brand partnerships and associations that amplify your brand.",
+          "summary_zh": "将个人影响力绑定大品牌合作，把流量转化为资产",
+          "timestamp_sec": 824,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Making the money one time, easy. Keeping the money after you made it, hard... I respect finance. I respect investing. I respect making your money make money for you.",
+          "summary_en": "Respect money, prioritize financial security and retention, and invest so your money makes money for you.",
+          "summary_zh": "敬畏金钱并学会守财，用金融投资让钱生钱",
+          "timestamp_sec": 935,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Capitalize on Free Platform Distribution",
+          "category": "Business & Strategy",
+          "quote": "You're taking advantage of these free resources in a way like I've never seen... do not miss your opportunity... don't miss your moment.",
+          "summary_en": "Seize free digital and streaming platforms to build direct audience reach, attract investors, and capture brand demand.",
+          "summary_zh": "抓住免费平台与流媒体红利，直接触达受众变现",
+          "timestamp_sec": 1007,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从费城普通工薪家庭起步，靠脱口秀打开大门，随后搬去纽约和洛杉矶拓展机会，并从喜剧延伸至影视制作、IP开发与企业股权。",
+      "guest_name": "Kevin Hart",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Chris Rock",
+        "Michael Jordan (case study)"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting",
+        "Public Speaking & Communication",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Comedian, Actor, Producer & Media Entrepreneur",
+      "wealth_detail": "$400M (title); $650M company valuation; up to $100M/yr peak single-year income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "敢于走出舒适圈去大市场；主动结交强者、不耻下问并与成熟伙伴合作分蛋糕；学会守财与投资让钱生钱；抓住当前免费内容与流媒体平台红利打造全球化个人品牌。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "YCmJGiEaUlU",
+  "video_type": "street_multi"
+}

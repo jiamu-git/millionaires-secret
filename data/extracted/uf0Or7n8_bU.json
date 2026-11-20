@@ -1,0 +1,181 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "if I just hung out with authentic good high energy people they were eventually going to be successful and then I would eventually be successful if I kind of played the long game",
+          "summary_en": "Surround yourself with authentic, high-energy people and play the long game so you succeed alongside them.",
+          "summary_zh": "结交真诚高能量的人并打持久战共同成长",
+          "timestamp_sec": 143,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I would say data scientists that would be an industry that I would look at... analytics is a massive now",
+          "summary_en": "Target fast-growing, high-demand fields such as data science and analytics when launching a career.",
+          "summary_zh": "选择数据科学和商业分析等高增长赛道",
+          "timestamp_sec": 240,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "any sales position you'd want to be at a place where you're on a team because it's lonely to be in sales... team selling is huge",
+          "summary_en": "Join a collaborative sales team rather than selling alone on an island so you can share wins and stay resilient.",
+          "summary_zh": "在销售中融入团队协作而非单打独斗",
+          "timestamp_sec": 285,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I am rarely on the calls anymore I'm just pretty much coaching on strategy so some of our sales folks they're technically brilliant",
+          "summary_en": "Hire technically brilliant salespeople so you can step away from day-to-day calls and focus on coaching strategy.",
+          "summary_zh": "打造专业强悍团队并退居幕后专攻战略辅导",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "they're likable they're personable they care about the clients and they have very very creative solutions",
+          "summary_en": "Truly care about clients and deliver creative solutions tailored to their operational headaches.",
+          "summary_zh": "真心关心客户并提供极具创意的解决方案",
+          "timestamp_sec": 335,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Specialize in Industry Verticals",
+          "category": "Business & Strategy",
+          "quote": "it's a secret sauce also to really know how to talk to talk versus just being that generalist",
+          "summary_en": "Develop deep expertise in specific industry verticals so you speak your clients' language instead of acting as a generalist.",
+          "summary_zh": "深耕细分垂直行业做专家而非泛泛通才",
+          "timestamp_sec": 391,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I read a boatload of books and now I listen to books on occasion as well so I probably read or listen to three to five books a month",
+          "summary_en": "Build a consistent habit of reading or listening to three to five books every month.",
+          "summary_zh": "保持每月阅读或听书三到五本的习惯",
+          "timestamp_sec": 403,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Stay Calm & Keep Perspective",
+          "category": "Mindset & Resilience",
+          "quote": "don't sweat the small stuff it's all small stuff... 95 of stuff that happens isn't really a big deal... you have to be calm during chaos",
+          "summary_en": "Remember that 95% of problems are small stuff and stay calm during chaos.",
+          "summary_zh": "看淡日常琐事，在混乱与危机中保持冷静",
+          "timestamp_sec": 417,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Prioritize Family & Intentional Presence",
+          "category": "Mindset & Resilience",
+          "quote": "we are huge huge Believers in quantity of time with kids... knowing that you as a parent you're always around you're always there",
+          "summary_en": "Invest quantity of time in your children, show affection, and take a breath before entering home so you are fully present for your spouse.",
+          "summary_zh": "重视陪伴孩子的时间长度并全心陪伴伴侣",
+          "timestamp_sec": 453,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I start off every day with a Triple Espresso in my parlor... and I do a few minutes of meditation",
+          "summary_en": "Anchor every morning with a consistent personal routine such as coffee and a few minutes of meditation.",
+          "summary_zh": "每天清晨坚持喝浓缩咖啡并冥想几分钟",
+          "timestamp_sec": 554,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "for 30 seconds to five minutes just gratitude towards my family towards I get to work today",
+          "summary_en": "Take 30 seconds to five minutes every morning to practice gratitude for your family and opportunity to work.",
+          "summary_zh": "每天早晨花几分钟向家人与工作机会感恩",
+          "timestamp_sec": 566,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "come up with a plan and then they need to have the tenacity and the wherewithal to execute on that plan... a lot of people give up I think a day a week a month before their business was gonna freaking go to the Moon",
+          "summary_en": "Create a concrete plan and execute with relentless tenacity rather than quitting right before a breakthrough.",
+          "summary_zh": "制定计划并顽强执行，切忌在爆发前夜放弃",
+          "timestamp_sec": 631,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Schedule Alone Time for Reflection",
+          "category": "Actionable Skills & Habits",
+          "quote": "decompress get away from your phone get away from your computer... alone time is when get hit with that random thought of how to make your business better",
+          "summary_en": "Disconnect from phones and computers for uninterrupted alone time to decompress, reflect, and spark business ideas.",
+          "summary_zh": "远离手机电脑独处反思，激发商业改善灵感",
+          "timestamp_sec": 769,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "diversifying so putting money in the market putting money in real estate I think is really smart I've also always put money in private companies so private Equity",
+          "summary_en": "Diversify investments across the stock market, real estate, private companies/PE, and even hobbies you know well.",
+          "summary_zh": "将资金分散配置于股市、房产及私募股权",
+          "timestamp_sec": 816,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "besides being an honorable hard-working incredible husband and father I would say authentic just real I tell it like it is",
+          "summary_en": "Build your legacy on honor, hard work, and being genuinely authentic and straightforward.",
+          "summary_zh": "做人正直坦率表里如一，兼顾家庭与商界口碑",
+          "timestamp_sec": 892,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学毕业后在芝加哥做猎头但一个月后因受不了严寒早起辞职，随后进入大公司派驻圣路易斯积累经验；后为照顾守寡母亲回家乡进入商业保险行业做销售（producer），前3-4年不断摸索，坚持25年以上将原公司发展为2000人规模的私募股权整合（PE roll-up）企业并成功出售，后加入Virtus Insurance担任合伙人及销售负责人。",
+      "guest_name": "Mike Kessner",
+      "industry": "Finance & Investing",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Don't Sweat the Small Stuff... and It's All Small Stuff",
+        "The Boys in the Boat",
+        "Exodus",
+        "The Big Fella"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Head of Sales & Partner at Virtus Insurance (Former Insurance PE Roll-Up Executive)",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "如果账户明天归零，会立刻重返全职销售岗位，靠比别人更拼、更努力（out-hustle/outwork）快速赚取佣金支票；随后将资金分散投资于股市、房地产、私募股权/初创公司及个人热爱并熟悉的收藏爱好领域。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "uf0Or7n8_bU",
+  "video_type": "deep_dive_single"
+}

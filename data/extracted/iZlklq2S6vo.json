@@ -1,0 +1,220 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I don't have jewelry... I fly private but I don't own a jet. I really don't overspend. I always have enough money if things go wrong in the company that I can fund it.",
+          "summary_en": "Avoid overspending on status symbols and keep enough reserves to fund your company if things go wrong.",
+          "summary_zh": "绝不过度消费，保留充足备用资金",
+          "timestamp_sec": 153,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on Making Money Over Tax Hacks",
+          "category": "Wealth & Investing",
+          "quote": "You got to make money to pay so my view pay all the taxes I can because I get to keep the balance.",
+          "summary_en": "Focus on generating income rather than obsessing over tax hacks—paying taxes means you are making money.",
+          "summary_zh": "专注创造利润，而非沉迷避税技巧",
+          "timestamp_sec": 200,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "I realized that literacy and understanding the business is the first priority.",
+          "summary_en": "Make business literacy and thoroughly understanding how a business works your top priority.",
+          "summary_zh": "把商业与财务认知放在首位",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's really great to have a mentor, someone that really knows what they're doing and that has worked.",
+          "summary_en": "Find a mentor who genuinely knows what they are doing and has a proven track record.",
+          "summary_zh": "寻找真正懂行且有成果的导师",
+          "timestamp_sec": 236,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I was goofing around and I got down to 600,000. I said, 'That's it. I got to get myself back on purpose and focus.'",
+          "summary_en": "Cut out distractions and get yourself back on purpose with laser focus when performance slips.",
+          "summary_zh": "戒掉散漫玩乐，重新聚焦核心目标",
+          "timestamp_sec": 245,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Of the 600,000 I had left, I gave 200 to a church. And I said, 'They're going to use it better than I was.'",
+          "summary_en": "Stay grounded in faith and generosity, giving back even when you are recovering from a setback.",
+          "summary_zh": "心怀信仰与感恩，低谷时仍懂得回馈",
+          "timestamp_sec": 257,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "It's just ideas. It's an attitude. That's it. It's an attitude. You can change your attitude about anything that's under your control.",
+          "summary_en": "Growing up poor does not cap your potential—success comes down to ideas and changing the attitude within your control.",
+          "summary_zh": "出身不决定上限，改变心态就能改命",
+          "timestamp_sec": 300,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Put your attention on making the money, not worrying about losing it.",
+          "summary_en": "Focus your energy on making money and planning for what could go right instead of fearing loss.",
+          "summary_zh": "聚焦把钱赚到，别把精力耗在怕亏钱",
+          "timestamp_sec": 327,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "What's the ROI for worry? ... You've got to take the viewpoint with enthusiasm. I can and will make it happen... and get busy doing it.",
+          "summary_en": "Stop wasting energy on worry—adopt an enthusiastic 'I can and will make it happen' mindset and get busy executing.",
+          "summary_zh": "停止内耗焦虑，用热情立刻投入行动",
+          "timestamp_sec": 348,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Never tell a lie. Always be honest. Whatever it is, the brutal truth.",
+          "summary_en": "Never tell a lie and commit to total honesty, even when it means delivering the brutal truth.",
+          "summary_zh": "绝不说谎，始终坚持残酷的坦诚",
+          "timestamp_sec": 390,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Care about my customers first and my shareholders second, and I come in third.",
+          "summary_en": "Put your customers first, your shareholders second, and yourself third in any business you build.",
+          "summary_zh": "客户第一，股东第二，自己排在最后",
+          "timestamp_sec": 390,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "When I start a business and I own it... I never sell until we sell the whole company. I'm not into trading my stocks in and out. I played the long game and that's what works.",
+          "summary_en": "Build and hold ownership in your businesses for the long game instead of trading in and out of stocks.",
+          "summary_zh": "持有公司长期股权，不搞短线投机",
+          "timestamp_sec": 400,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "The purpose of business is to help others... get to self-sustaining. And let's prove that by giving people enough value that they give us more for what we give them.",
+          "summary_en": "Make your business self-sustaining by helping others and delivering more value than customers pay you.",
+          "summary_zh": "商业本质是帮人解决问题并超额交付价值",
+          "timestamp_sec": 453,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Never Get Complacent & Keep Creating",
+          "category": "Mindset & Resilience",
+          "quote": "You create success. It's not like it's a jewel and that you've got it and you don't have to do anything else. You got to continue to outcreate.",
+          "summary_en": "Never grow complacent after achieving success—it is not a static trophy, so you must continuously outcreate.",
+          "summary_zh": "成功不是终点，必须持续创造新价值",
+          "timestamp_sec": 566,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Miami is... the accumulation of people that are going somewhere with their money and their resource... they're creators. That's what you want to be.",
+          "summary_en": "Place yourself in environments filled with ambitious creators who actively deploy their resources to build.",
+          "summary_zh": "靠近有进取心的创造者与顶级圈层",
+          "timestamp_sec": 689,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I go for it every day... Clint... said, 'Bob, never let the old man in.'",
+          "summary_en": "Maintain disciplined daily health habits like cold plunges, cycling, and swimming, and refuse to adopt an aging mindset.",
+          "summary_zh": "坚持每日冷水浴与运动，保持年轻态",
+          "timestamp_sec": 791,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Communication & Enthusiasm",
+          "category": "Actionable Skills & Habits",
+          "quote": "They're enthusiastic and they know how to communicate. They are really people that want to contribute to life.",
+          "summary_en": "Develop strong communication skills, contagious enthusiasm, and a vision to contribute to the future.",
+          "summary_zh": "培养感染力、沟通力与贡献精神",
+          "timestamp_sec": 815,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Geniuses have a strong desire to work hard and long. They're willing to give all they got to a project.",
+          "summary_en": "Cultivate a strong desire to work hard and long, giving everything you have to your projects and fellow human beings.",
+          "summary_zh": "甘愿长时间拼搏，对事业全力以赴",
+          "timestamp_sec": 871,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Focus on your future success and keep going. Don't introvert on your losses... A loser loses three times, he's out. A winner loses 20, he's still in.",
+          "summary_en": "Learn from your losses without dwelling on them—winners actually lose more times than losers because they never quit.",
+          "summary_zh": "别沉溺于失败，赢家输二十次依然在场",
+          "timestamp_sec": 881,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年时薪仅50美分，大学时靠5000美元本金在导师指导下投资起步，滚雪球至360万美元（一度回撤至60万美元后重新聚焦）；后来因儿子患胶质母细胞瘤转入生物医药领域抗癌，并将生物科技公司以210亿美元出售。",
+      "guest_name": "Robert Dugen",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Uncle Bob (early life mentor)",
+        "Early investing mentor",
+        "Dr. Barrios (Caltech 24 Traits of Geniuses)",
+        "Clint Eastwood ('Never let the old man in')"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Public Speaking & Communication",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Biotech Entrepreneur & Investor (Former Cancer Biotech Company Owner)",
+      "wealth_detail": "$10B-$14B net worth; sold biotech company for $21B; made $1B in a single day",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "把注意力放在赚钱和未来成功上，而不是担心亏钱；找一位真正懂行的导师，先把商业与财务认知放在首位；保持热情与行动力，拒绝内耗焦虑，在失败后坚持到底并持续创造价值。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "iZlklq2S6vo",
+  "video_type": "deep_dive_single"
+}

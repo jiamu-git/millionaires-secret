@@ -1,0 +1,231 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "There was nothing more important to me than being successful in accomplishing my goals... I was willing to sacrifice everything.",
+          "summary_en": "Commit completely to your goals and be willing to sacrifice and work as hard as needed.",
+          "summary_zh": "全力以赴并甘愿牺牲一切去达成目标",
+          "timestamp_sec": 224,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I found a problem that I wanted to solve that I was passionate about. I don't believe that you can just make money without passion.",
+          "summary_en": "Solve a problem you genuinely care about so passion keeps you going through inevitable hurdles.",
+          "summary_zh": "做真正热爱的事业才能熬过艰难时刻",
+          "timestamp_sec": 316,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Prioritize Sleep & Physical Recovery",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you're not rested and wellfed, you're not going to work good... You need sleep.",
+          "summary_en": "Reject sleep-deprivation hustle myths; get 6–7 hours of sleep so your brain can execute sharply.",
+          "summary_zh": "保证充足睡眠和精力才能高效工作",
+          "timestamp_sec": 376,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Yes, I want to have a great product, but if I don't have great service, it's not going to win. You got to have both combinations.",
+          "summary_en": "A great product alone isn't enough; pair it with superior customer service to beat competitors.",
+          "summary_zh": "好产品必须配顶级服务才能胜出",
+          "timestamp_sec": 509,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Just because I've stayed focused. You got to be able to figure out what moves the needle.",
+          "summary_en": "Stay focused and identify the high-leverage drivers that actually move the needle.",
+          "summary_zh": "保持专注并识别真正推动增长的关键",
+          "timestamp_sec": 524,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Investing in the right team. You got to have a team. If you don't have a team, you got nothing. You can't do it all yourself.",
+          "summary_en": "Invest heavily in an A-player team—even paying key staff more than yourself early on—to scale beyond yourself.",
+          "summary_zh": "重金投资顶尖团队并学会放权扩张",
+          "timestamp_sec": 534,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You got to bet on you. You got to believe in yourself. You got to never quit, no matter how dark it gets.",
+          "summary_en": "Bet on yourself and refuse to quit through dark days regardless of self-doubt.",
+          "summary_zh": "坚定押注自己，至暗时刻也绝不放弃",
+          "timestamp_sec": 587,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "In order to be bankable, you need to have the right accounting. Your numbers have to be perfect cuz nobody's going to give you any money if they're not.",
+          "summary_en": "Hire a great accountant and keep spotless books so your business stays bankable and sellable.",
+          "summary_zh": "保持账目精准清晰，确保具备融资资质",
+          "timestamp_sec": 663,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "The most successful people always look at life as if they are a student. I'm always trying to learn something new.",
+          "summary_en": "Maintain a lifelong student mindset; believing you know everything is when growth ends.",
+          "summary_zh": "永远保持学徒心态，不断学习新事物",
+          "timestamp_sec": 719,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Be Shrewd & Fiercely Competitive",
+          "category": "Business & Strategy",
+          "quote": "You have to count pennies and you have to really think with the details and you have to be willing to have the uncomfortable conversations. You have to be a shark.",
+          "summary_en": "Be shrewd about details, embrace uncomfortable conversations, and compete aggressively like a shark.",
+          "summary_zh": "精明抠细节，敢于在商战中做鲨鱼",
+          "timestamp_sec": 812,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "In order to be successful in life you have to be consistent on everything. So we've had to deliver over and over and over again all the time.",
+          "summary_en": "Outlast and overtake bigger incumbents through relentless daily consistency and zero-error delivery.",
+          "summary_zh": "每天稳定零失误交付，靠一致性胜出",
+          "timestamp_sec": 882,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you're negotiating something, don't ever give them the first number. Make them make the offer.",
+          "summary_en": "Never name the first number in negotiations, and sell authentically rather than relying on gimmicks.",
+          "summary_zh": "谈判绝不先出价，销售靠真诚不靠套路",
+          "timestamp_sec": 916,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I want to show you how valuable I am... every day all I do is focus on value.",
+          "summary_en": "Don't chase or beg clients—focus daily on delivering undeniable value so prospects come to you.",
+          "summary_zh": "专注创造自身价值，让客户主动选择你",
+          "timestamp_sec": 966,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "You can never forget about what things cost in business cuz then you'll overspend.",
+          "summary_en": "No matter how wealthy you become, never lose sight of fair market value or overpay out of convenience.",
+          "summary_zh": "时刻牢记事物真实成本，避免过度消费",
+          "timestamp_sec": 1067,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Force Entrepreneurship Without the Stomach",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Most people don't have the stomach for it, man. They really don't. You got to be willing to deal with everything. And if you're not, don't do it.",
+          "summary_en": "Don't pursue entrepreneurship unless you have the stomach to endure everything that comes with it.",
+          "summary_zh": "没有承受一切的心理素质就别创业",
+          "timestamp_sec": 1174,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Follow the Learn-Earn-Give Life Roadmap",
+          "category": "Mindset & Resilience",
+          "quote": "Spend the first 30 learning, spend the next 30 earning, and spend the last 30 giving.",
+          "summary_en": "Structure life across three 30-year chapters: learning first, earning second, and giving back third.",
+          "summary_zh": "前30年学习，中30年赚钱，后30年回馈",
+          "timestamp_sec": 1188,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Keep Business Simple & Practical",
+          "category": "Business & Strategy",
+          "quote": "I think be practical. A lot of times you get lost in the minutia of trying to be complicated.",
+          "summary_en": "Stay practical and keep business simple enough to calculate on a calculator and summarize in one paragraph.",
+          "summary_zh": "保持商业思维简单务实，别把事情搞复杂",
+          "timestamp_sec": 1200,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to know the information, but then you got to know the right person to talk to... Invest in getting in front of the right people.",
+          "summary_en": "Pair domain knowledge with high-value relationships and actively invest in getting in the room with the right people.",
+          "summary_zh": "专业知识与人脉并重，主动靠近对的人",
+          "timestamp_sec": 1231,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Buying a plane allowed me to get in front of bigger mentors that I wouldn't have been able to.",
+          "summary_en": "Invest in yourself and create access to much bigger mentors whose knowledge cannot be taken from you.",
+          "summary_zh": "舍得投资自己以换取顶级导师的人脉",
+          "timestamp_sec": 1249,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Take a lot of risk, start a business, build it up, create an immense amount of cash flow and revenue.",
+          "summary_en": "Take big risks, launch a business, and consistently compound cash flow and revenue year over year.",
+          "summary_zh": "敢于冒大风险创业，持续多年复利现金流",
+          "timestamp_sec": 1295,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "只有高中学历、在20多岁双亲因癌去世且刚经历离婚、带着两个年幼孩子并背负信用卡债务的困境下，于2012年在自家厨房穿着睡衣用一台苹果电脑创办Blackstone Medical Services；他通过向亲友筹资，每天发邮件联系医保公司谈合作、上门拜访医生拉业务，随后租下500美元月租的小办公室起步，最终在2019年订单量超越行业巨头成为全美第一。",
+      "guest_name": "Big Vic Tip",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Unnamed billionaire mentor (plane passenger)",
+        "Carl Icahn"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder & Owner, Blackstone Medical Services",
+      "wealth_detail": "$100M net worth (title); added ~$85M to net worth in 3-4 years; $5M+ private jet ($2M+/yr to operate)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "从仅剩78美元的低谷翻身，第一步是真正下定决心并甘愿为成功牺牲一切（包括睡眠和时间）、绝不放弃；具体路径上要敢于冒大风险创业，打造能持续多年产生高额现金流和营收的实体生意，同时前30年专注学习、中间30年全力赚钱、最后30年回馈社会。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "4fOaAGCuuJU",
+  "video_type": "deep_dive_single"
+}

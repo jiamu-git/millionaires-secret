@@ -1,0 +1,316 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Market opportunity. ... Any do with AI. ... Yes, definitely [you're going to get left behind].",
+          "summary_en": "Focus on large market opportunities, especially anything involving AI, or risk getting left behind.",
+          "summary_zh": "紧跟AI浪潮与大市场机会",
+          "timestamp_sec": 222,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Listen to the customer. ... Always the customer. Customer doesn't buy, you don't have a business.",
+          "summary_en": "Always listen to and prioritize the customer—without paying customers, you do not have a business.",
+          "summary_zh": "倾听客户需求，客户永远第一",
+          "timestamp_sec": 256,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build a Proven Track Record",
+          "category": "Business & Strategy",
+          "quote": "You got to have a track record. You got to prove to them that you can make money for them.",
+          "summary_en": "To raise capital from investors, you must build a track record proving you can make them money.",
+          "summary_zh": "用过往业绩证明能帮人赚钱",
+          "timestamp_sec": 271,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Silicon Valley Venture Capitalist (CommerceOne Investor)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Venture Capitalist",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Fit and function... the process of them hiring another 9,000 sales reps was probably worth about 70 to 80 million bucks. Value is only in the eye of the beholder.",
+          "summary_en": "Deliver product fit and function that solves massive buyer costs—value is defined by what it saves or creates for the acquirer.",
+          "summary_zh": "以产品契合度为客户省巨额成本",
+          "timestamp_sec": 336,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I gave her money back in 3 months and built my first magazine and just kind of figured out I'm just going to work for myself.",
+          "summary_en": "Build your own business and work for yourself rather than relying on conventional employment.",
+          "summary_zh": "独立创业做老板，自己掌控命运",
+          "timestamp_sec": 412,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "I'm in the energy and infrastructure space more now in manufacturing... getting software money out of freaking manufacturing.",
+          "summary_en": "Target capacity-constrained, low-tech traditional infrastructure and manufacturing sectors like switchgear with software-like margins.",
+          "summary_zh": "切入低技术高毛利的实体基建制造",
+          "timestamp_sec": 428,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody [doubted me]. I mean, I couldn't read till I was in ninth grade. So, I doubted myself.",
+          "summary_en": "Push past early personal limitations and universal doubt from others to keep building.",
+          "summary_zh": "克服自身局限与他人质疑",
+          "timestamp_sec": 515,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "The Bible. ... At the end of the day for me, it's always been Christianity... Jesus is key.",
+          "summary_en": "Stay anchored in spiritual faith and humility, recognizing that you are imperfect and not the center of the universe.",
+          "summary_zh": "保持信仰与谦卑，心怀敬畏",
+          "timestamp_sec": 521,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "自幼无父母且9年级才识字，18岁向祖母借款7万美元创办杂志并在3个月内还清，21岁成为百万富翁，后将POS设备公司以超7000万美元卖给Cisco。",
+      "guest_name": "Silicon Valley Serial Founder & Switchgear Investor",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible"
+      ],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Serial Entrepreneur & Energy Infrastructure Manufacturer",
+      "wealth_detail": "Exited companies for $70M+ and ~$285M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "寻找供不应求、存在设备替换与数据中心扩建缺口的传统基建制造领域，以高价值方案解决客户痛点，并坚定个人信仰。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "It was the only place that you could do the great work that we did... Did a great job.",
+          "summary_en": "Join an extraordinary company where top-tier work is possible and execute exceptionally well.",
+          "summary_zh": "加入顶尖平台并做到极致卓越",
+          "timestamp_sec": 700,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "You invest and all of a sudden it takes off. ... Apple stock. ... almost 20 years.",
+          "summary_en": "Invest consistently in strong equities like your company's stock and hold long-term for compounding.",
+          "summary_zh": "长期投资优质股票静待复利爆发",
+          "timestamp_sec": 708,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Think Contrarian & Avoid Crowded Hype",
+          "category": "Business & Strategy",
+          "quote": "Everyone's in the AI bandwagon which means that it's probably not the best place to be. I look at the contrary version.",
+          "summary_en": "Take a contrarian view and avoid chasing overcrowded industry bandwagons.",
+          "summary_zh": "保持逆向思维，避开拥挤赛道",
+          "timestamp_sec": 735,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Invest your time wisely and find something you love.",
+          "summary_en": "Spend your time intentionally and find work you genuinely love.",
+          "summary_zh": "明智分配时间，找到热爱之事",
+          "timestamp_sec": 760,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Set a High Bar for Excellence",
+          "category": "Business & Strategy",
+          "quote": "Set a high bar. Always try to elevate what you're doing. That's how you get great products out of it.",
+          "summary_en": "Set an uncompromisingly high bar and constantly elevate your standards to build great products.",
+          "summary_zh": "永远设定高标准并持续提升品质",
+          "timestamp_sec": 775,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学学政治学却于1990年代加入苹果公司担任工程总监近20年，通过长期持有苹果股票实现财富爆发。",
+      "guest_name": "Early Apple Engineering Director (Ferrari Owner)",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Former Engineering Director at Apple",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "明智地投入时间并找到真正热爱的事，进入能做伟大产品的平台设定高标准，同时学会逆向思考与长期投资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It takes a lot of work and a lot of commitment. You have to work 6 days a week or seven.",
+          "summary_en": "Scaling a massive business demands relentless work ethic and commitment—working six or seven days a week for years.",
+          "summary_zh": "每周工作六七天，全力投入",
+          "timestamp_sec": 880,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I worked six or seven days a week for years. Didn't get to see my son's football games and stuff like that.",
+          "summary_en": "Working nonstop for years comes with personal sacrifice, such as missing your children's milestones.",
+          "summary_zh": "创业拼搏常需牺牲陪伴家人时间",
+          "timestamp_sec": 892,
+          "type": "regret"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "They said go back to New York. Digital mapping, nobody will ever make money. I was convinced it would work... I stuck with it.",
+          "summary_en": "Ignore naysayers who claim a new market will never make money, trust your conviction, and stick with it.",
+          "summary_zh": "无视质疑声音，坚定信念坚持下去",
+          "timestamp_sec": 922,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "They are selling what they have, not what the customer needs. ... Sell the customer what they need, not what you have.",
+          "summary_en": "Fix struggling businesses by selling what customers actually need rather than pushing what you happen to have.",
+          "summary_zh": "卖客户真正需要的，而非你现有的",
+          "timestamp_sec": 940,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Never Give Up & Stay Optimistic",
+          "category": "Mindset & Resilience",
+          "quote": "Don't give up. Keep going. ... Work hard, but be excited. The future's so bright.",
+          "summary_en": "Never give up even when people think you are crazy—work hard while staying excited and optimistic about the future.",
+          "summary_zh": "永不放弃，对未来保持兴奋与乐观",
+          "timestamp_sec": 948,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I think cyber is going to be hugely important. Cuz AI is making it easier to fake everybody out.",
+          "summary_en": "Look toward cybersecurity as a massive future opportunity because AI makes deception and spoofing easier.",
+          "summary_zh": "看好AI时代下的网络安全大趋势",
+          "timestamp_sec": 967,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "9·11事件痛失好友后接手一家濒临破产的卫星公司，在数字地图尚未普及前说服美国政府拿下数十亿美元合同，约50岁成为百万富翁。",
+      "guest_name": "Silicon Valley Satellite Company Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder of a Billion-Dollar Satellite Company",
+      "wealth_detail": "Built a billion-dollar company; won multi-billion-dollar US government contract",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "卖客户真正需要的东西而非你现有的产品，无视质疑坚持下去，努力工作同时对未来保持乐观，关注网络安全赛道。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "I just worked hard. I made my patients happy and they rewarded me and it was great.",
+          "summary_en": "Work hard and focus on making your patients or customers genuinely happy, and the rewards will follow.",
+          "summary_zh": "努力工作并让客户满意，回报自来",
+          "timestamp_sec": 1000,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "He told me just to be you and enjoy it.",
+          "summary_en": "Be open to mentors who steer you onto the right path and remind you to be yourself and enjoy your craft.",
+          "summary_zh": "听从良师指引，做自己并享受过程",
+          "timestamp_sec": 1043,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "When you enjoy what you do and you're good at it, you can succeed. ... I would argue that the happiness is more than the money.",
+          "summary_en": "Enjoy your work, master your craft, and create happiness around you—fulfillment outweighs money.",
+          "summary_zh": "热爱并精通本职，快乐比金钱重要",
+          "timestamp_sec": 1080,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Adopt New Technology",
+          "category": "Business & Strategy",
+          "quote": "The technology has been great. For sure. It's improved what we do. It's improved how our patients improve.",
+          "summary_en": "Embrace new technology in your profession to continuously improve results and client recovery.",
+          "summary_zh": "积极采用新技术提升客户治疗效果",
+          "timestamp_sec": 1101,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身伊利诺伊州农场家庭，早年一度荒废青春，后受整形外科导师启发从骨科转行，在硅谷通过扎实工作与高患者满意度成名致富。",
+      "guest_name": "Silicon Valley Plastic Surgeon (Former Illinois Farm Boy)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Plastic Surgeon & Practice Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "做真实的自己并享受工作，专注为自己和他人创造快乐，同时努力精进技艺并积极采用新技术。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "wOsnxJCy2p8",
+  "video_type": "street_multi"
+}

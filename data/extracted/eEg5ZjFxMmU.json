@@ -1,0 +1,266 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you have an idea or you want to do something, the best thing you can do is work hard. Work every day. Work your ass off.",
+          "summary_en": "Work tirelessly every single day if you have an idea or goal.",
+          "summary_zh": "有想法就每天拼命努力干",
+          "timestamp_sec": 244,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I was willing to take the chance... 99% of people won't take the risk. They just won't do it.",
+          "summary_en": "Scale your business by taking risks that 99% of people are unwilling to take.",
+          "summary_zh": "敢于承担99%的人不敢冒的风险",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Keep the faith, man... You're going to have things happen in your life, good or bad, and if you don't have that rock to lean on, I don't know what you're going to lean on.",
+          "summary_en": "Keep your faith as a steady anchor through both good and bad times.",
+          "summary_zh": "保持信仰作为人生顺逆境的支柱",
+          "timestamp_sec": 386,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "The number one thing you do, service. Work your tail off.",
+          "summary_en": "Stand out in a competitive industry by delivering top-notch customer service.",
+          "summary_zh": "在竞争激烈的行业中把服务做到极致",
+          "timestamp_sec": 409,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "When you deliver and you do what you say you're going to do... and you do that continuously. People reward you for that.",
+          "summary_en": "Consistently follow through on your promises so clients trust and reward you.",
+          "summary_zh": "持续兑现承诺，用信誉赢得客户回报",
+          "timestamp_sec": 420,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "The number one lesson I learned... says 'Can't' never could. You believe [you can't], you'll never do anything.",
+          "summary_en": "Drop the 'can't' mindset because self-belief is far more profitable than doubt.",
+          "summary_zh": "摒弃“做不到”心态，相信自己才能成事",
+          "timestamp_sec": 454,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20岁时向当地社区银行贷款买下第一辆卡车创办货运公司，从1辆车扩展到如今100多辆车并拥有货运经纪公司。",
+      "guest_name": "Mike Collins",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "U.S. Representative (Georgia's 10th District) & Trucking Company Founder",
+      "wealth_detail": "$20M-$50M/yr business revenue",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "有想法就每天拼命工作、把服务做到极致并信守承诺；敢于承担别人不敢冒的风险，同时保持信仰并坚信自己能做到。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You have a responsibility to give back to it and that you can make a difference... I'm here only because of God.",
+          "summary_en": "Recognize your responsibility to give back and stay grounded in faith.",
+          "summary_zh": "牢记回馈社会的责任并以信仰指引行动",
+          "timestamp_sec": 520,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "For me, the first thing was education and my family was important. And then reading was important and learning what was going on around my own environment.",
+          "summary_en": "Prioritize education, reading, and understanding the world around you to change your trajectory.",
+          "summary_zh": "重视教育与阅读，深入观察周围环境",
+          "timestamp_sec": 538,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to exercise and you have to do those things and make the sacrifices that's good for your body. Take care of your body. Watch what you eat.",
+          "summary_en": "Protect your health with regular exercise, mindful eating, and daily discipline.",
+          "summary_zh": "坚持锻炼、注意饮食并自律保护身体健康",
+          "timestamp_sec": 626,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "The first thing is you got to believe in yourself... Can I make a change? Can I make a difference? And believe that you can.",
+          "summary_en": "Believe in yourself and your ability to make a meaningful difference.",
+          "summary_zh": "相信自己，坚信自己能带来改变",
+          "timestamp_sec": 654,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find & Pursue Your Purpose",
+          "category": "Mindset & Resilience",
+          "quote": "One of the keys to life is finding your purpose... once you find it, let nothing take you off track.",
+          "summary_en": "Discover your life's purpose, confront fear, and let nothing derail you from it.",
+          "summary_zh": "找到人生使命后勇往直前，不被任何事带偏",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在公共住房区贫寒长大，通过受教育、大量阅读和观察身边环境改变命运，并在民权运动精神感召下从政服务大众。",
+      "guest_name": "Gregory Meeks",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "Dr. Martin Luther King Jr."
+      ],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "U.S. Representative (New York)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "首先要相信自己，找到自己的人生目标（purpose）且不被任何事物带偏；重视教育与阅读，坚持锻炼照顾好身体，并怀有回馈社会的责任感。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "The secret to overnight success is to keep turning the crank... What happens is people get distracted and they stop that.",
+          "summary_en": "Avoid distractions and keep executing steadily, as 'overnight success' takes years of turning the crank.",
+          "summary_zh": "远离分心，日复一日持续推进核心工作",
+          "timestamp_sec": 862,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I think you need to think in decades. You need to just keep working, pushing that ball forward. And eventually, if you have the discipline to do that, you're going to look behind you and go, 'My gosh, look what I built.'",
+          "summary_en": "Think in decades and maintain the discipline to keep building and showing up every day.",
+          "summary_zh": "以十年为单位思考，凭自律持续积累建造",
+          "timestamp_sec": 876,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Back in my tech days, it was not uncommon for us to work 20 hours a day... The harder you work, the luckier you get.",
+          "summary_en": "Put in extreme effort when building; the harder you work, the luckier you get.",
+          "summary_zh": "创业期全力以赴，越努力才会越幸运",
+          "timestamp_sec": 893,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "由未婚单亲母亲抚养长大、毫无家庭资金和人脉，考入大学并在纽约大学担任研究员与教授，随后创办科技初创公司在90年代与雅虎（Yahoo）完成股权合并，之后从事早期科技天使投资。",
+      "guest_name": "Rep. Zinke",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering"
+      ],
+      "role_or_title": "U.S. Representative (Montana), Former Tech Founder & Angel Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "以十年为单位长远思考，不要分心放弃，靠自律和拼命工作不断“转动曲柄”向前推进。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "I think it's unethical for members to trade cuz I have information that people don't... If you do this job right, you lose money on this deal.",
+          "summary_en": "Refuse to profit from privileged information and uphold ethics over personal gain.",
+          "summary_zh": "坚守职业伦理，绝不利用内幕信息牟取私利",
+          "timestamp_sec": 1063,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Get to where you want to get to by 40... Those early years are really just a grind for you to really know how to work, learn about you, learn about how to work with other people.",
+          "summary_en": "Use your 20s and 30s to grind, learn how to work with others, and position yourself before 40.",
+          "summary_zh": "在40岁前踏实打磨能力、学会与人共事并站稳脚跟",
+          "timestamp_sec": 1235,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Haters are a good problem to have. You got to learn to love it. Can't worry about it... I had to look myself in the mirror. And the first decision was I'm not going to be in this position ever again.",
+          "summary_en": "Reject victim mentality, take ownership of your life, and don't worry about critics or haters.",
+          "summary_zh": "拒绝受害者心态，坦然面对质疑并掌控自己人生",
+          "timestamp_sec": 1268,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Has faith been important for you? It's been huge. I gave my life to Christ at 21 and I think that I was lost, man.",
+          "summary_en": "Anchor your life in faith to turn around low points and stay grounded.",
+          "summary_zh": "在低谷期借助信仰重塑方向并长期坚守",
+          "timestamp_sec": 1279,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Do you think it's rigged or are they just missing the playbook? No, they're missing the playbook. They didn't open it up. Run the play.",
+          "summary_en": "Stop assuming the system is rigged; learn the playbook and execute the play.",
+          "summary_zh": "别抱怨规则不公，学好方法论并立刻去执行",
+          "timestamp_sec": 1306,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学期间曾在Cracker Barrel餐厅当服务员，18岁和20岁曾两度被捕；20岁痛定思痛并确立信仰后进入金融行业深耕17年（从事寿险保单贴现并持证券执照），2008年金融危机期间因研究经济而投身政治。",
+      "guest_name": "Byron Donalds",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "U.S. Representative (Florida) & Former Finance Executive",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "在40岁前拼命积累工作经验并学会与人合作；摒弃受害者心态、无视黑粉评价，同时找到成功“剧本”并立刻照着去执行。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "eEg5ZjFxMmU",
+  "video_type": "street_multi"
+}

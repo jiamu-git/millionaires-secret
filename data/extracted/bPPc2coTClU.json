@@ -1,0 +1,535 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "if you put your head down you focus you lock yourself in and see what happens",
+          "summary_en": "Lock in and stay laser-focused on one direction for a few years to achieve massive results.",
+          "summary_zh": "埋头专注深耕一件事，几年内就能实现爆发式成长",
+          "timestamp_sec": 45,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "we grew our channel to 10 million followers and instead of trying to go start a whole bunch of different businesses... we looked at the vertical that we had",
+          "summary_en": "Build a large social media audience first, then vertically integrate monetization around that attention.",
+          "summary_zh": "先做大自媒体粉丝盘，再围绕现有流量纵向变现",
+          "timestamp_sec": 94,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "there were brand deals there was starting a Content agency there was building a private Community there was ad Revenue there's all these different streams",
+          "summary_en": "Layer multiple complementary revenue streams—brand deals, agency, community, and ads—on one core asset.",
+          "summary_zh": "围绕核心资产叠加品牌合作、代理、社群与广告等多元收入",
+          "timestamp_sec": 113,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "they understand how to borrow money to leverage that debt and to create more wealth on it",
+          "summary_en": "Wealthy people leverage bank debt into cash-flowing or appreciating assets by knowing their market inside out.",
+          "summary_zh": "富人深谙市场规律，善于借贷加杠杆来创造更多财富",
+          "timestamp_sec": 283,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "the most successful people they attach themselves to other people and they prioritize relationships over transactions",
+          "summary_en": "Prioritize long-term relationships over one-off transactions because access to people opens doors money cannot.",
+          "summary_zh": "把人脉关系置于单次交易之上，关系资本能打开金钱买不到的门",
+          "timestamp_sec": 600,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "is there a shortcut to them yes there is the shortcut is mentorship",
+          "summary_en": "Mentorship is the real shortcut to scaling a business and building a high-level network.",
+          "summary_zh": "向成功人士拜师学艺，是实现事业跃迁的真正捷径",
+          "timestamp_sec": 800,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you need to be able to learn how to sell yourself because that is going to take you further than anything in sales",
+          "summary_en": "Master storytelling and selling yourself, as personal credibility and persuasion close the biggest deals.",
+          "summary_zh": "学会推销自己和讲故事，这比单纯卖产品走得更远",
+          "timestamp_sec": 1022,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "they have this unwavering belief in themselves that nothing's impossible... they will build it back 10 times bigger than ever before",
+          "summary_en": "Develop an unshakeable belief in your own skillset so you can rebuild even bigger if everything is lost.",
+          "summary_zh": "建立毫不动摇的自信，拥有技能即便归零也能十倍重来",
+          "timestamp_sec": 1342,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "高中在Chick-fil-A打工，大学在德州大学奥斯汀分校期间做过建筑工，攒下几千美元后全力投入创立自媒体频道The School of Hard Knocks，三年做到超1000万粉丝，单月营收超60万美元。",
+      "guest_name": "James Dumlin",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Cody Sperber",
+        "Steven Kubeck",
+        "Todd Napola"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Co-founder of The School of Hard Knocks",
+      "wealth_detail": "$600k/mo revenue, >$500k/mo profit (Dec 2024); multi-million dollar business",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "锁定一个方向全力专注几年，先积累流量或核心资产，再通过纵向整合拓展品牌合作、代理、社群等多重变现渠道，并积极寻找导师少走弯路。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "the secret to scaling is one word delegation I can't be in 155 places at once but I know somebody that can",
+          "summary_en": "Scale franchises and businesses through delegation, empowering capable people to operate where you cannot be.",
+          "summary_zh": "规模化扩张的秘诀在于授权委托，让合适的人替你分身管理",
+          "timestamp_sec": 247,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Shaquille O'Neal",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Franchise Owner (Formerly 155 Five Guys Locations) & NBA Legend",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "walk away the best deals I've done in my life I've walked away and they've come back",
+          "summary_en": "Be willing to walk away from the negotiating table; your best deals often come back on better terms.",
+          "summary_zh": "谈判时要敢于转身离开，最好的交易往往会在你离开后回头找你",
+          "timestamp_sec": 340,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Bank Owner",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Bank Owner in Dallas, Texas",
+      "wealth_detail": "~$500M/year (most made in a single year)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "what do you do for living out in Houston Texas work hard",
+          "summary_en": "Success starts with putting in relentless hard work.",
+          "summary_zh": "成功离不开脚踏实地的拼命努力",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you want to do it but not that bad... you got to be able to walk away at the same time you're going to be able to want to do it",
+          "summary_en": "In major negotiations, show genuine interest in the deal without ever appearing desperate to close.",
+          "summary_zh": "谈判要表达成交意愿但绝不急迫，始终保持随时离开的底气",
+          "timestamp_sec": 381,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Cal McNair",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Owner of the Houston Texans (NFL)",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "what was the biggest risk you took throughout your career opening my own business",
+          "summary_en": "Taking the leap to open your own business is often the defining risk that unlocks wealth.",
+          "summary_zh": "敢于承担开办自己企业的风险，是实现跃迁的关键一步",
+          "timestamp_sec": 442,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "give people what their want or need you'll become successful if you solve people's problems you'll become wealthy so learn what the problem is solve the problem",
+          "summary_en": "Giving people what they want brings success, but identifying and solving their core problems creates true wealth.",
+          "summary_zh": "满足需求能成功，真正解决他人痛点问题才能致富",
+          "timestamp_sec": 452,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "小时候经历过贫困，后来承担创业风险自己开办诊所并经营近20年，单年最高赚170万美元。",
+      "guest_name": "Houston Chiropractor & Medical Practice Owner",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Chiropractor & Medical Practice Owner in Houston, Texas",
+      "wealth_detail": "$1.7M/year (best single year)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "找出客户真正的痛点并全力解决它，不要只停留在满足表面需求。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "if you want to be a great entrepreneur you have to solve problems Elon Musk once said you get paid in direct proportion to the size of the problems that you solve",
+          "summary_en": "Your financial reward is directly proportional to the scale and difficulty of the problems you solve.",
+          "summary_zh": "你的收入与你所解决问题的规模和难度成正比",
+          "timestamp_sec": 505,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Zay Jan",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Elon Musk"
+      ],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "CEO of a $300M Solar Company in Miami, Florida",
+      "wealth_detail": "$149M annual business revenue (doubling to ~$300M)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "想成为伟大创业者就要去解决高难度、大规模的问题，而非人人都能替代的小问题。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to attach yourself to people because there's no money that will ever come to another human being without going through another human being",
+          "summary_en": "Connect and build genuine relationships with people, because every dollar you earn flows through another human being.",
+          "summary_zh": "金钱永远通过人流动，必须主动与人建立连接和关系",
+          "timestamp_sec": 639,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Grant Cardone",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Real Estate Investor & Fund Manager",
+      "wealth_detail": "Manages over $5B in real estate; raises hundreds of millions/year",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Be the Intermediary in Wealth Transfers",
+          "category": "Business & Strategy",
+          "quote": "anytime wealth is transferred from one hand to the other somebody is in the middle that is helping to transfer the wealth whoever that person is also becomes wealthy",
+          "summary_en": "Position yourself in the middle of wealth transfers and deal flows to capture value on every transaction.",
+          "summary_zh": "站在财富转移和交易撮合的中间环节，帮人流转财富自己也会变富",
+          "timestamp_sec": 719,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Thomas Kende",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Multi-millionaire Insurance Broker in Miami, Florida",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "寻找资金与财富流转的节点，通过撮合交易成为中间人来实现致富。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you got to stay out of one ZIP code the zip code of bad people if they're around your life make them go away",
+          "summary_en": "Relationships matter, so ruthlessly remove toxic or bad people from your circle.",
+          "summary_zh": "远离损友与负能量圈子，果断把不良人群请出你的生活",
+          "timestamp_sec": 785,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "在50多岁时成为亿万富翁。",
+      "guest_name": "Steven Kubeck",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Beverly Hills Multi-Billionaire",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you're always selling and anybody who thinks you're going to be in Business Without selling is sadly mistaken you will sell forever",
+          "summary_en": "Even the richest founders never stop selling themselves; if you stop selling, you are out of business.",
+          "summary_zh": "经商就是终身销售，哪怕顶级富豪也每天都在推销自己",
+          "timestamp_sec": 959,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Todd Napola",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "South Florida Real Estate Investor",
+      "wealth_detail": "Owns a couple hundred million dollars worth of real estate",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "seven days 14 hours a day 35 years",
+          "summary_en": "Building billionaire-level wealth requires decades of relentless daily effort—14 hours a day, 7 days a week.",
+          "summary_zh": "每周7天、每天14小时坚持35年，用极致投入铸就顶级财富",
+          "timestamp_sec": 1067,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "master of one 35 years",
+          "summary_en": "Commit to mastering a single craft or industry over decades rather than jumping around.",
+          "summary_zh": "三十五年专注精进一件事，成为单一领域的绝对专家",
+          "timestamp_sec": 1072,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在投资银行和金融行业深耕35年，拥有迈阿密最大的银行。",
+      "guest_name": "Miami Investment Bank Owner",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Owner of Largest Bank in Miami & Investment Banker",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "no one gets Rich overnight... that's one tenth of one tenth of 1%",
+          "summary_en": "Stop chasing overnight riches; lucky windfalls are vanishingly rare compared to long-term execution.",
+          "summary_zh": "别指望一夜暴富，靠运气赚快钱的人万中无一",
+          "timestamp_sec": 1089,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "they put in the time they failed miserably they questioned themselves family thought they were nuts... they had to sacrifice certain things",
+          "summary_en": "Behind every huge success are years of miserable failures, self-doubt, skepticism from others, and sacrifice.",
+          "summary_zh": "顶级成功背后都是惨痛失败、自我怀疑与承受非议的牺牲",
+          "timestamp_sec": 1110,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "旗下品牌累计营收超10亿美元。",
+      "guest_name": "Dean Graziosi",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Entrepreneur & Brand Builder ($1B+ Brand Revenue)",
+      "wealth_detail": "Brands have done over $1B in revenue",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you guys think it happens fast and then you don't look at the long term you need to have macro patience and micro urgency",
+          "summary_en": "Avoid expecting instant results; pair multi-decade macro patience with relentless daily urgency.",
+          "summary_zh": "别误以为成功很快，要有长期宏观耐心与每日微观紧迫感",
+          "timestamp_sec": 1152,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "every single day you give it absolutely everything that you have to give",
+          "summary_en": "Commit for the long haul while giving 100% effort every single day.",
+          "summary_zh": "在长周期的坚持中，每一天都全力以赴拼尽所有",
+          "timestamp_sec": 1183,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "熬过17年的长期积累后爆发，曾以超1500万美元出售企业，并在2021年单年赚超1亿美元。",
+      "guest_name": "Eric Spofford",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Entrepreneur & Founder (>$15M Exit, >$100M/yr)",
+      "wealth_detail": "Sold business for >$15M; cracked >$100M in 2021",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "做好干17年甚至更久的长期准备，同时在每天的执行上保持极致紧迫感。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "build a good reputation my dad always says it takes 20 years to build a good reputation in 5 minutes to kill it",
+          "summary_en": "Guard your integrity fiercely because a reputation takes decades to build and five minutes to destroy.",
+          "summary_zh": "建立好声誉需要二十年，毁掉只需五分钟，务必爱惜羽毛",
+          "timestamp_sec": 1240,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Brian North",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "My dad"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Brokerage Leader in Scottsdale",
+      "wealth_detail": "$1.4B brokerage sales revenue in one year",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "if you put me in the African jungle also I'll make also there I will sell the property to the animals over there",
+          "summary_en": "Have total confidence in your sales and business instincts to create value from zero anywhere.",
+          "summary_zh": "拥有无论被丢到哪里都能凭销售和商业本能白手起家的绝对自信",
+          "timestamp_sec": 1317,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Rizwan Sajan",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Dubai Real Estate Billionaire",
+      "wealth_detail": "10 billion dirham in a single year; billionaire",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": true,
+  "video_id": "bPPc2coTClU",
+  "video_type": "topic_compilation"
+}

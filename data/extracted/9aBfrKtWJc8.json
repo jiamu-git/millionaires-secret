@@ -1,0 +1,295 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Give me your P and L. Show me what you're making. What's your net? Like what is your EBITDA? What's your net? Are you making money?",
+          "summary_en": "Judge business viability by P&L, EBITDA, and net profit rather than appearances or busyness.",
+          "summary_zh": "紧盯损益表、EBITDA和净利润数据",
+          "timestamp_sec": 159,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I just spent all my time doing the one thing that made me money... diversity kills most people in business cuz they're spread so thin.",
+          "summary_en": "Focus all your energy on the one thing generating money; premature diversification spreads founders too thin.",
+          "summary_zh": "聚焦最赚钱的主业，切忌盲目多元化分散精力",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I wasn't trying to make a certain amount of money. I was trying to build real leverage, real equity, real wealth.",
+          "summary_en": "Focus on building equity and leverage inside businesses rather than chasing short-term personal paychecks.",
+          "summary_zh": "追求企业股权与杠杆，而非仅靠出卖时间赚钱",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "The majority of us have to go good at sales, service business, do something that's customer-centric, and understand how to scale it.",
+          "summary_en": "Build and scale customer-centric service businesses instead of banking on rare viral tech inventions.",
+          "summary_zh": "切入可规模化的传统服务与现金流行业",
+          "timestamp_sec": 389,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "It came in, I went back in the business. It came in, I went back in the business. I funded the hell out of my businesses. My businesses were eating, thus they were growing.",
+          "summary_en": "Reinvest profits back into the company rather than taking money out prematurely so the business can compound.",
+          "summary_zh": "克制个人分红，将利润持续反哺企业扩张",
+          "timestamp_sec": 410,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I got a Honda Accord, but I got tens of millions of dollars in equity over here.",
+          "summary_en": "Practice delayed gratification and drive a modest car while building tens of millions in business equity.",
+          "summary_zh": "保持朴素生活，把钱留给股权增值而非消费",
+          "timestamp_sec": 420,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Just cuz somebody drives a nice car don't mean that they have any real net worth in any capacity.",
+          "summary_en": "Never confuse flashy cars or social media perception with actual net worth.",
+          "summary_zh": "别被豪车表象迷惑，更别为面子过度消费",
+          "timestamp_sec": 444,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "The biggest thing I want to sell people is belief in themselves... I believe in myself. You give me a product, if people need it and I believe in it, I will sell it.",
+          "summary_en": "Build genuine self-belief and reject limiting narratives about your background or potential.",
+          "summary_zh": "打破自我设限，建立强大的自我信念",
+          "timestamp_sec": 484,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "What I have to sell you is my work ethic. And I will outwork mother freaking everybody.",
+          "summary_en": "Outwork everyone in the market; relentless work ethic is the ultimate differentiator when starting with nothing.",
+          "summary_zh": "用无人能及的拼劲和职业道德碾压竞争对手",
+          "timestamp_sec": 611,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "I return every phone call and message within 24 hours... Do what you say you're going to do.",
+          "summary_en": "Return every call and message within 24 hours, be brutally honest, and always keep your word.",
+          "summary_zh": "24小时内必回消息，言出必行建立绝对信任",
+          "timestamp_sec": 923,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Do things that you don't have to do. That's how you build relationships. The currency is everything I don't have to do.",
+          "summary_en": "Consistently go beyond contractual obligations; doing what you do not have to do is the real currency of trust.",
+          "summary_zh": "主动做分外之事，超预期服务客户与伙伴",
+          "timestamp_sec": 1022,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "The bigger deal is how much we given away... the better things you do with your money, the more you make.",
+          "summary_en": "Stay grounded in faith and generosity; giving money away and doing good multiplies wealth.",
+          "summary_zh": "心怀感恩与信仰，乐善好施反而带来更大回报",
+          "timestamp_sec": 1208,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you leave me in a room with somebody doing better than me, I will ask him questions for like literally until they have to tell me to shut up.",
+          "summary_en": "Get in rooms with people further ahead than you, ask relentless questions, and listen without interrupting.",
+          "summary_zh": "抓住机会向强者疯狂提问，虚心向导师求教",
+          "timestamp_sec": 1291,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Any decision you're making has to be great for your client or your consumer... Second, it has to be great for your agent or your employee... third, it can't harm the company.",
+          "summary_en": "Apply the three-legged stool rule: every decision must benefit customers, benefit your team, and protect the company.",
+          "summary_zh": "坚持“三条腿凳子”原则，兼顾客户与团队共赢",
+          "timestamp_sec": 1355,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "A lot of people get into business to get rich right away. I got into business to get free and I knew eventually I'd become wealthy.",
+          "summary_en": "Avoid get-rich-quick impatience; build for long-term freedom and focus on surviving the early grind.",
+          "summary_zh": "创业别图一夜暴富，着眼长期自由与稳步生存",
+          "timestamp_sec": 1390,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "If people are weighing you down, dude, you get the anchor off... I will help you, but the minute you're trying to drown me, dude, I'm out.",
+          "summary_en": "Cut off anchors who drag you down and ignore advice from people who are not where you want to be.",
+          "summary_zh": "远离消耗自己的人，别听未达目标者的负面建议",
+          "timestamp_sec": 1525,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Lead With Humility & Share Credit",
+          "category": "Business & Strategy",
+          "quote": "The reason most companies starve is not money, it's credit. You run it and you're egotistical... For me, every ounce of credit... I go, I have great people.",
+          "summary_en": "Keep your ego in check and give all the credit to your team so you can develop deeper layers of leadership.",
+          "summary_zh": "戒除个人傲慢，把功劳归于团队以培养梯队",
+          "timestamp_sec": 1691,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "When I don't know something, I ask. The dumbest people in the world are people that somebody says something and they go, it would be dumb for me to ask... No, it's dumb for you not to ask.",
+          "summary_en": "Stay a humble student and never let pride stop you from asking when you do not understand something.",
+          "summary_zh": "保持学生心态，不懂就问并坚持每天精进",
+          "timestamp_sec": 1896,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Please don't try to wear too many hats... getting them to delegate things because that freed me up to do what I'm good at.",
+          "summary_en": "Stop trying to fill every executive role yourself; hire capable specialists and delegate so you can focus on your strengths.",
+          "summary_zh": "别一人包揽所有角色，招揽高管授权以专注长板",
+          "timestamp_sec": 1966,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "The greatest equalizer is sales because anybody can do it. Find a product that you love and work your ass off selling it. Get really good at selling it and then find other people you can teach to sell it.",
+          "summary_en": "Master sales as the ultimate equalizer regardless of background, then scale by teaching others to sell.",
+          "summary_zh": "销售是最大的平等器，精通销售再教他人裂变",
+          "timestamp_sec": 2346,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Greatest thing that ever happened to me in business, going bankrupt... It hurt. It made me focus. I paid attention.",
+          "summary_en": "Treat painful setbacks like bankruptcy as valuable lessons that force discipline and sharper focus.",
+          "summary_zh": "把破产与挫折当作强迫自己专注的最好一课",
+          "timestamp_sec": 2704,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "They never understood the power of leveraging money. Me, I was never afraid of debt... they charged me 3% but I'm making eight and it's their money.",
+          "summary_en": "Stop fearing debt blindly; use borrowed capital as leverage whenever you can earn returns well above the borrowing cost.",
+          "summary_zh": "善用良性负债和金融杠杆，用低息资金创造高回报",
+          "timestamp_sec": 2842,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Focus on Solutions & What You Can Control",
+          "category": "Mindset & Resilience",
+          "quote": "You can only control what you can control... If you will continue to work, not complain, be solution focused and have perspective, you're going to kick ass.",
+          "summary_en": "During crises, write down what you can actually control, avoid drama, and stay relentlessly solution-focused.",
+          "summary_zh": "危机中停止抱怨，只关注可控事项并聚焦解决方案",
+          "timestamp_sec": 3165,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I found a really good attorney, really good accountant early on... connect yourself with good people early.",
+          "summary_en": "Surround yourself early with top-tier professionals such as great attorneys, accountants, and capital partners.",
+          "summary_zh": "尽早结交顶尖律师、会计师及高价值专业伙伴",
+          "timestamp_sec": 3481,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Versatile Communication",
+          "category": "Actionable Skills & Habits",
+          "quote": "Learn to be flexible and learn to have great communicative ability... learn to be all things to all people until you find out where you actually need to live and make your money.",
+          "summary_en": "Learn to communicate flexibly across every social and professional tier, from blue-collar crews to bank presidents.",
+          "summary_zh": "练就跨阶层沟通力，能与一线工人和老板同频对话",
+          "timestamp_sec": 3607,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Every time it's uncomfortable you're on to something. Every time it's uncomfortable accept it you're growing.",
+          "summary_en": "Lean into discomfort rather than staying safe; feeling uncomfortable is the clearest sign of growth.",
+          "summary_zh": "主动拥抱不适感，敢于跨出舒适区才能实现增长",
+          "timestamp_sec": 3769,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在贫困单亲家庭长大，当过警察（后被解雇）和年薪5.8万美元的社工，年轻时买房失败破产；后重塑信用从当地银行拿到100万美元授信开发地产小区，并创办垃圾处理公司及人寿保险分销企业，靠销售能力与利润持续再投入滚雪球做大。",
+      "guest_name": "Shawn Meaike",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Arthur Blank",
+        "Daymond John",
+        "80-year-old Local Bank President Mentor",
+        "Youth Baseball & Football Coaches",
+        "Former Pro Baseball Player Real Estate Mentor"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Public Speaking & Communication",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Entrepreneur & Investor (Life Insurance, Real Estate, Waste Management)",
+      "wealth_detail": "Sold businesses for >$100M; $752M annual revenue (2023); billions in career revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "从零起步应切入最不需要资本门槛的“销售”行业，选定认可的产品拼命卖并学会教人销售；主动向成功者、导师、顶尖律师和会计师请教，克制消费并持续把钱投回生意，直面不适感并聚焦可控的解决方案。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "9aBfrKtWJc8",
+  "video_type": "deep_dive_single"
+}

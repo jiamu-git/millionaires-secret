@@ -1,0 +1,216 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Get equity in your company—either stock options, phantom stock, own a piece of whatever you're working for—because you can live off of a salary, but equity builds wealth.",
+          "summary_en": "Seek equity or stock options in your company because ownership, not salary, builds wealth.",
+          "summary_zh": "争取公司股权，靠所有权而非死工资致富",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You don't borrow short-term money on a long-term venture. If you have a long-term investment, you better have long-term financing.",
+          "summary_en": "Match long-term investments with long-term financing; never fund a long-term venture with short-term debt.",
+          "summary_zh": "长投勿用短贷，融资期限必须匹配投资周期",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Integrity. How important is it to keep your word in business? Very.",
+          "summary_en": "Integrity and keeping your word in business are the defining traits of highly successful people.",
+          "summary_zh": "诚信是成功者共同特质，商业中务必信守承诺",
+          "timestamp_sec": 175,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Texas Oil & Gas Company President",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Former Oil & Gas Company President",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "在职场上逐步晋升时，务必争取所在公司的股权（如股票期权或虚拟股权），因为工资只能维持生活，唯有所有权才能真正积累财富。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Concentrate Capital & Maintain Control",
+          "category": "Business & Strategy",
+          "quote": "Every billionaire I met has said the exact opposite [of diversification]: if you believe in something, you invest in yourself, you put all your money into that, and you grow it.",
+          "summary_en": "Rather than diversifying early, concentrate your capital into your own business so you maintain control and scale it.",
+          "summary_en_short": null,
+          "summary_zh": "把全部资金投入自己看准的事业并掌控控制权",
+          "timestamp_sec": 230,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You prove the model and then you duplicate it—copy paste, copy paste. We did this in one state, bring in the sales reps, and now we're in 43 states.",
+          "summary_en": "Prove a turnkey business model in one market, then bring in sales reps to systematically duplicate it across new markets.",
+          "summary_zh": "先验证单点盈利模式，再系统化复制到全国",
+          "timestamp_sec": 256,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Grow Sustainably & Avoid Overexpansion",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "More companies die from indigestion than starvation... we actually grew so fast in sales we ran out of money because we couldn't make enough product quick enough.",
+          "summary_en": "Grow sustainably; scaling sales faster than your cash flow and production capacity can nearly kill a company.",
+          "summary_zh": "警惕扩张过快耗尽现金流，追求可持续增长",
+          "timestamp_sec": 279,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "You got to go out there and try a bunch of stuff. I was a stock broker for two years out of college and I was horrible, so I went into medical device.",
+          "summary_en": "Try different paths early on and pivot quickly if something isn't a fit until you find your lane.",
+          "summary_zh": "多走出去尝试不同行业，从中寻找契机",
+          "timestamp_sec": 303,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "After years of talking to doctors and surgery centers, I found that one thing nobody's attacking... and then you reach that tipping point where you're not making sales calls anymore—people want your device.",
+          "summary_en": "Talk closely with customers to uncover unsolved problems and iterate the product for years until demand pulls it from you.",
+          "summary_zh": "深入客户痛点打磨产品，让需求自然找上门",
+          "timestamp_sec": 312,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学毕业后做过两年表现很差的股票经纪人，14年前转行做医疗器械销售，随后创办分销公司，最终自筹资金创立了自己的医疗器械公司。",
+      "guest_name": "JY (Austin Medical Device Founder)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The E-Myth (Book)",
+        "Scaling Up (Book)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Medical Device Company Founder",
+      "wealth_detail": "$110M net worth; main company valued at ~$130M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先大胆尝试不同领域，发现真正看好的方向后把所有资金押注在自己身上并保持控制权；通过持续倾听客户痛点打磨产品，用可复制的模式稳健扩张。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Don't waste time... They mow down the competition because they're not entitled, they work incredibly hard, and they see the opportunity.",
+          "summary_en": "Don't waste time or feel entitled; work relentlessly hard and seize the opportunities around you.",
+          "summary_zh": "切勿虚度光阴，靠拼命努力超越竞争对手",
+          "timestamp_sec": 458,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Study, whatever it is, before you formulate an opinion. Really get some facts and understand the surroundings—don't just watch a TikTok video and say you believe it.",
+          "summary_en": "Study deeply and verify the facts before forming opinions rather than blindly trusting short-form social media clips.",
+          "summary_zh": "发表观点前先研究事实，别轻信短视频",
+          "timestamp_sec": 535,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "先后创立并出售了两家公司，第一家以约2500万美元售出，第二家以约2亿美元售出给一家如今市值100亿美元的企业。",
+      "guest_name": "David (Texas Two-Time Exit Founder)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Two-Time Company Exit Founder",
+      "wealth_detail": "Sold first company for ~$25M and second company for ~$200M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要浪费时间，戒除理所当然的心态，像移民那样极其努力地工作并抓住自由市场中的机遇；同时学会独立研究事实，不轻信网络流言。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Contrarian Investing (Buy Low, Sell High)",
+          "category": "Wealth & Investing",
+          "quote": "Be greedy when others are scared and be scared when other people are greedy... Buy low, sell high, and that means doing the opposite of what other people are doing.",
+          "summary_en": "Overcome crowd psychology in the stock market by buying during panics and trimming near market tops.",
+          "summary_zh": "克服市场恐慌与贪婪心理，坚持低买高卖",
+          "timestamp_sec": 596,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you're going through hell, just keep on going because eventually you'll get out.",
+          "summary_en": "Keep pushing forward through the hardest periods of life because tough times eventually pass.",
+          "summary_zh": "身处人生低谷时绝不放弃，坚持走下去",
+          "timestamp_sec": 644,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "At the important points in my life God has come through for me... by having that faith and that belief, eventually you come out at the low times and things are going to be better than they were before.",
+          "summary_en": "Hold onto faith during dark times; belief helps carry you out of lows into a better chapter.",
+          "summary_zh": "保持信仰与信念，低谷过后会迎来更好局面",
+          "timestamp_sec": 648,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Street Smarts Over Book Smarts",
+          "category": "Mindset & Resilience",
+          "quote": "Street smarts [is more important]. How many times do you solve a differential equation in the real world? You don't.",
+          "summary_en": "Practical street smarts matter far more in the real world than pure academic knowledge.",
+          "summary_zh": "实战中的街头智慧比纯粹的书本知识更重要",
+          "timestamp_sec": 668,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Texas Retired IP & Tech Lawyer",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Warren Buffett"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Retired Intellectual Property & Technology Lawyer",
+      "wealth_detail": "Made ~$1M in his best single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "身处低谷时保持信念并坚持走下去，事情最终会好转；在现实社会中，实战型的街头智慧比纯粹的书本理论更重要。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "9FZ7chhIfUM",
+  "video_type": "street_multi"
+}

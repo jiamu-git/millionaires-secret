@@ -1,0 +1,288 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "An offer you don't make is an offer that they can't take. So, you want to make sure that they know you. That way, they can like you. And if they know you and they like you, they'll trust you and do business with you.",
+          "summary_en": "Build know-like-trust through marketing and consistently make offers so customers can do business with you.",
+          "summary_zh": "让客户先认识喜欢并信任你，并勇于发出邀约",
+          "timestamp_sec": 221,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "What you think about you bring about. So, too many people focus on where they are versus where they want to be... You have to see it before you see it so that you can seize it.",
+          "summary_en": "Focus mentally on where you want to be rather than your current circumstances so you can manifest and seize it.",
+          "summary_zh": "专注理想目标而非现状，心中所想终会化为现实",
+          "timestamp_sec": 234,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "They never stop learning. The minute you stop learning is the minute you stop earning. For example, you want to write this down. Notetakers are money makers.",
+          "summary_en": "Never stop learning and taking notes, because the moment you stop learning is the moment you stop earning.",
+          "summary_zh": "永远保持学习，停止学习的那一刻就停止赚钱",
+          "timestamp_sec": 251,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Look at the best mirror. Get inspiration. Then ask yourself, what are they not doing? What can I do? What problem can I solve?... You get paid in correlation to the problems that you solve, not the actual work that you do.",
+          "summary_en": "Study elite companies like Apple for inspiration, find gaps, and solve big problems since pay scales with problem size.",
+          "summary_zh": "对标顶尖企业，专注解决越多人面临的痛点问题",
+          "timestamp_sec": 273,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "The rich, the wealthy, the wise make money off of debt... now I maximize debt as leverage to increase my net worth. Why? Because I don't pay taxes on debt.",
+          "summary_en": "Use debt and credit strategically as tax-free leverage rather than paying all cash and neglecting credit history.",
+          "summary_zh": "善用债务杠杆免税增值，别因全款忽视信用积累",
+          "timestamp_sec": 299,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "If company A makes X amount of money, I then roll that money into company B, which is a real estate company, and then I refinance out of those properties... The money is generating income 24/7, 365 passively. Plus, it's increasing in equity and in value.",
+          "summary_en": "Roll operating business profits into real estate to earn 24/7 passive income, build equity, and refinance tax-free capital.",
+          "summary_zh": "将主业利润转投房地产再融资，实现被动现金流",
+          "timestamp_sec": 331,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Adopt & Leverage AI Early",
+          "category": "Business & Strategy",
+          "quote": "Utilize AI as much as humanly possible. I think it will be the future... those that are not planning to integrate AI are going to miss out on a massive opportunity right now.",
+          "summary_en": "Integrate artificial intelligence as much as possible now or risk missing out on the biggest opportunity of this era.",
+          "summary_zh": "尽早全面应用AI工具，避免错失未来巨大红利",
+          "timestamp_sec": 391,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身极度贫寒，高中未毕业且无大学学历，2015年白手起家创立沐浴及身体护理品牌（主营沐浴球），凭营销卖出数百万件产品，年收入曾超1100万美元。",
+      "guest_name": "Chicago Bath & Body Brand Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of Bath & Body Business",
+      "wealth_detail": "Over $11M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "重视营销让客户先认识、喜欢并信任你，敢于提出邀约；持续学习并对标Apple等顶尖企业，寻找十亿级痛点去解决；善用债务杠杆和房地产循环积累免税现金流，并尽早学习应用AI。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Start looking at your job today as paid training... If you look at your job in the industry that you're in, look around. What could you do better?... Could you offer the same service that your employer is currently offering and doing it in a more efficient way?",
+          "summary_en": "Treat your current job as paid training to learn an industry inside out and spot inefficiencies before launching on your own.",
+          "summary_zh": "把当前工作当带薪培训，吃透行业低效处再创业",
+          "timestamp_sec": 582,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Middle class people trying to pretend they're rich is the absolute death sentence, man... You're spending more than you're making, dude. Trying to keep up with your neighbors.",
+          "summary_en": "Avoid lifestyle inflation and pretending to be rich to keep up with neighbors; living beyond your means keeps people broke.",
+          "summary_zh": "切勿打肿脸充胖子，超前消费攀比是破产死穴",
+          "timestamp_sec": 631,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "EBITDA. The market right now is EBITDA. In simpler terms, your profit... the reason I was so successful is my profit margin was 83%. The industry average profit margin is like 22%.",
+          "summary_en": "Focus relentlessly on EBITDA and high profit margins with a lean headcount to maximize your business exit multiple.",
+          "summary_zh": "紧盯EBITDA利润率，精简团队拉高退出估值",
+          "timestamp_sec": 677,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You're walking through a field and there's a pile of dog shit there and you happen to step in the pile of dog shit, well, that's okay... But on your way back home... you step in that same pile of dog shit, you're a freaking idiot, man. You got to learn from your mistakes.",
+          "summary_en": "Making a mistake once is normal, but never repeat the same mistake twice—always learn from what went wrong.",
+          "summary_zh": "允许初次犯错但绝不再犯，从失误中吸取教训",
+          "timestamp_sec": 708,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Own your company, man. You're never going to get there as a W2 employee... don't be loyal to a company that's not going to be loyal to you.",
+          "summary_en": "You cannot build real wealth as a W2 employee; do not stay blindly loyal to an employer and instead own your own company.",
+          "summary_zh": "打工难致富也别愚忠公司，必须拥有自己的企业",
+          "timestamp_sec": 728,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "原本在保险行业做领固定薪资的W2打工者，看清公司运作与低效环节后辞职单干，靠自己提供更高效的同类保险经纪服务在29岁成为百万富翁，最终以高达83%的EBITDA利润率将公司数千万美元出售。",
+      "guest_name": "John (Insurance Brokerage Founder)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder of Insurance Brokerage Firm",
+      "wealth_detail": "Around $50M net worth (confirmed >$30M); sold insurance company for tens of millions",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "把现有工作当作带薪培训，深入理解行业痛点与低效之处后再辞职单干；不要把忠诚寄托在不会忠于你的打工公司上，必须拥有自己的企业，同时绝不为撑面子超前消费。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Just work hard and just be resilient. Never quit... When you fall, pick up the pieces, get right back up, and keep moving... Don't feel sorry for yourself, whatever. Just keep going.",
+          "summary_en": "Work hard, stay resilient, never feel sorry for yourself when you fall, and never quit because nobody is coming to save you.",
+          "summary_zh": "拼命工作并保持极度韧性，绝不放弃且不自怜",
+          "timestamp_sec": 785,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "I wanted residual income.",
+          "summary_en": "Build practical recurring-revenue businesses like ATM networks and credit card processing that generate residual cash flow.",
+          "summary_zh": "选择支付与ATM等刚需业务，打造持续现金流",
+          "timestamp_sec": 798,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "We will all suffer from one of two pains. The pain of discipline and the pain of regret. While the pain of discipline weighs ounces, the pains of regret weighs tons.",
+          "summary_en": "Choose the daily pain of discipline now because the pain of regret later weighs far heavier.",
+          "summary_zh": "自律之痛重若毫厘，后悔之痛重逾泰山",
+          "timestamp_sec": 813,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Did you have anybody that doubted you? All day. Why did you not listen to them? F*** that. I made my own path.",
+          "summary_en": "Ignore everyone who doubts you, believe that you can succeed too, and carve your own path.",
+          "summary_zh": "无视所有质疑者的声音，坚定走自己的致富之路",
+          "timestamp_sec": 828,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "When you make a lot of money, also give back. Give back. Do charity. Give back to people because no one's leaving this shit with anything.",
+          "summary_en": "Stay grounded in faith and give back generously to charity once you make money, since you cannot take wealth with you.",
+          "summary_zh": "致富后常怀信仰并做慈善回馈，钱财生不带来",
+          "timestamp_sec": 862,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫民窟，白手起家。因渴望获得持续性被动收入，最早创办了ATM机公司ATM of America并至今持有，随后深耕信用卡支付处理行业并赚取了超千万美元。",
+      "guest_name": "Chicago Payment Processing & ATM Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder of ATM of America & Payment Processing Business",
+      "wealth_detail": "Over $10M made in payment processing business",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持极度坚韧与自律，绝不放弃也不要自怨自艾，跌倒后靠自己爬起来继续前行；无视质疑者的声音，瞄准具有持续性收入的生意；赚到钱后记得做慈善回馈社会。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Earn Your Own Success (Avoid Easy Handouts)",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The worst thing that ever happened to me was somebody gave me a pile of money right out of college... it can ruin like the rest of your life because you think everything happens easily and you don't get that joy of making that first bit of money yourself.",
+          "summary_en": "Being handed easy money right out of college can spoil your drive and rob you of the pride of building wealth yourself.",
+          "summary_zh": "靠别人施舍的快钱会毁掉斗志，亲手赚的才可贵",
+          "timestamp_sec": 930,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "What do you think is the best industry somebody can get into right now in today's world? Psychology. Because everybody's crazy.",
+          "summary_en": "Look at rising societal demand when picking a sector—psychology is one of today's biggest growth industries.",
+          "summary_zh": "紧跟时代需求挑选赛道，如今看好心理学大市场",
+          "timestamp_sec": 965,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Value Time & Live Every Day Fully",
+          "category": "Mindset & Resilience",
+          "quote": "Live each day as if it was your last. Someday you'll be right... Be in the moment cuz the most valuable asset is time. Time is the only thing. You can't bank it, right?",
+          "summary_en": "Treat time as your most valuable non-bankable asset, stop sleeping away opportunities, and experience life fully every day.",
+          "summary_zh": "时间无法储存且最宝贵，把每天当最后一天去活",
+          "timestamp_sec": 975,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Who you associate with is going to determine who you're going to be. If you hang out with losers, you're going to be a loser... hang out with guys like this, you're going to be so successful.",
+          "summary_en": "Your peer group shapes your destiny; avoid losers and surround yourself with driven, successful people.",
+          "summary_zh": "与谁同行决定你是谁，多与成功人士为伍",
+          "timestamp_sec": 1010,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身富裕家庭，大学毕业后即获得大笔资金（但很快挥霍一空），25岁结婚时已成为百万富翁；早年从事金融行业，后转入房地产开发、经纪与建筑领域，并参与打造出十亿美元级企业。",
+      "guest_name": "Chicago Real Estate & Finance Builder",
+      "industry": "Real Estate",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Developer & Former Finance Executive",
+      "wealth_detail": "Became a millionaire at 25; built companies into billion-dollar enterprises",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "白手起家并珍惜亲手赚取第一桶金的成就感，别指望不劳而获；把每一天当作最后一天来活，珍惜无法储存的时间资产，并严格选择身边交往的成功圈层。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "nOL-StM6QnU",
+  "video_type": "street_multi"
+}

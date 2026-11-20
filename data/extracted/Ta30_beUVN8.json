@@ -1,0 +1,211 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "And the doubt is what fueled me... it fueled me to get better, do better, and want to be better.",
+          "summary_en": "Use other people's doubts as lifelong fuel to keep improving.",
+          "summary_zh": "将他人质疑转化为自我提升的动力",
+          "timestamp_sec": 140,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I left a full ride scholarship playing basketball... I was willing to take the chance",
+          "summary_en": "Be willing to walk away from a safe path to bet on what you truly want.",
+          "summary_zh": "敢于放弃安稳退路，押注热爱事业",
+          "timestamp_sec": 171,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "always live beneath your means. You never know what tomorrow has in store for you, and if it all goes away, what are you going to do?",
+          "summary_en": "Always live beneath your means to stay resilient against future uncertainty.",
+          "summary_zh": "永远量入为出，预防未来不确定性",
+          "timestamp_sec": 234,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I drive a 2018 Ford F-250... I don't put on and do things for other people.",
+          "summary_en": "Don't buy flashy things or live for appearances to impress other people.",
+          "summary_zh": "不为了取悦他人而摆阔或过度消费",
+          "timestamp_sec": 245,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "you can't go wrong with tax frees, man, and just T-bills. Like it's not sexy, but if you're consistent like year after year after year, you're going to wake up one day and you're going to say, hey, I'm doing pretty good",
+          "summary_en": "Invest consistently year after year in safe assets like tax-frees and T-bills.",
+          "summary_zh": "年复一年坚持稳健投资免税资产与国债",
+          "timestamp_sec": 266,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Never be content. Once you become content, you stop growing... you continue to push the envelope and just never be content.",
+          "summary_en": "Never become content or complacent; welcome competition and keep pushing forward.",
+          "summary_zh": "永不自满，在竞争中不断突破自我",
+          "timestamp_sec": 305,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I do believe in God. He is the reason for everything.",
+          "summary_en": "Stay grounded in faith in God as the foundation for everything.",
+          "summary_zh": "保持虔诚信仰，将其视为一切根基",
+          "timestamp_sec": 347,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "embrace the suck... Don't let the success go to your head and don't let the failure go to your heart.",
+          "summary_en": "Embrace hardship; don't let success go to your head or failure go to your heart.",
+          "summary_zh": "直面挫折苦难，做到胜不骄败不馁",
+          "timestamp_sec": 364,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "放弃大学全额篮球奖学金转行职业摔角，瞄准当时缺乏高大又具运动能力选手的空白，1990年加入WWE并凭“送葬者”角色成名。",
+      "guest_name": "Mark Calaway (The Undertaker)",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "WWE Legend & Retired Professional Wrestler",
+      "wealth_detail": "",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "面对质疑将其化为动力，坚持量入为出、不为他人眼光消费，长期稳健配置国债与免税资产，永不自满并坦然面对成败。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "There's always a clumsy bridge when we start to learn what we instinctually know how to do. And if you can persist over that bridge... becoming an expert at your craft",
+          "summary_en": "Persist through the clumsy learning phase until deliberate study turns instinct into mastery.",
+          "summary_zh": "跨过学习笨拙期，把技能磨成专业本能",
+          "timestamp_sec": 591,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "If you're going to pivot, don't flinch.",
+          "summary_en": "Be willing to make sacrifices, walk away from easy money, and never flinch during a career pivot.",
+          "summary_zh": "在事业转型关键期敢于牺牲且毫不退缩",
+          "timestamp_sec": 771,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Normalize Struggle & Keep Perspective",
+          "category": "Mindset & Resilience",
+          "quote": "just knowing that we're not the only one, that it is part of the human condition... just kind of lets us go, okay, there's a way on the other side of this.",
+          "summary_en": "Remember you aren't alone in your struggles; hardship is part of the human condition.",
+          "summary_zh": "牢记困境乃人之常情，学会给自己减压",
+          "timestamp_sec": 881,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I don't care if you got a 4.9 GPA. You have to hustle. And I mean hustle in the work ethic sense, but also in the street sense, man.",
+          "summary_en": "Academic grades don't replace hustle; combine relentless work ethic with street smarts.",
+          "summary_zh": "高分不如拼搏，兼顾苦干与街头嗅觉",
+          "timestamp_sec": 891,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "You will have little opportunities and you've got to hit it cuz as soon as you think, oh, should I hit that opportunity? Window closes.",
+          "summary_en": "Jump on off-hours opportunities immediately before hesitation closes the window.",
+          "summary_zh": "果断抓住微小机会，切忌犹豫错失窗口",
+          "timestamp_sec": 911,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "So, one, I got to believe in it, I got to like it... anything that I back even in my portfolio that I don't have to put on a proverbial another hat to talk about. No, I believe it.",
+          "summary_en": "Only build or back businesses that you genuinely like and authentically believe in.",
+          "summary_zh": "只投身并代言自己真正喜爱与认可的事业",
+          "timestamp_sec": 941,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "And I say I wish I had taken more risk as a kid. I look back, I took quite a few risks as a kid. I still wish I would have taken more.",
+          "summary_en": "Take more risks when you are young; even after taking many, you may wish you had taken more.",
+          "summary_zh": "遗憾年轻时冒的风险不够多，鼓励趁早搏",
+          "timestamp_sec": 1016,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "But you stay in it, you will meet people, you will get offers, you will get an opportunity.",
+          "summary_en": "Stay in the game so you meet people, receive offers, and catch unexpected opportunities.",
+          "summary_zh": "留在行业内持续深耕，人脉与机遇自会到来",
+          "timestamp_sec": 1037,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Keep Living & Believe in Tomorrow",
+          "category": "Mindset & Resilience",
+          "quote": "Just keep living, man. That's it. Life's a verb. It's all commas. There's no period at the end of it. Believe in tomorrow.",
+          "summary_en": "Keep moving forward and believing in tomorrow; treat life as an ongoing verb.",
+          "summary_zh": "持续前行相信明天，人生永远未完待续",
+          "timestamp_sec": 1055,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学时在酒吧结识制片人Don Phillips并毛遂自荐，次日早9点半试镜获得《年少轻狂》角色，毕业后带2000美元驾U-Haul闯荡好莱坞。",
+      "guest_name": "Matthew McConaughey",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Oscar-Winning Actor, Author & Pantalones Tequila Co-Founder",
+      "wealth_detail": "",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "年轻时多承担风险，在行业里坚持深耕以结识人脉、接住非工作时间出现的微小机遇；敢于拒绝不适合的高薪，转型时不退缩。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "Ta30_beUVN8",
+  "video_type": "street_multi"
+}

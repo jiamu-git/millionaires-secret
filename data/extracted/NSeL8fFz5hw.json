@@ -1,0 +1,201 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "That's not what you guys told me... No, brother, I can't sign.",
+          "summary_en": "Refuse to compromise your principles or accept broken promises, even when life-changing money is on the table.",
+          "summary_zh": "坚守原则与承诺不为金钱妥协",
+          "timestamp_sec": 272,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't ever let your lawyer, financial advisor, agent know one another. Ever... they can keep one another accountable if they don't know each other.",
+          "summary_en": "Keep your lawyer, financial advisor, and agent separate so they hold each other accountable instead of colluding.",
+          "summary_zh": "别让律师顾问和经纪人私下串通",
+          "timestamp_sec": 383,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Read Rich Dad Poor Dad, The Psychology of Money. Read books to learn about financial literacy. Learn how to save your money, how to invest your money.",
+          "summary_en": "Educate yourself by reading personal finance books so you understand how to save and invest rather than blindly trusting advisors.",
+          "summary_zh": "阅读理财书籍系统学习财务知识",
+          "timestamp_sec": 405,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Price is what you pay, value is what you get... When I give 1 million to a Ferrari... I'm not giving 1 million, I'm giving 1.1 million because I'm losing the interest I'm making from that money.",
+          "summary_en": "Evaluate purchases by value and opportunity cost—spending $1M on a depreciating asset also forfeits the investment return it could generate.",
+          "summary_zh": "区分价格与价值并计算机会成本",
+          "timestamp_sec": 415,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Believing in myself, and believing in God... I trusted him from the beginning, and trusting him until the end.",
+          "summary_en": "Maintain self-belief and stay grounded in faith throughout your journey from the bottom to the top.",
+          "summary_zh": "保持自信并在顺逆境中坚守信仰",
+          "timestamp_sec": 462,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I've had this family office with a lot of people smarter than me that help me manage everything... I put CEO, CFO, manage everything.",
+          "summary_en": "Build a team and family office staffed with people smarter than you to professionally manage your business ventures.",
+          "summary_zh": "聘用更聪明的高管团队专业打理",
+          "timestamp_sec": 485,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "I know I have an incredible platform, and I know as myself, I have a brand, and I view myself as a company.",
+          "summary_en": "Recognize the value of your platform and treat your personal brand like a company.",
+          "summary_zh": "将个人品牌与影响力当公司经营",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Young athletes, they focus on the chains, they focus on the cars, they focus on so much on this false reality, false lifestyle, man.",
+          "summary_en": "Avoid chasing status symbols like chains and luxury cars to project a false lifestyle that leads to going broke after peak earning years.",
+          "summary_zh": "警惕豪车名表等虚假排场消费陷阱",
+          "timestamp_sec": 638,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I find mentors, man, and people that help me... It doesn't matter if you're a billionaire. You can always learn from everybody. Anything you want to learn.",
+          "summary_en": "Seek out mentors and remain humble enough to learn something from everyone you meet.",
+          "summary_zh": "积极寻找导师并虚心向所有人学习",
+          "timestamp_sec": 658,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "They don't break promises. If they say, 'I'm going to wake up tomorrow and I'm going to go and run 5 miles,' they will do it. And they have incredible habits.",
+          "summary_en": "Never negotiate with yourself or break promises you make to yourself; build consistent daily habits.",
+          "summary_zh": "绝不违背对自己的承诺并保持自律",
+          "timestamp_sec": 679,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "If I just keep on investing my money, your money doubles every 7 years... if you invest it in the market.",
+          "summary_en": "Invest consistently in the market so long-term compounding doubles your capital roughly every seven years.",
+          "summary_zh": "坚持市场投资享受长期复利翻倍",
+          "timestamp_sec": 702,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "That's my friend. I can make more money. The return of investment it will be way far greater than that... money makes more money for you than human people can.",
+          "summary_en": "Treat productive debt as an ally when your return on investment far exceeds the borrowing cost, letting capital compound faster than labor.",
+          "summary_zh": "善用良性负债追求更高投资回报",
+          "timestamp_sec": 723,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Positive Self-Talk & Visualization",
+          "category": "Actionable Skills & Habits",
+          "quote": "Always positive self-talk, man... Speak things to existence, man, because your brain listens to you. And once your brain listens to you, does everything that it needs to do to make that happen.",
+          "summary_en": "Use deliberate positive self-talk and daily goal visualization because your mind internalizes what you repeatedly tell it.",
+          "summary_zh": "保持积极自我暗示并可视化目标",
+          "timestamp_sec": 750,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Opinion is cheap, that's why everybody has one... Nobody's thoughts paid anybody's bills, man.",
+          "summary_en": "Ignore critics and doubters because other people's opinions are cheap and never pay your bills.",
+          "summary_zh": "无视外界廉价质疑坚定自我信念",
+          "timestamp_sec": 798,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Family & Choose Your Partner Wisely",
+          "category": "Mindset & Resilience",
+          "quote": "Your wife is the most important investment you're ever going to make in your life... Choose wisely. Because, man, when your wife or your husband believes in your dream more than you believe in that dream... it's like a superpower.",
+          "summary_en": "Keep family and siblings close by resolving disputes immediately, and choose a life partner who genuinely champions your dreams.",
+          "summary_zh": "重视手足情谊并谨慎选择人生伴侣",
+          "timestamp_sec": 852,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Make People Feel Special & Do Right",
+          "category": "Mindset & Resilience",
+          "quote": "People don't remember how much money you make or how many points you score... They remember how you made them feel. So make these people or whoever you interact with, make them feel special.",
+          "summary_en": "Focus on making people feel valued, taking care of loved ones, and doing the right thing rather than chasing status or stats.",
+          "summary_zh": "善待他人让人感受温暖并坚持做对的事",
+          "timestamp_sec": 888,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you have work ethic and you're persistent, you are going to be successful. That's a formula for success.",
+          "summary_en": "Combine relentless work ethic with persistence as a reliable formula for achieving long-term success.",
+          "summary_zh": "拼搏精神与坚持不懈是成功公式",
+          "timestamp_sec": 920,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身希腊雅典贫困移民家庭，16-17岁前曾在街头售卖CD、手表和DVD贴补家用；在球队月薪仅300美元时，14岁获5000欧元签约邀约（因坚持让哥哥同获签约而拒绝阿迪达斯、转投耐克），2013年被NBA密尔沃基雄鹿队选中。",
+      "guest_name": "Giannis Antetokounmpo",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Rich Dad Poor Dad",
+        "The Psychology of Money",
+        "Kobe Bryant"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management",
+        "Marketing & Distribution",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "NBA Champion (Milwaukee Bucks) & Entrepreneur / Investor",
+      "wealth_detail": "$120M peak single-year earnings; owns ~20 businesses",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "创业和起步并不需要很多启动资金，关键在于头脑精明灵活；尽早自主学习理财知识（如阅读《富爸爸穷爸爸》《金钱心理学》），保持积极的自我暗示与极强自律，虚心寻找导师向任何人学习，并把赚到的钱投入市场复利增值。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "NSeL8fFz5hw",
+  "video_type": "deep_dive_single"
+}

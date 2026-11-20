@@ -1,0 +1,247 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Involved & Inspect Work",
+          "category": "Business & Strategy",
+          "quote": "Don't delegate too much, stay involved... people respect what you inspect.",
+          "summary_en": "Stay hands-on in your business and inspect what you delegate rather than over-delegating.",
+          "summary_zh": "亲力亲为把控业务细节，别过度放权",
+          "timestamp_sec": 136,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "I have a real estate business, I have a manufacturing business, I have a construction business... Never one.",
+          "summary_en": "Diversify across multiple businesses and industries instead of relying on only one.",
+          "summary_zh": "多元化布局多个行业，不要只依赖单一业务",
+          "timestamp_sec": 159,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I know how to close a deal... I know what deal not to do, I know who not to talk to.",
+          "summary_en": "Master deal-making by knowing which deals to walk away from and who not to engage with.",
+          "summary_zh": "精明筛选交易对象，懂得拒绝烂单与错误的人",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Uncalculated High-Risk Bets",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Before you sit down make sure you know who you're debating against... don't take high-risk bets.",
+          "summary_en": "Know your counterparty before negotiating and avoid taking high-risk bets.",
+          "summary_zh": "避免高风险盲目下注，先摸清对手再上谈判桌",
+          "timestamp_sec": 185,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "并非出身富裕家庭，从事建筑行业35年（建造从费城到迈阿密的高楼），并拓展至房地产和制造业。",
+      "guest_name": "NYC Tower Construction Mogul",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Owner (Construction, Real Estate & Manufacturing)",
+      "wealth_detail": "$30M personal/yr; ~$500M/yr business revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "亲力亲为监督业务细节不要过度放权；多元化布局多个行业；学会辨别并拒绝烂交易，绝不盲目冒高风险。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Raise Capital & Build Trusted Partnerships",
+          "category": "Business & Strategy",
+          "quote": "Get a lot of help, raise a lot of money, yeah you got to trust your partners.",
+          "summary_en": "Raise significant capital, seek plenty of help, and trust your business partners when scaling.",
+          "summary_zh": "积极融资寻求外援，并充分信任合作伙伴",
+          "timestamp_sec": 265,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "If you make something people want you'll be okay... Product is everything. Without that, all the distribution in the world doesn't matter.",
+          "summary_en": "Prioritize creating a product people genuinely want; product matters even more than distribution.",
+          "summary_zh": "产品为核心，打造人们真正需要的好产品",
+          "timestamp_sec": 276,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I started working in a shoe store when I was 16 so I've kind of been—that's sort of been my thing.",
+          "summary_en": "Stay deeply focused on one industry you know from the ground up over decades.",
+          "summary_zh": "长期深耕单一行业，从基层做起保持专注",
+          "timestamp_sec": 287,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Know What You Don't Know & Seek Help",
+          "category": "Mindset & Resilience",
+          "quote": "Knowing what you don't know is such a gift and then you're able to get help, so that's sort of the secret.",
+          "summary_en": "Have the self-awareness to recognize what you do not know so you can bring in the right help.",
+          "summary_zh": "正视自身知识盲区，懂得谦虚向他人求助",
+          "timestamp_sec": 301,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "16岁起在鞋店打工积累经验，仅凭1100美元起家创立鞋履品牌并经营34年。",
+      "guest_name": "Steve Madden",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder, Steve Madden",
+      "wealth_detail": "~$2.5B/yr company sales",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "深耕自己熟悉的单一行业；把产品做到极致满足消费者真实需求；勇于融资和借力外援，正视自己不懂的领域并信任合作伙伴。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Buy two-story apartment and refurbish it and rent it and let it pay the mortgage and leverage it for credit.",
+          "summary_en": "Buy multi-family properties, renovate and rent them to cover the mortgage, and leverage equity for credit.",
+          "summary_zh": "买入公寓翻新出租，用租金还贷并撬动信用杠杆",
+          "timestamp_sec": 450,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "College was not where I got my information, it was from mentorship and being in a family business in the trenches with people that were doing it.",
+          "summary_en": "Learn directly from hands-on mentors in the trenches rather than relying solely on college.",
+          "summary_zh": "从实战导师和一线磨砺中学习，而非只靠学校",
+          "timestamp_sec": 477,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Effective Communication",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to have a PhD in communication, you have to be able to articulate and be able to communicate effectively.",
+          "summary_en": "Develop top-tier communication skills by dealing with real people through difficult real-time situations.",
+          "summary_zh": "练就卓越沟通表达力，在真实难题中磨炼应对",
+          "timestamp_sec": 499,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Just do your job and I promise you you're going to start to ratchet up the hierarchy your skill set and the people that are treating you bad will start to respect your work ethic.",
+          "summary_en": "Endure tough workplaces without ego, focus on doing the work, and let your work ethic earn respect and upward mobility.",
+          "summary_zh": "在逆境中踏实做好本职工作，靠敬业赢得尊重",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Control Emotions & Avoid Ego Reactions",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "You can't react and be emotional. The best thing I can tell your viewers is don't be emotional, don't feed your emotions.",
+          "summary_en": "Never act reactively or let ego and emotions drive your decisions in business.",
+          "summary_zh": "做生意绝不情绪化，放下自我控制情绪反应",
+          "timestamp_sec": 539,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "曾多次破产，在家族企业和一线实战中跟师学习，通过在新泽西做建筑废铁驳船拆解（年营收曾达1200万-1500万美元）及投资翻新房产积累财富。",
+      "guest_name": "NJ Scrap Iron, Electronics & Real Estate Owner",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Public Speaking & Communication",
+        "Real Estate Underwriting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Independent Contractor, Electronics Business Owner & Real Estate Investor",
+      "wealth_detail": "$12M-$15M/yr peak business revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "在一线向实战导师偷师；买入公寓翻新出租并用租金还贷加杠杆；在真实人际冲突中修得顶级沟通力；哪怕在不喜欢的环境里也克制情绪、专心提升硬实力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "The key is determination. You never give up. One day you fall on your face, you get back up and you do it all over again.",
+          "summary_en": "Determination separates top performers—never quit, get back up after every fall, and keep going.",
+          "summary_zh": "保持绝不放弃的决心，跌倒后再爬起来继续干",
+          "timestamp_sec": 752,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Everyone makes mistakes... it either makes you a better trader, you learn from your mistakes if you know it's your own fault.",
+          "summary_en": "Prepare emotionally for severe setbacks like margin calls, take accountability, and turn mistakes into improvement.",
+          "summary_zh": "正视自身失误与爆仓教训，从中复盘成长",
+          "timestamp_sec": 693,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Self-Direct Investments Rather Than Using Banks",
+          "category": "Wealth & Investing",
+          "quote": "I don't go for banks, I do it myself... the banks are good for people who want like 5%, 6%; I was making a lot more than that.",
+          "summary_en": "Learn to invest your own capital rather than leaving it with banks for modest 5%–6% returns.",
+          "summary_zh": "自主管理投资追求更高回报，不轻信银行低息",
+          "timestamp_sec": 739,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Get in it now, 100 bucks here, 100 bucks there—you'd be surprised what's going to happen in 30, 40 years.",
+          "summary_en": "Start investing in the market early, even $100 at a time, and let it snowball over 30 to 40 years.",
+          "summary_zh": "尽早从小额开始持续投资，让复利滚雪球",
+          "timestamp_sec": 839,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "仅读过一年半大学，90年代末开始居家通过互联网交易期权，从零敲碎打逐步滚雪球（包括重仓亚马逊获利），并曾受邀参加纽交所早餐会。",
+      "guest_name": "Manhattan Options Trader & Real Estate Investor",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Options Trader & Real Estate/Finance Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "趁年轻尽早入市，哪怕每次投100美元坚持三四十年也能产生惊人复利；学会自己投资而非只依赖银行；面对亏损和追保要具备心理承受力并坚持不放弃。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "JKkwS6FT7wY",
+  "video_type": "street_multi"
+}

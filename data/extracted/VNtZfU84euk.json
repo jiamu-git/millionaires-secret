@@ -1,0 +1,167 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Make sure that they're focused and they're on the right target, they do things that are really impactful for the company.",
+          "summary_en": "Stay focused on the right targets and execute what truly drives impact rather than reacting to every distraction.",
+          "summary_zh": "保持专注，聚焦高影响力的关键目标",
+          "timestamp_sec": 67,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "If the company that we're selling to trusts me, then they will trust the company that I'm trying to bring to them.",
+          "summary_en": "Build long-term credibility and trust over years so clients trust the businesses and teams you vouch for.",
+          "summary_zh": "长期积累商业信誉，用个人信任背书",
+          "timestamp_sec": 150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "No one likes to be sold to, but everybody likes to buy... I sell by asking questions, understanding first what the real true need is.",
+          "summary_en": "Use solution selling by asking questions to uncover a buyer's true need instead of pitching everything you have.",
+          "summary_zh": "用提问挖掘真实需求，而非硬性推销",
+          "timestamp_sec": 183,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Slow down, do a lot of homework on your client before you ever show up... understand their pain points and mutually solve a problem.",
+          "summary_en": "Do thorough homework on clients beforehand, focus on their specific pain points, and collaboratively solve their problem.",
+          "summary_zh": "提前做好客户背调，共同解决核心痛点",
+          "timestamp_sec": 218,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "You have to figure out the value proposition, you have to figure out the total addressable market, you have to figure out who you're selling to.",
+          "summary_en": "Get the fundamentals right before scaling: define your value proposition, total addressable market, target buyer, and key message.",
+          "summary_zh": "明确价值主张、目标受众与潜在市场规模",
+          "timestamp_sec": 241,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "In my organizational structure, my metrics, my alignment, my relationships, my channels, all those are designed so I kind of know the playbook in advance.",
+          "summary_en": "Design your organizational structure, metrics, alignment, and channels in advance for future scale so growth isn't chaotic.",
+          "summary_zh": "提前设计组织架构与扩展剧本再扩张",
+          "timestamp_sec": 266,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you have great mentors and you have great people and you really care about the people that you work with, helping them get better.",
+          "summary_en": "Surround yourself with great mentors and colleagues, and genuinely invest in helping the people you work with advance.",
+          "summary_zh": "结交良师益友，并真心帮助同事成长",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Learn what you're doing where you are today, enjoy what you're doing today, and it will definitely come back and help you in the future.",
+          "summary_en": "Master the skills in your current role and enjoy the journey, as everything you learn now compounds in the future.",
+          "summary_zh": "专注打磨当下技能，享受工作中的积累",
+          "timestamp_sec": 348,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "They haven't built family relationships and all they have is money. Money by itself is not very fun.",
+          "summary_en": "Be fully present with family when you are home; professionals who only chase work end up rich at 65 without real relationships.",
+          "summary_zh": "别为赚钱忽视家庭，退休只剩钱并无乐趣",
+          "timestamp_sec": 403,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I get up at 4:30 in the morning, I'm in the gym by five, I work out generally seven days a week... those other things that you do sharpen the axe.",
+          "summary_en": "Maintain daily physical discipline and outside hobbies to clear your mind, sharpen your axe, and avoid living in a pressure cooker.",
+          "summary_zh": "坚持早起锻炼与兴趣爱好，为精神减压",
+          "timestamp_sec": 437,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The worst decision I made was not buying enough Bitcoin or Tesla—invested in both, but not enough.",
+          "summary_en": "His biggest financial regret was not investing enough into high-conviction bets like Bitcoin and Tesla when he bought them.",
+          "summary_zh": "遗憾早期对看好的资产下注不够重",
+          "timestamp_sec": 549,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Get to know people before you invest with them and not just through a demo or PowerPoint... you want to know the character of the people.",
+          "summary_en": "Look beyond pitch decks and get to know founders personally—their character, family, and alignment—before investing.",
+          "summary_zh": "投资或合作前要线下深入了解对方人品",
+          "timestamp_sec": 580,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "If there's three variables that are risky and you think you can control two of them, then generally you have a pretty good shot.",
+          "summary_en": "Evaluate whether risky variables can be controlled or mitigated; take calculated shots when you control most variables and know your risk tolerance.",
+          "summary_zh": "只承担多数核心变量可控的理性风险",
+          "timestamp_sec": 622,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Ask what you can do to help versus ask what you can do to get ahead... the more people see you lifting others up, the more people are going to lift you up.",
+          "summary_en": "Ask how you can help others rather than just how to get ahead; lifting people up builds goodwill that lifts you up in return.",
+          "summary_zh": "多问能帮人什么，主动托举他人终会回流",
+          "timestamp_sec": 665,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "计算机科学专业毕业后从一线程序员做起，在首份工作中深入现场为B1轰炸机、迪士尼等项目编写设备通信程序，借此积累了协议理解与客户沟通经验；随后晋升为安达信合伙人并负责医疗科技板块，后掌舵IBM全球医疗咨询业务，最终出任医疗公司HMS Holdings首席运营官（该公司以35亿美元出售），如今转型为早期风投人及公司董事。",
+      "guest_name": "Doug Williams",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Networking & Relationships",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Investor, Board Member & Former CEO/COO of HMS Holdings",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要总想着自己如何出人头地，而要多问“我能帮别人做些什么”；专心学好并享受当下岗位的工作，真心关心并主动托举身边的同事与合作伙伴，当你不断成就他人时，贵人与机会自然会回到你身上。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "VNtZfU84euk",
+  "video_type": "deep_dive_single"
+}

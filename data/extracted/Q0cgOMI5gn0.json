@@ -1,0 +1,339 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "invest in I.T stocks early... Microsoft... 20 plus [years]",
+          "summary_en": "Invest in IT stocks like Microsoft early and hold long-term.",
+          "summary_zh": "早期投资科技股并长期持有二十余年",
+          "timestamp_sec": 11,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "save your money invest don't spend more than you have have a diverse portfolio 401K never touch it",
+          "summary_en": "Save money, spend less than you earn, diversify, and never touch your 401(k).",
+          "summary_zh": "量入为出积极储蓄，绝不提前动用401K",
+          "timestamp_sec": 31,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "担任网络安全高管，并早期投资微软等IT科技股持有超过20年。",
+      "guest_name": "Austin Cybersecurity Executive",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Cybersecurity Executive",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "趁早存钱并投资科技股，不要超前消费，建立多元化投资组合，长期持有401K养老金绝不提前支取。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "to walk away when someone didn't actually value my contribution... you are the value creation make sure you understand that that's who you are and that's what you're worth",
+          "summary_en": "Walk away when undervalued and recognize that you are the source of value creation.",
+          "summary_zh": "不被认可时果断离开，认清自身的价值创造力",
+          "timestamp_sec": 41,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "you've got to have leverage you've got to have the money to get there understand cash flow is King",
+          "summary_en": "Understand leverage, capital needs, and that cash flow is king when scaling.",
+          "summary_zh": "规模化扩张必须懂杠杆、重资金且现金流为王",
+          "timestamp_sec": 78,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "you've got to have the ability to deliver on your service line and that's the only way you sort of hit that next level",
+          "summary_en": "Build strong service delivery capabilities to break through growth plateaus.",
+          "summary_zh": "具备过硬的服务交付能力才能突破增长瓶颈",
+          "timestamp_sec": 87,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "you don't know everything seek out advice don't try to be everything for everybody you're going to need help make sure you ask for it",
+          "summary_en": "Accept that you don't know everything, seek advice, and ask for help.",
+          "summary_zh": "承认自己并非全能，主动寻求建议和他人帮助",
+          "timestamp_sec": 101,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在他人未认可自身贡献时果断离开，转型创业成为总部位于奥斯汀的全球化技术法律服务公司CEO。",
+      "guest_name": "Austin Technical Legal Services CEO",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "CEO of Technical Legal Services Company",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "认清自身作为价值创造者的定位；扩展业务要善用杠杆、资金和现金流为王的理念，确保服务交付；创业不要事必躬亲，要主动向他人请教和求助。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find an Untapped Unique Idea",
+          "category": "Business & Strategy",
+          "quote": "find a unique idea do something that hasn't been done",
+          "summary_en": "Find a unique idea and build something that hasn't been done before.",
+          "summary_zh": "寻找尚未做过的独特创意并付诸实践",
+          "timestamp_sec": 112,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "get the people around you that believe in it or get a partner",
+          "summary_en": "Surround yourself with people who believe in your idea or find a partner.",
+          "summary_zh": "凝聚认同你愿景的人或寻找靠谱合伙人",
+          "timestamp_sec": 112,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "it was working for myself I founded a company 20 something years ago and sold it when I was 33",
+          "summary_en": "Work for yourself and found a company to build sellable equity.",
+          "summary_zh": "为自己打工并创立公司，积累股权价值",
+          "timestamp_sec": 124,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "doing something that creates revenue for you when you're not actually working... as long as you've got passive income... you're going to do very well",
+          "summary_en": "Create passive income streams that generate revenue even when you're not working.",
+          "summary_zh": "打造不亲自工作也能创收的被动收入体系",
+          "timestamp_sec": 148,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "long-term real estate has always been a consistent good play but technology stocks and the stock market is still good",
+          "summary_en": "Long-term real estate is consistently solid alongside technology stocks.",
+          "summary_zh": "长期投资房地产稳健，科技股同样值得关注",
+          "timestamp_sec": 166,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在谷歌出现前创立网站流量分析公司（Web trans），33岁时以10.3亿美元的价格出售后实现退休与财务自由。",
+      "guest_name": "Web Analytics ($1.03B Exit) Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder of Web Analytics Company (Web trans)",
+      "wealth_detail": "Sold company for $1.03B ($1 billion 30 million) at age 33",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "寻找别人没做过的独特创意，联合认同你愿景的伙伴创业；建立无需亲自劳动的被动收入，并将资金配置到长期房地产和科技股中。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I entered a profession that gave me a lot of job security I never lived beyond my means I was fortunate to make some sensible Investments",
+          "summary_en": "Choose a secure profession, never live beyond your means, and make sensible investments.",
+          "summary_zh": "选择高稳定性职业，量入为出并稳健投资",
+          "timestamp_sec": 170,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "first of all study it don't just do what the herd is doing",
+          "summary_en": "Study investing thoroughly before putting money in rather than following the crowd.",
+          "summary_zh": "投资前先深入学习研究，切忌盲目跟风",
+          "timestamp_sec": 185,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Robin Hood Reddit and meme stocks that is just gambling which is very different from investing just go for the slow and steady",
+          "summary_en": "Avoid meme stock hype which is just gambling, and stick to slow and steady investing.",
+          "summary_zh": "迷因股炒作等同赌博，应坚持稳扎稳打",
+          "timestamp_sec": 193,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you're competing globally and you're competing with kids who are actually going to sleep four hours a night... you've really got to be at it the whole time",
+          "summary_en": "In a hyper-competitive global market, you have to stay relentlessly at it.",
+          "summary_zh": "全球竞争极其激烈，必须保持全天候拼搏",
+          "timestamp_sec": 220,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "进入具有高工作稳定性的医疗行业（字幕识别为Madison），坚持量入为出并进行稳健投资。",
+      "guest_name": "Austin Medical Professional",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Medical Professional (transcribed as 'Madison')",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "投资前务必先做深入研究，不要盲从散户炒作迷因股或追逐泡沫市场；坚持稳健投资与量入为出，并做好面对全球高强度竞争、全力以赴的准备。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I bought a property over on Bee Caves 25 years ago that became very valuable",
+          "summary_en": "Buy property in promising areas and hold it long-term for appreciation.",
+          "summary_zh": "早年购入潜力地段房产并长期持有增值",
+          "timestamp_sec": 271,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "it takes time yeah I became rich but it took time that's an ingredient",
+          "summary_en": "Accept that building wealth takes time and patience is an essential ingredient.",
+          "summary_zh": "积累财富需要时间沉淀，切忌急功近利",
+          "timestamp_sec": 281,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I took chances you don't accomplish anything if you don't take risks",
+          "summary_en": "Take chances because you cannot accomplish anything without taking risks.",
+          "summary_zh": "敢于冒险抓住机会，不冒险就一无所成",
+          "timestamp_sec": 292,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "learn from people that know what the hell they're doing",
+          "summary_en": "Learn directly from experienced practitioners who truly know what they are doing.",
+          "summary_zh": "向真正懂行的人学习，汲取实操经验",
+          "timestamp_sec": 304,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "make good connections too so that you become aware of opportunities",
+          "summary_en": "Build strong connections so you gain access to upcoming opportunities.",
+          "summary_zh": "建立优质人脉网络，获取更多潜在机会",
+          "timestamp_sec": 304,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事医药生物科技与商业地产行业，并于25年前购入奥斯汀Bee Caves房产，随时间推移大幅升值。",
+      "guest_name": "Austin Biotech & Commercial Real Estate Investor",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Pharmaceutical Biotech & Commercial Real Estate Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "敢于承担风险去争取机会，但也要理解变富需要时间；想做房地产投资，要向真正懂行的前辈学习，并建立良好人脉以发现机会。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "buying a home a multi-family home at a young age really paid off for me",
+          "summary_en": "Buying a multi-family home at a young age can pay off substantially.",
+          "summary_zh": "年轻时尽早购入多户住宅，投资回报丰厚",
+          "timestamp_sec": 393,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "find a financial advisor and have a financial strategy that fits you there's no one-size-fits-all solution",
+          "summary_en": "Work with a financial advisor to craft a personalized financial strategy.",
+          "summary_zh": "寻找理财顾问并制定适合自己的财务策略",
+          "timestamp_sec": 393,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "take more risks and worry less about the immediate and what people they're going to think about you... and follow your heart",
+          "summary_en": "Take more risks, worry less about immediate setbacks or others' opinions, and follow your heart.",
+          "summary_zh": "多冒险少在意他人眼光，勇敢追随内心",
+          "timestamp_sec": 415,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "担任奥斯汀市助理城市经理，并在年轻时购买了多户住宅房产（multi-family home），带来丰厚回报。",
+      "guest_name": "Austin Assistant City Manager",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Assistant City Manager for the City of Austin",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时尽早购置多户住宅，找专业理财顾问制定适合个人的财务规划；敢于冒险，不要被眼前顾虑或他人看法束缚，追随自己的内心。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "Q0cgOMI5gn0",
+  "video_type": "street_multi"
+}

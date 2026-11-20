@@ -1,0 +1,354 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "You got to own the music... I own all my masters and I have 500 something songs out.",
+          "summary_en": "Retain ownership of your music masters and catalog instead of selling rights for label advances.",
+          "summary_zh": "保留作品母带所有权而非卖断换预付款",
+          "timestamp_sec": 226,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "My number one investment is the music. I've never seen an ROI like music. For example, I've spent $9 on a song and made 2 million off of it.",
+          "summary_en": "Start ultra-lean with DIY production and distribution, and reinvest your capital into your highest-ROI craft.",
+          "summary_zh": "低成本独立启动并复投核心音乐创作",
+          "timestamp_sec": 374,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Faith requires more than 48 hours... Give it a year. Give it two. Give it 10... if you're dealing with hate and you're an artist, drop your way through it. Keep dropping songs.",
+          "summary_en": "Do not give up after a short-term flop or backlash; keep releasing work and give your creations years to pay off.",
+          "summary_zh": "对作品保持长期耐心别因短期冷遇放弃",
+          "timestamp_sec": 400,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Young men need to read Outwitting the Devil by Napoleon Hill.",
+          "summary_en": "Read Napoleon Hill's Outwitting the Devil to sharpen mindset and discipline.",
+          "summary_zh": "阅读经典书籍并持续学习自我提升",
+          "timestamp_sec": 488,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Master the three appetites. Master your sexual appetite, the appetite of literally like what goes in your body and the appetite of your need to express loosely formed opinions.",
+          "summary_en": "Practice strict self-control over lust, diet, and impulsive speech so distractions do not derail your ambition.",
+          "summary_zh": "严控欲望与饮食言行保持高度自律",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期独立制作词曲并通过TuneCore花9.99美元发行《Psycho Pt. 2》，未花营销费仅凭母带版权赚到200万美元。",
+      "guest_name": "Russ",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Outwitting the Devil by Napoleon Hill"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Musician & Independent Recording Artist",
+      "wealth_detail": "$25M/yr projected annual earnings; turned down $50M buyout offer for music rights",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "坚持拥有自己的作品版权（母带），避免靠唱片公司预付款透支未来；低成本独立制作发行并复投作品，面对差评和冷遇时持续发歌、保持数年以上的耐心，同时管住私欲。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "You got to remember who you're selling to and treat them right, take care of them and treat them fairly.",
+          "summary_en": "Never forget who your customers are—treat them fairly and protect their everyday value.",
+          "summary_zh": "牢记目标顾客并给予公平价格与优质体验",
+          "timestamp_sec": 656,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I own it all. I don't have any zero debt... if you want to buy it, buy it with cash... we built a factory in New Jersey. Spent over 400 million bucks. We paid for it.",
+          "summary_en": "Avoid outside investors and debt; fund factories and vertical operations with cash from retained profits.",
+          "summary_zh": "坚持零负债现金流自驱扩张并自有产线",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Differentiate Through Packaging & Product",
+          "category": "Business & Strategy",
+          "quote": "If you're in the beverage business, you need something that's going to jump off the shelf without advertising. Cuz if you think you're going to... compete with Coke and Pepsi... They'll outspend you.",
+          "summary_en": "Beat big-budget competitors with standout packaging, high product quality, and word-of-mouth pricing rather than traditional ads.",
+          "summary_zh": "用吸睛包装与过硬品质取代传统广告",
+          "timestamp_sec": 791,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Maximize Operational Efficiency & Vertical Ownership",
+          "category": "Business & Strategy",
+          "quote": "We grew a business double in the last 10 years and we haven't doubled the staff because of efficiencies and modernization... I'm efficient. They're not.",
+          "summary_en": "Stay more efficient than larger rivals through modern software, vertical integration, and supplier negotiation.",
+          "summary_zh": "通过高效运营与现代化系统精简人力",
+          "timestamp_sec": 740,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "My dad told me once, know your cost and sell it for above that... Some people don't know the cost of their goods... Spend more than they're earning and then borrow money.",
+          "summary_en": "Know your exact unit costs and cost of doing business, sell above cost, and avoid borrowing to cover overspending.",
+          "summary_zh": "算清成本并保证利润绝不入不敷出借债",
+          "timestamp_sec": 842,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I've been in business 55 years and I haven't had one single boring day. Most people would pay for that. I get paid to do it.",
+          "summary_en": "Build a business you genuinely enjoy so even decades of hard work never feel boring.",
+          "summary_zh": "从事真正热爱的事业五十五年如一日",
+          "timestamp_sec": 924,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "You don't have to be a billionaire. You have to be happy, right? And too often... when costs rise and our profits shrink. I say sometimes you got to tighten your belt.",
+          "summary_en": "Prioritize happiness over chasing wealth metrics and tighten your belt when margins compress.",
+          "summary_zh": "成本上升时勒紧腰带不盲目追求奢华",
+          "timestamp_sec": 937,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Realize that America is the greatest place in the world. And if you are appreciative of where you live and take care of the things that are important...",
+          "summary_en": "Stay appreciative of your country and opportunities, and take care of your civic responsibilities.",
+          "summary_zh": "对所处环境心怀感恩并珍惜创业机会",
+          "timestamp_sec": 959,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "父亲在杂货店工作年薪不超过1.5万美元，1970年未上大学且因身高免服兵役后，先当了10年卡车司机，从小生意一步步做大并创立AriZona饮料。",
+      "guest_name": "Don Vultaggio",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Negotiation & Deal-Making",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder, AriZona Beverage Company",
+      "wealth_detail": "Couple billion dollars/year revenue (under $3B); billionaire before launching Arnold Palmer (host cites $6B+ net worth)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "算清每一笔货物和运营成本并确保加价盈利；坚持零负债、现金支付与垂直整合，用高性价比与亮眼包装吸引消费者而非烧钱打广告，并始终善待顾客。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "People doubt me every day. I love doubters. You know, doubters are great. If you look at a doubter, that's motivation.",
+          "summary_en": "Embrace skeptics and use public doubt as fuel to prove your business can win.",
+          "summary_zh": "把外界质疑当作燃料用成绩回击看衰者",
+          "timestamp_sec": 1210,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'd study. I'd be a non-stop studyer... always learning from everybody around you.",
+          "summary_en": "Be a nonstop student of markets and continuously learn from everyone around you.",
+          "summary_zh": "保持终身学习习惯不断从他人身上汲取",
+          "timestamp_sec": 1270,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I'd find a void in the market and then as soon as I found that void, I would sprint it... if it didn't work, I'd do it again right away.",
+          "summary_en": "Identify a market void, sprint at it immediately, and iterate right away if the first attempt misses.",
+          "summary_zh": "发现市场空白后立刻全速冲刺并快速试错",
+          "timestamp_sec": 1273,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "What I would make sure I did is got the right people with me because you can't do stuff on your own.",
+          "summary_en": "Bring the right people onto your team early because major businesses cannot be built solo.",
+          "summary_zh": "找对核心团队成员不独自单打独斗",
+          "timestamp_sec": 1276,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Relationships don't mean [anything] in good times, but in tough times, they mean everything... You can't have real success without having people really help you. And don't be scared to ask for help.",
+          "summary_en": "Build authentic relationships that carry you through dark times, and never hesitate to ask mentors and peers for help.",
+          "summary_zh": "建立真诚人脉关系低谷期敢于向贵人求助",
+          "timestamp_sec": 1294,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "If you're scared to fail, you're never going to be that successful. I like to fail because each failure leads to the next success.",
+          "summary_en": "Do not fear failure; take your losses, learn from them, and let each one lead to your next win.",
+          "summary_zh": "拥抱失败把每次挫折当作下次成功的阶梯",
+          "timestamp_sec": 1372,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I just was going to outwork, out hustle. I wasn't going to quit till I got to the right point.",
+          "summary_en": "Outwork and out-hustle everyone else and refuse to quit even during severe financial downturns.",
+          "summary_zh": "靠极致拼搏与永不言弃冲出财务绝境",
+          "timestamp_sec": 1423,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Think Long-Term to Build Lasting Value",
+          "category": "Business & Strategy",
+          "quote": "I think in lifetimes... If you think short term, you're going to make a lot of mistakes. If you think long term, really long term, you really build it to last.",
+          "summary_en": "Think in lifetimes rather than quarters or years so you avoid short-term mistakes and build an enduring brand.",
+          "summary_zh": "以终身视野而非短期利益打造百年品牌",
+          "timestamp_sec": 1441,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Love doing what you do. Life is too short... You get to live one life. You got to love every minute.",
+          "summary_en": "Love what you do every day because life is too short to spend it on work you dislike.",
+          "summary_zh": "全情热爱所做之事享受人生每一分钟",
+          "timestamp_sec": 1493,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "8岁起挨家挨户卖球星卡和铲雪；15岁曾破产被债主上门催债，半年后进入尾货批发生意，21岁时年营收做到1亿美元、年利润1000万美元。",
+      "guest_name": "Michael Rubin",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Shoe Dog (story of Nike)",
+        "Robert Kraft & Jonathan Kraft"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder & CEO, Fanatics",
+      "wealth_detail": "Fanatics valued at ~$25B with ~$12B projected annual revenue (host cites $10B+ net worth); made $10M/yr at age 21",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "如果从零开始，会持续学习并寻找市场空白，一旦发现机会就全力冲刺，同时找对合伙人与团队、真诚建立人脉并敢于求助，用无限长远的眼光和不怕失败的拼劲去赢。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Can't listen to the noise. I always tell people, let your haters be your waiters when you sit down at the table of success.",
+          "summary_en": "Block out critics and doubters who mock your ambitions and stay focused on reaching the top.",
+          "summary_zh": "屏蔽外界噪音让看轻你的人见证成功",
+          "timestamp_sec": 1584,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Dark places are not burials, they're plantings. You just have to be willing to go through the process to see the fruits of those harvest.",
+          "summary_en": "Build personal systems to overcome disadvantages and view dark periods as preparation rather than defeat.",
+          "summary_zh": "把至暗时刻视作蓄力并建立系统克服短板",
+          "timestamp_sec": 1624,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "One day at a time is the most important thing... One step at a time and it will all come together. The only fight you will lose is the one when you don't throw the punch.",
+          "summary_en": "Rebuild from rock bottom by stacking small daily wins—getting out of bed, showering—and never stopping forward motion.",
+          "summary_zh": "低谷期每天稳扎稳打从微小自律习惯做起",
+          "timestamp_sec": 1644,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Faith is everything to me. And I turn on my GPS every morning. My God positioning satellite. I let go and I let God.",
+          "summary_en": "Use faith as your daily compass to stay centered and resilient through heavy responsibility.",
+          "summary_zh": "依靠坚定信仰作人生罗盘顶住高压前行",
+          "timestamp_sec": 1775,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Stay Authentic & True to Yourself",
+          "category": "Mindset & Resilience",
+          "quote": "Be unafraid, be bold, be true, but most importantly be you. Nothing is worse than completing your life journey and you live based on how other people look at you.",
+          "summary_en": "Be bold and authentic instead of living your life according to how others judge you.",
+          "summary_zh": "勇敢做真实的自己不活在他人眼光里",
+          "timestamp_sec": 1789,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Eric Adams",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Mayor of New York City",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "从最微小的日常胜利做起（按时起床、换衣、洗澡），一天只专注走好一步；把低谷视作蓄力而非终点，只要不停止行动和出拳，人生就会逐步走上正轨。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "gBBlX7v0910",
+  "video_type": "street_multi"
+}

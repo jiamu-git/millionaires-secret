@@ -1,0 +1,297 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I was 5 months pregnant. But I had a lot of conviction in the gaps that I'd seen, and I wanted to make sure that I was here on the ground taking advantage of that opportunity.",
+          "summary_en": "Act on strong conviction in market gaps even when timing seems unconventional.",
+          "summary_zh": "认准市场空白，克服质疑果断入局",
+          "timestamp_sec": 134,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find Overlooked & Mispriced Opportunities",
+          "category": "Business & Strategy",
+          "quote": "When no one else is looking, that's where you should be investing. That's where you see the best mispriced opportunities where you can get in at very, very attractive discounts and make a lot of money.",
+          "summary_en": "Invest in overlooked segments like women and small businesses to capture mispriced discounts.",
+          "summary_zh": "在无人关注的冷门领域寻找折价机会",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Ninety-nine percent of success is refusing to take no for an answer. People quit one room before the yes... A river cuts through rock not because of its power, but because of its persistence.",
+          "summary_en": "Refuse to quit when facing rejections; persistence breaks through barriers over time.",
+          "summary_zh": "拒绝接受否定，靠持续坚持实现突破",
+          "timestamp_sec": 172,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "If someone is not going to give you a seat at that table, create it yourself... Don't let anyone tell you that you can't be who you are.",
+          "summary_en": "Ignore doubters about your age, race, or gender and create your own seat at the table.",
+          "summary_zh": "不被标签定义，没人给座位就自己创造",
+          "timestamp_sec": 200,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I strongly believe in God. I believe that with God nothing is impossible.",
+          "summary_en": "Hold onto faith in God for open doors and resilience during tough journeys.",
+          "summary_zh": "保持信仰，相信一切皆有可能",
+          "timestamp_sec": 208,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I'm a proponent of the informal economy. It's a $1 trillion opportunity... find businesses that are enabling the informal economy, you'll be a billionaire.",
+          "summary_en": "Target the $1T informal economy by building payment, tech, logistics, and capital infrastructure.",
+          "summary_zh": "布局万亿美元非正规经济的赋能基建",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18岁进入雷曼兄弟投行部，20岁在摩根大通做并购，21岁进入私募股权，29岁怀孕5个月时创立自己的基金，如今运营非洲最大的女性独立GP风投基金。",
+      "guest_name": "Lagos Solo Female GP & Private Equity Fund Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Private Equity & Venture Capital Fund Founder (Solo Female GP)",
+      "wealth_detail": "Manages ~$80M fund (AUM)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "去无人关注的领域寻找被低估的机会（如女性创业、中小企业及非洲万亿级非正规经济基础设施），拒绝接受“不”，凭借坚持、信念和信仰创造属于自己的席位。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Culture and entertainment... Because it sends a language. It speaks the language that people, the younger generation, understands.",
+          "summary_en": "Look into culture and entertainment (Nollywood, Afropop) as high-growth industries speaking to youth.",
+          "summary_zh": "看好能传递非洲青年声音的文娱产业",
+          "timestamp_sec": 357,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Oh, like everything in life, right? But you get up and try and try over again.",
+          "summary_en": "Expect failed ventures as part of life, get back up, and keep trying again.",
+          "summary_zh": "经历创业失败后也要重新站起来尝试",
+          "timestamp_sec": 377,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Once you can drive yourself with the zeal, determination, you can always make a difference and be a good entrepreneur.",
+          "summary_en": "Drive yourself with zeal and determination to succeed as an entrepreneur.",
+          "summary_zh": "靠热情与决心驱动自己做好创业者",
+          "timestamp_sec": 389,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Listen, agree or disagree. Close... Look at the person, your counterparty, understand what you want out of the deal, and put your benchmark of where you're going to start.",
+          "summary_en": "Negotiate by listening, gauging the counterparty's threshold, setting your benchmark, and closing.",
+          "summary_zh": "谈判要先倾听对手底线并设定心理预期",
+          "timestamp_sec": 420,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Nothing good comes easy. But with your mindset and your focus, the difference is clear.",
+          "summary_en": "Ignore doubts when starting out and rely on mindset and focus to stand apart.",
+          "summary_zh": "面对质疑时保持正确心态并专注目标",
+          "timestamp_sec": 442,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Accept Necessary Sacrifices & Strong Partner Support",
+          "category": "Mindset & Resilience",
+          "quote": "Time with family. That's a big sacrifice major entrepreneurs have to give up... Something's got to give, right? But that sacrifice makes it worth it because then you have a family, you have a partner, you have a wife that's strong to support that growth.",
+          "summary_en": "Recognize that building big requires sacrificing time with family and having a supportive partner.",
+          "summary_zh": "接受家庭时间牺牲，依托强有力的伴侣",
+          "timestamp_sec": 455,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Think Global, Act Local (Glocal)",
+          "category": "Business & Strategy",
+          "quote": "Any business that's worth its onions got to think global. But I call it glocal. So global, but think local.",
+          "summary_en": "Adopt a 'glocal' mindset—think globally while executing with local understanding.",
+          "summary_zh": "具备全球视野的同时注重本地化落地",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Do Your Best & Make a Mark",
+          "category": "Mindset & Resilience",
+          "quote": "I think do your best, leave the rest, but live life making a mark.",
+          "summary_en": "Give your absolute best effort, let go of what you can't control, and leave a lasting mark.",
+          "summary_zh": "全力以赴，在人生中留下自己的印记",
+          "timestamp_sec": 528,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通中产家庭，受母亲经商经历启发并立志做得更大，在油气行业创业32年，将企业做到年营收超10亿美元，并曾促成超10亿美元的交易。",
+      "guest_name": "Kola Karim",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Oil and Gas Entrepreneur / Business Owner",
+      "wealth_detail": "Company revenues >$1B/yr; closed >$1B oil & gas transaction",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "未来1-2年可关注文化与娱乐产业；学会倾听对手需求与底线的谈判技巧；做生意要全球视野结合本地化落地，并做好迎接失败和牺牲时间的心理准备。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Today, in Africa, 70% of our population they are below 30 years of age. And we have 60% of the world's arable land. We have 2/3 of the world's mineral resources... So, the real future is Africa.",
+          "summary_en": "Invest in Africa due to its young population, vast arable land, and mineral resources.",
+          "summary_zh": "押注拥有年轻人口与丰富资源的非洲市场",
+          "timestamp_sec": 847,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "We went into real physical businesses, you know, so that actually these are things that we need... I tried to do what you call backward integration to now produce what we used to import.",
+          "summary_en": "Build essential physical businesses like cement, sugar, and refining via backward integration.",
+          "summary_zh": "深耕实体刚需产业，通过本土生产替代进口",
+          "timestamp_sec": 876,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "In sales, the first thing that you have to do is that you must actually treat the customer as a king... if you don't sell your goods, you can't grow.",
+          "summary_en": "Treat every customer like a king because sales are the lifeblood of business growth.",
+          "summary_zh": "销售第一要义是把客户当成国王来对待",
+          "timestamp_sec": 929,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I don't really look at those things. They are very destructive, they will distract me.",
+          "summary_en": "Ignore net worth rankings and vanity metrics because they are destructive distractions.",
+          "summary_zh": "屏蔽富豪榜等外部噪音，以免分散注意力",
+          "timestamp_sec": 951,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've been humble all my life, and I came from a family that they've been very, very humble. They always teach me discipline, and also to be very, very down-to-earth.",
+          "summary_en": "Maintain discipline, humility, and a down-to-earth attitude regardless of wealth.",
+          "summary_zh": "保持谦逊本色与严于律己的处事作风",
+          "timestamp_sec": 980,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "My number one hobby is my business... I love what I do, and I know what I do very well. Cuz if you don't really understand your business, you cannot run business.",
+          "summary_en": "Love your business as your passion and master every detail of how it operates.",
+          "summary_zh": "热爱并深耕所做的生意，懂行才能掌舵",
+          "timestamp_sec": 1002,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build for Legacy & Job Creation",
+          "category": "Business & Strategy",
+          "quote": "They are not doing the business only to make money... It is to leave a legacy, and also to make sure that yes, you create wealth for other people.",
+          "summary_en": "Aim beyond making money to industrialize your region, create wealth for others, and leave a legacy.",
+          "summary_zh": "做企业不止为赚钱，更要留下遗产并造福他人",
+          "timestamp_sec": 1012,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "We have Aliko Foundation, which we give out a lot of money. 30% of my wealth is to the foundation... God is real. Even if I look at myself, I know that God is real.",
+          "summary_en": "Stay grounded in faith in God and commit substantial wealth to philanthropy.",
+          "summary_zh": "怀抱坚定信仰，用三成财富回馈慈善事业",
+          "timestamp_sec": 1036,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "First of all, you have to be very honest. You have to be very, very strategic. You have to know exactly what you are doing.",
+          "summary_en": "Lead with honesty and strategic clarity, knowing your exact plan and execution.",
+          "summary_zh": "做人必须诚实正直，做事必须极度讲究策略",
+          "timestamp_sec": 1061,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Don't get discouraged... There must be ups and downs even in life. Today you are healthy, tomorrow you have challenges of health. But once you are focused, you know what you are doing, you'll get there.",
+          "summary_en": "Stay focused and refuse to get discouraged through life's inevitable ups, downs, and health challenges.",
+          "summary_zh": "直面健康与人生起伏，专注目标不轻言放弃",
+          "timestamp_sec": 1072,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "学生时代向同学卖糖果起步，早年从事水泥、糖、煤炭等大宗商品贸易，看到亚洲由本土人建设发展后，转向“后向一体化”在非洲本地建厂生产原本依赖进口的必需品，打造出涵盖水泥、化肥与全球最大单列炼油厂的商业帝国。",
+      "guest_name": "Aliko Dangote",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder & Chairman, Dangote Group (Oil Refining, Cement, Fertilizer)",
+      "wealth_detail": "$38B net worth (Forbes >$30B); refinery worth >$40B; $10B Q1 revenue",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "做人要诚实、谦逊、有纪律，做事要有高度战略性和专注力；深耕实体刚需并真正吃透自己的行业，把客户当成国王，面对人生和健康起伏不要气馁。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "2tqW6a5tWoc",
+  "video_type": "street_multi"
+}

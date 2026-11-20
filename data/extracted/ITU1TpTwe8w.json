@@ -1,0 +1,314 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Diversify, Pivot & Adapt",
+          "category": "Business & Strategy",
+          "quote": "Well, right now you have to diversify and you have to pivot and you know keep on moving.",
+          "summary_en": "Continuously diversify, pivot, and keep moving forward to grow the business amid uncertainty.",
+          "summary_zh": "业务需要不断多元化、转型并持续推进",
+          "timestamp_sec": 217,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Vertical Integration & Supply Chain Control",
+          "category": "Business & Strategy",
+          "quote": "Yeah, we're a vertically integrated company. So, we own the entire supply chain.",
+          "summary_en": "Own the entire supply chain from raw materials and manufacturing to distribution.",
+          "summary_zh": "打造垂直整合企业，掌控全产业链条",
+          "timestamp_sec": 223,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "继承并经营已创办五六十年的家族圣诞饰品制造企业，借力香港作为中国门户的贸易红利发展成为中国最大的圣诞饰品制造商。",
+      "guest_name": "Charlie (Christmas Ornament Manufacturer)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Owner / Operator, Christmas Ornament Manufacturer",
+      "wealth_detail": "Hundreds of millions $/yr (company revenue)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Forge Your Own Unique Path",
+          "category": "Mindset & Resilience",
+          "quote": "Well, everyone has their own way out. There's no way you can copy me. There's no way I can copy you. So, everyone's different.",
+          "summary_en": "Do not try to copy someone else's blueprint; everyone must find their own unique path.",
+          "summary_zh": "无法复制他人，每个人都有自己的出路",
+          "timestamp_sec": 497,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find a Low-Competition Niche",
+          "category": "Business & Strategy",
+          "quote": "my market is really niche. We only have a few people in the business.",
+          "summary_en": "Operate in a highly specialized niche market with very few competitors.",
+          "summary_zh": "深耕竞争者极少的细分利基市场",
+          "timestamp_sec": 506,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Street Smarts Over Book Smarts",
+          "category": "Mindset & Resilience",
+          "quote": "Street. Definitely street. Books won't bring you anywhere, right? If you're only books smart, then no matter how good you are... you might be working for me anyway.",
+          "summary_en": "Street smarts matter far more than academic credentials or book smarts in business.",
+          "summary_zh": "街头智慧比死读书重要得多",
+          "timestamp_sec": 518,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I never ask anyone who works for me. I never require them to have any specific educational wise... I need them to be smart.",
+          "summary_en": "Hire people for real-world intelligence and capability rather than formal educational credentials.",
+          "summary_zh": "招人看重聪明与实战力而非学历",
+          "timestamp_sec": 531,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Always know what you're worth and then keep that in your mind.",
+          "summary_en": "Know your worth in negotiations and never be afraid to walk away from a bad deal.",
+          "summary_zh": "谈判时牢记自身价值并敢于离场",
+          "timestamp_sec": 558,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒且未获家族资助，凭借法律与经济学双学位及街头智慧进入全球市场交易、企业IPO上市及律所等利基领域，单年最高赚取约1亿英镑。",
+      "guest_name": "Bobby",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Trading & IPO Specialist, Law Firm Owner",
+      "wealth_detail": "£100M/yr best year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "每个人的成功路径都无法复制，需寻找竞争者寥寥的利基市场，靠街头智慧而非死读书取胜；谈判时牢记自身价值并敢于离场。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose Your Spouse Carefully",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "He said, \"Be careful with the one you marry. You need to make this decision like really hard.\"",
+          "summary_en": "Sharing Warren Buffett's key advice: be extremely careful when choosing whom to marry.",
+          "summary_zh": "巴菲特忠告：择偶需极其谨慎",
+          "timestamp_sec": 658,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "in the capital markets we always give premium to new companies to new innovations rather than you know keep manufacturing the things we have been manufacturing for thousands of years.",
+          "summary_en": "Focus on disruptive innovations that never existed before, as capital markets award them the highest premium.",
+          "summary_zh": "资本市场对全新创新给予更高溢价",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Invest in Innovation & Bitcoin",
+          "category": "Wealth & Investing",
+          "quote": "Crypto and the blockchain is the money for the internet... Buy Bitcoin. It's going to become the future currency.",
+          "summary_en": "Invest in Bitcoin and crypto now, as AI and the internet will natively adopt machine-readable digital currency.",
+          "summary_zh": "投资比特币等面向AI时代的数字资产",
+          "timestamp_sec": 701,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "For myself, I think 100%. But for the people knowing me, I think they have no idea I going to become a billionaire.",
+          "summary_en": "Maintain 100% conviction in your vision even when everyone around you doubts you.",
+          "summary_zh": "无视外界质疑，笃定自己能成亿万富翁",
+          "timestamp_sec": 743,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "the one thing all the billionaire all share for me is they all have their own business.",
+          "summary_en": "You cannot get rich working for someone else; every billionaire owns their own business.",
+          "summary_zh": "打工无法致富，必须拥有自己的事业",
+          "timestamp_sec": 761,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创立全球最大的区块链之一，25岁即成为亿万富翁，并在2020年花费450万美元拍下与巴菲特共进午餐的机会。",
+      "guest_name": "Justin Sun",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Warren Buffett ($4.5M charity lunch)"
+      ],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Blockchain Founder",
+      "wealth_detail": "Billionaire at age 25",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "必须创办并拥有自己的企业而非替别人打工，保持100%的自信无视质疑，并尽早买入比特币布局AI与互联网时代的未来货币。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Because I really know what I want to do... I don't want to waste my time and my energy. Time is our exit.",
+          "summary_en": "Protect your time and energy by knowing what you want and cutting out paths that don't fit you.",
+          "summary_zh": "认清目标不内耗，把时间留给真正热爱的事",
+          "timestamp_sec": 923,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Work together instead only by yourself. If you work by yourself, you can fast. But work with a great team, you can be far and deep.",
+          "summary_en": "Partner with investors and specialists who bring different know-how; a great team takes you far and deep.",
+          "summary_zh": "与优秀团队和投资人协作才能走得更远",
+          "timestamp_sec": 935,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You are the only one who can believe yourself or make yourself fail. If you don't believe yourself, who can believe you?",
+          "summary_en": "Ignore the 99% who doubt you; self-belief is the prerequisite for making your vision real.",
+          "summary_zh": "只有自己相信自己，才能把目标变为现实",
+          "timestamp_sec": 957,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Don't be afraid of failure. I failed many thousand times. Every time I failed, I learned. Next time I fail, I felt better.",
+          "summary_en": "Embrace failing thousands of times as learning opportunities until you eventually become a champion.",
+          "summary_zh": "不要害怕失败，从千次跌倒中不断学习",
+          "timestamp_sec": 974,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Obsess Over Product Quality & Precision",
+          "category": "Business & Strategy",
+          "quote": "You need to be precise. You need to be critical... You need to learn. You need to be fast. You need to absorb and you need to critical. Then you will make something better than before.",
+          "summary_en": "Stay relentlessly critical and precise about product quality so you constantly build something better for top-tier clients.",
+          "summary_zh": "对产品保持挑剔精准，持续打磨升级",
+          "timestamp_sec": 997,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Stay Kind & Polite in Adversity",
+          "category": "Mindset & Resilience",
+          "quote": "Stay kind. No matter how worse situation you think you are now, it's your moment to shine. Stay kind. Be polite to people and stand up tall.",
+          "summary_en": "No matter how difficult your situation is, stay kind, be polite to others, and stand tall without regret.",
+          "summary_zh": "无论处境多糟都要保持善良与礼貌",
+          "timestamp_sec": 1030,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Talking is cheap. Work on it. You will find fail... you can rest but don't stop.",
+          "summary_en": "Stop talking and start executing; learn from failures, rest when needed, but never stop moving.",
+          "summary_zh": "空谈无用，立刻行动并在失败后继续坚持",
+          "timestamp_sec": 1046,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "青少年时期因有ADHD且明确知道自己想走的路而高中辍学离家，从发型师做起，20岁末成为百万富翁，历时20年与团队打造出估值约1亿美元的护发品牌OMG Hair Brand。",
+      "guest_name": "Marvin",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Hair Stylist, OMG Hair Brand",
+      "wealth_detail": "$100M company valuation",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "空谈无用、立刻去干，不要害怕千百次失败；对产品极度挑剔并快速迭代，同时借助优秀团队、技术与投资人的力量走得更远。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Some of the guys they are older than me and then they do very well in their business industry. So I just follow what they have do.",
+          "summary_en": "Study older, successful peers in your industry and model the exact patterns that made them successful.",
+          "summary_zh": "向比自己年长的成功同行学习并效仿",
+          "timestamp_sec": 1141,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Every moment you need to think of your business... Every day I would go to my office. No matter it's holiday, I need to go back to office and read some of the documents.",
+          "summary_en": "Be willing to sacrifice personal time, think about your business day and night, and keep fighting even on holidays.",
+          "summary_zh": "全天候投入工作，节假日也持续钻研业务",
+          "timestamp_sec": 1161,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "You need to keep money running in your bank account to maintain the flow.",
+          "summary_en": "Maintain healthy cash reserves and cash flow in your bank account to cover high staff and operating costs.",
+          "summary_zh": "保持账户现金流充沛以应对高昂人力成本",
+          "timestamp_sec": 1195,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "父亲是香港注册结构工程师并带其进入建筑行业，作为总承包商与工程师，业务最佳年份实现8000万营收。",
+      "guest_name": "Hong Kong Main Construction Contractor",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Main Contractor & Structural Engineer",
+      "wealth_detail": "80M/yr best year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "观察并效仿行业内成功的年长前辈，投入全部时间与精力坚持奋斗，并确保银行账户现金流充沛以应对高昂人力成本。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ITU1TpTwe8w",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,278 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "to scale a business you gotta crawl walk run... if you're running too fast you'll probably over leverage yourself you'll go into debt too much",
+          "summary_en": "Scale step-by-step ('crawl, walk, run') so you do not over-leverage or take on excessive debt.",
+          "summary_zh": "避免过度加杠杆，稳步扩张业务",
+          "timestamp_sec": 26,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "learn the industry and become an expert in it",
+          "summary_en": "Deeply study your industry and become an expert in it.",
+          "summary_zh": "深耕所在行业，成为领域专家",
+          "timestamp_sec": 37,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "you gotta have a happy and good personal life to be successful in your business life if it's all about business at the end of the road you won't be happy",
+          "summary_en": "Prioritize a happy marriage and personal life; pure business focus leaves you unhappy at the end.",
+          "summary_zh": "经营好家庭生活，勿为赚钱忽略幸福",
+          "timestamp_sec": 46,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "every day is an interview every day is your resume... it's everything that you do every day and how you live your life your attitude how you behave",
+          "summary_en": "Treat every day as your resume through your daily behavior, attitude, and how you live.",
+          "summary_zh": "把每一天都当成面试和个人履历",
+          "timestamp_sec": 57,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "San Antonio Former Wealth Manager, CEO & Construction Owner",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former Wealth Manager, Company President/CEO & Construction Company Owner",
+      "wealth_detail": "Over $500k/yr (peak single year)",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "perseverance is one of the most underappreciated aspects of a business... everybody experiences friction growth only comes from that and the people that make it are the ones that stick with it",
+          "summary_en": "Persevere through friction and near-failure; growth comes from adversity and sticking with it.",
+          "summary_zh": "保持坚毅韧性，逆境中坚持到底",
+          "timestamp_sec": 98,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "it's in AI there's huge advancements right now... your job won't be replaced by an AI your job will be replaced by someone who knows how to use AI for their job",
+          "summary_en": "Enter the AI wave early and learn to leverage AI tools so you stay ahead.",
+          "summary_zh": "投身AI浪潮，学会用AI赋能工作",
+          "timestamp_sec": 119,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创办生物信息学与计算机科学结合的医疗相关企业并成功出售。",
+      "guest_name": "San Antonio Bioinformatics & Computer Science Founder",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Bioinformatics & Computer Science Entrepreneur (Exited Founder)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "坚持不懈，相信自己和团队克服逆境；关注AI领域并学会在工作中运用AI。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "in real estate I would say right now in land they're not making it anymore... if you buy something that has what they call an agricultural use you're not paying very much in taxes eventually when you sell it and develop it you'll get your return",
+          "summary_en": "Invest in scarce land—especially agricultural-use land with low taxes—for development and capital gains.",
+          "summary_zh": "投资稀缺土地，利用农地税优等开发升值",
+          "timestamp_sec": 157,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Don't Be Afraid take the plunge you'll always come up ahead if you take the risk no matter if you fail you'll always come ahead of it yourself because you'll learn something from your failure",
+          "summary_en": "Take the plunge without fear; even if you fail, the lessons learned put you ahead.",
+          "summary_zh": "克服恐惧果断出手，从失败中学习成长",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Westin Riverwalk Real Estate Developer",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate Developer",
+      "wealth_detail": "$15M-$20M net worth; ~$1M/yr",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "将收入投入房地产和土地开发（尤其是低税率的农业用地，待开发升值后赚取资本利得），不要害怕失败，勇于承担风险。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "it's so important nowadays to believe in yourself and not just believe yourself but continue you know just never give up... keep moving forward you'll get there eventually",
+          "summary_en": "Believe in yourself, never give up, and keep moving forward over the long haul.",
+          "summary_zh": "坚定自信并永不放弃，持续前行终有回报",
+          "timestamp_sec": 266,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "年轻时立志成为像毕加索一样的艺术家，在圣安东尼奥河滨步道画漫画35年，累计画了近50万人。",
+      "guest_name": "Bloss",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Riverwalk Caricature Artist (35-Year Veteran)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Align Career With Desired Lifestyle",
+          "category": "Business & Strategy",
+          "quote": "seek out your own destiny there's many different jobs with many different incomes you have to make choices based on the lifestyle that you want to live",
+          "summary_en": "Chart your own path and choose a career and income level aligned with the lifestyle you want.",
+          "summary_zh": "根据理想生活方式自主选择职业与收入",
+          "timestamp_sec": 255,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "独立经营个人建筑设计事务所（Katie Hastings Architecture）。",
+      "guest_name": "Katie Hastings",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Architect & Owner, Katie Hastings Architecture",
+      "wealth_detail": "$300k-$400k/yr",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "stay consistent 24 7 because as you get older things that get in your life so discipline and just being consistent man you can make it anywhere",
+          "summary_en": "Stay disciplined and consistent 24/7 even as life responsibilities grow.",
+          "summary_zh": "保持自律与全天候持续行动，终能成功",
+          "timestamp_sec": 312,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "finding something that you're really really passionate about first because when you're passionate about it you typically go pretty hard and then invest in it learn everything around it and then from there duplicate that same deal every single time",
+          "summary_en": "Pick something you are truly passionate about, master everything around it, and repeat the winning playbook.",
+          "summary_zh": "投身热爱并深耕复制，滚雪球式扩张",
+          "timestamp_sec": 355,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "staying humble is a very very key to grow with the humbleness you never stop learning",
+          "summary_en": "Stay humble and open-minded so you never stop learning and growing.",
+          "summary_zh": "保持谦逊心态，永不停止学习成长",
+          "timestamp_sec": 380,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "it was a friend of mine that I saw on the internet on YouTube I've reached out to him... I actually did Training Fitness training as an exchange instead of actually paying for the service... I learned a lot from everybody",
+          "summary_en": "Reach out to practitioners you see online, trade skills for mentorship, and learn from programs and peers.",
+          "summary_zh": "主动链接成功者与导师，用技能换取指导",
+          "timestamp_sec": 392,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "definitely research I would research a whole lot... go to Airbnb itself look at the city that you're looking at and look at the area try to find something around that area... and just dive into it",
+          "summary_en": "Research target cities and neighborhoods thoroughly on Airbnb before diving into your first property deal.",
+          "summary_zh": "充分调研城市与地段后，果断入手首套房产",
+          "timestamp_sec": 426,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "go and learn how to get the vehicles in your LLC you might have to build up some business credit... you can grow really fast actually in the Exotic if that's like your go-to",
+          "summary_en": "Form an LLC and build business credit to finance cash-flowing rental vehicles into your fleet.",
+          "summary_zh": "善用LLC与商业信用，配置生息租车资产",
+          "timestamp_sec": 542,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "for me it was just something to be another layer on top of something else already had",
+          "summary_en": "Layer complementary cash-flowing businesses—like exotic car rentals for Airbnb guests—on top of existing assets.",
+          "summary_zh": "在现有资产之上叠加新业务，打造多元收入",
+          "timestamp_sec": 564,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "通过在YouTube上联系一位做Airbnb的朋友，用健身私教培训交换学习机会起步，随后在房产基础上叠加Turo豪车租赁业务。",
+      "guest_name": "San Antonio Audi R8 Real Estate & Exotic Car Rental Owner",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Sean (Airbnb Automated on YouTube)",
+        "Friend from YouTube (traded fitness training for Airbnb pointers)"
+      ],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Real Estate / Airbnb Investor (~38-40 Units) & Exotic Car Rental Owner",
+      "wealth_detail": "$1.3M/yr gross; ~38-40 properties/units; 6-car fleet",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先找到真正热爱并愿意全力以赴的领域，投入并吃透规则后不断复制；若零房产起步，先在Airbnb等网站深入调研目标城市与地段再果断出手；若做豪车租赁，可通过成立LLC建立商业信用拿车。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "Iw7huxwfHRM",
+  "video_type": "street_multi"
+}

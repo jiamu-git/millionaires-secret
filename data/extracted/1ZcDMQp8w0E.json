@@ -1,0 +1,371 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "People don't think to sell soap or oil. It's boring. It's not fun... I love what I do because it's a need and I met a need.",
+          "summary_en": "Build a business around an essential, unsexy customer need rather than chasing flashy trends.",
+          "summary_zh": "深耕刚需但枯燥的日常消费品赛道",
+          "timestamp_sec": 75,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I really don't believe in an oversaturated market. It's a myth... Nobody can't tell me like, 'Oh, yeah, this isn't going to work.' I dismantled all doubt.",
+          "summary_en": "Reject the fear of oversaturated markets and refuse to put mental limitations on what you can achieve quickly.",
+          "summary_zh": "破除市场饱和迷思，彻底摒弃自我怀疑",
+          "timestamp_sec": 86,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I've had to learn valuable lessons very fast and the hard ones, too. Like, I'm really big on don't let me have to understand a really hard lesson more than once.",
+          "summary_en": "Absorb painful mistakes quickly so you never have to pay the tuition for the same hard lesson twice.",
+          "summary_zh": "快速吸取惨痛教训，绝不在同一处跌倒两次",
+          "timestamp_sec": 124,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I live my life by Jeremiah 29:11... God is not going to forsake me. He's not going to abandon me.",
+          "summary_en": "Anchor yourself in faith during dark entrepreneurial seasons to stay resilient when execution feels impossible.",
+          "summary_zh": "在至暗时刻依靠信仰力量保持信念与笃定",
+          "timestamp_sec": 154,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "My secret is my organic marketing... word of mouth is what really sold the brand... Once I put ads on top of that, it was over.",
+          "summary_en": "Build strong organic word-of-mouth marketing and show up authentically online before scaling with paid ads.",
+          "summary_zh": "先用真实自然流量引爆口碑再叠加付费广告",
+          "timestamp_sec": 183,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be your authentic self and make sure that you are selling a product that not only you believe in, but people can vouch for.",
+          "summary_en": "Sell authentically by dropping the fake persona and backing a product you genuinely believe in.",
+          "summary_zh": "卸下伪装真诚销售自己坚信且有口碑的产品",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "I had been robbed by my CFO, and I've been robbed by my accountant... Make sure that no matter how big you get... stay in tune with your finances. You not leave that in the hands of anybody.",
+          "summary_en": "Stay closely involved with your company's finances and never blindly delegate full control of your money to anyone.",
+          "summary_zh": "亲自紧盯公司财务，绝不将资金全权托付他人",
+          "timestamp_sec": 246,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Your business money is not your lifestyle money... I was a multi-millionaire driving a Nissan Altima and living in a 700-sq-ft apartment.",
+          "summary_en": "Strictly separate business revenue from personal lifestyle spending even after becoming a multi-millionaire.",
+          "summary_zh": "严格区分公司资金与个人消费，成名后仍保持节俭",
+          "timestamp_sec": 265,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Stay focused on the goal because at the end of the day... make sure that you're using that money that you're earning and reinvest it into your business.",
+          "summary_en": "Keep your eye on building an empire and plow profits right back into business growth.",
+          "summary_zh": "专注长期目标，将赚到的利润持续复投回公司",
+          "timestamp_sec": 284,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "母亲年收入仅3万美元且抚养5个孩子，她在大学期间与4名室友挤在700平方英尺公寓里仅凭67美元起家创办肥皂与女性护理品牌，第一年就赚到首个100万美元，8年内做到年营收超2000万美元（8位数）。",
+      "guest_name": "Orlando Soap & Feminine Hygiene Brand Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible (Jeremiah 29:11)"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder, Eight-Figure Soap & Feminine Hygiene Brand",
+      "wealth_detail": "Strong eight figures/year (over $20M/yr); first million at age 25",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "切入高频刚需但冷门的赛道，先靠真诚内容与自然流量做出好口碑再投广告；公司赚的钱不是个人零花钱，前期保持极简生活并把利润全数复投，同时牢牢盯紧财务账目。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "You have to look to see what you have. What is your superpower? ... Focus on what you have.",
+          "summary_en": "Start immediately using whatever modest tools and God-given strengths you currently have instead of waiting for big capital.",
+          "summary_zh": "盘点现有天赋与资源，不靠巨额资金立刻启动",
+          "timestamp_sec": 431,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "When you're not let into the front door, you go in through the window. It doesn't matter. I belong here.",
+          "summary_en": "Find another way in whenever gatekeepers reject you and refuse to accept exclusion.",
+          "summary_zh": "正门走不通就从窗户翻进去，绝不轻言退出",
+          "timestamp_sec": 453,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Building great teams and knowing when to get out of the way... There's no ego here. Whoever is the best person for the job, set the pavement for them.",
+          "summary_en": "Transition from doing every role yourself to hiring top talent, removing your ego, and letting specialists lead.",
+          "summary_zh": "搭建顶尖团队并放下自我懂得放手，让专业人掌舵",
+          "timestamp_sec": 488,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I'm always going to tell you real estate, right? Cuz real estate is a great foundation to be able to establish your financial roots.",
+          "summary_en": "Use real estate as the core foundation for building long-term financial roots and wealth.",
+          "summary_zh": "把房地产作为稳固个人财富根基的首选资产",
+          "timestamp_sec": 546,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I started with the one thing, single family fix and flip, fix and hold, then I expanded... as your knowledge grows, so does your business grow and so do your investment strategies grow.",
+          "summary_en": "Start with one simple strategy and expand into larger deals as your knowledge compounds.",
+          "summary_zh": "从单一项目切入，随认知提升逐步升级投资策略",
+          "timestamp_sec": 563,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You got to always use someone else's money. So if you have two homes or you have three homes and you can turn that into 30, imagine the profits.",
+          "summary_en": "Leverage other people's money (OPM) responsibly to scale asset portfolios from a few properties to dozens.",
+          "summary_zh": "善用他人资金（OPM）杠杆，成倍放大资产与收益",
+          "timestamp_sec": 577,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You have to believe that it's possible and that it's in your wheelhouse to make.",
+          "summary_en": "Walk into every room believing wealth is possible and meant for you.",
+          "summary_zh": "打心底相信财富触手可及且自己配得上成功",
+          "timestamp_sec": 585,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "It doesn't matter where you start. It doesn't matter what adversity you have to face and you deal with. It matters how you choose to grow your life.",
+          "summary_en": "Refuse to let humble origins or adversity define your ceiling; focus on how you choose to grow.",
+          "summary_zh": "出身与逆境不决定上限，关键在于你选择如何成长",
+          "timestamp_sec": 606,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "外祖母来自古巴且不识字、母亲仅读到十年级，家庭一切只为温饱；14岁时她用蜡笔和打印纸办补习班，一个月赚的现金就超过父母总和；后来仅凭一部电话和一张书桌创办不良房产借贷平台，并将两家公司分别卖给高盛和富达（Fidelity）。",
+      "guest_name": "Trixie Castro",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Real Estate Underwriting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder (Sold Lending & Real Estate Auction Companies to Goldman Sachs & Fidelity)",
+      "wealth_detail": "Multi-million dollar companies; lending a couple billion dollars/year before exits to Goldman Sachs and Fidelity National Title",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "用眼下已有的资源马上行动，遭遇质疑和拒绝也要破局而入；学会快速招揽人才并放下控制欲，从单套房产做起逐步扩展，善用他人资金（OPM）配置房地产资产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I got rich understanding market timing. Right now, there's never been a better time to start a business. Just like when I started, was at the bottom of the dot com, and I was able to capitalize on it.",
+          "summary_en": "Spot major technological shifts and market timing waves—like the dot-com bottom or today's AI wave—to build outsized wealth.",
+          "summary_zh": "精准把握互联网低谷或AI等时代窗口红利",
+          "timestamp_sec": 695,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Today's world of AI, everything can be done almost overnight. You don't need a lot of capital. You just have the courage to start.",
+          "summary_en": "Take advantage of AI lowering startup capital requirements and have the courage to launch immediately.",
+          "summary_zh": "借助AI低门槛优势，鼓起勇气立刻动手创业",
+          "timestamp_sec": 730,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "A lot of hard work and taking risk when you're scared and everyone's telling you don't do it. Everyone's telling you you're crazy, do it anyway.",
+          "summary_en": "Work relentlessly and take bold risks even when you feel afraid and everyone calls you crazy.",
+          "summary_zh": "顶住恐惧与众人质疑，果断冒险并拼命干下去",
+          "timestamp_sec": 752,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose a Supportive Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "Life's a team sport, and if you have someone that believes in you and supports you and helps you to achieve your dreams, you can do anything.",
+          "summary_en": "Marry a supportive partner who believes in your vision, because life and business are a team sport.",
+          "summary_zh": "选择无条件支持并相信你梦想的人生伴侣",
+          "timestamp_sec": 780,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "It's okay to be underestimated because I know that my results will speak for themselves.",
+          "summary_en": "Don't get rattled when people underestimate you; let your execution and track record do the talking.",
+          "summary_zh": "坦然面对他人低估，用实打实的业绩结果说话",
+          "timestamp_sec": 794,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在互联网泡沫低谷期无人敢投资时，外祖母借给她1万美元启动首家互联网营销公司，她最终为外祖母赚回100倍回报；随后看准B2B SaaS营销广告赛道，将上一家科技公司以2.35亿美元出售。",
+      "guest_name": "Kim (B2B SaaS Tech Founder)",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Technical / Engineering",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder & CEO, B2B SaaS Marketing Tech Company",
+      "wealth_detail": "Sold last B2B SaaS company for $235M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "现在是AI时代最好的创业窗口，启动几乎不再需要重金，只需克服恐惧、无视旁人的唱衰直接开干；被低估也无所谓，用结果说话，并找一位真正支持你梦想的伴侣同行。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I put my jewelry in a tea box. I went out to stores here in Austin, Texas, showed them my product, wrote orders. I actually sold my samples that day, so I'd have enough money to make the orders I wrote.",
+          "summary_en": "Hustle face-to-face to sell samples on the spot and use customer orders to fund your next batch of inventory.",
+          "summary_zh": "带着样品挨家门店地推拿订单，现卖现滚雪球",
+          "timestamp_sec": 873,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Just put money back in every single day, a little bit, step by step... Don't go out and start spending crazy. Take that money and be super thoughtful about where you're putting it.",
+          "summary_en": "Stretch every dollar on credit early on and reinvest profits back into the business for years before taking money out.",
+          "summary_zh": "十年坚持把每一分钱精打细算地复投回公司",
+          "timestamp_sec": 887,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Put it in great people that have the strengths where you're weak. Build a winning team, that's where the money needs to go first.",
+          "summary_en": "Invest your scarce capital first into hiring great people whose strengths complement your weaknesses.",
+          "summary_zh": "把钱优先投向能弥补你短板的顶尖人才团队",
+          "timestamp_sec": 920,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I've built a company that is fashion for philanthropy. We've given almost a hundred million dollars in the last 10 years to women and youth charities... building a brand with purpose.",
+          "summary_en": "Anchor your brand in philanthropy and social purpose so your products both delight customers and do good.",
+          "summary_zh": "用公益和使命感驱动品牌，实现商业与向善双赢",
+          "timestamp_sec": 933,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize & Integrate Family Into Company Culture",
+          "category": "Business & Strategy",
+          "quote": "I built a company that family could be incorporated into business. We created a workplace that allows the people that work at Kendra Scott to be present for their families first.",
+          "summary_en": "Design a work life and company culture where family is integrated and prioritized rather than separated from business.",
+          "summary_zh": "打造家庭与事业相融的文化，允许员工家人优先",
+          "timestamp_sec": 972,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Experience first, connection over transaction. The transaction will follow.",
+          "summary_en": "Prioritize community, human touch, and memorable in-store experiences over transactional selling; sales follow naturally.",
+          "summary_zh": "线下体验与情感联结优先于交易，成交自然水到渠成",
+          "timestamp_sec": 1008,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't try to get that really quick fast win. You've got to be able to really build something over time that means something, that has value, that is profitable. And all the opportunities will come, but be patient.",
+          "summary_en": "Avoid chasing instant overnight wins; patiently build a profitable business of lasting value and foundation.",
+          "summary_zh": "切忌追求一夜暴富，保持耐心打磨长期有价值的基业",
+          "timestamp_sec": 1033,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "怀着大儿子时在家中备用卧室的折叠桌上用500美元起家，全部买原材料做成珠宝样品装进茶叶盒，走遍奥斯汀门店推销拿订单，当天卖掉样品换钱赶制新货；前10年无外部融资，全靠信用卡与信用额度周转复投，用23年做到十亿美元级品牌并开出约170家门店。",
+      "guest_name": "Kendra Scott",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Kendra Scott (Jewelry Brand)",
+      "wealth_detail": "Founded a billion-dollar brand (~170 retail stores); donated nearly $100M to charity over 10 years",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "别等万事俱备，用几百美元做样品直接去一线地推拿订单滚雪球；前十年严控花销并将利润优先投给能补足自己短板的好团队；不贪快钱，注重线下体验与长期价值积累。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "1ZcDMQp8w0E",
+  "video_type": "street_multi"
+}

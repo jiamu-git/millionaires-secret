@@ -1,0 +1,312 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "you are under no obligation to be the same person you were yesterday. You can go off. You can change. You can do something different.",
+          "summary_en": "You are not bound by who you were yesterday; embrace change and prove doubters wrong.",
+          "summary_zh": "不被过往定义，敢于转型并证明质疑者错了",
+          "timestamp_sec": 224,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Eliminate Key-Man Risk Before Exiting",
+          "category": "Business & Strategy",
+          "quote": "when you're selling a company, you want to be able to sell the company that doesn't have you attached to it. And I think what I did wrong... is I would remove myself as part of the company.",
+          "summary_en": "Remove yourself from daily operations and brand attachment before selling so you avoid key-man risk.",
+          "summary_zh": "卖公司前先去个人化，消除关键人物风险",
+          "timestamp_sec": 280,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "Don't put all your eggs in one basket. So, make sure that you diversify your wealth... investing in property, investing in the market, like just diversifying your wealth",
+          "summary_en": "Diversify your wealth across cash-flowing property, gas stations, and financial markets instead of keeping everything in one basket.",
+          "summary_zh": "别把鸡蛋放一个篮子，多元配置房产与市场",
+          "timestamp_sec": 310,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "you're under no obligation to be the same person you were yesterday. You can make a change. If you have a passion, go for it.",
+          "summary_en": "If you have a passion for something, pursue it boldly and allow yourself to evolve.",
+          "summary_zh": "只要心怀热爱，就果断去尝试做出改变",
+          "timestamp_sec": 344,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在父母后院从私人教练起步，完全自筹资金（bootstrapped）创办健身应用 Sweat，最终以 4 亿美元出售。",
+      "guest_name": "Kayla Itsines",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder of Sweat App / Former Personal Trainer",
+      "wealth_detail": "Sold Sweat app for $400M (bootstrapped without investors)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要被过去的身份或家人朋友的质疑束缚，有热情就勇敢转型；如果未来想出售公司，务必提前消除“关键人物风险”把个人与公司解绑，赚到钱后把资产分散配置到物业和市场中。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I ended up in the space because I loved what I did, right? I love the smell of diesel in the morning. Every morning for me was like Christmas morning.",
+          "summary_en": "Love your craft even in an unglamorous industry and wake up excited to compete every day.",
+          "summary_zh": "真正热爱所做的传统行业，每天充满干劲",
+          "timestamp_sec": 445,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "What makes him better than the next guy? It's how much you put into it... every morning getting up, every night coming home late.",
+          "summary_en": "Stand out by outworking everyone—show up early, stay late, and go to work every single day.",
+          "summary_zh": "成功取决于投入程度，每天早出晚归死磕",
+          "timestamp_sec": 477,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "we needed land and we bought a lot of land. Now today, we have over a thousand tenants in all of our real estate.",
+          "summary_en": "Buy land and income-producing real estate consistently alongside your operating business to build generational wealth.",
+          "summary_zh": "围绕主业持续囤地买房，打造千名租客资产",
+          "timestamp_sec": 495,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Don't have debt. I'm a debt-free operator, right? So, that's key because if there's a mistake, you can rebound. And a lot of guys leverage all the debt up... they're so broke because they're leveraged up.",
+          "summary_en": "Avoid heavy leverage and operate debt-free (only financing core equipment like trucks you keep for 10 years) so you can survive mistakes and keep exit proceeds.",
+          "summary_zh": "坚持零负债稳健经营，不被高杠杆拖垮",
+          "timestamp_sec": 507,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you got the discipline to go to the gym every single day and take care of yourself, it starts right here.",
+          "summary_en": "Physical fitness and daily gym discipline directly reinforce the mental discipline required for financial success.",
+          "summary_zh": "保持每天健身自律，身体纪律决定事业高度",
+          "timestamp_sec": 623,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "When I sold my business two months later, I had a massive heart attack... my survival rate in the hospital was 11%... You want to wake up? That's a wakeup call.",
+          "summary_en": "Stay grounded in faith and remember that surviving major health crises puts life and success in perspective.",
+          "summary_zh": "经历鬼门关后更加笃信信仰，懂得感恩敬畏",
+          "timestamp_sec": 633,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I got a third grade education. I'm not a schooled guy... Because I know I was better than that and I know what I wanted and I was going to go for it.",
+          "summary_en": "Do not let limited formal education or doubters stop you from pursuing what you know you can achieve.",
+          "summary_zh": "学历低也绝不听信质疑，坚定追求心中目标",
+          "timestamp_sec": 658,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Punctuality & Long-Term Planning",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be 10 minutes early to everything you do. Think about tomorrow cuz it's going to come... you're thinking about Thursday and you're thinking out in 5-year plans",
+          "summary_en": "Always arrive 10 minutes early and run your life ahead of schedule with 5-year forward plans.",
+          "summary_zh": "凡事提前十分钟到场，提前做五年长远规划",
+          "timestamp_sec": 672,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从小送报纸、割草、做砍树生意起家，之后用 68 美元应收账款、两辆卡车和空仓库接手父亲的小生意，服务财富100强客户并零负债做大，最终以超 5 亿美元出售物流公司并转型拥有逾千名租客的商业地产。",
+      "guest_name": "NYC Trucking & Commercial Real Estate Founder",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Former Trucking & Logistics Owner / Commercial Real Estate Investor",
+      "wealth_detail": "Sold trucking/logistics company for over $500M (debt-free); owns real estate with over 1,000 tenants",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "别找借口，每天全力以赴去干；保持零负债或极低杠杆，避免踩坑翻车；坚持每天健身自律，凡事提前10分钟到场并用5年长远视角规划人生。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I just let it sit. I really worked off my endorsement money. I didn't really touch my game money.",
+          "summary_en": "Live off secondary/endorsement income and leave your primary earnings untouched so you avoid going broke.",
+          "summary_zh": "只花代言收入，绝不动用比赛薪水本金",
+          "timestamp_sec": 828,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Gratitude is the key to abundance and hard work and never giving up.",
+          "summary_en": "Combine gratitude with relentless hard work and refusal to quit to sustain long-term career longevity.",
+          "summary_zh": "靠感恩心态、努力拼搏与永不放弃保持长青",
+          "timestamp_sec": 858,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "my dad, he told me like the three rules of life, that's God, that's education, and you could do anything you put your mind to.",
+          "summary_en": "Anchor yourself in faith, education, and the belief that you can accomplish anything you set your mind to.",
+          "summary_zh": "牢记信仰、教育与坚定信念：心之所向皆可成",
+          "timestamp_sec": 865,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "My faith in God helped me to endure and go through anything that I experienced along the way... how can you be an influence? How can you impact someone else to serve a high calling",
+          "summary_en": "Rely on faith during fear or doubt and focus on how you can positively impact others for a higher purpose.",
+          "summary_zh": "以信仰为根基扛过恐惧质疑，服务更高使命",
+          "timestamp_sec": 877,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21 岁通过 NFL 选秀进入联盟并成为百万富翁，巅峰单年收入达 2500 万美元，凭借只花代言费、不动比赛薪水的自律方式积累家族财富。",
+      "guest_name": "Jameis Winston",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "NFL Quarterback (New York Giants)",
+      "wealth_detail": "$25M single-year peak income; became a millionaire at age 21; 11-year NFL career",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持感恩、努力工作并永不放弃，依靠信仰度过恐惧与自我怀疑，赚到大钱后只动用副业或代言收入，把核心大额收入存下来建立跨代财富。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "it's tough. It's not as glamorous as like my eyes are bloodshot. You don't sleep much. It's not that sexy... I'm not the best. I just work really hard.",
+          "summary_en": "Recognize that entrepreneurship is exhausting and unglamorous, and outwork others even if you are not the smartest or best negotiator.",
+          "summary_zh": "创业并不光鲜而是睡眠不足，唯靠拼命工作",
+          "timestamp_sec": 1013,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Stay Humble & Avoid Arrogance",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "when I got arrested that takes the ego out of your life... when I was younger I was like cocky and arrogant and I paid the price.",
+          "summary_en": "Avoid youthful arrogance and unchecked ego—losing everything teaches humility the hard way.",
+          "summary_zh": "年轻时狂妄自大付出惨痛代价，跌倒才懂谦卑",
+          "timestamp_sec": 1046,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I was really overleveraged in the beginning. It was a total shit show... leverage is part of the growth. But at this point in my life that I'm older, the leverage days are over.",
+          "summary_en": "Bank loans and leverage can fuel early growth, but over-leverage is brutal—pay it down and shed debt as you mature.",
+          "summary_zh": "早期靠杠杆起步，但成熟后要果断远离负债",
+          "timestamp_sec": 1070,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Read Fine Print & Review Contracts",
+          "category": "Actionable Skills & Habits",
+          "quote": "Get a magnifying glass before you sign that stuff. And definitely don't sign anything without having somebody look over it... When you guarantee something, you're liable.",
+          "summary_en": "Read every line of fine print on bank loans and contracts and always have an advisor review them before signing personal guarantees.",
+          "summary_zh": "签贷款合同必用放大镜看小字并找人把关",
+          "timestamp_sec": 1090,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "we all have bad stuff happen but you can't just feel sorry for yourself. You got to keep pushing through... you have to save yourself. No one's going to fix it.",
+          "summary_en": "Never feel sorry for yourself when hitting rock bottom; take full responsibility, save yourself, and keep pushing forward.",
+          "summary_zh": "遭遇低谷别自怨自艾，唯有自己能拯救自己",
+          "timestamp_sec": 1138,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "You just got to stay focused and you got to sacrifice... I try not to even put myself in situations that I have to make that [bad] choice.",
+          "summary_en": "Stay laser-focused, make sacrifices, and deliberately avoid putting yourself in situations where you might make bad choices.",
+          "summary_zh": "保持专注并学会牺牲，远离诱发错误的情境",
+          "timestamp_sec": 1193,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "never believe your own hype... money is a mirage. My biggest strength is I can be happy with nothing... I don't need fancy cars. I don't need jets... if that drives your happiness, it's not sustainable.",
+          "summary_en": "Never believe your own hype or tie your happiness to jets, fancy cars, and watches—learn to be happy with nothing.",
+          "summary_zh": "别轻信自身光环，物质豪车无法带来持久幸福",
+          "timestamp_sec": 1218,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "our problems are so little compared to other people's problems. So, I just appreciate what I have every day.",
+          "summary_en": "Keep perspective on how small your problems are compared to others and practice daily gratitude for family and life.",
+          "summary_zh": "常怀感恩珍惜当下，莫让欲望超越内心满足",
+          "timestamp_sec": 1267,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期靠向银行贷款起步，从事废旧汽车粉碎与金属回收生意近 40 年，期间曾因违规操作被捕并服刑一年，出狱后从谷底专注重建，将公司做到年入 6000 万至 7000 万美元、估值约 10 亿美元。",
+      "guest_name": "Adam Weitsman",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Scrap Metal & Junk Car Shredding CEO / Founder",
+      "wealth_detail": "Company worth ~$1B; peak annual earnings of $60M-$70M",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "创业早期可以用杠杆但不要过度负债，签任何贷款和担保合同前都要仔细看清小字并找专业人士审核；陷入谷底时别自怨自艾，专注并做出牺牲，也不要让自己处于可能犯错的境地；成功之后别相信外界对你的吹捧，学会在物质之外寻找幸福。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "DmDeNuTUetE",
+  "video_type": "street_multi"
+}

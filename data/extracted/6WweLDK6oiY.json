@@ -1,0 +1,274 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "don't ask for a salary... ride or die commission only... if you make them a million dollars you reserve half that",
+          "summary_en": "Reject fixed salaries and negotiate high-upside, commission-only performance deals that incentivize your skills.",
+          "summary_zh": "拒绝固定薪资，签高比例纯佣金对赌协议",
+          "timestamp_sec": 109,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I read like 200 books on sales and business and the subconscious mind",
+          "summary_en": "Read voraciously on sales, business, and the subconscious mind to build your mental toolkit.",
+          "summary_zh": "大量阅读销售、商业与潜意识相关书籍",
+          "timestamp_sec": 184,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "the idea that you control your reality a little bit more than everyone else thinks you do manifesting it's the real deal",
+          "summary_en": "Believe you control your reality and practice manifesting to shift your trajectory.",
+          "summary_zh": "相信显化力量并掌控自己的现实世界",
+          "timestamp_sec": 196,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I started a mastermind group I'm going to put together Five Guys we all making $1,000 a day... different Industries so we're not competing",
+          "summary_en": "Leave broke peer circles and form a non-competing mastermind group of high earners to accelerate your skills.",
+          "summary_zh": "组建高水平非竞争创业者互助小组",
+          "timestamp_sec": 226,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "through that group my skill set started to explode and through that group is actually how I met my mentors that kicked it all off for me",
+          "summary_en": "Leverage peer masterminds to connect with mentors who can unlock your big breakthrough.",
+          "summary_zh": "通过高质量社群结识引领起飞的导师",
+          "timestamp_sec": 235,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "连续7家软件公司倒闭、被驱逐两次且负资产睡朋友地板；通过大量阅读并组建日赚千美元的原生广告与联盟营销互助小组结识导师，最终实现逆袭并创办AI公司及曾出售护肤品牌。",
+      "guest_name": "Peter (LA AI Company Founder)",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Conversations with God by Neale Donald Walsch",
+        "200+ books on sales, business, and the subconscious mind",
+        "Mentors met through his $1,000/day mastermind group"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "AI Company Founder & Entrepreneur",
+      "wealth_detail": "$40M max in a single year; lost 95% of proceeds from selling his skincare brand in a year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "绝对不要拿固定死工资，签纯佣金业绩对赌协议逼出顶尖能力；远离同样穷困的朋友圈，主动组建高水平创业者互助小组并寻找导师。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "take risks... nothing Venture nothing gain",
+          "summary_en": "Take risks early in life and entrepreneurship because nothing ventured means nothing gained.",
+          "summary_zh": "年轻时要敢于承担风险，不入虎穴焉得虎子",
+          "timestamp_sec": 285,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Aim for Steady Base Hits Over Home Runs",
+          "category": "Wealth & Investing",
+          "quote": "doubles and singles only... don't go for the Home Run go for the double go for the single you're good",
+          "summary_en": "Aim for consistent singles and doubles rather than swinging for risky home runs.",
+          "summary_zh": "投资与做事稳打稳扎，追求一二垒而非本垒打",
+          "timestamp_sec": 294,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "work hard and do well in your school but you can work hard and work at McDonald's... any job is a good job",
+          "summary_en": "Work hard in school and take pride in any honest job, even McDonald's, while starting out.",
+          "summary_zh": "在学校努力并脚踏实地，任何正当工作都值得干",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "everyone you do business with you can learn something from just try to learn something from everybody",
+          "summary_en": "Stand out in business by intentionally learning something from every person you work with.",
+          "summary_zh": "向每一位生意往来对象虚心学习长处",
+          "timestamp_sec": 328,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家且曾经历穷困，早年担任20年房地产律师，随后投身住宅建设并经营建筑企业长达23年。",
+      "guest_name": "Michael Sh (LA Home Builder)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Home Builder & Former Real Estate Lawyer",
+      "wealth_detail": "7 figures/yr (confirmed seven figures, under eight figures)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "在校期间认真学习并勤奋工作，任何工作都是好机会；年轻时勇于冒险，平时多向生意伙伴学习。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "buy a property rent it out then buy a second one buy a house every year for 4 years... buy assets hold assets take the income build businesses rinse and repeat",
+          "summary_en": "Buy and hold rental properties consistently, then use the passive rental income to fund luxuries and repeat.",
+          "summary_zh": "持续购入并持有房产，用被动租金买豪车",
+          "timestamp_sec": 384,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "the exposure I had with that entrepreneur that I went to work for at 15 he did absolutely nothing... had conversations with his leadership team for like 30 minutes to an hour",
+          "summary_en": "Work for a successful entrepreneur early to observe firsthand how leaders delegate and run businesses.",
+          "summary_zh": "早年到成功企业家手下工作学习管理模式",
+          "timestamp_sec": 423,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "every single facet of everything within the organization from A to Z was managed by another human that's how you scale... hiring the right people onboarding the right people and keeping the right people",
+          "summary_en": "Scale by mastering how to hire, onboard, and retain the right people to run every part of the business.",
+          "summary_zh": "学会招聘、培养和留住人才，实现全流程授权",
+          "timestamp_sec": 434,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "you might have to have some errors and some loss of money maybe some failures but that's what separates the people that make it really big and the people that don't",
+          "summary_en": "Accept early mistakes and financial losses while learning to delegate instead of retreating into doing everything yourself.",
+          "summary_zh": "接受用人与授权初期的试错和亏损，绝不退缩",
+          "timestamp_sec": 445,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "there's a book by John D Rockefeller um that's 38 letters to his son... he was ruthless he was relentless",
+          "summary_en": "Study John D. Rockefeller's 38 Letters to His Son to learn ruthless competitiveness and talent acquisition.",
+          "summary_zh": "精读洛克菲勒家书，保持极度狼性与竞争力",
+          "timestamp_sec": 466,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "15岁起为企业家打工并习得授权管理之道，19岁购入首套房产，23岁成为百万富翁；深耕房产19年并经营经纪公司8年，累计买卖超125套房、现持有26套以上。",
+      "guest_name": "Eric (LA Real Estate Brokerage Owner)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "38 Letters from J.D. Rockefeller to His Son",
+        "Entrepreneur he worked for starting at age 15"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate Brokerage Owner & Investor",
+      "wealth_detail": "Over $8M max in a single year; became a millionaire at 23; owns 26+ properties (bought 125+ total)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "连续四年每年买一套房出租，到第五年用租金被动收入买豪车，循环往复积累资产；同时必须学会招聘和授权团队，不要事必躬亲。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Ask for Help From Domain Experts",
+          "category": "Actionable Skills & Habits",
+          "quote": "I learned that lesson asked for help... if I just would have asked for help from someone that actually knew financing knew banking... I would have had about 10 times as much",
+          "summary_en": "Ask for help from specialists in areas like financing and banking rather than navigating high-stakes blind spots alone.",
+          "summary_zh": "不懂银行融资等专业领域时要及时向专家求助",
+          "timestamp_sec": 552,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Staying in Business",
+          "category": "Business & Strategy",
+          "quote": "the goal of business which is stay in business... I have one rule make sure I'm in business tomorrow",
+          "summary_en": "Make staying in business your number one daily rule—do not sleep until tomorrow's survival is guaranteed.",
+          "summary_zh": "商业第一铁律是每天确保公司明天还能活下去",
+          "timestamp_sec": 600,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "if you learn to love what other people don't love or like if you do it consistently and persistently Every Day Life and business will tell you all its cheat codes",
+          "summary_en": "Learn to love doing the hard things others avoid every single day until business reveals its cheat codes.",
+          "summary_zh": "学会热爱他人不愿做的苦活并日复一日坚持",
+          "timestamp_sec": 631,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "consistency is the number one habit it's actually The Habit machine of habits... 2 minutes a day is worth 2 hours on a Saturday",
+          "summary_en": "Prioritize daily consistency over sporadic bursts—two minutes every day beats two hours once a week.",
+          "summary_zh": "坚持是习惯之母，每天两分钟胜过周末两小时",
+          "timestamp_sec": 679,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Einstein when he explained the rule of 72 compounding of interest is really compounding of energy... it creates exponentiality",
+          "summary_en": "Harness the Rule of 72 and daily compounding of energy and money to produce exponential rather than linear growth.",
+          "summary_zh": "善用72法则与能量复利，实现结果指数级增长",
+          "timestamp_sec": 692,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕体育与娱乐行业35年，曾在房地产繁荣期因名下房产估值翻倍实现单年收入3400万美元；2008年因信用额度受限亏损超1亿美元后东山再起并全部赚回。",
+      "guest_name": "David Meltzer",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Financing and banking specialists (ask experts for help)",
+        "Albert Einstein's Rule of 72"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Sports & Entertainment Entrepreneur",
+      "wealth_detail": "9-figure entrepreneur; $34M max in a single year; lost over $100M in a single year (2008) and made it back",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "遇到金融或银行信贷等陌生领域务必向专业人士求助；每天坚持做同一件事（哪怕每天两分钟），保证企业每天存活下来，让复利产生指数级回报。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "6WweLDK6oiY",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,125 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "I focus on income shifting strategies... I focus on depreciation how do I create a paper loss by investing in real estate and most importantly... I have a private family Foundation that gives money back to other Charities",
+          "summary_en": "Legally reduce taxes to near zero using income shifting, real estate depreciation, and a private family foundation.",
+          "summary_zh": "合法利用税法三招实现联邦零税",
+          "timestamp_sec": 149,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Don't Spend Cash Needed for Taxes",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I have seen people go broke with a big tax bill because they spend more money than what they have left over to pay Uncle Sam",
+          "summary_en": "Avoid spending cash before reserving for taxes, or an unexpected bill from Uncle Sam can bankrupt you.",
+          "summary_zh": "别乱花完现金流导致交不起巨额税单",
+          "timestamp_sec": 199,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "highly recommend that you look at short-term rentals because the IRS will allow for you to manage the short-term rental for 100 hours and it becomes an active business... perform a strategy called the cost segregation study which forces a paper loss",
+          "summary_en": "Use short-term rentals or a real estate professional spouse with cost segregation studies to create paper losses that offset W-2 or 1099 income.",
+          "summary_zh": "买短租房做成本分摊折旧抵消主动收入",
+          "timestamp_sec": 216,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Optimize Entity Structure & Write-Offs",
+          "category": "Actionable Skills & Habits",
+          "quote": "once you're across that point you need to look at switching to an S corporation to avoid paying self-employment taxes... allocate those expenses over to your business to drop down that total liability",
+          "summary_en": "Switch from a sole proprietorship/LLC to an S-Corp once profits cross $50k-$60k to save the 15.3% self-employment tax, and allocate missed business write-offs.",
+          "summary_zh": "利润超5万转S-Corp并归集商业费用抵税",
+          "timestamp_sec": 332,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "speed speed speed speed speed when you're wealthy... it happens in hours not days not weeks when I'm dealing with middle class they're nervous their analysis paralysis",
+          "summary_en": "Act with speed instead of falling into analysis paralysis; wealthy people move quickly to invest and offset taxes rather than hesitating.",
+          "summary_zh": "像富人一样快速决策执行别陷入分析瘫痪",
+          "timestamp_sec": 374,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Document Business Deductions Thoroughly",
+          "category": "Actionable Skills & Habits",
+          "quote": "by taking her Captain's Log booklet some of the photos that she had as well as the expenses from her p&l we went into the audit and leveraging code section 162a... we won that audit in less than an hour",
+          "summary_en": "Maintain thorough logs, photos, and P&L records so ordinary and necessary business deductions survive an IRS audit under IRC Section 162(a).",
+          "summary_zh": "完整留存商业抵扣凭证以应对税务审计",
+          "timestamp_sec": 481,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Reinvest Tax Savings Into Cash-Flow Assets",
+          "category": "Wealth & Investing",
+          "quote": "you can buy a vehicle like this offset your taxes reinvest the tax savings into a cash flow producing asset",
+          "summary_en": "Take bonus depreciation and Section 179 write-offs on qualifying >6,000 lb business vehicles, then reinvest the tax savings into cash-flowing assets.",
+          "summary_zh": "将折旧省下的税款再投资生息现金流资产",
+          "timestamp_sec": 569,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "there's good debt and there's bad debt there's bad debt which is Consumer Debt... High interest rate debt that's the type of debt you want to avoid and then there's good debt which is debt in the form of loans like buying a house",
+          "summary_en": "Avoid high-interest consumer debt and leverage good debt on appreciating real estate without overextending yourself to expand buying power.",
+          "summary_zh": "远离高息消费坏账善用良性杠杆买资产",
+          "timestamp_sec": 711,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "the best way to get access to credit is to use credit and to start establishing the right type of relationships with Bankers",
+          "summary_en": "Use credit responsibly and build relationships with bankers to earn private banking perks, waived transfer fees, and access to private equity deals.",
+          "summary_zh": "与银行家建立私人银行关系撬动授信资源",
+          "timestamp_sec": 807,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Use the Augusta Rule (IRC 280A)",
+          "category": "Actionable Skills & Habits",
+          "quote": "you as a business owner who owns the es Corp can rent your primary residence to your S corporation for 14 days charge rent and deduct it on your tax returns and it's like a tax-free distribution",
+          "summary_en": "Rent your primary residence to your S-Corp for up to 14 days a year under IRC 280A (the Augusta Rule) to receive a deductible, tax-free distribution.",
+          "summary_zh": "善用奥古斯塔条款将住宅租给公司免税分红",
+          "timestamp_sec": 1036,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Carlton Dennis",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Tax Strategist & Founder of Tax Alchemy",
+      "wealth_detail": "$7.1M/yr (2023); $11.5M+/yr (2024)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "年赚超5万至6万美元时应尽早将个体户或单人LLC转为S-Corp以省去15.3%自雇税，并梳理手机、电脑和差旅等商业抵扣；年入10万美元后可结合杠杆购置短租房并做成本分摊折旧来抵消所得税。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "22CjsRG0sTc",
+  "video_type": "deep_dive_single"
+}

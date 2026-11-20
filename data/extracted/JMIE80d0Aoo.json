@@ -1,0 +1,226 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "buy dirt my father always told me buy dirt any kind of dirt you can buy",
+          "summary_en": "Buy dirt and invest in any real estate you can acquire.",
+          "summary_zh": "尽一切可能购买土地投资房产",
+          "timestamp_sec": 92,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "you got to fail before you get hungry to make yeah if you don't fail... you're not the hungry",
+          "summary_en": "You must experience failure first to develop the hunger needed to succeed.",
+          "summary_zh": "先经历失败才能激发成功饥饿感",
+          "timestamp_sec": 138,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "now it's a risk you know but stay with it and you'll be successful",
+          "summary_en": "Even when deals carry risk, stick with it persistently and you will succeed.",
+          "summary_zh": "面对风险坚持到底才能获得成功",
+          "timestamp_sec": 167,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "don't impulse it let them make it like you don't really want it or need it you can't be desperate to get a deal done... never settle on your first offer",
+          "summary_en": "Never appear desperate or impulsive in negotiations, be willing to walk away, and never settle on the first offer.",
+          "summary_zh": "谈判切忌冲动，不急于成交也不妥协",
+          "timestamp_sec": 175,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "you got to use your own money don't use the banks cuz they're the only ones that make the money",
+          "summary_en": "Use your own capital rather than relying on banks, as banks are the ones who profit from lending.",
+          "summary_zh": "尽量用自有资金，避免让银行赚走利润",
+          "timestamp_sec": 184,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "New York City Real Estate Developer",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate Developer & Multi-Company Owner",
+      "wealth_detail": "$6M-$7M (or $67M) single-year personal income from business; owns ~20 companies; says 'close' to being a billionaire",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Get a Prenup & Protect Marital Assets",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "marriage is an important economic decision and you should be very careful about that... if you are Building Wealth you certainly have a prenuptual agreement",
+          "summary_en": "Treat marriage as a major economic decision and always get a prenuptial agreement when building wealth.",
+          "summary_zh": "结婚也是经济决策，务必签婚前协议",
+          "timestamp_sec": 316,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Take Profits Early (Convert Paper Wealth)",
+          "category": "Wealth & Investing",
+          "quote": "I eventually lost it because I didn't convert it to a real money soon enough... sell too soon you never lose money selling too soon",
+          "summary_en": "Convert paper wealth into real cash early; you never lose money by selling too soon.",
+          "summary_zh": "早点落袋为安，落袋的利润永远不会亏",
+          "timestamp_sec": 378,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾在大型律所工作，并在1999-2000年互联网泡沫期间通过公司IPO股票期权获得1750万美元账面财富，但因6个月禁售期遇上市场崩盘最终仅以35万美元卖出，后因离婚损失数百万美元。",
+      "guest_name": "Former Big Law Attorney & Dot-Com Investor",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Attorney (Former Big Law Lawyer)",
+      "wealth_detail": "Previously made $17.5M in paper IPO stock options (sold for $350K after crash); lost several million dollars in divorce; states he is no longer a millionaire",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find a Supportive Spouse",
+          "category": "Mindset & Resilience",
+          "quote": "find a good wife to support you through the million businesses that you'll start",
+          "summary_en": "Find a supportive spouse who will stand by you through the many businesses you start.",
+          "summary_zh": "找一位能支持你反复创业的贤内助",
+          "timestamp_sec": 570,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "it just takes a whole lot more effort than what people realize cuz nobody else is going to do it for you... nobody's coming to save you",
+          "summary_en": "Entrepreneurship takes far more effort than people realize; you have to make it happen because nobody is coming to save you.",
+          "summary_zh": "创业拼的是加倍付出，没人会来救你",
+          "timestamp_sec": 574,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I worked a job of the day running equipment and at night I went to school to learn how to be a project manager estimator negotiate contracts",
+          "summary_en": "Work a day job to learn the trade hands-on and study management, estimating, and contract negotiation at night.",
+          "summary_zh": "白天打工实操，晚上学习管理与谈判",
+          "timestamp_sec": 596,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I love being outside um I love building something... I tried every other trade I love moving the earth",
+          "summary_en": "Try different trades and pursue the specific craft and work environment you genuinely love.",
+          "summary_zh": "尝试不同行业后深耕自己真正热爱的领域",
+          "timestamp_sec": 628,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通，24岁靠汗水股权创办挖掘工程公司，27岁成为百万富翁，28-29岁年营收达800万美元；31岁因2008年金融危机破产，休整两年后东山再起，花10年重建多家数百万美元规模的企业。",
+      "guest_name": "Austin Excavation & Construction Entrepreneur",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Excavation & Construction Business Owner",
+      "wealth_detail": "Became a millionaire at 27; first excavation company hit $8M/yr revenue before 2008 bankruptcy; rebuilt numerous multi-million dollar companies over 10 years",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "靠汗水股权白手起家，白天一线操作设备、晚上读夜校学管理预算与合同谈判；没人会来救你，必须自己拼命去干。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "what you're going to learn in school is really really important okay what you learn in business you learn handson and you you got to learn it yourself",
+          "summary_en": "Value formal education, while recognizing that practical business skills must be learned hands-on by yourself.",
+          "summary_zh": "学校教育很重要，但商业实战得靠自己学",
+          "timestamp_sec": 789,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "if any great Trader tells you you never lost money then he's lying to you... there's a lot of loss that comes with it of course that's how you learn",
+          "summary_en": "Accept that taking losses is an unavoidable part of trading and investing—that is how you learn.",
+          "summary_zh": "交易必经亏损，这正是你成长学习的过程",
+          "timestamp_sec": 798,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "the middle class saves the upper class invests",
+          "summary_en": "Build wealth by investing rather than merely saving, as the upper class invests while the middle class only saves.",
+          "summary_zh": "中产阶级只顾存钱，富裕阶层懂得投资",
+          "timestamp_sec": 814,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Invest in Consumer Trends You Observe",
+          "category": "Wealth & Investing",
+          "quote": "invest by walking around so it's kind of like the Peter Lynch model... everyone in my house has an Apple product everyone in my house wears Lululemon",
+          "summary_en": "Follow the Peter Lynch model by observing popular consumer products and brands around you to find investments.",
+          "summary_zh": "用彼得林奇法从日常消费观察中选股投资",
+          "timestamp_sec": 822,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Retired Wall Street Bond Trader & Former Restaurant Owner",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Peter Lynch"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Retired Bond Trader & Former Restaurant Owner (3 Locations)",
+      "wealth_detail": "$15M (or $50M) single-year business revenue; declined to share personal income",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "JMIE80d0Aoo",
+  "video_type": "street_multi"
+}

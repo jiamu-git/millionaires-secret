@@ -1,0 +1,286 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Well behaved women rarely make history... you got to break the rules",
+          "summary_en": "Challenge conventions and break the rules instead of playing it safe to achieve major success.",
+          "summary_zh": "敢于打破常规，不被传统规则束缚",
+          "timestamp_sec": 125,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Keep asking, keep asking, keep asking... closed mouths don't get fed",
+          "summary_en": "Stay persistent in sales and keep asking because closed mouths don't get fed.",
+          "summary_zh": "持续主动推销提问，敢开口才有机会",
+          "timestamp_sec": 169,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I borrow money all the time... I budget it and I spread it out and I multiply it",
+          "summary_en": "Do not fear bank loans; budget borrowed capital carefully, diversify its deployment, and multiply it.",
+          "summary_zh": "善用银行贷款做预算并分散投资倍增财富",
+          "timestamp_sec": 186,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I can make it in 10 phone calls... my network is hefty, big players",
+          "summary_en": "Cultivate a powerhouse network of major players so you can rebuild from scratch with a few calls.",
+          "summary_zh": "打造高含金量大玩家人脉圈，关键时刻能东山再起",
+          "timestamp_sec": 195,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "You're going to be a student for life... I'm constantly learning until my last breath",
+          "summary_en": "Listen intently to successful people and remain a lifelong student eager to learn.",
+          "summary_zh": "善于倾听强者经验，保持终身学习心态",
+          "timestamp_sec": 221,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "File taxes like a billionaire... knowing how to write off... having trust accounts",
+          "summary_en": "Learn proper business accounting, write-offs, portfolios, and trust structures to protect wealth.",
+          "summary_zh": "精通商业税务抵扣与信托架构以保全财富",
+          "timestamp_sec": 239,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "When you build the right team they make money for you in your sleep",
+          "summary_en": "Invest heavily in top financial advisors, tax attorneys, and a strong team that earns for you in your sleep.",
+          "summary_zh": "重金聘请顶尖财税顾问并组建能自动创收的团队",
+          "timestamp_sec": 258,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年从事10年企业客服工作，21岁时在波多黎各机场以佣金形式促成一笔2800万美元的石油大单，此后创立并经营原油开采与太阳能板制造等公司达16年。",
+      "guest_name": "Miami Oil & Solar Business Owner",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Business Owner (Oil & Solar Panel Manufacturing)",
+      "wealth_detail": "$6M-$7M peak single-year company revenue (self-confirmed millionaire); closed $28M oil deal at age 21",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "别害怕向银行和机构贷款融资，做好预算将资金分散投入并快速滚动回本；学会倾听并做终身学生，同时组建顶尖财务顾问与税务律师团队合理节税。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I would bet on myself every day and twice on Sunday... you got to go all in on yourself",
+          "summary_en": "Bet on yourself wholeheartedly and go all-in when you believe you have a winning advantage.",
+          "summary_zh": "高度相信自己，看准优势时果断全力押注",
+          "timestamp_sec": 370,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "I'm investor in startups, private equity, hedge funds, stock market, loans... I'm very diversified now",
+          "summary_en": "Preserve and grow post-exit wealth by diversifying across startups, private equity, hedge funds, stocks, and loans.",
+          "summary_zh": "退出后多元化配置股权、基金、股市与债权资产",
+          "timestamp_sec": 380,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "People that have something to say... sit on the sidelines... the cheap seats are called cheap seats for a reason",
+          "summary_en": "Ignore haters and doubters who sit on the sidelines without doing the actual work.",
+          "summary_zh": "无视场边看客的风言风语，坚定自我信念",
+          "timestamp_sec": 419,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I was building a company that was making people's lives happier and healthier",
+          "summary_en": "Focus on building a mission-driven company that genuinely improves customers' health and happiness.",
+          "summary_zh": "打造真正让顾客更健康快乐的高价值事业",
+          "timestamp_sec": 425,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "The number one book that I read every few years is How to Win Friends and Influence People",
+          "summary_en": "Read and periodically revisit foundational classics like Dale Carnegie's How to Win Friends and Influence People.",
+          "summary_zh": "反复精读《人性的弱点》等经典人际沟通著作",
+          "timestamp_sec": 460,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Your name is the most important word to you... make sure that you felt seen, at home, respected",
+          "summary_en": "Personalize the customer experience—such as using clients' names—so they feel seen, respected, and eager to return.",
+          "summary_zh": "直呼顾客姓名等细节营造归属感，提供极致服务",
+          "timestamp_sec": 471,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Easy choices, hard life; hard choices, easy life... make decisions today that make you proud",
+          "summary_en": "Maintain strict daily health and fitness discipline and make hard choices now for a better long-term life.",
+          "summary_zh": "保持早起健身的高度自律，做难而正确的决定",
+          "timestamp_sec": 493,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I didn't feel like I sacrificed anything, I loved every part of it",
+          "summary_en": "Love the building journey and your team so deeply that years of hard work never feel like a sacrifice.",
+          "summary_zh": "热爱创业的每一步，享受过程而不觉牺牲",
+          "timestamp_sec": 545,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "向Solidcore投入17.5万美元，耗时近10年将其发展为估值超3亿美元的连锁品牌，2023年出售后个人股权价值约9000万至1亿美元。",
+      "guest_name": "Solidcore Founder",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "How to Win Friends and Influence People by Dale Carnegie"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Networking & Relationships",
+        "Public Speaking & Communication",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Former Owner of Solidcore; Investor",
+      "wealth_detail": "$90M equity shares (~$100M total return on $175K invested); Solidcore valued at $300M+ at exit",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "对自己的独特优势全力以赴并持续复投；不要理会场边看客的质疑，保持极度自律的作息与体能训练，用记住顾客名字等细节赢得客户忠诚。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I'm addicted, I love being an entrepreneur... I have 15 companies so it just starts compounding",
+          "summary_en": "Treat entrepreneurship as an exciting game you genuinely love, allowing ventures and momentum to compound.",
+          "summary_zh": "痴迷并热爱创业过程，让事业随复利不断滚雪球",
+          "timestamp_sec": 717,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Leisure to me is really getting to do what I love, getting to share it with people I love, and giving back",
+          "summary_en": "Define true fulfillment through doing meaningful work, sharing success with loved ones, and giving back.",
+          "summary_zh": "与所爱之人分享成果并积极回馈社会",
+          "timestamp_sec": 730,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Our first company completely failed, we lost everything, and then started It's a 10 with only one bottle",
+          "summary_en": "Bounce back from total business failure and rebuild from whatever minimal resources remain.",
+          "summary_zh": "从彻底失败和亏光一切中振作，依靠仅剩资源重启",
+          "timestamp_sec": 741,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I bought my partner out... 100% owned by the original owner, the founder",
+          "summary_en": "Consolidate and retain full founder equity ownership rather than giving up long-term control.",
+          "summary_zh": "买断股份保留100%创始人股权，掌握长期控制权",
+          "timestamp_sec": 752,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "When you find that organic passion behind a brand and become a worldwide brand built on that, it's priceless",
+          "summary_en": "Create products so genuinely effective that customers and insiders organically champion your brand everywhere.",
+          "summary_zh": "打造好产品赢得自发口碑，用真实热爱铸就全球品牌",
+          "timestamp_sec": 808,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "It's not what you have, it's what you do with what you have",
+          "summary_en": "Stop waiting for ideal resources and execute relentlessly with whatever limited means you currently have.",
+          "summary_zh": "不纠结现有条件匮乏，最大化利用手中资源行动",
+          "timestamp_sec": 819,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Strategic Innovation & Differentiation",
+          "category": "Business & Strategy",
+          "quote": "It's about being more strategic, go where they don't go... bring innovation... zig when they zag and have fun",
+          "summary_en": "Stand out in crowded markets by thinking strategically, innovating, zigging when competitors zag, and enjoying the ride.",
+          "summary_zh": "用战略创新避开同质化红海，逆向破局并享受过程",
+          "timestamp_sec": 829,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕美业42年，最初租用4平方英尺工位做独立美发师（1099）；首家公司彻底失败并亏光一切后，仅凭一瓶产品创办“It's a 10”护发品牌，10年后买断合伙人股权实现100%独资，现拥有15家公司。",
+      "guest_name": "It's a 10 Haircare Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder & 100% Owner of It's a 10 Haircare; Serial Entrepreneur (15 Companies)",
+      "wealth_detail": "Self-confirmed billionaire; over 9 figures ($100M+) peak single-year revenue; 100% owner of It's a 10 and 15 companies",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "重要的不是你拥有什么，而是你用现有的东西做什么；竞争激烈时不能只靠努力，要更具战略思维，敢于创新并在别人往左时往右（Zig when they zag），同时在奋斗中享受乐趣。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "5E-lydM23gU",
+  "video_type": "street_multi"
+}

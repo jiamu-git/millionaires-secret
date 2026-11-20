@@ -1,0 +1,140 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "they're just great communicators and they really love their product or love their service they're very passionate about it and they believe in it",
+          "summary_en": "Great salespeople are passionate communicators who genuinely love and believe in their product or service.",
+          "summary_zh": "热爱并深耕产品，真诚分享自带感染力",
+          "timestamp_sec": 188,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm going to start asking questions and I'm going to listen to the response and as I'm listening to the response I'm tailoring my message... because that's how I'm able to meet their needs",
+          "summary_en": "Lead with questions, listen closely to the answers, and tailor your message to meet the other person's real needs.",
+          "summary_zh": "销售先提问倾听，按客户需求定制沟通",
+          "timestamp_sec": 237,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Communicate Concisely & Slow Down",
+          "category": "Actionable Skills & Habits",
+          "quote": "slow down say what you're going to say in fewer words because the people that you're speaking to don't know it as well as you know it",
+          "summary_en": "Slow down and use fewer words so audiences who lack your background can easily follow you.",
+          "summary_zh": "放慢语速精简表达，用更少的话讲清重点",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to be really careful how you fund your businesses and how you spend your money both in your personal life and your professional life",
+          "summary_en": "Be disciplined about how you finance your business and manage spending across both personal and professional accounts.",
+          "summary_zh": "谨慎规划企业融资，严管公私资金开支",
+          "timestamp_sec": 357,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "you've done a few thousand dollars worth of business and suddenly you're in Saks Fifth Avenue buying a suit or you're in a restaurant buying a 200 bottle of wine... be careful don't let it go to your head",
+          "summary_en": "Do not let early business wins trigger luxury lifestyle inflation; stay grounded instead of splurging on suits or expensive wine.",
+          "summary_zh": "刚赚到钱别飘，克制奢侈消费避免膨胀",
+          "timestamp_sec": 370,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "humility that is by far one of the most important character traits... try to always be aware of what I don't know and always share what I do know in a positive and uplifting way",
+          "summary_en": "Pair confidence with humility by staying aware of what you do not know and generously sharing wisdom with others.",
+          "summary_zh": "保持谦逊之心，清醒认知自己的未知领域",
+          "timestamp_sec": 396,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "getting up brushing myself off licking my wounds and going back in for another round",
+          "summary_en": "Resilience means picking yourself up after devastating financial failure and stepping back into the arena.",
+          "summary_zh": "跌倒后擦干伤口重新站起，敢于再次上场",
+          "timestamp_sec": 832,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "come with me to every meeting and you can come to me to that courthouse and face the people that you owe money to and I'll teach you more about business and more about life than you ever could imagine",
+          "summary_en": "Seek out seasoned mentors who challenge you to face hard truths and learn directly through real-world crises.",
+          "summary_zh": "跟随实战型专业导师，在危机中学习成长",
+          "timestamp_sec": 898,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "having the strength and the nerve to go into a room of people that hated me because I unfortunately failed and I owed them money... to give everything I had back",
+          "summary_en": "Take direct personal accountability in front of those you owe when things fail, rather than hiding behind intermediaries.",
+          "summary_zh": "破产后直面债权人承担责任，重塑做人底线",
+          "timestamp_sec": 912,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "start small just set the alarm get out of bed be on time to work... when you finish the day and you've done what you said you were going to do go sit in a chair and get quiet and think about I just did what I said I was going to do",
+          "summary_en": "Build momentum with basic daily structure and small achievable habits so you consistently keep promises to yourself.",
+          "summary_zh": "建立规律作息，靠小步兑现承诺重塑自信",
+          "timestamp_sec": 1136,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Practice Radical Self-Honesty",
+          "category": "Mindset & Resilience",
+          "quote": "what is your Achilles heel be able to get really honest with yourself... you got to get really clear with yourself and be honest with yourself and then sit down and go okay today I'm going to say hello to everybody and smile",
+          "summary_en": "Identify your personal Achilles' heel with complete honesty and commit to simple, positive daily actions.",
+          "summary_zh": "诚实直面自身弱点，每天从微小善意做起",
+          "timestamp_sec": 1193,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20世纪70年代末休斯顿石油繁荣时期，他在一家四星级酒店当夜间代客泊车员，与门童合作利用客人进店吃晚餐的空档，以20美元一次的价格用牙刷刷洗轮毂、用当时刚面世的Armor All为轮胎上光，创立了他的第一家汽车美容公司（Extraordinary Detail）。",
+      "guest_name": "Mark White",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Zig Ziglar",
+        "Tony Robbins",
+        "Nelson Hensley",
+        "Haas"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Public Company CEO (Mental Health & Brain Stimulation Tech)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "bmQRL82f-5I",
+  "video_type": "deep_dive_single"
+}

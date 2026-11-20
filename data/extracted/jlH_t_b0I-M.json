@@ -1,0 +1,324 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Just be consistent in what you do. That's it.",
+          "summary_en": "Stay consistent in your craft and daily work ethic.",
+          "summary_zh": "在专业领域保持始终如一的坚持",
+          "timestamp_sec": 150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Sometimes you got put in God's hands. And if you have a good work ethic, normally good things going to come.",
+          "summary_en": "Put things in God's hands and pair faith with a strong work ethic.",
+          "summary_zh": "心怀信仰并将事业托付给神",
+          "timestamp_sec": 168,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Say no to your friends and family. Only invest in your business. Do not have business partners.",
+          "summary_en": "Say no to friends and family, invest only in your own business, and avoid business partners.",
+          "summary_zh": "拒绝亲友伸手，不找合伙人独立投资",
+          "timestamp_sec": 212,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Circle yourself around people who are doing better than you... Don't put yourself around people who ain't doing nothing.",
+          "summary_en": "Surround yourself with high-achieving people doing better than you, not idle peers.",
+          "summary_zh": "与比自己更优秀成功的人同行",
+          "timestamp_sec": 230,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Plan Deliberately & Avoid Impulsive Deals",
+          "category": "Business & Strategy",
+          "quote": "Don't do stuff spontaneously or impulsively. You got to think it out. You got to have a game plan.",
+          "summary_en": "Think things through and have a game plan instead of jumping impulsively into pitched ideas.",
+          "summary_zh": "凡事提前制定计划，切忌冲动盲从",
+          "timestamp_sec": 250,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Whatever your dreams might be, brother, you got to just stay with it.",
+          "summary_en": "Grind it out and stick with your dreams regardless of humble beginnings.",
+          "summary_zh": "再艰难也要咬牙坚持自己的梦想",
+          "timestamp_sec": 270,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Set Up Estate Planning (Trusts & Wills)",
+          "category": "Wealth & Investing",
+          "quote": "You got to have a plan. If something happen, you got stuff left in a trust, in a will to leave behind to your kids, your family.",
+          "summary_en": "Do not rush and make sure your assets are placed in a trust and will to protect your family.",
+          "summary_zh": "提前立好遗嘱与信托传承家族财富",
+          "timestamp_sec": 288,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通且毫无背景，靠拼搏打进NBA效力十余年，24岁赚到人生第一个100万美元，职业生涯总收入超3000万美元，退役后继续经营个人事业。",
+      "guest_name": "Tyrone Hill",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Former NBA Player & Business Owner",
+      "wealth_detail": "Over $30M NBA career earnings; first million at age 24",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持专业上的持续一致和良好职业道德，心怀信仰；学会拒绝亲友索取，只投资自己的事业且不找合伙人，多结交比自己更优秀的人并提前做好人生与传承规划。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "God is not against wealth. God is against wealth having our hearts... God can trust people wealth as long as they can steward that.",
+          "summary_en": "Act as a faithful steward over finances without letting the love of money capture your heart.",
+          "summary_zh": "做财富的好管家而非被金钱俘获内心",
+          "timestamp_sec": 473,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "The best businessmen are men with character and integrity... care about your character and how you treat people that you are in business with, especially people who work beneath you.",
+          "summary_en": "Prioritize character, integrity, and treating subordinates well rather than focusing solely on revenue.",
+          "summary_zh": "经商重在品格诚信与善待下属伙伴",
+          "timestamp_sec": 616,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Nobody gets to the top by themselves, and nobody becomes their best self by themselves.",
+          "summary_en": "Recognize that reaching the top and becoming your best self requires healthy relationships with others.",
+          "summary_zh": "没有人能独自登顶，需善待身边人",
+          "timestamp_sec": 643,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身特立尼达移民贫困家庭，年少时曾贩毒并多次入狱，18岁在莱克斯岛监狱度过；在人生最低谷经历信仰重生后投身牧师事工，创立2819教会发展成全美大型教会之一，同时从事私人投资。",
+      "guest_name": "Philip Anthony Mitchell",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Senior Pastor (2819 Church) & Private Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "先把信仰与灵魂富足放在首位，将金钱视为受托管理的资源而不被其控制；做生意时把品格、诚信以及如何善待合作伙伴与下属放在利润之上。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I decided to start a business that didn't need funding. It just needed me to step up to the plate and use my voice.",
+          "summary_en": "Start a lean business using your own knowledge and voice instead of waiting for outside funding.",
+          "summary_zh": "无需等待融资，靠自身技能轻资产起步",
+          "timestamp_sec": 770,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Create an environment where people want to change. They want to transform, and ultimately they want to buy, even if you're not making an offer.",
+          "summary_en": "Be authentic, connect deeply with your audience, and create an environment where people want to buy.",
+          "summary_zh": "用真诚连接创造让客户主动下单的场域",
+          "timestamp_sec": 921,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Make Decisive Choices Under Pressure",
+          "category": "Mindset & Resilience",
+          "quote": "Making the best decisions for you at that very moment. And not really thinking about it being perfect, but it getting done.",
+          "summary_en": "Make the best decision possible under pressure and prioritize getting it done over perfection.",
+          "summary_zh": "高压下果断决策，先完成再求完美",
+          "timestamp_sec": 843,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "It's this level of confidence that no one else gave to them. They know what rock bottom is. And so, there's nothing that they cannot do.",
+          "summary_en": "Cultivate self-earned confidence by surviving rock bottom and knowing nothing can stop you.",
+          "summary_zh": "经历低谷后建立无人能夺走的自信",
+          "timestamp_sec": 862,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be your own brand. Stop hiding behind the business brand, and you be the brand.",
+          "summary_en": "Build your own personal brand instead of hiding behind your company name in order to scale.",
+          "summary_zh": "不要躲在企业背后，打造个人品牌规模化",
+          "timestamp_sec": 892,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Have a conversation with a millionaire, you ask them, what are they working on right now, and how can you support that very thing?",
+          "summary_en": "Approach wealthy people by asking what they are working on and how you can support them.",
+          "summary_zh": "结交富豪时先主动询问如何提供支持",
+          "timestamp_sec": 953,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Suzy Orman and Dave Ramsey said, don't go borrow, but they were talking to broke-minded people, not those of us who wanted to live a legacy.",
+          "summary_en": "Use strategic borrowing and leverage to acquire major assets rather than following fear-based debt advice.",
+          "summary_zh": "善用良性负债撬动大型资产拒绝穷人思维",
+          "timestamp_sec": 993,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Start right now. Don't wait. Don't listen to the old heads that say, hey, be afraid cuz they're projecting their fears onto you.",
+          "summary_en": "Start immediately and refuse to let older doubters project their fears onto you.",
+          "summary_zh": "无视他人传递的恐惧，现在立刻开始行动",
+          "timestamp_sec": 1023,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "父母分别是保洁员和仅受过二三年级教育的佃农；她在美军服役21年并三度赴战场担任作战连长，退役后凭人生经验转型商业顾问，用自身演讲与咨询能力创办无需融资的企业，单年收入最高达1500万美元，曾一小时演讲成交210万美元。",
+      "guest_name": "Dr. Sonya Stribling",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Gary Vaynerchuk"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Public Speaking & Communication",
+        "Networking & Relationships",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Business Consultant & Former US Army Battle Captain",
+      "wealth_detail": "$15M/yr peak annual income; $2.1M earned in 1 hour from a stage talk",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要等拿到融资才行动，先靠自身知识和表达能力轻资产创业；不要躲在公司品牌背后，全力打造个人品牌；与高净值人士交流时先问能如何支持对方，敢于利用杠杆且拒绝被他人的恐惧束缚，立刻起步。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Never Make Decisions From Fear or Desperation",
+          "category": "Mindset & Resilience",
+          "quote": "Never do anything out of fear or desperation. Always make it out of love and faith... Desperate people lose all the leverage.",
+          "summary_en": "Never act out of fear or desperation because desperation destroys your leverage and invites exploitation.",
+          "summary_zh": "永远不要出于恐惧或绝望做任何决定",
+          "timestamp_sec": 1201,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Writing out exactly the type of person that I wanted, the type of career I wanted, and committing those things to God.",
+          "summary_en": "Write down your exact career and life goals and commit them to God in faith.",
+          "summary_zh": "明确写下人生事业目标并交托信仰",
+          "timestamp_sec": 1254,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "She believed in it years before she became successful. She believed in the position that she's in right now.",
+          "summary_en": "Believe in your future success years before it arrives, and trust yourself in your own timing.",
+          "summary_zh": "在成功到来之前就坚定相信自己的愿景",
+          "timestamp_sec": 1282,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose the Right Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "How important is a decision to choose the right life partner? It's everything. This decision is everything.",
+          "summary_en": "Recognize that choosing the right life partner is one of the most critical decisions for success.",
+          "summary_zh": "选择契合的人生伴侣对成功至关重要",
+          "timestamp_sec": 1290,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Think and Grow Rich actually helped me to understand to practically apply the principles in the Bible to myself and to my life.",
+          "summary_en": "Read foundational mindset books like Think and Grow Rich and apply those principles practically.",
+          "summary_zh": "精读经典成功书籍并将理念付诸实践",
+          "timestamp_sec": 1290,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Time Freedom & Loved Ones",
+          "category": "Wealth & Investing",
+          "quote": "Even if I'm making millions and millions, if I can't make the time for those things, then I'm not wealthy at all.",
+          "summary_en": "Measure true wealth by having full access to your own time to enjoy loved ones and life.",
+          "summary_zh": "时间自由与陪伴挚爱远比单纯赚钱更重要",
+          "timestamp_sec": 1336,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "怀着保护弱势群体权益的初心投身法律行业，2021年在亚特兰大创办个人律师事务所，五年内将律所年营收做到500万美元以上。",
+      "guest_name": "Atlanta Law Firm Founder & Attorney",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Think and Grow Rich (Napoleon Hill)",
+        "The Bible"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Law Firm Founder & Attorney",
+      "wealth_detail": "Over $5M/yr law firm revenue",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "切忌在恐惧或绝望的状态下做决定以免丧失筹码；把理想事业与伴侣目标写下来并保持坚定信念，选对人生伴侣，多读《思考致富》等书籍并将原则落地实践，同时牢记时间自由才是真正的财富。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "jlH_t_b0I-M",
+  "video_type": "street_multi"
+}

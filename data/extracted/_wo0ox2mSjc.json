@@ -1,0 +1,124 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "figure out what you want... figure out what you will do or give up to get it and then... come up with the smallest reasonable Next Step that you can do in a cocky manner",
+          "summary_en": "Define what you want, decide what you will sacrifice, and confidently take the smallest reasonable next step.",
+          "summary_zh": "明确所求与代价，自信迈出最小下一步",
+          "timestamp_sec": 57,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "learn the difference between a desire and a craving because now you can actually chase after stuff that you want just chase after the things that make you better",
+          "summary_en": "Distinguish real desires from cheap cravings and pursue exciting goals that make you stronger.",
+          "summary_zh": "区分欲望与瘾欲，追逐让人变强的兴奋目标",
+          "timestamp_sec": 115,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Create Silence & Space for Ideas",
+          "category": "Actionable Skills & Habits",
+          "quote": "you have to sit in silence long enough for something to come up... the number one rule for ideas is give yourself enough space for them",
+          "summary_en": "Take walks and sit in silence without phone scrolling to give your mind space to generate ideas.",
+          "summary_zh": "留出独处静思空间，让好点子自然浮现",
+          "timestamp_sec": 169,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Commit All-In in Focused Segments",
+          "category": "Actionable Skills & Habits",
+          "quote": "the way to learn the skill of all in is to do it in segments is there a project that you can commit to for a week and then can you do it again next week",
+          "summary_en": "Maintain your life pillars and practice going all-in on projects in bounded time segments rather than abandoning everything.",
+          "summary_zh": "先稳住生活根基，再分段投入全情冲刺",
+          "timestamp_sec": 207,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "one of the biggest issues is overstimulation... they're staring at the phone for 16 hours it's that they're addicted to Netflix they're drinking too much",
+          "summary_en": "Eliminate overstimulation like endless phone scrolling, streaming, and drinking instead of blaming lack of passion.",
+          "summary_zh": "戒除手机与酒精等过度刺激，避免借口拖延",
+          "timestamp_sec": 269,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "first believe that it's possible and then try to get any exposure to the good stuff that you can... and then start finding communities where people are doing good stuff",
+          "summary_en": "Believe supportive peers exist, expose yourself to positive content, and join communities of driven people.",
+          "summary_zh": "相信良师益友存在，主动融入积极向上的圈子",
+          "timestamp_sec": 319,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Move Toward Desire Over Pain",
+          "category": "Mindset & Resilience",
+          "quote": "the way you move out of complacency when you have success is to move towards desire as opposed to run away from Pain",
+          "summary_en": "Avoid post-success complacency by shifting motivation from escaping pain to pursuing a compelling vision.",
+          "summary_zh": "成功后以愿景渴望驱动，而非仅靠逃避痛苦",
+          "timestamp_sec": 386,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "look at it from an evidence-based framework... stop questioning about whether or not you deserve it and start questioning what you're gonna do moving forward",
+          "summary_en": "Overcome imposter syndrome by accepting objective results and focusing on your next actions rather than worthiness.",
+          "summary_zh": "用客观事实打破冒充者综合征，聚焦下一步",
+          "timestamp_sec": 458,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Practice Breathwork for Mental State",
+          "category": "Actionable Skills & Habits",
+          "quote": "breath work has had an insane effect on my life you can learn to put yourself in ridiculous States you can learn to relax yourself heal yourself sleep better get smarter have better ideas",
+          "summary_en": "Use breathwork daily to regulate your nervous system, improve sleep, and unlock sharper thinking and ideas.",
+          "summary_zh": "练习呼吸调控身心状态，提升睡眠与创造力",
+          "timestamp_sec": 483,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "my life never took off until I got diet under control... you gotta find the thing that works for you",
+          "summary_en": "Take control of your health and find a sustainable diet that works for your body as a foundation for performance.",
+          "summary_zh": "严控饮食管理健康，找到适合自己的自律方案",
+          "timestamp_sec": 495,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Josh Terry",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Self-Discipline & Habit Building",
+        "Breathwork & Health Optimization"
+      ],
+      "role_or_title": "Coach for Top Entrepreneurs & Content Creators / Content Creator",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "先确定当下最想做的小事及愿付出的代价，自信迈出最小一步；留出独处静思空间激发灵感，戒除过度刺激，并通过饮食与呼吸管理身体状态。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "_wo0ox2mSjc",
+  "video_type": "deep_dive_single"
+}

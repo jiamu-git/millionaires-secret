@@ -1,0 +1,151 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Concentration builds wealth, diversification keeps it... we eliminated everything... only life insurance.",
+          "summary_en": "Focus intensely on one blue-ocean niche and delay diversification until massive scale.",
+          "summary_zh": "专注单一核心业务，切忌过早多元化",
+          "timestamp_sec": 136,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Maintain Emotional Stability & Protect Culture",
+          "category": "Mindset & Resilience",
+          "quote": "The operator's got to be maniacally focused, he's got to be emotionally stable, and understand who to take feedback from.",
+          "summary_en": "Stay maniacally focused and emotionally stable, filter feedback carefully, and protect company culture from credentialed outsiders.",
+          "summary_zh": "保持情绪稳定、专注愿景并守护企业文化",
+          "timestamp_sec": 185,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I didn't buy my first Rolex till I was 35... I'm not spending all the money, I'm reinvesting into the company.",
+          "summary_en": "Delay luxury purchases and lifestyle creep early on, reinvesting profits back into the business.",
+          "summary_zh": "延迟个人享乐消费，将利润再投资于公司",
+          "timestamp_sec": 358,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "We need to find a way for you to go be around other CEOs that have ran bigger companies and you'll learn from them.",
+          "summary_en": "Put yourself in rooms with CEOs running much larger companies to learn how to operate and scale.",
+          "summary_zh": "向更大规模的CEO学习并寻找导师",
+          "timestamp_sec": 370,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on Exponential Growth Levers",
+          "category": "Business & Strategy",
+          "quote": "Exponential growth is at the top: leadership development or innovative campaigns.",
+          "summary_en": "Move beyond linear biz dev and systems by investing in leadership development and innovative campaigns for exponential growth.",
+          "summary_zh": "聚焦领导力培养与创新营销实现指数增长",
+          "timestamp_sec": 417,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Keep Cash Reserves for Market Opportunities",
+          "category": "Wealth & Investing",
+          "quote": "Always have cash... having cash allows you to pick things up when they're for sale.",
+          "summary_en": "Maintain liquid cash reserves so you can acquire undervalued assets and survive downturns when others lack liquidity.",
+          "summary_zh": "手握充足现金储备以把握市场低谷抄底机会",
+          "timestamp_sec": 436,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Pick one word... Business and Entrepreneurship... you can either speak, you're good for video, or you're good at writing.",
+          "summary_en": "Pick one core content niche, iterate on market feedback, and leverage your strength in speaking, video, or writing.",
+          "summary_zh": "深耕垂直主题内容，发挥个人媒介优势",
+          "timestamp_sec": 558,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Very few salespeople master the art of needs analysis... make the recommendation based on what's important to you.",
+          "summary_en": "Master needs analysis by uncovering what matters most to each client instead of pitching a one-size-fits-all solution.",
+          "summary_zh": "精通销售需求分析，以客户诉求为导向",
+          "timestamp_sec": 625,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Never Negotiate From a Position of Desperation",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Whenever you are in a position of desperation you're always going to get underpaid and make a bad move.",
+          "summary_en": "Never enter negotiations desperate; patience and walking away can double your deal valuation.",
+          "summary_zh": "切忌在绝望被动状态下进行商业谈判",
+          "timestamp_sec": 652,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I hired five new C-suite executives, they ran the business... Pat's only here once every six months.",
+          "summary_en": "Hire strong C-suite executives to run daily operations so your business is sellable and not dependent on you.",
+          "summary_zh": "聘用高管团队接管运营，摆脱创始人依赖",
+          "timestamp_sec": 702,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Refuse to buy into the philosophies that your parents and loved ones sell to you. If it doesn't make sense, question it.",
+          "summary_en": "Question and reject limiting beliefs about money and success passed down by parents or loved ones.",
+          "summary_zh": "质疑并摒弃原生家庭的限制性金钱观",
+          "timestamp_sec": 744,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Nobody in the world has an excuse to learn and win at the highest level... everybody today has access to information.",
+          "summary_en": "Leverage free online information to learn and improve continuously without blaming your background or environment.",
+          "summary_zh": "善用免费信息资源持续学习，不找借口",
+          "timestamp_sec": 775,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年作为身无分文的移民起步，从人寿保险销售入行；通过《蓝海战略》砍掉其余业务，仅专注人寿保险赛道，将团队从66名代理人扩张至6万名并最终以数亿美元出售，之后转型媒体与咨询。",
+      "guest_name": "Patrick Bet-David",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Blue Ocean Strategy",
+        "Harvard OPM Program (CEO Peers)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management",
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Entrepreneur, Author & Founder (PHP Agency / Valuetainment)",
+      "wealth_detail": "$250M peak single-year revenue; exited insurance company for >$240M (more than 2x a $120M offer); purchased a $25.2M property in cash",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要被原生家庭或周围人的限制性金钱观束缚，也别以出身贫困或环境差为借口；在信息完全开放的今天，善用公开资讯持续学习，发挥说话、视频或写作优势切入单一细分领域，克制消费并将利润投入成长。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ZX_BJKKyDXo",
+  "video_type": "deep_dive_single"
+}

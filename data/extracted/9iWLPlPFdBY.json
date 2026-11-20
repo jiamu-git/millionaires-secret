@@ -1,0 +1,158 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I think it's really really important to like master one thing... if you learn how to do one thing really really well, you can expand your knowledge base from the comprehension of that one thing.",
+          "summary_en": "Master one core craft like the tip of an arrow before branching out into other ventures.",
+          "summary_zh": "先极致专精一门核心本领，再由此向外拓展",
+          "timestamp_sec": 153,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "The win goes to the most hours committed... if I do something for 10 hours a day and you only do it for 9 hours a day, in a year it's going to be really hard for you to beat me.",
+          "summary_en": "Victory goes to whoever puts in the most cumulative daily hours; consistent time applied beats raw talent.",
+          "summary_zh": "每日多投入时间形成复利，持之以恒能赢过天赋",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "We are way bigger than we think we are... that idea of a person can even become the prison that keeps us from excelling.",
+          "summary_en": "Stop confining yourself to a narrow personality or social label; your true potential is far greater.",
+          "summary_zh": "破除狭隘的身份标签束缚，人的潜能远超想象",
+          "timestamp_sec": 240,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Suffering is a gift. The universe teaches through difficulty... get comfortable being uncomfortable if you want to achieve.",
+          "summary_en": "Adversity and hardship shape willpower; learn to get comfortable being uncomfortable to achieve big goals.",
+          "summary_zh": "苦难是淬炼意志的礼物，要学会习惯不适感",
+          "timestamp_sec": 286,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I believe in an energy that is constantly creating in all things that if I cultivate a relationship with I can be more powerful than I am.",
+          "summary_en": "Cultivate faith and connect with the creative intelligence beyond your ego to multiply your capacity.",
+          "summary_zh": "培养信仰并连接创造性智慧，突破小我的局限",
+          "timestamp_sec": 336,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "It becomes confidence after you get used to rejection. You get used to doing it wrong... The comfort to fail in front of people is what is perceived as confidence.",
+          "summary_en": "Real confidence comes from getting used to rejection, mistakes, and not being afraid to look foolish in public.",
+          "summary_zh": "习惯被拒绝与当众出丑，坦然面对失败即自信",
+          "timestamp_sec": 406,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Filter Advice by Track Record",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Taking advice from somebody who hasn't done what you want to do is almost insanity... ingesting the poison of their ignorant opinion that makes you crazy.",
+          "summary_en": "Never take advice from people who have not achieved or done what you are trying to do.",
+          "summary_zh": "别听未做过你想做之事的人给的无知建议",
+          "timestamp_sec": 432,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Trust Your Own Intuition",
+          "category": "Mindset & Resilience",
+          "quote": "If a bird lands on a branch, does the bird trust the branch or does it trust its wings?... You got to trust your wings.",
+          "summary_en": "Observe and listen, but ultimately lean on your own intuition and self-reliance rather than external crutches.",
+          "summary_zh": "如鸟信赖翅膀而非树枝般，学会相信自身直觉",
+          "timestamp_sec": 501,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Everything is relationships... every person is going to be a part of the tapestry of your future... People will take you places that money can't.",
+          "summary_en": "Treat everyone with care because relationships compound over decades and open doors that money never can.",
+          "summary_zh": "一切皆为人脉关系，善待他人能带你走得更远",
+          "timestamp_sec": 639,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Master Your Greatest Strength",
+          "category": "Business & Strategy",
+          "quote": "Sometimes what you're good at is different than what you like... my greatest skill set was acting and I chose to master that above all things in my career and then finance came behind that behind the mastery.",
+          "summary_en": "Recognize where your true strength lies even if it differs from your hobby, master it completely, and wealth follows mastery.",
+          "summary_zh": "区分喜欢与擅长，深耕最强天赋后财富自会到来",
+          "timestamp_sec": 695,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Money Beyond a Threshold Buys Misery",
+          "category": "Wealth & Investing",
+          "quote": "There's an amount of money that once you pass it, it buys misery... somewhere around a million dollars a year, it starts going the other way where it's more problems beyond that",
+          "summary_en": "Money does not buy happiness; past roughly $1M a year, additional wealth often brings isolation and more problems.",
+          "summary_zh": "金钱买不到快乐，年入百万美元后反而增添烦恼",
+          "timestamp_sec": 767,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Build Inner Stability Over Material Wealth",
+          "category": "Mindset & Resilience",
+          "quote": "It's a terrifying place when you realize nothing material can actually satisfy you... there's a certain stability in yourself that you trust yourself that you can handle whatever comes that is above any kind of false material, safety, comfort",
+          "summary_en": "Material success cannot cure illness or loss; real security comes from deep inner steadiness regardless of external circumstances.",
+          "summary_zh": "物质无法带来真正满足，唯有内在稳定才可靠",
+          "timestamp_sec": 822,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Claim Radical Agency Over Your Life",
+          "category": "Mindset & Resilience",
+          "quote": "You don't have to go to the job you went to today. You don't have to live where you live now... You literally can do anything that you choose. It just takes a certain amount of willingness to suffer.",
+          "summary_en": "Recognize your complete agency to leave unfulfilling jobs or situations and create any life you choose if you are willing to endure the struggle.",
+          "summary_zh": "人生选择权在自己手中，愿承受磨难就能改变现状",
+          "timestamp_sec": 929,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身并非富裕，从音乐起步后进入电视（《新鲜王子妙事多》）、电影及制片商业领域；真正的财务转折点在于意识到自己更擅长演戏而非单纯热爱的音乐，选择全力专精演技并随之收获财富。",
+      "guest_name": "Will Smith",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Alchemist",
+        "Chris Gardner",
+        "Quincy Jones",
+        "Will Smith's Grandmother"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Actor, Musician & Producer",
+      "wealth_detail": "$350M (video title)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "初期先像箭头一样专精一件事再横向拓展；每天比别人投入更多时间形成复利优势；不怕出丑和被拒绝；不要听取没做过你想做之事的人的建议，相信自己的直觉；重视人际关系，并做好承受磨难的准备。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "9iWLPlPFdBY",
+  "video_type": "deep_dive_single"
+}

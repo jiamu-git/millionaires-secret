@@ -1,0 +1,257 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "You have to stay in investments because of compounds. Compounding money is like, you know, the eighth wonder of the world.",
+          "summary_en": "Stay invested long-term in the market (such as the S&P 500) to let compounding multiply your wealth.",
+          "summary_zh": "长期持有投资资产以发挥复利威力",
+          "timestamp_sec": 192,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Most important thing is in my opinion was always to be confident. Even when I had bad days, a bad week, I was always confident.",
+          "summary_en": "Maintain unwavering confidence in yourself and your strategy even during bad days or losing weeks.",
+          "summary_zh": "低谷期也要保持绝对自信与信念",
+          "timestamp_sec": 200,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I couldn't wait to get to work. I loved going to work. That's the most important thing in the world. Love your job.",
+          "summary_en": "Love your work so much that you look forward to showing up every day.",
+          "summary_zh": "热爱自己的工作才能走得长远",
+          "timestamp_sec": 209,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Once you find something, you got to stick with it and see it through. You have to work hard. You got to put in hours.",
+          "summary_en": "Once you find your lane, commit to it, put in the hours, and see it through.",
+          "summary_zh": "认准方向后坚持投入工时并贯彻到底",
+          "timestamp_sec": 218,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "People own equity or stock in their own companies. You know, like Jeff Bezos, Jensen Huang.",
+          "summary_en": "True wealth comes from owning equity in companies rather than merely earning a paycheck.",
+          "summary_zh": "通过持有公司股权或股票积累大额财富",
+          "timestamp_sec": 298,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Invest early, invest confidently, don't speculate. Buy the S&P 500.",
+          "summary_en": "Avoid speculation and frequent trading; be patient and invest steadily in broad index funds like the S&P 500.",
+          "summary_zh": "切忌短线投机或频繁交易，应耐心定投指数",
+          "timestamp_sec": 325,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "出身普通，在华尔街担任债券交易员，28岁赚到人生第一个100万美元（按通胀折合如今约400万至500万美元），巅峰期单年收入达1500万美元。",
+      "guest_name": "Vegas Wall Street Bond Trader",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Former Wall Street Bond Trader",
+      "wealth_detail": "$15M/yr peak income; first $1M at age 28 (~$4M-$5M inflation-adjusted)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "尽早开始并自信地投资标普500指数基金，切勿短线投机或频繁交易，让复利发挥作用；同时选择热爱的工作，保持自信并持续投入时间深耕。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "My friendship in the end was broken because of that show. He and I split up and I just continued on just doing what I'm doing.",
+          "summary_en": "Going into business with friends can strain and ultimately break the friendship even when the venture succeeds.",
+          "summary_zh": "警惕商业合作对友情的破坏与合伙风险",
+          "timestamp_sec": 376,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Patience. It's a long game. Instant gratification when you're young. I stumbled all along the way cuz I thought it needed to be next week, next year.",
+          "summary_en": "Success is a long game; chasing instant gratification and quick timelines leads to stumbling early on.",
+          "summary_zh": "摒弃年轻时的急功近利，把事业当成长期博弈",
+          "timestamp_sec": 404,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Focus on the things that you're passionate about... I didn't try to always make money with everything. So, I chased what I enjoyed first.",
+          "summary_en": "Pursue what you genuinely enjoy first rather than forcing immediate monetization on everything.",
+          "summary_zh": "先追随热情所在，不必事事都急于变现",
+          "timestamp_sec": 423,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I had to figure out things that were working that took more time and sacrifice. Created that foundation.",
+          "summary_en": "Build a durable foundation by figuring out what works through sustained time and sacrifice.",
+          "summary_zh": "通过时间投入与必要牺牲打下稳固事业根基",
+          "timestamp_sec": 433,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "There's no perfect fit for anything that you do. You just have to get there. And then you'll see the opportunity and you create your luck.",
+          "summary_en": "Don't wait for a perfect formula; get in the arena first so you can spot opportunities and create your own luck.",
+          "summary_zh": "别等完美方案，先下场行动才能创造机会与运气",
+          "timestamp_sec": 462,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年与Rick Harrison共同打造热门电视节目《典当之星》（Pawn Stars）和《美国修复》（American Restoration），随后收购多家公司并切入金融及商业地产（大厦与土地）收购领域，凭借金融投资获得最高收益，巅峰单年收入达4000万至5000万美元。",
+      "guest_name": "Pawn Stars Co-Creator & Show Producer",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "TV Show Creator/Producer & Finance/Real Estate Investor",
+      "wealth_detail": "$40M-$50M single-year peak income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "克服急于求成的心态，把成功视为长期工程；先围绕自己真正热爱的事情去尝试和深耕，愿意为此付出时间和牺牲，行动起来之后机会与运气自然会浮现。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "If you're doing this, you got to do it cuz you love it. The business is a great step you can add to what you're building, but you have to love making content.",
+          "summary_en": "You have to genuinely love the craft of making content before layering business monetization on top of it.",
+          "summary_zh": "商业变现之前必须发自内心地热爱创作本身",
+          "timestamp_sec": 564,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "It's so important. I have a unique, diverse set of interests, and I get to do all of them because I started with this.",
+          "summary_en": "Diversify across ventures aligned with your interests once your core audience or platform is established.",
+          "summary_zh": "在核心优势基础上围绕多元兴趣拓展收入版图",
+          "timestamp_sec": 612,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Attention is a currency. How you wield that attention, that's the art. The opposite of hate is not love, it's indifference. You got to make people feel.",
+          "summary_en": "Master capturing and directing audience attention through content, ensuring people feel something rather than indifference.",
+          "summary_zh": "把注意力当作货币，用内容引发强烈情绪共鸣",
+          "timestamp_sec": 698,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "No stranger is going to tell me who I am... Everyone's entitled to their opinion and I'm entitled to think your opinion doesn't matter to me.",
+          "summary_en": "Never let strangers' criticism define your identity or derail what you are building.",
+          "summary_zh": "不被陌生人的评价定义自己，屏蔽外界噪音",
+          "timestamp_sec": 740,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "We were making content for 9, 10 years before we took off on Vine. We had logged our 10,000 hours... we had put in the work.",
+          "summary_en": "Put in years and 10,000 hours of unglamorous work before expecting an overnight breakthrough.",
+          "summary_zh": "爆红前需先经历十年磨一剑与一万小时积累",
+          "timestamp_sec": 777,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find Great Business Partners",
+          "category": "Business & Strategy",
+          "quote": "Great partners. Who understood the value of the social media influencer and were able to utilize that to build a brand.",
+          "summary_en": "Scale a personal brand into a billion-dollar enterprise by teaming up with great partners who know how to commercialize distribution.",
+          "summary_zh": "寻找懂行且互补的顶级合伙人放大品牌价值",
+          "timestamp_sec": 818,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Humble When Success Hits Early",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Yeah, I did. Yeah, it wasn't good. 22 years old and I've made over 50 million dollars in a single year. Like I thought I was invincible. I wasn't.",
+          "summary_en": "Letting massive early wealth go to your head and feeling invincible leads to costly mistakes.",
+          "summary_zh": "警惕年少成名暴富后膨胀自满、以为所向披靡",
+          "timestamp_sec": 828,
+          "type": "regret"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "When I respected God and accepted him and opened my heart and started having real conversations with him daily, I led with gratitude... my life's been 180'd.",
+          "summary_en": "Leading with faith and daily gratitude can completely turn around your mindset and life trajectory.",
+          "summary_zh": "心怀信仰与日常感恩能让人生实现彻底扭转",
+          "timestamp_sec": 848,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Do more. Life's not short, you just got to do more. Try to experiment and find everything you can in life that interests you and eventually something's going to click.",
+          "summary_en": "Experiment broadly and take more shots across different interests until you discover your true pocket.",
+          "summary_zh": "多去行动和尝试各种兴趣，直到找到命中天赋",
+          "timestamp_sec": 868,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "9岁起就在YouTube上传视频，在没有“网红”概念的年代坚持创作9至10年、积累了一万小时经验后，借力Vine短视频爆发；21岁成为百万富翁，22岁单年个人收入超5000万美元，随后打造服装品牌并与合伙人创立饮料品牌Prime（第二年营收达12亿美元）。",
+      "guest_name": "Logan Paul",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Content Creator, WWE Wrestler & Co-Founder of Prime",
+      "wealth_detail": "First $1M at age 21; $25M-$30M/yr ($50M+ in a single year at age 22); Prime did $1.2B in year 2",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先因为真正热爱而投入创作，用多年时间打磨吸引注意力的能力并大量尝试不同领域；不要被陌生人的评价左右，在建立起个人影响力后寻找优秀的商业合伙人共同放大品牌价值。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ALvduf2Rz_c",
+  "video_type": "street_multi"
+}

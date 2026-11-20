@@ -1,0 +1,420 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Build a company that is absolutely irresistible, has the best value proposition of anybody in your space",
+          "summary_en": "Build an irresistible company with the best value proposition in your space.",
+          "summary_zh": "打造极具吸引力和最佳价值主张的公司",
+          "timestamp_sec": 132,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "My whole life is about hiring smarter people than me... Spend all your time and all your energy getting the best talent you possibly can and investing in them deeply and helping them get to where you are.",
+          "summary_en": "Hire smarter people than yourself and invest deeply in helping them build wealth.",
+          "summary_zh": "雇佣比自己更聪明的人并深度投资帮助他们致富",
+          "timestamp_sec": 144,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "Car wash, man... it's like an ATM machine, a legal ATM machine. It's recession proof. It's depression proof.",
+          "summary_en": "Choose recession-proof traditional cash-flow businesses like car washes.",
+          "summary_zh": "选择洗车行等抗衰退的传统现金流生意",
+          "timestamp_sec": 171,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "The people that I know that have made the most money and created the most wealth have been laser focused on what they're doing and they compound that growth every hour, every minute, every day, forever.",
+          "summary_en": "Stay laser-focused on mastering one thing and compound your growth relentlessly.",
+          "summary_zh": "极度专注做好一件事并持续复利精进",
+          "timestamp_sec": 190,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't ever get rich and good-looking... Rich is loud and wealth is quiet.",
+          "summary_en": "Stay low-key; rich is loud while true wealth is quiet.",
+          "summary_zh": "保持低调，暴富高调炫耀，真正财富安静内敛",
+          "timestamp_sec": 252,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You can lose your health, you can lose your money, you can lose your friends, but if you have a relationship with Jesus Christ, you got it forever.",
+          "summary_en": "Prioritize faith; health and money can be lost, but faith endures.",
+          "summary_zh": "将信仰置于首位，健康财富会失但信仰永恒",
+          "timestamp_sec": 280,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Vic Keller",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Warren Buffett (Mr. Buffett)",
+        "Early business partners"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Serial Entrepreneur & Investor (Founder of 17 companies, sold 9 including 3 to Berkshire Hathaway)",
+      "wealth_detail": "Over $100M/yr (best year); founded 17 companies, sold 9 (3 to Berkshire Hathaway)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "建议从洗车行这类抗衰退的现金流行业切入，极度专注做到行业第一，并招募比自己更聪明的人才、帮他们致富。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Yeah, you have to be a business owner.",
+          "summary_en": "You have to be a business owner to get rich.",
+          "summary_zh": "想要致富必须拥有自己的生意而非打工",
+          "timestamp_sec": 343,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "When it's booming, people think it will never bust, and when it busts, they think it'll never come back, and I decided next time it busted I was going to buy it... Something where they have an edge... if everybody thinks it's a great idea, you missed it.",
+          "summary_en": "Buy during industry busts and pursue opportunities where you have a contrarian edge.",
+          "summary_zh": "逆周期在低谷买入，只投自己有优势的冷门机会",
+          "timestamp_sec": 368,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I had maxed out my credit cards, $70,000... Steve, the first deal is the hardest... you've done your research, you've done your homework, you'll probably be fine.",
+          "summary_en": "Do your homework and push through the fear of your first deal.",
+          "summary_zh": "做足功课后敢于迈出最难的第一步并承担风险",
+          "timestamp_sec": 397,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody doubted me... I was a poor kid from Bountiful, Utah. The good news is, the most important person didn't doubt me, and that was my wife.",
+          "summary_en": "Ignore doubters and lean on the belief of the people who matter most.",
+          "summary_zh": "无视外界质疑，保持自信并珍惜支持你的伴侣",
+          "timestamp_sec": 455,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Being rich is having a wonderful life and money is a nice part of it, but it's only a part of it. You need a balanced life and you need the other things that are even more important than money.",
+          "summary_en": "True wealth requires faith and a balanced life, not just money.",
+          "summary_zh": "金钱只是手段，信仰与平衡的生活才是真正富有",
+          "timestamp_sec": 476,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Long-Term Vision & Reverse Engineering",
+          "category": "Mindset & Resilience",
+          "quote": "Think about where you want to be in 30 years. Get a picture, not exactly, but generally, what do you want your life to look like? And then work backwards.",
+          "summary_en": "Envision where you want to be in 30 years and reverse engineer what to do today.",
+          "summary_zh": "设定30年后的理想人生图景并倒推当下行动",
+          "timestamp_sec": 520,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身犹他州贫困家庭，年轻时刷爆7万美元信用卡，以6.4万美元抄底买下面值160万美元的倒闭储贷机构不良贷款组合，完成第一笔大交易。",
+      "guest_name": "Steve (Highland Park Oil, Gas & Real Estate Owner)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Prize",
+        "Older friend (+11 years)",
+        "His wife"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Business Owner (Oil & Gas, Real Estate, 35 years)",
+      "wealth_detail": "Over $40M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "必须自己创业当老板，寻找别人尚未看清、自己拥有信息或认知优势的领域，敢于在行业低谷逆向布局，并先想清楚30年后的目标再倒推行动。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "My relationship with Jesus Christ. God had a plan for me.",
+          "summary_en": "Lean on faith to pull yourself out of rock bottom.",
+          "summary_zh": "依靠信仰走出人生低谷并重建事业",
+          "timestamp_sec": 629,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "When nobody has anything, it's when you find out who people really are... when nobody has anything to offer but their handshake and love, that's what they got to offer.",
+          "summary_en": "You discover people's true character when they have nothing left to offer but their handshake.",
+          "summary_zh": "一无所有时方见人心，看重品格与承诺",
+          "timestamp_sec": 652,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Hire your weakness... Your strength is where you make your money and your weakness is where you keep it.",
+          "summary_en": "Hire for your weaknesses—your strengths make money, your weaknesses keep it.",
+          "summary_zh": "雇用擅长自己短板的人才来守住财富",
+          "timestamp_sec": 659,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I made mistakes and I paid for them, but I promise you the comeback is so much greater than the setback, man.",
+          "summary_en": "Hold on through mistakes because the comeback is greater than the setback.",
+          "summary_zh": "跌倒不可怕，坚持到底的东山再起更有力量",
+          "timestamp_sec": 684,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在联邦监狱服刑近4年后重整旗鼓，将父亲在俄克拉荷马创立42年的暖通空调（HVAC）家族企业带到德克萨斯州合并扩张，并以7倍估值出售49%股权实现约2000万美元退出。",
+      "guest_name": "James DuBose",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [
+        "Daryl Rosen (35-year Procter & Gamble executive, former cellmate)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Co-Owner / Operator of Family HVAC Company",
+      "wealth_detail": "~$20M family exit (49% stake at 7x multiple); $3.5M prior annual revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Every day is a new adventure. You got to stay fit to get out of these things.",
+          "summary_en": "Stay physically fit and disciplined every day.",
+          "summary_zh": "保持强健体魄和自律状态以应对日常挑战",
+          "timestamp_sec": 823,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Fearlessness... It's the ability to walk up to somebody and be able to transact without any fear.",
+          "summary_en": "Be fearless—walk up to people and transact without hesitation.",
+          "summary_zh": "培养无畏心态，敢于主动与人沟通促成交易",
+          "timestamp_sec": 865,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Relationships are everything. It took me almost my entire career to realize that the most valuable resource of any company is the human resource... Your team is critically important to your success.",
+          "summary_en": "Relationships and your team are the most valuable asset of any company.",
+          "summary_zh": "人际关系与人才团队是公司最宝贵的资源",
+          "timestamp_sec": 876,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Not everybody is an entrepreneur. And the corporate world provides an entrepreneurial opportunity. You still have to be an entrepreneur to be successful in the corporate world. I call it being a corporate entrepreneur.",
+          "summary_en": "Leverage corporate structure by acting as a corporate entrepreneur.",
+          "summary_zh": "若不适合单干，可在大企业内部做创业者",
+          "timestamp_sec": 903,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Cash flow is critical to any business. It's your oxygen. You got to watch your debt and you got to watch your payables and receivables.",
+          "summary_en": "Treat cash flow as oxygen and closely monitor debt, payables, and receivables.",
+          "summary_zh": "现金流是企业氧气，紧盯债务与应收应付账款",
+          "timestamp_sec": 924,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Clear Team Communication & Alignment",
+          "category": "Business & Strategy",
+          "quote": "If the team doesn't understand where you're going, they can't execute. If the team is uncertain and scared, that brings in fear... Uncertainty is a killer.",
+          "summary_en": "Communicate clearly with your team so uncertainty and fear don't kill execution.",
+          "summary_zh": "与团队保持清晰沟通，消除不确定性与恐惧",
+          "timestamp_sec": 934,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "In times of trouble, you are going to be tested. Your values, your resilience, your self-confidence will all be on the line. Character is what will ultimately separate a winner from a loser.",
+          "summary_en": "Character, values, and resilience in hard times separate winners from losers.",
+          "summary_zh": "困境最能考验品格与韧性，决定最终成败",
+          "timestamp_sec": 949,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "You know what the strongest book I read in business was? ... The Boy Scout Handbook... A scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, reverent.",
+          "summary_en": "Draw timeless business and leadership principles from foundational books like The Boy Scout Handbook.",
+          "summary_zh": "从经典读物中汲取领导力与做人原则",
+          "timestamp_sec": 989,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身极其贫寒（童年住所没有自来水），以“企业内部创业者”的身份在大公司一路晋升，最终担任7-Eleven与百视达两家财富500强企业CEO，并主导了7-Eleven数十亿美元的出售交易。",
+      "guest_name": "Jim Keyes",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [
+        "The Bible",
+        "The Boy Scout Handbook"
+      ],
+      "recommended_skills": [
+        "Public Speaking & Communication",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Former CEO of 7-Eleven & Blockbuster",
+      "wealth_detail": "Sold 7-Eleven for \"many billions of dollars\" (company sale as CEO)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "并非所有人都适合白手起家单干，进入大企业做“内部创业者”同样能借助平台结构获得成功；在商界要无所畏惧地沟通交易、看重团队关系，并牢记现金流、沟通力和品格三大要素。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Value & Protect Your Time",
+          "category": "Actionable Skills & Habits",
+          "quote": "You can never ever make more time, right? Time's your most precious commodity you could ever have.",
+          "summary_en": "Protect and buy back your time because you can never make more of it.",
+          "summary_zh": "时间是最宝贵的资产，学会用资源换取时间",
+          "timestamp_sec": 1101,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "We really went all in on people and culture... every company in the world is in the people business and the service business... they have to know that you care. And I think if they know that, they'll run through walls for you.",
+          "summary_en": "Go all in on people and culture; when your team knows you care, they will run through walls for you.",
+          "summary_zh": "重注企业文化与员工关怀，员工会为你拼尽全力",
+          "timestamp_sec": 1252,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Are we playing not to lose, or we playing to win? ... One of the worst regrets in life would be waking up 10 years from today and saying, man, what if I would have?",
+          "summary_en": "Play to win rather than playing defense so you never regret 'what if' in 10 years.",
+          "summary_zh": "带着必胜心态主动进攻，避免十年后留下遗憾",
+          "timestamp_sec": 1296,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "If you look at the wealthiest people in the world, they had a very consolidated portfolio. They went all in on just one or two things, and they worked really well.",
+          "summary_en": "Concentrate heavily on one or two things rather than over-diversifying.",
+          "summary_zh": "财富源于高度集中精力做好一两件事而非盲目分散",
+          "timestamp_sec": 1325,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "There's not a lot of people that are willing to see your success... those people who are with you through the thick and thin, those people who are rooting for you no matter what, that's called family. The other ones are called blood.",
+          "summary_en": "Recognize who truly roots for you and guard against unsupportive people.",
+          "summary_zh": "认清谁真心祝你成功，远离不愿见你变好的人",
+          "timestamp_sec": 1355,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Choose Your Life Partner Carefully",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "That's probably one of the most important decisions you'll ever make on this planet... you want someone who's kind, selfless, and easy... you've got to be equally yoked.",
+          "summary_en": "Choosing who you marry is one of life's biggest decisions—seek kindness, selflessness, and shared faith.",
+          "summary_zh": "慎重选择伴侣，寻觅善良、无私且信仰一致的人",
+          "timestamp_sec": 1400,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Don't sweat the small things, and everything is small... don't ever put a limit on God's dreams for your life.",
+          "summary_en": "Don't sweat the small stuff and don't limit what God's plan can do for your life.",
+          "summary_zh": "不为琐事焦虑，保持信仰并对人生抱有更大格局",
+          "timestamp_sec": 1469,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "二代接班家族建筑企业，2009年接管父亲的公司并在2016年正式买下，通过打造以人为本的企业文化将公司业务体量做到15亿美元，个人单年最高收入约2亿美元。",
+      "guest_name": "Ben Pogue",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [
+        "His dad",
+        "The Bible (Proverbs 16)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Owner & CEO of Construction Company (2nd-gen) & Multiple Ventures",
+      "wealth_detail": "~$200M personal income in best year; $1.5B company volume; ~$20M private jet",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要只顾着打防守、按部就班，要全力进攻去赢；投资上不必盲目分散，集中精力重仓一两件核心事业往往能创造最大财富；同时慎重选择伴侣并依靠信仰度过低谷。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "rrDdi0vZn00",
+  "video_type": "street_multi"
+}

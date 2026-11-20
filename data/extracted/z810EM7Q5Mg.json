@@ -1,0 +1,363 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Proactive Systems for Scale",
+          "category": "Business & Strategy",
+          "quote": "Mostly you got to get out of your own way... thinking proactively about how do we build processes and structure so that we're always in a position waiting for us to grow into our potential versus trying to catch up once it hits us.",
+          "summary_en": "Build scalable processes and structure proactively instead of reacting after growth hits.",
+          "summary_zh": "主动搭建可扩张的流程与结构",
+          "timestamp_sec": 285,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "hiring talented people, but then telling them what to do versus listening to their thoughts and ideas... instead of really focusing on what's best for the customers and the employees.",
+          "summary_en": "Hire talented people and listen to their ideas instead of micromanaging or intimidating them.",
+          "summary_zh": "雇佣优秀人才并倾听其想法",
+          "timestamp_sec": 323,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "you got to be willing to take risks.",
+          "summary_en": "Entrepreneurship is not for everyone because you must be willing to take risks.",
+          "summary_zh": "创业必须敢于承担风险",
+          "timestamp_sec": 340,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Don't be so quick to jump ship... it's okay to make an investment in yourself and a company, just make sure that your compensation is structured in a way where you actually get to benefit from that hard work.",
+          "summary_en": "Don't quit after 12-16 months; invest in a company long-term with upside-aligned compensation.",
+          "summary_zh": "深耕公司并确保薪酬与贡献挂钩",
+          "timestamp_sec": 350,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Scottsdale Fintech Software Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Fintech & Software Company Owner",
+      "wealth_detail": "$100M-$200M/yr peak company revenue",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "People think it's boring, but it's blocking and tackling, executing every day, and just, you know, try to be the best in one thing.",
+          "summary_en": "Succeed in a so-called boring industry through daily execution and aiming to be the best at one thing.",
+          "summary_zh": "在传统枯燥行业做到极致执行",
+          "timestamp_sec": 428,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Every day. In early, stay late, grinding. That's what it takes to be great... my work ethic has been my greatest asset because I'm willing to do things that others are unwilling to do.",
+          "summary_en": "Come in early, stay late, never relax, and outwork competitors every single day.",
+          "summary_zh": "早到晚走每天拼尽全力不松懈",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Time management. You got to balance your time. You can't be doing crazy stuff like I focus on my mortgage business, my kids, or my basketball team. That's all I do all day every day.",
+          "summary_en": "Manage every minute of your 24 hours and focus exclusively on your core priorities.",
+          "summary_zh": "严控时间专注核心目标拒绝分心",
+          "timestamp_sec": 457,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "because I wasn't chasing money. I'm chasing winning. I'm chasing the best... Money follows. I don't focus on money at all. I focus on winning, being the best I can be.",
+          "summary_en": "Chase winning and excellence rather than money; when you pursue being the best, money follows.",
+          "summary_zh": "追逐胜利与卓越而非单纯追钱",
+          "timestamp_sec": 516,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Live beneath your means. People think always, you make money, you want to go spend it... I lived beneath my means the whole time... driving around on a used, you know, Explorer",
+          "summary_en": "Live well below your means and avoid inflating your lifestyle even as income grows.",
+          "summary_zh": "始终量入为出拒绝铺张消费",
+          "timestamp_sec": 571,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "company made $60 million and I would take out less than a million. 59 goes back into the company and I grind 59 back in... Keep betting on yourself.",
+          "summary_en": "Keep your personal draw small and reinvest business profits back into growth to compound.",
+          "summary_zh": "把公司利润持续投入再生产",
+          "timestamp_sec": 576,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "people want to go fly on a private jet. Like that's not how it really works... I don't have a fancy car. I have one car... I never try to be showy or shiny.",
+          "summary_en": "Don't waste money on private jets, fancy cars, or drivers to look flashy.",
+          "summary_zh": "拒绝用豪车私人飞机炫富装面子",
+          "timestamp_sec": 630,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Operate With Speed & Urgency",
+          "category": "Actionable Skills & Habits",
+          "quote": "they respond instantly... Speed always wins in anything. Business, anything you do faster... Faster and easier always wins.",
+          "summary_en": "Respond immediately, clear tasks off your plate, and operate with urgency because speed wins.",
+          "summary_zh": "商业中追求极致速度与即时响应",
+          "timestamp_sec": 653,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Happiness & Health Over Money",
+          "category": "Mindset & Resilience",
+          "quote": "Enjoy your life. Continue to grind and realize that money is not the end all beall. Happiness is the goal... Health, happiness. Take care of people. Do right by people.",
+          "summary_en": "Remember money is not the end goal; prioritize health, happiness, and treating people right.",
+          "summary_zh": "金钱不是终点健康快乐与人更重要",
+          "timestamp_sec": 692,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在抵押贷款行业深耕20余年，将公司从12人发展到9000人成为全美最大抵押贷款公司，40-41岁成为亿万富翁，并买下NBA菲尼克斯太阳队。",
+      "guest_name": "Matt (Phoenix Suns Owner)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Phoenix Suns Owner & Mortgage Company CEO",
+      "wealth_detail": "Billionaire (became billionaire around age 40-41; company had $3B+ year)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "量入为出并把利润持续投回事业，每天早到晚走拼尽全力、保持紧迫感与速度，不追逐金钱而是追求做到行业第一和赢下竞争。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "One by one, man. Like, it wasn't strategic. After a while, you kind of figure it out, but I started with just one.",
+          "summary_en": "Start with your first unit or deal and figure things out along the way.",
+          "summary_zh": "从买第一套房开始迈出第一步",
+          "timestamp_sec": 829,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I would say your circle of friends is bigger than your paycheck.",
+          "summary_en": "Surround yourself with the right people because your network matters more than your paycheck.",
+          "summary_zh": "朋友圈层比你的薪水更重要",
+          "timestamp_sec": 836,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "It started with mentors. It started with reading books and mentors.",
+          "summary_en": "Start your journey to financial freedom by reading books and learning continuously.",
+          "summary_zh": "通过阅读书籍开启财富觉醒之路",
+          "timestamp_sec": 870,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've never paid for one my entire life... You walk up to them and say, Hey, can I buy you a cup of coffee and they almost always say yes... Find a great mentor. Somebody who's done it.",
+          "summary_en": "Seek out unpaid mentors who have achieved real results by boldly asking them for coffee and listening closely.",
+          "summary_zh": "主动请成功人士喝咖啡拜师学艺",
+          "timestamp_sec": 876,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "billboards qualify for what's called a land improvement... qualify for 100% bonus depreciation in the year that you buy them... you get 100% write off and you get massive cash flow",
+          "summary_en": "Understand tax rules like 100% bonus depreciation on qualifying cash-flowing assets.",
+          "summary_zh": "善用广告牌等资产折旧合法避税",
+          "timestamp_sec": 927,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Wall Street just takes all the money from Main Street and then they lend it back out to guys like me... once you understand the system, you just step out of the system and then you use it for your advantage.",
+          "summary_en": "Understand how banks must lend out deposits and use other people's money to acquire real estate.",
+          "summary_zh": "看懂银行系统用他人资金买资产",
+          "timestamp_sec": 974,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Don't Just Save Cash (Inflation Erodes It)",
+          "category": "Wealth & Investing",
+          "quote": "Save money. Yeah. That's the worst... You can't save your way to wealth... if you're saving money and you're making 1 or 2% in the bank and inflation is what 2 3% you're going backwards",
+          "summary_en": "Don't rely on saving cash in a bank account because inflation erodes purchasing power.",
+          "summary_zh": "不要只存现金通胀会侵蚀购买力",
+          "timestamp_sec": 1009,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "白手起家，通过阅读和主动结识免费导师起步，从买第一套房逐步累积至约20亿美元、10,000套房产规模，并善用银行和金融机构资金杠杆。",
+      "guest_name": "Ken (Real Estate Billionaire)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Real Estate Investor & Billboard Media Founder",
+      "wealth_detail": "~$2B real estate portfolio (10,000 units)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "多读书并主动找真正做过实事的导师喝咖啡请教，提升社交圈层，理解银行借贷系统并用他人资金买现金流资产，不要把钱存银行被通胀贬值。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Real estate. It's the way you make your money. You know, I like real estate cuz I can use debt.",
+          "summary_en": "Build wealth through real estate because it lets you leverage debt effectively.",
+          "summary_zh": "通过投资房地产积累核心财富",
+          "timestamp_sec": 1124,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "if you want to get rich, debt is money... Well, debt is dangerous. Debt's like a loaded gun. You know what I mean? You misuse it, you go down",
+          "summary_en": "Use debt as a wealth-building tool with financial intelligence, because misusing debt will ruin you.",
+          "summary_zh": "善用良性负债买资产谨防滥用",
+          "timestamp_sec": 1130,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "first you have to learn how to sell... you got to be an entrepreneur. You got to sell... sales is communication. How do you communicate a point of view that they may not agree with?",
+          "summary_en": "Master sales and persuasive communication first if you want to become a successful entrepreneur.",
+          "summary_zh": "创业者必须先学会销售与沟通",
+          "timestamp_sec": 1166,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "The reason people suck at sales is they're afraid of rejection... Knock down, stand up. Knock down, stand up. And that's the key to success.",
+          "summary_en": "Overcome the fear of rejection; get knocked down, stand back up, and persist.",
+          "summary_zh": "克服被拒绝的恐惧被打倒再站起",
+          "timestamp_sec": 1197,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Rely on Traditional College for Financial Education",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't go to school. I wouldn't until you know how to make money. Then you can choose clearly what you want to do with your life.",
+          "summary_en": "Don't go to traditional school expecting to learn about money; learn how to make money first.",
+          "summary_zh": "先学会赚钱再决定是否读大学",
+          "timestamp_sec": 1245,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I told you I had to learn to sell. I got a job at Xerox. I got knocked back and I couldn't stop until I was number one in sales for Xerox.",
+          "summary_en": "Take a job at a top company to master a foundational skill like sales and reach #1.",
+          "summary_zh": "去优秀公司历练直到做到第一名",
+          "timestamp_sec": 1268,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't hang out with them, losers... If they're not number one, get somebody else.",
+          "summary_en": "Avoid hanging out with losers; only surround yourself with top performers.",
+          "summary_zh": "远离失败者只与顶尖赢家同行",
+          "timestamp_sec": 1280,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Play to Win & Aim to Be #1",
+          "category": "Mindset & Resilience",
+          "quote": "I play to win... Who was number two? Nobody cares. If you're not number one, nobody cares.",
+          "summary_en": "Play to win and strive to be number one, because nobody remembers second place.",
+          "summary_zh": "永远以第一名为目标全力争胜",
+          "timestamp_sec": 1290,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "越战退伍后听从“富爸爸”建议进入施乐公司做销售并一路做到销冠，随后通过负债投资房地产并创作畅销书《富爸爸穷爸爸》（销量超3000万册）积累数亿美元资产。",
+      "guest_name": "Robert Kiyosaki",
+      "industry": "Real Estate",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Rich Dad Poor Dad",
+        "Rich Dad (mentor)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication",
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Author of Rich Dad Poor Dad & Real Estate Investor",
+      "wealth_detail": "Hundreds of millions of dollars in real estate; 30M+ copies of Rich Dad Poor Dad sold",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先不要急着去传统学校读书，先把学会赚钱和销售作为第一步，克服被拒绝的恐惧，学会合理使用债务购买房地产等资产，并且只与追求第一的人为伍。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "z810EM7Q5Mg",
+  "video_type": "street_multi"
+}

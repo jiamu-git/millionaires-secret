@@ -1,0 +1,148 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "most importantly you need systems you need Sops standard operating procedures",
+          "summary_en": "To scale from eight to nine figures, you need a great team and documented SOPs so the business runs as a system rather than relying on the CEO.",
+          "summary_zh": "建优秀团队并建立SOP系统实现规模化",
+          "timestamp_sec": 155,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Move Closer to Money & Opportunity",
+          "category": "Business & Strategy",
+          "quote": "you can't get rich being in a poor environment so make enough money to move",
+          "summary_en": "You cannot build wealth in a depressed environment; save enough to relocate to a major city where money, opportunities, and inspiration surround you.",
+          "summary_zh": "攒钱搬离贫困环境前往富裕大城市靠近金钱与机会",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "go and buy a sales course or a marketing course and become a good Facebook ads guy or a good high ticket closer",
+          "summary_en": "Before investing in stocks or real estate, invest in your own education by learning high-income skills like sales, marketing, or paid ads.",
+          "summary_zh": "优先投资自我教育与销售营销等高收入技能",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "before buying the nicest car or the nicest watch or those clothes that you like or even buying gifts for your friends and family invest your money into moving",
+          "summary_en": "Don't spend early money on luxury cars, watches, clothes, or gifts; put that capital toward relocating to an environment of growth.",
+          "summary_zh": "别急着买豪车名表炫富，先把钱用来改变环境",
+          "timestamp_sec": 358,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "work on yourself become a more valuable version and if you want to be around more valuable people you have to Value yourself and become valuable",
+          "summary_en": "Successful people won't pour into you unless you bring value; build yourself up first, offer value, and listen more than you ask.",
+          "summary_zh": "先提升自身价值再向上社交，用价值赢得高阶人脉",
+          "timestamp_sec": 656,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "it's not just about who you hang out with it's about who you don't hang out with",
+          "summary_en": "Success depends as much on who you avoid as who you befriend; cut off negative, unmotivated peers and surround yourself with growth-minded people.",
+          "summary_zh": "远离负能量损友，只与积极成长的人同行",
+          "timestamp_sec": 667,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "when you have money in your bank account do not look at it as something to protect you look at it as something to make you more money",
+          "summary_en": "Don't hoard cash in a bank account where it loses value and makes you complacent; keep reinvesting profits back into your business and yourself.",
+          "summary_zh": "别把现金囤在银行贬值，要持续再投资于企业增长",
+          "timestamp_sec": 838,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "tactics are 10% of it 90% of it is believing in your product",
+          "summary_en": "Scripts and objection-handling tactics are only 10% of sales; 90% is genuine conviction in your product, which customers immediately feel.",
+          "summary_zh": "销售技巧占一成，九成靠对产品的绝对信念",
+          "timestamp_sec": 970,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "they have money that is deployed whether it's into businesses private Equity the stock market real estate different assets around the world",
+          "summary_en": "True wealth means deploying capital into businesses, private equity, stocks, and real estate globally so your assets work for you.",
+          "summary_zh": "真正富裕是把资金投向企业股权等全球资产",
+          "timestamp_sec": 1110,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "you can't have a $50 million yacht if you're worth $100 million why because it's going to cost you over $12 million a year just to operate that",
+          "summary_en": "Understand operating-cost math before buying big-ticket toys; a $50M yacht costs ~$12M/year to run, draining 12% of a $100M net worth.",
+          "summary_zh": "算清维护成本比例，别买消耗净资产的玩具",
+          "timestamp_sec": 1148,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "$100,000 Target don't set a million doll Target don't set a $100 million Target knowing who Zayn is and knowing that Zayn wants to be the best in the world set a multi-billion dollar Target and always go bigger",
+          "summary_en": "Raise your mental ceiling and stop settling for $100K or $1M targets; set multi-billion-dollar goals and constantly aim bigger.",
+          "summary_zh": "打破小目标局限，设定数十亿美元宏大目标",
+          "timestamp_sec": 1173,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "there's going to be a lot of roadblocks there's going to be a lot of people that tell you that it's not going to work it's going to be a lot of times where you feel like giving up do not quit",
+          "summary_en": "Expect heavy roadblocks, doubters, and moments where you want to quit, but never give up if you want to achieve anything you desire.",
+          "summary_zh": "面对重重阻碍与质疑绝不放弃，死磕到底必有回报",
+          "timestamp_sec": 1220,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "16岁首次创业，18岁离开贫困家乡全力投入销售并进入太阳能销售领域，从一线销售做到销售主管，19岁辍学，20岁打造出数百万美元企业并最终创立大型住宅太阳能公司。",
+      "guest_name": "Zayn",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "CEO & Founder of Residential Solar Company",
+      "wealth_detail": "$149M prior-year company revenue, on track for $300M revenue this year (nine-figure company)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先投资自己学习销售和营销等高价值技能，攒钱搬离贫困环境前往机会与富人集聚的大城市；先提升自身价值再向上社交，远离消耗型损友，坚持到底不放弃。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "V6I3R5Z-YZI",
+  "video_type": "deep_dive_single"
+}

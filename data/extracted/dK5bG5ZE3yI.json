@@ -1,0 +1,340 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm in shape. I swim every day for an hour and a half in the pool.",
+          "summary_en": "Stay disciplined with daily physical exercise to maintain energy and longevity at any age.",
+          "summary_zh": "坚持每日游泳保持体魄与活力",
+          "timestamp_sec": 184,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Share Upside & Equity With Team",
+          "category": "Business & Strategy",
+          "quote": "Everyone has skin in the game. Even my assistants, they made a million dollars... We share the prize.",
+          "summary_en": "Give employees skin in the game and share exit wealth across the company so everyone wins together.",
+          "summary_zh": "与团队共享股权收益实现共赢",
+          "timestamp_sec": 248,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Surround yourself with good people. Make sure the first one works, and make sure you leverage all those guys that made money in your first deal, they go on your second deal...",
+          "summary_en": "Surround yourself with capable people, deliver a win on your first deal, and carry those trusted partners into subsequent ventures.",
+          "summary_zh": "与优秀者同行并复利合作关系",
+          "timestamp_sec": 272,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "They're killers. They want to win. They want to disrupt, and they work their asses off.",
+          "summary_en": "Top billionaires share a relentless drive to win, disrupt industries, and outwork everyone.",
+          "summary_zh": "保持求胜欲、颠覆精神与拼命工作",
+          "timestamp_sec": 296,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Execute With Speed in Business",
+          "category": "Business & Strategy",
+          "quote": "It's not the big that eat the small, it's the fast eat the slow... If you sit on your hands, competition just runs you over.",
+          "summary_en": "Move fast in business because speed beats size, while hesitation lets competitors overtake you.",
+          "summary_zh": "商业竞争中唯快不破切忌犹豫",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Do what you love, cuz you won't have a job.",
+          "summary_en": "Pursue work you genuinely love so it never feels like a chore.",
+          "summary_zh": "做热爱的事就不会觉得是在工作",
+          "timestamp_sec": 356,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Laney (BodyArmor Founder)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Beverage Brand Founder (BodyArmor)",
+      "wealth_detail": "Sold BodyArmor to Coca-Cola for over $5B; made $500M in a single day",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I had no money and no inspiration. There's nobody around me to inspire me at all... I always knew I was going to be successful.",
+          "summary_en": "Hold an unshakable childhood vision of success even when you grow up with no money or role models around you.",
+          "summary_zh": "无资源环境也要笃信自己会成功",
+          "timestamp_sec": 481,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Pursue Difficult Challenges for Fulfillment",
+          "category": "Mindset & Resilience",
+          "quote": "I'm always challenged and I'm happy when I achieve challenges... I'm overall happy, but I'm not a contented person. I'm always struggling to achieve the next thing.",
+          "summary_en": "Find happiness by tackling difficult, seemingly impossible challenges and continually striving for the next goal.",
+          "summary_zh": "不断挑战高难度目标以获得满足",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Don't think you're going to get to where I am without being a good salesman.",
+          "summary_en": "Becoming a great salesperson is essential to reaching billionaire-level business success.",
+          "summary_zh": "想达到顶级成功必须精通销售",
+          "timestamp_sec": 542,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Integrity. You got to keep your word... I never lost a sale ever because the truth... I used the truth to my advantage to gain credibility with the customer.",
+          "summary_en": "Keep your word and tell customers the honest truth—even about product flaws—to earn unmatched credibility over dishonest competitors.",
+          "summary_zh": "靠诚实守信与说真话赢得客户信任",
+          "timestamp_sec": 550,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Pay Taxes & Support Society",
+          "category": "Mindset & Resilience",
+          "quote": "I believe that you should pay your taxes in the country that you made your money in... I feel that the poor people need help.",
+          "summary_en": "Pay your full taxes in the country where you built your wealth instead of relocating to tax havens, so society and the poor are supported.",
+          "summary_zh": "在赚钱的国家依法纳税回馈社会",
+          "timestamp_sec": 598,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I'm not bothered about you being rich. I want you to leave the world a better place than you found it and be happy.",
+          "summary_en": "Prioritize happiness and leaving the world better than you found it over simply accumulating wealth.",
+          "summary_zh": "追求快乐并让世界比来时更美好",
+          "timestamp_sec": 663,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1986年从一人单干起步，涉足英国及欧洲手机服务、零售、分销和批发全链条业务，历时20年扩展至1.2万名员工，并于2006年以15亿英镑出售公司。",
+      "guest_name": "John (UK Phone Retailer Founder)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder of UK Mobile Phone Retailer",
+      "wealth_detail": "Worth over $3B (Forbes); sold company for £1.5B ($1.6B cited by host); paid £200M in taxes in one year",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I think nothing great ever came from realistic ideas. Only great things come from being unrealistic.",
+          "summary_en": "Great entrepreneurial outcomes require \"delusional,\" unrealistic belief rather than playing it safe with realistic ideas.",
+          "summary_zh": "伟大成就源于不切实际的盲目信念",
+          "timestamp_sec": 856,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Success and failure really live next door to each other... whenever you think it's going to fall apart, that's when you got to go that extra mile so that you find out success is right there.",
+          "summary_en": "Push an extra mile right when everything feels on the verge of collapse, because success sits right next door to failure.",
+          "summary_zh": "成败一墙之隔，绝境更要多走一步",
+          "timestamp_sec": 882,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Use Money as Freedom Tool",
+          "category": "Wealth & Investing",
+          "quote": "Money could be a way to make you burdensome, and you could be tied up by it, or money could be something that sets you free to do all of those things more and more in your life.",
+          "summary_en": "Treat money as a tool that buys freedom to spend time with loved ones and help others, rather than letting it become a burden.",
+          "summary_zh": "让金钱成为带来自由而非束缚的工具",
+          "timestamp_sec": 934,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Do Inner Work & Self-Valuation Early",
+          "category": "Mindset & Resilience",
+          "quote": "Start doing work on yourself now, and start seeing who you are, and valuing yourself, and that's going to be a lot more important than making any amount of money.",
+          "summary_en": "Do inner self-discovery work and learn to value yourself right now instead of waiting until you become ultra-wealthy.",
+          "summary_zh": "趁早向内探索与自我提升胜过金钱",
+          "timestamp_sec": 968,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Who keeps swinging, keeps swinging, keep swinging until they hit that home run. The person who shuts out the noise, that's the person who becomes the great entrepreneur.",
+          "summary_en": "Shut out critics calling you a bum and keep taking swings through repeated misses until you hit a home run.",
+          "summary_zh": "屏蔽质疑声持续挥棒直至击出本垒打",
+          "timestamp_sec": 1024,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Back Founders Who Burn the Ships",
+          "category": "Wealth & Investing",
+          "quote": "I try to see if the entrepreneurs burned the ships. It's never about what the business is for me... how crazy are they? How driven are they?",
+          "summary_en": "When investing, prioritize founders who are fiercely driven and committed enough to burn the ships over business metrics alone.",
+          "summary_zh": "投资只选破釜沉舟且极具拼劲的创始人",
+          "timestamp_sec": 1048,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "19岁在大学期间从亚特兰大嘻哈圈办派对起家，逐步建立唱片厂牌、出版公司及影视制作公司，后以12亿美元出售公司并早期投资多名创业者。",
+      "guest_name": "Scooter Braun",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Father (\"Pops\")",
+        "Mentor in Atlanta"
+      ],
+      "recommended_skills": [],
+      "role_or_title": "Entertainment Executive, Entrepreneur & Investor",
+      "wealth_detail": "Sold company for $1.2B",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "别等赚到巨额财富才开始向内认识自己、提升自我价值；创业初期要有“不切实际”的信念，屏蔽外界噪音，在最接近崩溃时再多坚持一步。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "There's only three ways to make money. You only leverage people, you leverage time, or you leverage money... you're selling your time, you're not going to get rich.",
+          "summary_en": "You cannot get rich selling your own time as an employee; build wealth by owning a business and leveraging people, time, or capital.",
+          "summary_zh": "靠杠杆撬动人力、时间与资金致富",
+          "timestamp_sec": 1239,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I leverage people by hiring good people that have a different skill set and then put them to work and let them do their thing.",
+          "summary_en": "Hire elite specialists with complementary skills you lack—such as math geniuses—and empower them to execute autonomously.",
+          "summary_zh": "聘用各领域顶尖天才并充分放权",
+          "timestamp_sec": 1291,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I have a mentor named Steve Caspi, he's one of the richest developers in New York City, and he stuck with me even when I lost the money he gave me and he made it all back.",
+          "summary_en": "Find strong mentors who believe in you and stand by you even when you suffer major financial losses.",
+          "summary_zh": "结交不离不弃的贵人导师并扛过低谷",
+          "timestamp_sec": 1344,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You need to have people that you can network with... put yourself in a position to understand what others would do that have made it and get the best advice.",
+          "summary_en": "Build a strong network and intentionally study how successful people think and act.",
+          "summary_zh": "建立高价值人脉圈向成功者取经",
+          "timestamp_sec": 1354,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I read so many books, people would just their head would spin. But I probably consume 50 books a year.",
+          "summary_en": "Read voraciously—around 50 books a year—to absorb wisdom from great minds even if you cannot meet them in person.",
+          "summary_zh": "每年大量阅读从书中汲取成功智慧",
+          "timestamp_sec": 1374,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I believe that there's some greater scheme for you... My failures have only led to my success. Those failures happened for a reason.",
+          "summary_en": "Trust that there is a greater purpose behind every obstacle and pay attention to the lessons your failures are teaching you.",
+          "summary_zh": "相信万物皆有因果，失败是成功的垫脚石",
+          "timestamp_sec": 1402,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "None of these things you see... where the person started in their dorm room, and suddenly they were a billionaire. That doesn't exist. It's not real. It's Hollywood. I've been doing this literally 36 years.",
+          "summary_en": "Reject Hollywood myths about overnight dorm-room billionaires; real wealth requires decades of patient execution.",
+          "summary_zh": "别信一夜暴富神话，成功需数十年积累",
+          "timestamp_sec": 1422,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I think all my failures were lessons that I was doing it wrong, and I needed to pay attention, but I never quit... I never give up. Never. Never. Never.",
+          "summary_en": "Treat every failure as diagnostic feedback showing what to fix, and refuse to quit under any circumstances.",
+          "summary_zh": "把每次失败当成修正错误的功课绝不放弃",
+          "timestamp_sec": 1440,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20岁入行华尔街与私募股权领域深耕36年，曾带着妻子和四个孩子负债1300万美元并向母亲借200美元，后全部还清；六七年前创立对冲基金，并将一家持股一半的公司推动上市（开盘市值33亿-35亿美元），单年账面获利约16亿美元。",
+      "guest_name": "Las Vegas Private Equity & Wall Street Investor",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Think and Grow Rich by Napoleon Hill",
+        "The Road Less Traveled by M. Scott Peck",
+        "Steve Caspi (NYC real estate developer mentor)"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Private Equity & Hedge Fund Investor",
+      "wealth_detail": "Made ~$1.6B on paper in a single year (took a company he owned half of public at $3.3B-$3.5B)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "无法靠出卖个人时间替别人打工致富，必须通过撬动人力、时间或资金来创造财富；坚持每年大量阅读、寻找导师并拓展人脉，同时做好几十年长期拼搏的准备，绝不言弃。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "dK5bG5ZE3yI",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,287 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you need to work your ass off and when everything falls apart guess what get your bootstraps on... never quit that is what separates a winner from a loser",
+          "summary_en": "Work relentlessly, attack adversity when things fall apart, and never quit.",
+          "summary_zh": "拼命工作绝不放弃，逆境时更要迎难而上",
+          "timestamp_sec": 127,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "create friendships with your clients... you only need two to three clients focus on them become good friends with them and then be there for them be brothers",
+          "summary_en": "Focus deeply on two to three core clients and build genuine friendships for repeat business.",
+          "summary_zh": "深耕两三个核心客户，把客户处成真正的朋友",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "cuz people doubt themselves I started to see my results and realized that I was just not going to fail and so I just kept working",
+          "summary_en": "Build unshakable confidence through early results and refuse to doubt yourself.",
+          "summary_zh": "用成果建立自信，摆脱自我怀疑持续前行",
+          "timestamp_sec": 251,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "give it all to God by the way you want to know the secret of success give it all to God it's all God's plan brother",
+          "summary_en": "Stay grounded in faith and surrender your path to God's plan.",
+          "summary_zh": "保持坚定信仰，怀抱感恩与敬畏之心前行",
+          "timestamp_sec": 263,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从亚利桑那大学金融专业毕业后进入Grubb & Ellis（现Newmark）做商业地产，凭借从小在堪萨斯西部农场和牧场长大的背景，靠懂农民、卖土地打开局面。",
+      "guest_name": "Scottsdale Commercial Real Estate Broker",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Commercial Real Estate Broker & Multi-Business Entrepreneur",
+      "wealth_detail": "$3.75M/yr personal best year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不需要雄厚启动资金，要靠头脑和拼命工作；专注服务2-3个核心客户并建立深度友谊，永远不要放弃。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I put really focused a types with B type personalities around me so they're calm focused and driven",
+          "summary_en": "Surround yourself with calm, focused, and driven people to balance your creative energy.",
+          "summary_zh": "在身边配置冷静专注且有驱动力的核心人才",
+          "timestamp_sec": 389,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "don't be afraid to take a chance if you don't swing you'll never hit a home run",
+          "summary_en": "Take bold chances and learn from failures instead of waiting forever for perfection.",
+          "summary_zh": "别怕冒险试错，敢于挥棒才可能打出本垒打",
+          "timestamp_sec": 400,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "entrepreneurs share a passion of they love what they do otherwise you don't work this hard",
+          "summary_en": "Love what you do deeply, because true passion fuels the hard work required.",
+          "summary_zh": "真正热爱所做的事，热爱才能支撑高强度付出",
+          "timestamp_sec": 424,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "always tell the truth under promise and overd deliver and you'll have customers for life",
+          "summary_en": "Under-promise and over-deliver so clients feel confident buying from you sight unseen.",
+          "summary_zh": "低承诺高交付，让客户放心成为终身回头客",
+          "timestamp_sec": 432,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "if I shake your hand it's a done deal... honesty integrity and transparency are the three words that we run this company by",
+          "summary_en": "Run your business on honesty, integrity, and transparency where a handshake is binding.",
+          "summary_zh": "以诚实守信和透明经营，做到一诺千金",
+          "timestamp_sec": 449,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose a Supportive Spouse / Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "the biggest decision you make in your life is the wife that you marry if they don't love what you do then you're going to have friction",
+          "summary_en": "Marry a partner who shares your passion and becomes part of the solution, not friction.",
+          "summary_zh": "谨慎选择伴侣，找一个支持并热爱你事业的人",
+          "timestamp_sec": 486,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Scottsdale Bugatti & Exotic Car Dealer",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Car Business Entrepreneur & Collector Car Dealer",
+      "wealth_detail": "$80M in one day (car business)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "别害怕冒险试错，敢于挥棒才有机会成功；做生意要始终讲真话、低承诺高交付，并选择志同道合的伴侣。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I don't think about a box... I think out of the box... what can you provide that other people don't",
+          "summary_en": "Think outside the box to improve processes and deliver value nobody else provides.",
+          "summary_zh": "跳出常规思维框架，提供别人无法提供的价值",
+          "timestamp_sec": 549,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "100% honesty period... there's two things you don't break... your balls and your word you never break either one of them",
+          "summary_en": "Negotiate with 100% honesty and never break your word.",
+          "summary_zh": "谈判保持百分百诚实，绝对不能违背自己的诺言",
+          "timestamp_sec": 637,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "you just kind of look up and say God show me the way... there was no drugs I've never done a drug in my life I don't drink",
+          "summary_en": "Look to God for guidance and stay completely away from drugs and alcohol.",
+          "summary_zh": "靠信仰指引方向，并坚决远离毒品和酒精",
+          "timestamp_sec": 673,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1970年曾睡在车里，后来在麦当劳打工时通过改进铲子和面包架流程把12人的工作缩减到2人，从此靠不断优化效率起步，最终创办拥有多项专利的法庭速记公司并接下深水地平线案赚取2800万美元。",
+      "guest_name": "Scottsdale Court Reporting & Patent Entrepreneur",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Court Reporting Firm Founder, Lawyer & Patent Holder",
+      "wealth_detail": "$28M generated from Deepwater Horizon case",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "远离毒品和酒精，祈祷寻求方向，跳出固有思维观察周围未被满足的需求，提供他人没有的价值。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "scientifically proven numbers have shown for hundreds of years real estate is the most guaranteed investment you could make",
+          "summary_en": "Invest in real estate as a historically proven, reliable vehicle for building wealth.",
+          "summary_zh": "选择房地产作为经得起历史验证的稳健造富资产",
+          "timestamp_sec": 760,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "the IRS code allows me as a real estate investor to pay $0 in federal income taxes... I have not paid a dollar in federal income tax in seven years",
+          "summary_en": "Understand the tax code and legal real estate tax incentives to minimize tax burden.",
+          "summary_zh": "善用税法与地产投资抵税规则合法降低税务支出",
+          "timestamp_sec": 789,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "delegate to high level people pay people a lot of money you'll attract really high quality people if you pay peanuts you'll get monkeys",
+          "summary_en": "Scale by delegating to top talent and paying well to attract high-quality people.",
+          "summary_zh": "高薪聘请顶尖人才并授权委托，实现企业规模化扩张",
+          "timestamp_sec": 882,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Partner With Complementary Opposites",
+          "category": "Business & Strategy",
+          "quote": "give up a portion of your ownership in your company to somebody who's the polar opposite and brings different skills... I'd rather have a slice of the pie than 100% of a grape",
+          "summary_en": "Share equity with partners whose skills are the polar opposite of yours to build a bigger business.",
+          "summary_zh": "愿与能力互补的合伙人分享股权，共同做大蛋糕",
+          "timestamp_sec": 893,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I have half a billion dollars in my portfolio and I've never used a bank I don't use credit... I do everything creative finance",
+          "summary_en": "Use creative seller financing so cash-flowing properties pay the seller without needing bank loans or your own cash.",
+          "summary_zh": "利用卖家融资等创意金融手段收购生息资产",
+          "timestamp_sec": 934,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "stop trying to convince the world around you to believe in your vision... if they don't believe in you today they're never going to believe in you move on",
+          "summary_en": "Stop wasting years trying to convince skeptics and move on to people who believe in you.",
+          "summary_zh": "停止浪费时间说服怀疑者，远离不认可你的人",
+          "timestamp_sec": 1022,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Check In Regularly With Loved Ones",
+          "category": "Mindset & Resilience",
+          "quote": "reach out to people every once in a while not just New Year's not just Christmas text people that are your friends and just thank them for being your friends",
+          "summary_en": "Regularly reach out and check in on friends and loved ones beyond holidays.",
+          "summary_zh": "平时多主动联系关心亲友，不要只在节日才问候",
+          "timestamp_sec": 1098,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "get around people that are doing more than you are... people better than you will give you permission to become better yourself",
+          "summary_en": "Join communities of high achievers who inspire and give you permission to grow bigger.",
+          "summary_zh": "融入比自己更优秀的人脉圈，激发更大的成长格局",
+          "timestamp_sec": 1107,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "最早从事建筑承包行业10年，后来转型进入房地产与借贷领域，通过学习卖家融资（Creative Finance）在不动用银行贷款、个人信用和自有资金的情况下收购多户住宅积累资产。",
+      "guest_name": "Pace Morby",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Investor, Lender & Creative Finance Entrepreneur",
+      "wealth_detail": "$500M portfolio; $115M company revenue; $15M/yr personal net",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "打破必须靠银行贷款和自有资金才能买房的传统观念，学习卖家融资等创意金融手段；加入高能量创业社群，远离不相信你愿景的人。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "_sAyC_CLqzg",
+  "video_type": "street_multi"
+}

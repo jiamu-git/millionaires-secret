@@ -1,0 +1,162 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "You see somebody that's doing better than you and you would like to aspire to be them, steal what they're doing.",
+          "summary_en": "Study and model top performers in your field, then add your own twist.",
+          "summary_zh": "观察并借鉴顶尖成功人士的做法，融入个人特色",
+          "timestamp_sec": 115,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's easy to make a lot of money, it's hard to keep a lot of money. For those who are not financially literate, learn this word: annuity.",
+          "summary_en": "Making money is easy, keeping it is hard; build financial literacy and learn concepts like annuities.",
+          "summary_zh": "赚钱容易守财难，务必学懂财务知识与年金",
+          "timestamp_sec": 148,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "The common mistake business owners make is they think they know it all. Make sure you hire people that are smarter than you.",
+          "summary_en": "Don't think you know everything; hire people smarter than you and delegate to scale.",
+          "summary_zh": "别自以为全懂，雇佣更聪明的人并学会授权",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "One piece of advice was to save 75% and have fun with 25%.",
+          "summary_en": "Save 75% of your earnings and limit fun or lifestyle spending to 25%.",
+          "summary_zh": "将75%收入存下，只用25%消费享乐",
+          "timestamp_sec": 348,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Start high... if you start at 50 and their budget is 200, you just lost 150 million.",
+          "summary_en": "In negotiations, don't speak first and anchor high so you don't leave money on the table.",
+          "summary_zh": "谈判时别先开口，报价应从高往低谈",
+          "timestamp_sec": 359,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I made a very big mistake the first time I got a million dollars, I spent it in about 30 minutes. Bought three cars, I bought three jewelries, and I bought some suits.",
+          "summary_en": "Avoid blowing newfound wealth immediately on luxury cars, jewelry, and status symbols.",
+          "summary_zh": "切忌暴富后立刻挥霍购买豪车与珠宝",
+          "timestamp_sec": 406,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "The secret was just having special motivation. My motivation was always being able to get my mother what she wants.",
+          "summary_en": "Sustain longevity at the top by anchoring yourself to a deep personal motivation like providing for family.",
+          "summary_zh": "拥有让家人过得更好的深层动力才能持久巅峰",
+          "timestamp_sec": 427,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Very important. None of this is possible without God.",
+          "summary_en": "Stay grounded in faith and gratitude; recognize that success isn't achieved alone.",
+          "summary_zh": "保持信仰与感恩，一切成就离不开上帝",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Not pulling the trigger when I had the opportunity to... Howard Schultz wanted to open Starbucks in the hood... I didn't pull the trigger.",
+          "summary_en": "Regrets hesitating and failing to pull the trigger on partnering with Starbucks early on.",
+          "summary_zh": "后悔当年犹豫未投资星巴克，错失良机",
+          "timestamp_sec": 447,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I think they're nice, I think they're humble, and I think they have great people around them, and they keep it very simple.",
+          "summary_en": "Highly successful people remain kind and humble, keep things simple, and surround themselves with great people.",
+          "summary_zh": "顶级成功者都谦逊友善且身边围绕优秀人才",
+          "timestamp_sec": 470,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Jeff Bezos said you invest in things that's going to change people's lives. I heard him say that and I changed my whole investment strategy and been very, very successful.",
+          "summary_en": "Adopt Jeff Bezos's principle: invest in businesses and innovations that change people's lives.",
+          "summary_zh": "投资真正能改变人们生活的事物与企业",
+          "timestamp_sec": 480,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I like to believe in what they believe in... if you told me your passion, I would definitely invest in you.",
+          "summary_en": "Build genuine passion and conviction in your venture, as that is what top investors back.",
+          "summary_zh": "用真正的热情与信念打动投资人",
+          "timestamp_sec": 495,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Always believe, there will be ups and downs in this business, long you believe, quickly you'll make it to the top.",
+          "summary_en": "Write down your plan and maintain unwavering self-belief through the inevitable ups and downs.",
+          "summary_zh": "写下计划，在商业起伏中始终坚定信念",
+          "timestamp_sec": 539,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒，凭借NBA职业生涯赚取高额薪资与代言收入作为原始资本；拿到第一个100万美元时曾30分钟挥霍一空，随后自学金融理财并将体育收入杠杆化投资及特许经营（曾拥有155家Five Guys门店），建立庞大商业帝国。",
+      "guest_name": "Shaquille O'Neal",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Jeff Bezos",
+        "Michael Jordan",
+        "Magic Johnson",
+        "Kareem Abdul-Jabbar",
+        "Muhammad Ali"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "NBA Legend, Business Mogul & Investor",
+      "wealth_detail": "$500M+ net worth",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "有计划就先写下来；找到已经在做同类事情并取得成功的人，观察并借鉴（“偷师”）他们的做法，再加入自己的独特风格；商业必然有起有伏，只要始终保持信念，就能更快登上顶峰。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "0I0EPRu3DJ0",
+  "video_type": "deep_dive_single"
+}

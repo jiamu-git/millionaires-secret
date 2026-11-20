@@ -1,0 +1,180 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I left there, and all my buddies there thought I was crazy to leave because I was on easy street.",
+          "summary_en": "Walk away from comfortable, high-paying jobs when they don't align with your ultimate ambition.",
+          "summary_zh": "敢于放弃高薪安稳去冒险创业",
+          "timestamp_sec": 121,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "And because of just really relentless hard work, I grew this business to now we're on the 75th floor of Chase Tower.",
+          "summary_en": "Relentless hard work scaled his firm from a small strip-center office to a premier downtown tower.",
+          "summary_zh": "靠极致努力把律所从郊区做进顶楼",
+          "timestamp_sec": 141,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Even when I was working 18 hours a day, I would set aside an hour and a half, 2 hours to go home, have dinner with my children.",
+          "summary_en": "Never let extreme work hours cost you your family; intentionally carve out daily time for your kids.",
+          "summary_zh": "再忙也要优先陪伴家人和孩子",
+          "timestamp_sec": 361,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Know Yourself & Seek Self-Improvement",
+          "category": "Mindset & Resilience",
+          "quote": "Know yourself and seek self-improvement... take a fair assessment of yourself, your strengths and weaknesses and work on those weaknesses.",
+          "summary_en": "Make an honest assessment of your strengths and weaknesses and continuously work to improve yourself.",
+          "summary_zh": "客观评估自身优劣势并持续改进",
+          "timestamp_sec": 435,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Tony, you need to stay in your lane... you can accomplish diversification just in your own business in the cases that you choose.",
+          "summary_en": "Stay focused on your highest-margin core business and diversify within it instead of chasing side ventures.",
+          "summary_zh": "守好核心赛道并在主业内做多元化",
+          "timestamp_sec": 499,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm a voracious reader. I preach to my people all the time. You should always be reading.",
+          "summary_en": "Commit to lifelong reading, averaging a book a week even with a demanding schedule.",
+          "summary_zh": "保持每周读一本书的大量阅读习惯",
+          "timestamp_sec": 509,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to know your audience... And then, be vulnerable and be honest. Admit that pushback at the very beginning.",
+          "summary_en": "To persuade anyone, deeply understand the decision-maker and address likely objections honestly upfront.",
+          "summary_zh": "摸清听众诉求并坦诚直面异议",
+          "timestamp_sec": 684,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Do I have this possession because I enjoy it or do I have it because I want other people to know I have it?",
+          "summary_en": "Audit your possessions and eliminate luxury items bought solely for external validation.",
+          "summary_zh": "不为炫耀而买豪车，只留真正所需",
+          "timestamp_sec": 756,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Prioritize Inner Peace & Purpose Over Happiness",
+          "category": "Mindset & Resilience",
+          "quote": "Happiness comes and goes. It ebbs and flows. What's more important is peace. I have absolute peace.",
+          "summary_en": "Value inner peace and daily purpose over fleeting happiness.",
+          "summary_zh": "追求内心平静与使命感胜过短暂快乐",
+          "timestamp_sec": 801,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "If I get a hundred million dollar verdict, it's on the front page... that's going to get me so much more business than a silly billboard.",
+          "summary_en": "Deliver massive, undeniable results for clients so your reputation and word of mouth outperform paid ads.",
+          "summary_zh": "用过硬的实战成果赢得口碑与大单",
+          "timestamp_sec": 911,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Promote Your Own Wins & Track Record",
+          "category": "Business & Strategy",
+          "quote": "People kind of frown upon when you blow your own horn, but if you don't blow your horn, no one else is going to blow it.",
+          "summary_en": "Advocate for your own results and publicize your wins because no one else will do it for you.",
+          "summary_zh": "别怕自我宣传，主动展示战绩成果",
+          "timestamp_sec": 967,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prefer Allies Over Enemies in Business",
+          "category": "Business & Strategy",
+          "quote": "It's better to be friends than it is to be enemies, but if you have to be enemies with someone, make sure they're really your enemy.",
+          "summary_en": "Prioritize making friends over enemies in business, and only engage in conflicts that truly matter.",
+          "summary_zh": "商界尽量化敌为友，少树无谓之敌",
+          "timestamp_sec": 1082,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "I just paid my taxes. I try to do my very best and just pay my share so I keep the IRS off my back.",
+          "summary_en": "Avoid risky tax schemes and pay your full tax share cleanly to stay compliant and stress-free.",
+          "summary_zh": "老实按章纳税，不靠投机避税惹麻烦",
+          "timestamp_sec": 1120,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "If you believe deep in your heart that you're right, step forward and go ahead. Don't second guess yourself.",
+          "summary_en": "When you deeply believe you are right, step forward decisively and do not second-guess yourself.",
+          "summary_zh": "内心笃定正确就果断行动别内耗",
+          "timestamp_sec": 1156,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "God gave us life. He put life in everything. And when God says, 'Love thy neighbor,' he also says, 'Love himself.' And I focus on that.",
+          "summary_en": "Stay grounded in faith and live by loving both your neighbor and yourself.",
+          "summary_zh": "心怀信仰并践行爱人如己",
+          "timestamp_sec": 1182,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从海军陆战队退伍后考入休斯顿法学院，进入顶级律所获得约25万美元年薪；随后果断辞职在郊区小商铺带两名员工独立创业，靠重大案件胜诉与口碑积累壮大至150名员工规模。",
+      "guest_name": "Tony Buzbee",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "How to Win Friends and Influence People (Dale Carnegie)",
+        "Marine Corps Leadership Principles"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Trial Lawyer & Law Firm Founder",
+      "wealth_detail": "Billionaire; $189M peak single-year personal income (pre-tax); ~$15B lifetime case results; $13M & $15.5M homes; $27M art collection; $8M jet",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "认清自身优劣势并持续自我提升；保持每周一本书的大量阅读习惯；深耕核心高利润赛道切忌分心，内心笃定正确就果断前行、不要自我怀疑。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "MELnq4o4q_M",
+  "video_type": "deep_dive_single"
+}

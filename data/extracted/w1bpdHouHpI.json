@@ -1,0 +1,603 @@
+{
+  "guests": [
+    {
+      "advice_items": [],
+      "first_money_or_break": "",
+      "guest_name": "Denver $50M E-Commerce Business Owner",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "E-Commerce Business Owner",
+      "wealth_detail": "$50M single-year e-commerce revenue",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [],
+      "first_money_or_break": "曾担任牧师13年，之后转型为商业辅导顾问、演讲者，并担任8家公司的董事会成员。",
+      "guest_name": "Denver Former Pastor & Coaching Consultant",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Coaching Consultant, Speaker & Board Member of 8 Companies (Former Pastor)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Focus number one because I think internet marketers like ourselves we always get like kind of distracted with shiny object syndrome all the time... focus on one specific product get really good at it",
+          "summary_en": "Avoid shiny object syndrome and focus on mastering one specific product.",
+          "summary_zh": "拒绝闪亮物体综合征，专注打磨单一产品",
+          "timestamp_sec": 137,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Go for it, jump in, dive in. I think too many people spend too much time alone and just kind of like dabbling things.",
+          "summary_en": "Stop dabbling from the sidelines—jump in and commit fully.",
+          "summary_zh": "别只停留在浅尝辄止，要果断全力投入行动",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Internet Marketing Entrepreneur",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Internet Marketer / Online Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [],
+      "first_money_or_break": "",
+      "guest_name": "Denver Airbnb & Digital Marketing Owner",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Digital Marketing Coach & Airbnb Real Estate Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [],
+      "first_money_or_break": "",
+      "guest_name": "Warrior Babe Fitness Coaching Founder",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Founder, Warrior Babe (50-Coach 1-on-1 Fitness Coaching Company)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "The only way I've been able to do that and work with the biggest people is I lead with results.",
+          "summary_en": "Lead with tangible results to win and retain top-tier clients.",
+          "summary_zh": "以实际交付成果为先导，才能赢得顶级客户",
+          "timestamp_sec": 367,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "If I don't fit them results I'm not afraid to have the conversation of like you probably shouldn't work together.",
+          "summary_en": "Be honest enough to part ways with clients if you cannot deliver results for them.",
+          "summary_zh": "不合适就坦诚婉拒合作，坚守诚信与口碑",
+          "timestamp_sec": 374,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Short-Form Content Agency Founder",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder, Short-Form Content Agency (~4,000 Videos/Month for Major Influencers)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Define Your Own Success & Purpose",
+          "category": "Mindset & Resilience",
+          "quote": "Take more time to find yourself. I think we get so busy climbing other people's mountains trying to define success based on what other people have.",
+          "summary_en": "Take time to find yourself and define success on your own terms instead of chasing others' goals.",
+          "summary_zh": "别忙着爬别人的山，花时间找准自我方向",
+          "timestamp_sec": 65,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Self-Discovery & Purpose Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Denver Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Keep going. There will be times that you're going to want to stop... remind yourself that this is just a part of the process and you just need to keep moving forward.",
+          "summary_en": "Keep going when you feel like quitting; hardship is simply part of the process.",
+          "summary_zh": "想放弃时记住这只是必经过程，坚持走下去",
+          "timestamp_sec": 84,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Perseverance-Focused Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Denver Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Focus on delayed gratification... I wanted results immediately and I took a lot of shortcuts... building a brand that's going to last long term doesn't happen overnight.",
+          "summary_en": "Avoid shortcuts and instant-result thinking; focus on delayed gratification to build a lasting brand.",
+          "summary_zh": "戒掉走捷径心态，用延迟满足打造长久品牌",
+          "timestamp_sec": 94,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Long-Term Brand Builder",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Denver Brand Builder & Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "100% learn sales, become the absolute best person in sales. I think that is the greatest skill any individual can have... your ability to communicate is worth everything.",
+          "summary_en": "Master sales and communication early—if you can sell, you can sell anything.",
+          "summary_zh": "尽早学好销售，这是个人最值钱的核心技能",
+          "timestamp_sec": 105,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Honestly if I could go back I could start learning sales like 14, 15, 16 years old, I would.",
+          "summary_en": "Wishes he had started learning sales as early as ages 14 to 16.",
+          "summary_zh": "后悔没在十四五岁就开始学习销售技能",
+          "timestamp_sec": 116,
+          "type": "regret"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Sales & Communication Advocate",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Denver Sales-Driven Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You're gonna fail in the beginning, but it's all right... you're going to fail at something so you may as well just continuously fail and have the failure be worthwhile.",
+          "summary_en": "Expect early failures as a new entrepreneur and make every failure worthwhile by learning from it.",
+          "summary_zh": "创业初期必然会失败，要在试错中积累经验",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Failure-Resilient Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Denver Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Set Milestones & Reward Progress",
+          "category": "Actionable Skills & Habits",
+          "quote": "Figure out what your six-month goal is, what's your one-year goal, what's your five-year goal, and reward yourself along the way.",
+          "summary_en": "Set 6-month, 1-year, and 5-year goals and reward yourself at milestones along the way.",
+          "summary_zh": "设定半年、一年及五年目标，并沿途奖励自己",
+          "timestamp_sec": 172,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Goal-Setting Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Denver Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Start a business. I have skills, knowledge, expertise... probably get financing... and then figure out how to leverage that financing to turn that into profit.",
+          "summary_en": "Start a business around your expertise, secure financing, and leverage it into profit.",
+          "summary_zh": "靠技能创业并善用融资杠杆，把资金转化为利润",
+          "timestamp_sec": 190,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Financing-Leveraging Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Denver Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "利用自身技能和专业知识重新创业，并通过融资获取启动资金，再用杠杆将其转化为利润。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Start with the service business... package up your skills and sell to someone who needs it... there's room for you to make money from as long as you can solve a problem.",
+          "summary_en": "Package your unique skills into a service business that fills gaps and solves real problems.",
+          "summary_zh": "将独特技能打包成服务，解决痛点就能赚钱",
+          "timestamp_sec": 213,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Marketing & Branding Service Founder",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Marketing & Branding Specialist / Service Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "依靠已掌握的营销与品牌技能，从零启动服务型业务，将独特技能打包卖给有需求的企业并解决实际问题。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I would throw a party because your network is your net worth.",
+          "summary_en": "Activate your network immediately—your network is your net worth.",
+          "summary_zh": "人脉即净值，通过聚会主动连接高质量人脉",
+          "timestamp_sec": 231,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "See what are the biggest issues that people are having problems with... find whatever those issues are and then you create a product for that.",
+          "summary_en": "Spot recurring business pain points from your network and build a product to solve them.",
+          "summary_zh": "从人脉反馈中发掘共性痛点，并打造对应产品",
+          "timestamp_sec": 242,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Network-Party Product Creator",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Denver Product & Networking Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "举办聚会激活人脉网络，倾听大家在销售、客服、招聘或企业文化上的共性痛点，随后针对这些痛点打造产品。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I would call all of my friends that have high ticket offers and I would say I'm going to sell for you your mail lead list and give me to the end of the week.",
+          "summary_en": "Sell friends' high-ticket offers to their existing lead lists on commission to generate fast cash flow.",
+          "summary_zh": "借力朋友高客单价产品，代销潜客快速变现",
+          "timestamp_sec": 253,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver High-Ticket Commission Closer",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Denver High-Ticket Sales Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "联系拥有高客单价产品的朋友，主动提出在一周内帮他们销售现有的潜在客户名单（lead list）快速变现。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I would not be where I'm at without the quality of relationships that I have in my life... iron sharpens iron... surround yourself with like-minded individuals that have the same values and ethics.",
+          "summary_en": "Surround yourself with value-aligned peers who hold you accountable and sharpen your edge.",
+          "summary_zh": "与价值观一致的良师益友相互督促，砥砺前行",
+          "timestamp_sec": 263,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Accountability & Men's Mastermind Member",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Denver Business Owner & Mastermind Member",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You never know what's possible until you're sitting on a table group of people and they're telling you the numbers that they're doing.",
+          "summary_en": "Sit at tables with high achievers to witness real results and expand your horizons.",
+          "summary_zh": "进入高水平圈子同桌交流，拓展对可能的认知",
+          "timestamp_sec": 291,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "When you get into a room like that and you network with a bunch of people... it expands your mind and expands your belief basically.",
+          "summary_en": "Seeing real numbers from peers proves success is attainable and expands your belief.",
+          "summary_zh": "亲眼见证圈内高手成绩，打破认知与信念局限",
+          "timestamp_sec": 301,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Table-Networking Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Denver Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "As soon as we joined a mastermind it was a big jump for us, next year we did 10 million dollars because we're able to surround ourselves with people that were just already there.",
+          "summary_en": "Join a mastermind with people already at your target level to accelerate growth dramatically.",
+          "summary_zh": "加入高阶智囊团与领先者同行，业绩十倍跃升",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "We were able to get advice so easily and we were just able to see the potential, we were able to eliminate so many of those like suffering beliefs that we had.",
+          "summary_en": "Learn directly from achievers to see your potential and eliminate limiting beliefs.",
+          "summary_zh": "向成功者取经并看清潜力，彻底清除自我设限",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年业务长期停留在每年约100万美元的七位数规模，加入高阶智囊团（Mastermind）后打破认知局限，次年业绩跃升至1000万美元。",
+      "guest_name": "Denver $10M Mastermind Scaler",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "$10M/yr Business Owner (Mastermind Member)",
+      "wealth_detail": "$10M/yr (scaled from $1M/yr after joining a mastermind)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Rejection is the greatest thing that we can have and learn from... if we're okay with getting rejected we can become better.",
+          "summary_en": "Welcome rejection as your greatest teacher to improve your pitch and grow stronger.",
+          "summary_zh": "坦然接纳被拒绝，把每次拒绝当作成长养分",
+          "timestamp_sec": 341,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Get on as many sales calls as you can because when you do that you're just taking a lot of reps... I would just take more and more sales calls every day.",
+          "summary_en": "Take as many sales calls as possible daily—treat sales repetitions like athletic training.",
+          "summary_zh": "像体育训练一样高频打销售电话，以量变促质变",
+          "timestamp_sec": 353,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Sports-Background Sales Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Denver Entrepreneur (Former Athlete)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Build a personal brand, develop content, be comfortable speaking on camera... continuously putting out free value to your audience around your business.",
+          "summary_en": "Build a personal brand, get comfortable on camera, and consistently give free value through content.",
+          "summary_zh": "打造个人品牌并坚持出镜，持续输出免费价值",
+          "timestamp_sec": 383,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Personal-Brand Content Strategist",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Denver Entrepreneur & Content Creator",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Recurring Revenue Models",
+          "category": "Business & Strategy",
+          "quote": "Recurring revenue, 100%. Recurring revenue has been an absolute game changer in our business.",
+          "summary_en": "Prioritize recurring revenue in your business model to drive scalable, predictable growth.",
+          "summary_zh": "建立持续性收入模式，彻底改变企业增长格局",
+          "timestamp_sec": 391,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Sometimes we'll actually go in the red to acquire a customer... because we know our lifetime value, it's just a numbers game.",
+          "summary_en": "Know your customer lifetime value (LTV) so you can confidently outspend competitors on acquisition.",
+          "summary_zh": "算清客户终身价值与获客成本，敢于抢占市场",
+          "timestamp_sec": 402,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Denver Recurring-Revenue & LTV Strategist",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Denver Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "w1bpdHouHpI",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,312 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Strategic Launches & Marketing Velocity",
+          "category": "Business & Strategy",
+          "quote": "when you work smarter and you come up with different promotions different launches different joint ventures um different product launches utilizing different marketing strategies you can have a higher velocity to profit",
+          "summary_en": "Use promotions, product launches, and joint ventures to accelerate profit velocity rather than relying solely on trading time.",
+          "summary_zh": "用促销联名提高利润增速",
+          "timestamp_sec": 107,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Model Proven Business Playbooks",
+          "category": "Business & Strategy",
+          "quote": "the mistake that a lot of people make is they try to reinvent the wheel literally all I did to bootstrap My Success is mimic what already works",
+          "summary_en": "Avoid reinventing the wheel; study and model proven market leaders like Apple to bootstrap success.",
+          "summary_zh": "模仿成功模式不重造轮子",
+          "timestamp_sec": 139,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "price is only an issue when value is absent so my key the secret sauce is to out value the competition... categorize one star to three star reviews... solve those problems",
+          "summary_en": "Out-value competitors by systematically analyzing 1-to-3-star customer reviews and solving the complaints and missing features.",
+          "summary_zh": "分析差评痛点提供极致价值",
+          "timestamp_sec": 164,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I was able to scale from seven to eight figures to focus on mitigating and delegating mwa activities which are minimum wage activities... so I can focus on high income earning activities",
+          "summary_en": "Delegate low-leverage minimum-wage tasks instead of wearing every hat so you can focus on high-income activities.",
+          "summary_zh": "外包低价值工作专注高产",
+          "timestamp_sec": 215,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "in that 80 20 rule kind of like Gary Keller's book The one thing... test a bunch of things identify that one thing and then exhaust that thing",
+          "summary_en": "Apply the 80/20 rule to find the single highest-leverage driver and go all-in on it instead of scattering effort.",
+          "summary_zh": "聚焦核心一事并做到极致",
+          "timestamp_sec": 247,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期年收入仅1.6万至2万美元，后通过电商促销、联合推广与产品发布实现首次年入百万，进而单年最高总收入达1120万美元。",
+      "guest_name": "Josh (Austin E-Commerce Entrepreneur)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The One Thing by Gary Keller",
+        "Naveen Jain (referred to as Naveen James)"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Serial Entrepreneur (E-commerce & Real Estate)",
+      "wealth_detail": "$11.2M max gross in a single year; $1M max in a single day (\"eight-figure entrepreneur\")",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要试图重新发明轮子，直接模仿已被验证有效的模式（WWAD：苹果会怎么做）；通过分析竞品1-3星差评和4-5星好评，集中解决客户痛点以实现远超竞争对手的价值。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "started flipping sneakers selling stuff online selling things on eBay to ultimately just saving up bootstrapping everything and starting this company from scratch",
+          "summary_en": "Start small by flipping goods and saving cash to bootstrap your own company from scratch before scaling nationwide.",
+          "summary_zh": "精简启动并将利润再投资",
+          "timestamp_sec": 310,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "when I first got my first sales job I first started selling on DirecTV and Walmart... a combination of that on top of being really successful in sales and then becoming an entrepreneur helped me reach that target",
+          "summary_en": "Build a strong foundation in direct sales early on to generate cash flow and develop persuasion skills before launching a company.",
+          "summary_zh": "先精通销售再投身创业",
+          "timestamp_sec": 333,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "number one rule of money is don't lose it... let's just be basic let's be boring and stack money take my main source of income and put it into something that can compound and grow over the next 10 20 30 years",
+          "summary_en": "Protect principal and steadily funnel income into assets that can compound consistently over 10 to 30 years.",
+          "summary_zh": "保护本金长期定投稳健复利",
+          "timestamp_sec": 358,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "first focus on yourself invest and learn and create yourself into a person that's capable of receiving a million dollars and being consistent at it",
+          "summary_en": "Invest in your own knowledge, mindset, and consistency first so you become capable of earning and keeping a million dollars.",
+          "summary_zh": "先投资学习提升自我认知",
+          "timestamp_sec": 391,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "pick something that's boring that you can be amazing at... they have a plumbing company a roofing company a flooring company... Master a craft and then scale it",
+          "summary_en": "Choose a proven, unglamorous service or trade business, master the craft, and scale it into a major cash-flow engine.",
+          "summary_zh": "深耕枯燥传统行业并规模化",
+          "timestamp_sec": 402,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "take that same money that you're making from what you've mastered and then invested into assets that appreciate and pay you rents and repeat",
+          "summary_en": "Take the profits from your core business and buy appreciating real estate assets that generate recurring rent.",
+          "summary_zh": "用利润购入收租升值资产",
+          "timestamp_sec": 424,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从倒卖球鞋、在eBay卖货以及在DirecTV和沃尔玛做销售起步，每周定投500-1000美元比特币、以太坊和优质股票，24岁成为百万富翁，后白手起家创办太阳能公司Met Group（年营收约3000万美元）。",
+      "guest_name": "Grant Mint",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Warren Buffett (quoted financial rule)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & CEO, Met Group (Residential & Commercial Solar)",
+      "wealth_detail": "~$30M annual company revenue (targeting $100M in 2-3 years); millionaire at age 24 (\"eight-figure entrepreneur\")",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先专注自我提升，学习并打磨出配得上百万美元的认知与稳定心态；然后选择一个枯燥但基础的传统行业做到极致并规模化，再将赚到的钱投资于能升值并产生租金收益的资产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "go find an index fund that spreads along the equity markets and automate money and put it aside... you start doing that in your 20s in your 60s it's millions",
+          "summary_en": "Automate regular contributions into broad equity index funds starting in your 20s so long-term compounding builds millions.",
+          "summary_zh": "趁早定投指数基金吃复利",
+          "timestamp_sec": 487,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "personal relationships and actually giving a [ __ ] about the people that you deal with like whether broker investors Bankers like actually building deeper relationships",
+          "summary_en": "Win in sales and deal-making by building deep, genuine relationships with brokers, investors, and bankers.",
+          "summary_zh": "用真诚深耕建立客户信任",
+          "timestamp_sec": 541,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "showing them that you have great risk controls that you do care that your money's invested... your interests are aligned and not being in the [ __ ] fee business... we're in the performance business",
+          "summary_en": "Earn investor trust through strong risk controls, putting your own capital in alongside clients, and getting paid on performance rather than fees.",
+          "summary_zh": "与客户利益绑定并严控风险",
+          "timestamp_sec": 562,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "原本是一名执业律师，后来迅速转入从小就立志从事的商业地产行业；目前管理数亿美元资产，正在奥斯汀开发超100万平方英尺项目（未来四年完全建成后总价值约25亿美元）。",
+      "guest_name": "Ari (Austin Commercial Real Estate Developer)",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Commercial Real Estate Developer (Former Attorney)",
+      "wealth_detail": "Hundreds of millions AUM; over 1M sq ft under construction (~$2.5B fully developed over next 4 years); described as \"nine figure entrepreneur\"",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "从20多岁开始，无论预算每月50、100还是1000美元，都要定投自动买入追踪股票市场的指数基金并长期持有，让复利在时间的作用下呈J型曲线增长；在销售与募资中要真诚关心客户并保证利益一致。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "all the tech giants like meta Microsoft Google Apple they're all supporting dozens of billions of dollars into it this will allow us to sort of Follow That wave but do it better",
+          "summary_en": "Enter massive emerging markets backed by tens of billions in tech-giant investment and aim to build an independent category leader rather than a quick flip.",
+          "summary_zh": "借力巨头投入的千亿级赛道",
+          "timestamp_sec": 633,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "you need to build a product that people actually want and actually love",
+          "summary_en": "The foundation of any enduring startup is building a product customers genuinely love and want to pay for.",
+          "summary_zh": "打造用户热爱且付费的产品",
+          "timestamp_sec": 674,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Founders oftentimes are hopping to the next money making thing that everyone else is already doing... how are they differentiated... for me at the end of the day I'm good at coding so I'm gonna do that",
+          "summary_en": "Avoid blindly chasing crowded money-making trends; differentiate by doubling down on your own core technical or personal strengths.",
+          "summary_zh": "不盲目跟风发挥自身优势",
+          "timestamp_sec": 682,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "find a product that people want to pay money for a team that can help you build it... and then find the funds to then support that team to keep growing it",
+          "summary_en": "Treat team-building as a core craft and secure the funding or revenue needed to support and grow that team.",
+          "summary_zh": "组建团队并融资支撑产品成长",
+          "timestamp_sec": 700,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "擅长编程，六年前创立AR/VR空间计算公司Immersed，顺应Meta、微软、谷歌和苹果等巨头投入数百亿美元的行业浪潮，累计融资约8700万美元，预计次年5月估值达10亿美元。",
+      "guest_name": "Renji Bajoy",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Immersed (AR/VR Spatial Computing)",
+      "wealth_detail": "Company raised ~$87M over 6 years; projected ~$1B company valuation in May (\"nearly nine figure business\")",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "顺应大行业趋势但做出差异化，不要盲目跟风别人都在做的生意；用自己的核心技能（如编程）打造用户真正想要且愿意付费的产品，组建能打造该产品的优秀团队，再融资（或靠产品营收）支持团队持续成长。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "my first job was at IBM and computer sales... we founded that in 2000 after working for big tech for a long time... I didn't start that first business until I was 38 so thankfully I'd learned a few things",
+          "summary_en": "Gain real-world experience inside major tech companies—including roles outside your comfort zone like sales—before launching your own venture.",
+          "summary_zh": "先在大厂历练再出来创业",
+          "timestamp_sec": 740,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Practice Self-Awareness & Know Your Strengths",
+          "category": "Mindset & Resilience",
+          "quote": "be self-aware know what you're good at none of us are good at everything",
+          "summary_en": "Develop honest self-awareness about your strengths and recognize that no founder excels at every function alone.",
+          "summary_zh": "保持自知明确自身核心长板",
+          "timestamp_sec": 792,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "surround yourself with great people who are good at what you're not good at because a team strength will always be any individual",
+          "summary_en": "Reject the myth of the lone genius founder; surround yourself with a complementary core team because collective team strength always beats an individual.",
+          "summary_zh": "围绕互补型核心团队赢得胜利",
+          "timestamp_sec": 802,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学时曾讨厌计算机和销售，但第一份工作就是在IBM做电脑销售；在大型科技公司深耕多年直至38岁（2000年）才联合创办Waveset，5年后以1.5亿美元出售；2005年再创办SailPoint，年营收超5亿美元并在私募私有化交易中估值达70亿美元。",
+      "guest_name": "Waveset & SailPoint Co-Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Co-Founder, Waveset & SailPoint (Enterprise Tech)",
+      "wealth_detail": "Sold first company (Waveset) for $150M in 2005; second company (SailPoint) >$500M revenue and $7B go-private PE deal",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "要具备自我认知，清楚自己的长板并承认没有人是全才；在科技或任何创业领域，成功的关键是围绕自己组建一支在你不擅长领域表现卓越的核心团队，因为团队的力量永远胜过单打独斗的个人。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "pBjoezYFA0Y",
+  "video_type": "street_multi"
+}

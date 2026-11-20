@@ -1,0 +1,289 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I just need to start hustling. Start working. I'll figure it out along the way.",
+          "summary_en": "Start working and hustling early, and figure things out along the way.",
+          "summary_zh": "趁早开始工作与拼搏，在实战中摸索成长",
+          "timestamp_sec": 143,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "The most important thing about sales to always put yourself in the other person's shoes... Figure out the problem that you need solved.",
+          "summary_en": "Great sales comes from empathizing with the other person's feelings and solving their specific pain point.",
+          "summary_zh": "销售核心在于换位思考，共情并解决客户痛点",
+          "timestamp_sec": 175,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I didn't take one day off from work for 4 years. Not one vacation, not one day... I gave up everything because I wanted to put myself on the map",
+          "summary_en": "Be willing to sacrifice comfort and work relentlessly without days off early in your career to build credibility and wealth.",
+          "summary_zh": "年轻时甘愿牺牲安逸，全力以赴建立事业信誉",
+          "timestamp_sec": 213,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "getting all negative people out of your life. That's key to success... You've got to tune out that noise.",
+          "summary_en": "Remove negative people and tune out doubts—even from well-meaning loved ones who are scared for you.",
+          "summary_zh": "远离负能量人群，屏蔽包括亲友在内的质疑声",
+          "timestamp_sec": 249,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "No one is going to know what's best for you other than you... Maybe they couldn't do it. That has nothing to do with whether you're going to be successful or not.",
+          "summary_en": "Trust your own judgment and do not let other people's inability to succeed limit your potential.",
+          "summary_zh": "只有自己最懂自己，别让他人局限定义你的上限",
+          "timestamp_sec": 266,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身单亲家庭、靠救济粮票在拖车房长大，9岁开始送报纸打工积累销售经验；24岁成为公司股权合伙人，26岁参与合伙以2500万美元收购公司并于3年后以5500万美元卖出，赚到人生第一个100万美元。",
+      "guest_name": "Miami 5-Business Owner & Author (Overcome Your Villains)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Overcome Your Villains (her own book)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Owner of 5 Businesses & Author",
+      "wealth_detail": "First million at 26; part of partnership that bought a company for $25M and sold it for $55M 3 years later",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I had a bad day. Thought about it and I said, 'It's just a bad day.' ... over time, we learned from our lessons, made it back",
+          "summary_en": "Stay composed after major financial losses, treat setbacks as just one bad day, and learn the lesson to bounce back.",
+          "summary_zh": "遭遇重大亏损时保持冷静，总结教训再赢回来",
+          "timestamp_sec": 406,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "always know what your risk is and always don't underestimate anything at all... make sure that I could afford what I'm investing if it goes to zero or it fails.",
+          "summary_en": "Always understand your downside risk, never underestimate uncertainty, and only invest what you can afford to lose completely.",
+          "summary_zh": "时刻认清潜在风险，只投入能承受归零的资金",
+          "timestamp_sec": 421,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "the most important thing is networking where you want to meet people that you want to connect with.",
+          "summary_en": "Prioritize intentional networking to connect with the exact people who can elevate your business.",
+          "summary_zh": "重视人脉经营，主动结交行业核心关键人物",
+          "timestamp_sec": 452,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "you got to be able to attract the best people in the industry if you want to make [it].",
+          "summary_en": "Attract top-tier industry leaders and A-players to build credibility and take your company to the next level.",
+          "summary_zh": "想要成功就必须吸引行业最顶尖的人才加入",
+          "timestamp_sec": 498,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "so speed is extremely important when you want something you got to go for it",
+          "summary_en": "Move with urgency and speed—when an opportunity appears, act immediately rather than waiting.",
+          "summary_zh": "执行速度决定成败，看准机会必须果断出击",
+          "timestamp_sec": 522,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "manifesting is the most important thing you can do in business... I think in my head what are the steps for me to achieving that and I create this whole story and then I go for it.",
+          "summary_en": "Use daily positive self-talk and mental visualization to map out the steps toward your goal and execute relentlessly.",
+          "summary_zh": "坚持正向心理暗示与目标具象化，规划路径并全力以赴",
+          "timestamp_sec": 526,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "第一份工作在华尔街Nesbit Burns（后被蒙特利尔银行收购），随后创立对冲基金经营近28年（旗下约4000名交易员、600名员工，占美国市场成交量3%-4%），2010年转型创立金融科技公司并出售给加拿大大型银行。",
+      "guest_name": "Miami Yacht Owner & Former Hedge Fund / Fintech Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former Hedge Fund Owner & Fintech Founder",
+      "wealth_detail": "$300M most made in a single year; lost over $8M in one day trading",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Credibility matters. Credibility kills all bad attitudes.",
+          "summary_en": "Build strong credibility—reputation and track record immediately disarm skepticism and bad attitudes.",
+          "summary_zh": "公信力至关重要，过硬的信誉能化解一切傲慢",
+          "timestamp_sec": 662,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid CEO Ego",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "CEO's ego. Your ego is not your amigo.",
+          "summary_en": "Keep a founder's ego in check—unchecked ego is the most common mistake that ruins good companies.",
+          "summary_zh": "警惕CEO的自负心理，傲慢会毁掉好公司",
+          "timestamp_sec": 703,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I don't sell anything. I just find out what the client needs and I help him hit his goal.",
+          "summary_en": "Stop pushing products; focus on discovering what the client needs and helping them achieve their goal.",
+          "summary_zh": "别硬性推销，先弄清客户需求并帮其达成目标",
+          "timestamp_sec": 712,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "There's a dollar value to everything... it's not what it costs, it's what you get.",
+          "summary_en": "Quantify the financial upside you generate for clients—negotiate based on the value delivered, not the price charged.",
+          "summary_zh": "谈判应着眼于替客户创造的经济回报，而非成本价格",
+          "timestamp_sec": 727,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Policies and procedures are the exact same. You just got to do what you got to do. treat people right to give them a value for what they're looking for and outwork everybody else.",
+          "summary_en": "Follow solid processes, treat people fairly with real value, and outwork everyone else to rebuild from anything.",
+          "summary_zh": "坚持规范流程，真诚为他人创造价值并比所有人更拼搏",
+          "timestamp_sec": 760,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Miami Regulatory & Clinical Pathways Consultant (Motorcycle Owner)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Business Owner & Regulatory/Clinical Pathways Consultant",
+      "wealth_detail": "Company did ~$8.5B last year (personal income undisclosed)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "曾四次失去一切又东山再起：无论做什么行业，底层流程与规则都一样，核心就是做该做的事，真诚善待他人并提供所需价值，同时比所有人都更努力工作。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "you're putting a lot of money back into the business. So you're building right now. Constantly building.",
+          "summary_en": "Reinvest profits back into the business to continuously build and strengthen operations.",
+          "summary_zh": "将利润持续投回公司，不断夯实建设业务",
+          "timestamp_sec": 809,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "We can't scale unless we have employees. Good employees cuz we're in a field service business.",
+          "summary_en": "A field service business cannot scale without recruiting and retaining strong employees.",
+          "summary_zh": "服务业扩张的核心瓶颈在于招募并留住优秀员工",
+          "timestamp_sec": 816,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Go to the gym every morning... If you go to the gym and you're dedicated and you go there every day, you're going to go to work every day, too.",
+          "summary_en": "Maintain daily physical discipline at the gym—that same consistency translates directly into showing up at work every day.",
+          "summary_zh": "坚持每天清晨健身，日常自律会延伸到每日工作中",
+          "timestamp_sec": 842,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "When you're an owner, you go through cycles all the time of when you're up and down. No one wants to cut back. It's always great to buy great cars and buy Porsches and all that stuff, but god forbid you have a bad year. What are you going to get rid of?",
+          "summary_en": "Avoid splurging on luxury cars during good years because business is cyclical and cutting back during downturns is painful.",
+          "summary_zh": "生意有周期起伏，切勿在顺境时盲目买豪车挥霍",
+          "timestamp_sec": 856,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "it's a lot of sacrifice. Your wife, your kids, everyone's got to sacrifice. You travel, you're not home every night... It's hard to start a company, but it's even harder to keep it.",
+          "summary_en": "Be prepared for deep personal and family sacrifices—sustaining a company over the long haul is even harder than starting it.",
+          "summary_zh": "创业需伴随家庭的巨大牺牲，且守业比创业更艰难",
+          "timestamp_sec": 870,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "父亲从商并带他和双胞胎兄弟进入行业创业，经营机械工程与现场服务公司长达22年，目前年营收约3000万美元、利润200万至300万美元。",
+      "guest_name": "Miami Mechanical Engineering Firm Owner (Age 51)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Owner, Mechanical Engineering & Field Service Company",
+      "wealth_detail": "$30M/yr company sales, $2M-$3M/yr profit (states he is not personally a millionaire yet)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "8wU_31Wamcw",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,222 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Be fearless... don't be afraid to fail.",
+          "summary_en": "Be fearless and don't be afraid to fail in business.",
+          "summary_zh": "保持无畏心态，不要害怕商业失败",
+          "timestamp_sec": 128,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Avoid Illegal Activity",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't deal drugs.",
+          "summary_en": "Stay clean and avoid illegal shortcuts like dealing drugs.",
+          "summary_zh": "守住底线，切勿沾染毒品等违法勾当",
+          "timestamp_sec": 138,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Just have a good product.",
+          "summary_en": "Scale from seven to eight figures by simply having a great product.",
+          "summary_zh": "靠过硬的产品品质实现千万级营收突破",
+          "timestamp_sec": 159,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "River Oaks 72-Year-Old Italian Restaurant Owner",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Owner of Italian Restaurant & Bar",
+      "wealth_detail": "$12M/yr revenue",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Work hard... never, never quit.",
+          "summary_en": "Work hard and never, ever quit as a business owner.",
+          "summary_zh": "拼命努力工作，在创业路上绝不轻言放弃",
+          "timestamp_sec": 201,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Conserve Cash for Opportunities",
+          "category": "Wealth & Investing",
+          "quote": "Conserve your cash... opportunities happen, you hopefully have some cash you can take advantage of them.",
+          "summary_en": "Conserve your cash so you are ready to seize opportunities when they arise.",
+          "summary_zh": "保留充足现金储备，以便抓住突发商业良机",
+          "timestamp_sec": 222,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You want to do it, but not that bad... be able to walk away at the same time you're going to be able to want to do it.",
+          "summary_en": "In negotiations, want the deal enough to pursue it, but always be willing to walk away.",
+          "summary_zh": "谈判想成单但别太急切，必须随时敢于离场",
+          "timestamp_sec": 246,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年家族在电力行业创业取得巨大成功并出售公司，随后其父亲于2002年买下休斯顿德州人队（NFL扩军球队），以此进入职业体育领域。",
+      "guest_name": "Houston Texans Owner",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Owner of the Houston Texans (NFL Team)",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You've got to build a team around you that are going to cover all those weaknesses... you need to be working on the business.",
+          "summary_en": "Build a team to cover your weaknesses and work on the business rather than in it.",
+          "summary_zh": "组建团队弥补自身短板，脱离执行才能做大",
+          "timestamp_sec": 378,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't be fooled by all the Ferraris and the Pateks and all that BS.",
+          "summary_en": "Don't get fooled by luxury status symbols like Ferraris and Patek watches.",
+          "summary_zh": "别被法拉利名表等外在炫耀的假象所迷惑",
+          "timestamp_sec": 421,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Every dollar that a company spends must have an ROI attached to it.",
+          "summary_en": "Never spend a dollar in your business without a directly calculable ROI.",
+          "summary_zh": "公司每一分钱支出都必须能直接核算投资回报",
+          "timestamp_sec": 426,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Every dollar that you're making, if you're doing the right thing, it's got to stay in that company to be able to grow.",
+          "summary_en": "Leave every dollar of profit inside the business to build retained earnings and fund growth.",
+          "summary_zh": "将公司盈利全部留存再投入以实现持续扩张",
+          "timestamp_sec": 479,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Find something you're truly passionate about. Everything else after that is secondary.",
+          "summary_en": "Find something you are truly passionate about; everything else comes second.",
+          "summary_zh": "找到你真正热爱的事物，其余一切皆为次要",
+          "timestamp_sec": 599,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I wasn't always the smartest person in the room, I was just the SOB that refused to quit.",
+          "summary_en": "You don't have to be the smartest person in the room if you simply refuse to quit.",
+          "summary_zh": "不必是屋里最聪明的人，但要做最不肯放弃的人",
+          "timestamp_sec": 606,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家，成长过程中曾身无分文，创业初期毫无资金，靠21%高息应收账款保理贷款维持现金流，并坚持将每周利润留存公司以滚大资产负债表，最终获得6%-8%的银行传统授信额度，28岁时年收入达300万美元，现公司年营收达3亿美元。",
+      "guest_name": "River Oaks Labor Force Management Founder",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Owner of a Labor Force Management Company",
+      "wealth_detail": "$300M/yr company revenue; $3M/yr income at age 28",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "从零开始要先找到自己真正热爱的事物并绝不放弃；同时趁早学习基础商业财务知识，把赚到的利润留存在公司里再投资，不要盲目追求豪车名表等外在炫耀。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "The doctor's biggest mistake [is] they don't learn the business of medicine... money is what sinks a lot of practices.",
+          "summary_en": "Doctors in private practice must learn the business of medicine early to stay afloat.",
+          "summary_zh": "医生创业必须趁早学习商业管理，避免资金断链",
+          "timestamp_sec": 701,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Carve Out a Profitable Niche",
+          "category": "Business & Strategy",
+          "quote": "If you have a private practice, you need to have that niche and to stay afloat.",
+          "summary_en": "If you run a private practice, you need a specific niche to stay afloat.",
+          "summary_zh": "开设私人诊所需要找准细分定位才能站稳脚跟",
+          "timestamp_sec": 722,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Learn business early on, not because you're after money... how to give good service to your patients, but stay afloat.",
+          "summary_en": "Learn business not out of greed, but to deliver great patient care while keeping the practice solvent.",
+          "summary_zh": "学商业不是为了捞钱，而是为了服务好患者",
+          "timestamp_sec": 754,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Houston Lung & ICU Specialist Private Practice Owner",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Lung & ICU Specialist & Private Practice Owner",
+      "wealth_detail": "$600K-$700K/yr medical income; $6M/yr business",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "给从医者的建议是：趁早学习商业管理知识，不要只停留在受雇思维；若开设私人诊所，必须平衡好对患者的优质医疗服务与诊所自身的商业生存。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "PN9Z4QH8X2w",
+  "video_type": "street_multi"
+}

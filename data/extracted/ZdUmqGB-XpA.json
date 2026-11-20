@@ -1,0 +1,294 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I go to work every day at 5:00. I'm 71 years old. It's 95% perspiration and 5% luck. The best advice I can give you is keep trying... Get out there and do it.",
+          "summary_en": "Put in relentless daily effort (95% perspiration, 5% luck) and keep trying at any age.",
+          "summary_zh": "95%靠汗水5%靠运气，71岁仍每天五点工作",
+          "timestamp_sec": 117,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I knew that when I was 24 years old. I knew I had to be a boss.",
+          "summary_en": "Recognize early that you will not get rich working for someone else and become your own boss.",
+          "summary_zh": "24岁就明白打工无法致富，必须自己当老板",
+          "timestamp_sec": 129,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "They wanted me to put $5,000 into the search engine... I should have taken that five grand and bought his stock and it'll be worth a lot of money today.",
+          "summary_en": "Regrets passing on an early $5,000 investment in Google stock when given the chance.",
+          "summary_zh": "后悔当年错过花5000美元投资谷歌早期股权的机会",
+          "timestamp_sec": 141,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "The bottom line to it is you have to invest your money. Money makes your money... I started with 2 million. I have it up to 50 million in taxfree bonds. Never cash one in.",
+          "summary_en": "Invest your earnings so money makes money, such as compounding $2M into $50M in tax-free bonds without cashing out.",
+          "summary_zh": "把钱拿去投资复利滚雪球，让钱生钱而非兑现挥霍",
+          "timestamp_sec": 161,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I never met anybody my age that's 100 times richer than me, smarter than me. Teach me real estate.",
+          "summary_en": "Seek out people far wealthier and smarter than you and persistently ask them to teach you.",
+          "summary_zh": "向比自己富百倍的顶尖前辈熬夜虚心请教经验",
+          "timestamp_sec": 207,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Buy investment property, put 50% down, never leverage it, never sell it... your mortgage goes down, your payments go up on the property, and you give it to your kids.",
+          "summary_en": "Buy industrial investment real estate with 50% down, avoid over-leveraging, and hold forever for generational wealth.",
+          "summary_zh": "买工业地产付50%首付、不加杠杆且永不卖出传承后代",
+          "timestamp_sec": 217,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Set Up an LLC for Liability Protection",
+          "category": "Business & Strategy",
+          "quote": "I should have had an LLC. You should always have an LLC for liability. If you get sued, you don't want them to take your house, your car, and all your personal.",
+          "summary_en": "Form an LLC from day one so business lawsuits cannot wipe out your personal house, car, and assets.",
+          "summary_zh": "创业初期务必注册LLC，隔离个人资产与诉讼风险",
+          "timestamp_sec": 252,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1981年发明光疗美甲（gel nails），24岁意识到给别人打工无法致富而选择创业，职业生涯累计实现20亿美元销售额。",
+      "guest_name": "Tony Cooer (Gel Nail Inventor)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Mitch Slober (Inc. Magazine #1 entrepreneur, 1987)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Inventor of Gel Nails / Entrepreneur",
+      "wealth_detail": "Made over $100M in a single year and career; $2B in career sales; $50M in California tax-free bonds",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "每天清晨5点开工并不断尝试；早点做老板而不是替人打工；从第一天起设立LLC保护个人资产，并将利润持续投入免税债券和低杠杆工业地产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Deal makers, they make a lot of money... if you can connect the right two people together and make money out of it, you're going to make money.",
+          "summary_en": "Become a connector and deal maker who brings the right parties together to earn major commissions.",
+          "summary_zh": "成为促成交易的人，连接合适双方即可赚取大钱",
+          "timestamp_sec": 417,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "When you keep God first, you can get whatever you want in life... Faith is at the center of every decision.",
+          "summary_en": "Keep faith at the center of every decision and trust God through severe crises.",
+          "summary_zh": "把信仰放在所有决定的核心，在绝境中保持笃信",
+          "timestamp_sec": 424,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Once you build that credibility, your trust in God, everything comes to you.",
+          "summary_en": "Build strong credibility so that high-value deals and opportunities naturally come to you.",
+          "summary_zh": "建立起个人公信力后，优质交易和机会会主动找上门",
+          "timestamp_sec": 480,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "If you own the patents in anything, you can make a lot of money. You don't have to work.",
+          "summary_en": "Acquire and own valuable patents so you get paid passively whenever the technology is used.",
+          "summary_zh": "持有高价值专利或知识产权，不用出卖时间也能持续获利",
+          "timestamp_sec": 517,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Stop investing other things and invest in yourself. Once I started to invest in myself and started believing, everything happened.",
+          "summary_en": "Stop putting money into external things and invest in and believe in yourself, even if people call you crazy.",
+          "summary_zh": "停止盲目外投转而投资自己，坚定自信无视他人质疑",
+          "timestamp_sec": 619,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "You can learn from everybody... I talk to homeless people all the time and I do learn a lot",
+          "summary_en": "Stay humble and learn insights from everyone around you, regardless of their station in life.",
+          "summary_zh": "保持开放心态向所有人学习，甚至能从流浪汉身上获益",
+          "timestamp_sec": 637,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I lost that 30 years ago... I make it all back. And if I lose it again today, I'll make it back again... one thing I do have is a creative mind.",
+          "summary_en": "Do not fear going broke; with self-belief and a creative mind, you can rebuild lost wealth.",
+          "summary_zh": "就算赔光4800万美元也不怕，靠创造力与信念东山再起",
+          "timestamp_sec": 653,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "27岁在餐厅偶遇他人谈论赌场交易时主动牵线，促成4.5亿美元赌场投资并赚取4800万美元佣金；后因电视节目结识专利持有人，于2018年买下21点奖金轮专利并打造出科技公司。",
+      "guest_name": "Jeffrey Phillips",
+      "industry": "Tech & Software",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Doctor in Las Vegas (advised him to invest in himself)"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Gaming Technology Company Owner / Deal Maker",
+      "wealth_detail": "Technology company worth $1.2B on paper; made $48M commission on a $450M casino deal at age 27",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "从零起步时要投资自己、坚定信仰与自信，发挥创造力并善于撮合资源与专利资产，保持向任何人学习的谦逊态度。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "when you're 19, 20, 21, up, you know, even in your 30s, take risks. You have to take risks.",
+          "summary_en": "Take bold risks in your 20s and early 30s before family responsibilities limit your downside.",
+          "summary_zh": "趁年轻还没家庭负担时大胆冒险，大不了回原点打工",
+          "timestamp_sec": 866,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "we could take all the things that we hated about boxing and loved about boxing and and make this thing as perfect as we possibly could.",
+          "summary_en": "Study what customers love and hate about an existing industry and build a better product.",
+          "summary_zh": "吸收拳击优点并革除其弊端，打造更完美的赛事产品",
+          "timestamp_sec": 889,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "People will always tell you, 'Oh, this will never work or they're too big. You can't.'... You got to get in there and you literally have to shake up and break the rules.",
+          "summary_en": "Ignore naysayers who claim an industry cannot change and aggressively break old rules.",
+          "summary_zh": "无视说“这不可能”的质疑声，勇敢打破百年行业陈规",
+          "timestamp_sec": 925,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you literally have to get up every day and go out and prove yourself. Even when you by industry standards or by other people's idea of success, you have to keep grinding and you have to keep going.",
+          "summary_en": "Keep grinding and proving yourself every year no matter how successful others think you already are.",
+          "summary_zh": "即便达到世俗成功标准，每年每天仍要持续拼搏证明自己",
+          "timestamp_sec": 982,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Your word is not just business in life. Your word is everything in life... we're either all going down together or not at all.",
+          "summary_en": "Honor your word and stay fiercely loyal to employees during crises like COVID instead of laying them off.",
+          "summary_zh": "一诺千金是商业和人生的基石，危机中绝不裁员抛弃团队",
+          "timestamp_sec": 1055,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Consistency is the key to everything in life. Whether it's getting up and building a business, getting in shape, working on different relationships. You have to be a consistent person. But you have to be driven, too.",
+          "summary_en": "Pair relentless drive with daily consistency across business, fitness, and relationships.",
+          "summary_zh": "内驱力配合每天稳定持续的行动，是事业健康与关系的关键",
+          "timestamp_sec": 1177,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "non-stop grinding, working, taking your own money and reinvesting in your business and reinvesting in yourself",
+          "summary_en": "Reinvest your own money back into your business and yourself rather than cashing out early.",
+          "summary_zh": "持续把赚来的钱再投资到自身成长和事业扩张中",
+          "timestamp_sec": 1220,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Treat Entrepreneurship Like a Daily Fight",
+          "category": "Mindset & Resilience",
+          "quote": "Being an entrepreneur is a war every day. You have to go to battle and you got to be willing to get in there and fight.",
+          "summary_en": "Approach entrepreneurship as a daily battle where competitors come for you and you must fight to win.",
+          "summary_zh": "把创业当成每天的战斗，面对竞争对手绝不手软全力求胜",
+          "timestamp_sec": 1288,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Beat Yesterday Every Day",
+          "category": "Actionable Skills & Habits",
+          "quote": "Literally every day when you get out of bed, you try to be better than you were yesterday. No matter how old you are, whether it's physically, improve your relationships or your business. How do we beat yesterday?",
+          "summary_en": "Wake up every morning focused on beating yesterday physically, relationally, and professionally.",
+          "summary_zh": "每天起床只思考如何超越昨天的自己，全面持续精进",
+          "timestamp_sec": 1344,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在波士顿一家酒店当行李员，因厌倦这份工作而投身格斗行业，并与合伙人押上未来接手当时濒临失败的MMA公司UFC，借革新规则和营销做大。",
+      "guest_name": "Dana White",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "CEO of the UFC",
+      "wealth_detail": "Runs multi-billion dollar UFC ($7.7B Paramount deal); video title cites $500M made",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "趁年轻没有重担时果断冒险；打破旧规则重塑行业；每天保持高度一致性和斗志，把赚到的钱继续投入自己和企业，并每天力求超越昨天的自己。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ZdUmqGB-XpA",
+  "video_type": "street_multi"
+}

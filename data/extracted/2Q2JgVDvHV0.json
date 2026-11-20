@@ -1,0 +1,389 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Working really, really hard.",
+          "summary_en": "Work extremely hard to build wealth.",
+          "summary_zh": "通过极度努力工作积累财富",
+          "timestamp_sec": 143,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Invest Within Your Circle of Competence",
+          "category": "Wealth & Investing",
+          "quote": "Invest in things you understand.",
+          "summary_en": "Only invest in assets and businesses you genuinely understand.",
+          "summary_zh": "只投资自己真正理解的领域",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Residential. ... Anywhere where there's coastal properties. ... red states obviously are better because of the tax breaks.",
+          "summary_en": "Buy residential real estate in strong coastal markets and tax-advantaged states.",
+          "summary_zh": "配置沿海及税务优惠州的住宅房产",
+          "timestamp_sec": 171,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "I believe in doing things fairly and that business can be a win-win for anybody ... Everybody deserves a break and a chance to prove themselves in business.",
+          "summary_en": "Conduct business fairly, aim for win-win outcomes, and give people a chance.",
+          "summary_zh": "坚持公平共赢，给他人证明自己的机会",
+          "timestamp_sec": 211,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "employees, you have to hire people that you trust.",
+          "summary_en": "Hire trustworthy, capable employees when running companies.",
+          "summary_zh": "创业必须雇佣值得信赖的人才",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "An LLC is a veil of protection and everybody should understand their taxes. It will serve you for the rest of your life.",
+          "summary_en": "Use LLCs to protect assets and learn tax fundamentals early.",
+          "summary_zh": "善用LLC隔离风险并终生精通税务知识",
+          "timestamp_sec": 268,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Enjoy Life While You Are Alive",
+          "category": "Mindset & Resilience",
+          "quote": "Live while you're alive. ... Enjoy your life.",
+          "summary_en": "Remember to enjoy your life while building and holding wealth.",
+          "summary_zh": "趁活着好好享受人生，别只顾赚钱",
+          "timestamp_sec": 291,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在金融行业工作并拥有企业，自1990年代起在洛杉矶沿海及税务优惠州投资住宅房地产，名下持有超过50家LLC公司。",
+      "guest_name": "Beverly Hills Finance & Real Estate Investor",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Finance Executive & Real Estate Investor (50+ LLCs)",
+      "wealth_detail": "$1B business figure stated; owns 50+ real estate LLCs",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "极度努力工作，只投资自己理解的资产（如住宅房产），通过LLC保护资产并深入理解税务，同时别忘了享受生活。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody, my own husband didn't believe that this will be a business. ... Cuz I really believed it.",
+          "summary_en": "Believe in your vision even when banks, landlords, and family doubt you.",
+          "summary_zh": "无视周围人甚至家人的质疑，坚定相信自己",
+          "timestamp_sec": 426,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I really believe that eyebrow is such an important feature in our face and I fixed my own eyebrow. This is how everything started.",
+          "summary_en": "Build a business by solving a real personal pain point first.",
+          "summary_zh": "从解决自身真实痛点出发创造产品价值",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you want to start your own business, watch the cash flow. EBITDA is everything. You know, it's all about the profit.",
+          "summary_en": "Watch cash flow, EBITDA, and profitability closely when starting out.",
+          "summary_zh": "紧盯现金流与EBITDA，利润才是根本",
+          "timestamp_sec": 449,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Don't start spending money left and right. When I started, I was driving a beat up car that I spent $200. ... I had a bigger goals and it was important for me to save every penny to put into my business.",
+          "summary_en": "Avoid status spending and drive a cheap car to save every penny early on.",
+          "summary_zh": "初期拒绝虚荣消费，开200美元破车省钱创业",
+          "timestamp_sec": 460,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Every money I will generate I will put back into the business.",
+          "summary_en": "Reinvest all generated profits back into growing the business.",
+          "summary_zh": "将赚到的每一分钱全部复投进业务扩张",
+          "timestamp_sec": 489,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You make a lot of mistakes. I made many mistakes, but you learn from your mistakes. And the key is to never make the same mistake twice.",
+          "summary_en": "Learn from inevitable mistakes and never repeat the same mistake twice.",
+          "summary_zh": "从大量错误中吸取教训，绝不犯同样的错两次",
+          "timestamp_sec": 501,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "we're the first beauty brand having a presence on Instagram and this is how we scale. It exploded the company.",
+          "summary_en": "Adopt social media and creator seeding early to scale distribution rapidly.",
+          "summary_zh": "抢占Instagram先机并联动博主，引爆品牌增长",
+          "timestamp_sec": 527,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Adapt Quickly & Embrace New Technology",
+          "category": "Business & Strategy",
+          "quote": "You have to adapt. You have to pivot. Business changes every day. Right now with AI, I want to learn more. I want to implement AI as much as I can",
+          "summary_en": "Constantly adapt to change and adopt new tools like AI across operations.",
+          "summary_zh": "保持警觉随时转型，积极学习并全面应用AI",
+          "timestamp_sec": 569,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I work like I can't pay my rent next month. ... I love what I do. I don't even feel like I work.",
+          "summary_en": "Work with hunger while loving the craft and daily problem-solving.",
+          "summary_zh": "保持危机感的同时热爱事业，把工作当乐趣",
+          "timestamp_sec": 592,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Don't be afraid to start to do whatever your heart is telling you.",
+          "summary_en": "Do not be afraid to start pursuing what your heart pulls you toward.",
+          "summary_zh": "不要害怕，勇敢迈出第一步去做内心想做的事",
+          "timestamp_sec": 644,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I used to go to the library. I used to read to do my homework and be passionate about whatever I was doing.",
+          "summary_en": "Build a foundation by reading, studying diligently, and staying passionate.",
+          "summary_zh": "去图书馆大量阅读学习，在热爱的领域深耕",
+          "timestamp_sec": 656,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从罗马尼亚移民美国时身无分文且不懂英语，1997年从解决自身修眉痛点起步创立Anastasia Beverly Hills，2018年以30亿美元估值出售且此前100%持股。",
+      "guest_name": "Anastasia Soare",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of Anastasia Beverly Hills",
+      "wealth_detail": "Company valued at $3B when sold in 2018 (100% ownership prior)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不要害怕开始并坚持自信，初期绝不乱花钱虚荣攀比，盯紧现金流与利润并把赚到的钱不断复投，同时拥抱社媒与AI等新变化。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "My job was to keep rich people rich for a living. I came up with the idea in 2013, but we didn't make our money until 2017 as a business.",
+          "summary_en": "Learn wealth mechanics working with billionaires on Wall Street before launching.",
+          "summary_zh": "先在华尔街近距离服务顶级富豪，再辞职创业",
+          "timestamp_sec": 783,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "80% of their money typically is in marketable securities. ... 10% in cash and 10% in alternative investments ... Wealthy people do not put their money in cash. It's always in something that has a potential to grow their wealth.",
+          "summary_en": "Keep most wealth invested in marketable securities and alternatives rather than cash.",
+          "summary_zh": "效仿富豪80%配置证券10%另类投资，不囤现金",
+          "timestamp_sec": 806,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Wealthy people put their money to work. ... they give their money a job description. You cannot save or work your way to wealth. You can only invest your way there.",
+          "summary_en": "Give your money a job description because you cannot save or work to wealth.",
+          "summary_zh": "不能靠死存钱或打工致富，必须让钱为你工作",
+          "timestamp_sec": 824,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "one of the biggest things I learned about a 1% on Wall Street, they believe they have power. They believe they deserve to be in a room. ... I knew that I could be a billionaire because I was in that room.",
+          "summary_en": "Adopt the mindset that you belong in the room and deserve wealth.",
+          "summary_zh": "打破身份设限，坚信自己配得上坐在顶级牌桌上",
+          "timestamp_sec": 852,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "the key is ownership. You have to create your wealth by owning companies that you know you use and believe in or create your own business.",
+          "summary_en": "Build wealth through equity ownership in companies or your own business.",
+          "summary_zh": "致富核心在于股权所有权，买优质公司或自创企业",
+          "timestamp_sec": 880,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身中产家庭，成为家族首位大学生与百万富翁；曾在华尔街为富人管理资产，2013年离职创办科技公司，2017年实现盈利并在33岁成为百万富翁，单年最高收入接近1000万美元。",
+      "guest_name": "Atlanta Tech Founder & Former Wall Street Banker",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Technical / Engineering",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Tech Company CEO & Former Wall Street Professional",
+      "wealth_detail": "Just shy of $10M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "财富始于内心信念，先相信自己配得上进入顶级圈层；不要只靠省钱和打工，要通过拥有公司股权或自己创业并积极投资让钱生钱。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I had $5,000 that I had saved myself from selling fax machines door-to-door for seven years. ... Do you want to spend your five grand on a vacation or do you want to try to bet on yourself?",
+          "summary_en": "Bet your hard-earned savings on yourself instead of playing it safe.",
+          "summary_zh": "用攒下的5000美元赌自己一把，敢于承担风险",
+          "timestamp_sec": 1038,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I never had a single investor in Spanx other than me. ... Self-funded the entire 21 years. ... whatever you give away in your business, you have to be very willing to give up.",
+          "summary_en": "Retain ownership and control by self-funding instead of giving away equity.",
+          "summary_zh": "坚持21年零外部融资，牢牢守住股权与控制权",
+          "timestamp_sec": 1048,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Trust Intuition Over Spreadsheets",
+          "category": "Business & Strategy",
+          "quote": "I always pay attention to intuition over data, and I don't think investors really understand that. ... intuition's not on a spreadsheet.",
+          "summary_en": "Honor entrepreneurial intuition over spreadsheets when making key bets.",
+          "summary_zh": "重视直觉高于冷冰冰的表格数据，保持独立判断",
+          "timestamp_sec": 1076,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Rejection is my middle name. ... by the time I started Spanx, rejection I knew was just part of the formula to success. ... Oh, I'm closer to my yes.",
+          "summary_en": "Reframe every rejection as proof that you are getting closer to a yes.",
+          "summary_zh": "把拒绝视为成功公式的一部分，越被拒离肯定越近",
+          "timestamp_sec": 1087,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I took bins that I bought at Office Depot and stuck them at every cash register in the store ... You do whatever it takes. And I always say ask for forgiveness, not permission.",
+          "summary_en": "Take bold guerrilla action to get products in front of buyers; ask forgiveness, not permission.",
+          "summary_zh": "不择手段推进业务，先斩后奏把产品摆到收银台",
+          "timestamp_sec": 1121,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Protect Early Ideas Before Sharing",
+          "category": "Business & Strategy",
+          "quote": "I waited a year before I told any friends or family what I was working on. ... ideas are the most vulnerable in the moment you have them.",
+          "summary_en": "Keep new ideas quiet for a year so early doubts do not kill them.",
+          "summary_zh": "想法最脆弱的头一年先对亲友保密，避免被泼冷水",
+          "timestamp_sec": 1174,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "the way that I saw that it solved my problem with my clothes. ... I filled a void that women had been waiting for me to fill.",
+          "summary_en": "Create products that fill an unmet functional void for customers.",
+          "summary_zh": "敏锐发现并填补长期未被满足的消费者刚需空白",
+          "timestamp_sec": 1258,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Innovate in Declining or Overlooked Industries",
+          "category": "Business & Strategy",
+          "quote": "I went into an industry that was in a double-digit decline. ... I'm interested in like what industries are sort of dying on the vine and why?",
+          "summary_en": "Look for declining industries where legacy players stopped solving problems.",
+          "summary_zh": "逆向切入衰退或被忽视的行业，用创新重塑品类",
+          "timestamp_sec": 1293,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "挨家挨户推销传真机7年攒下5000美元作为全部启动资金，21年零外部融资创办并100%持有Spanx，在Neiman Marcus将产品主动摆上收银台后迅速爆红，最终以12亿美元出售公司。",
+      "guest_name": "Sara Blakely",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of Spanx",
+      "wealth_detail": "Sold Spanx for $1.2B; made hundreds of millions in a single year",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "解决一个真实痛点，赌上自己并保持乐趣；在想法刚萌芽最脆弱的头一年先悄悄打磨，不要急于听亲友意见，同时把无数次拒绝当成通往成功的必经之路。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "2Q2JgVDvHV0",
+  "video_type": "street_multi"
+}

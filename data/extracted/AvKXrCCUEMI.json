@@ -1,0 +1,157 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "If you choose to think that that's an issue all it is is your brain trying to give you some reason to justify why you're not as successful as you are.",
+          "summary_en": "Age is irrelevant once you enter the market; treating it as a barrier is just a mental excuse.",
+          "summary_zh": "别拿年龄当借口，市场只看输赢不看资历",
+          "timestamp_sec": 103,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Evaluate Intrapreneurship vs. Entrepreneurship",
+          "category": "Business & Strategy",
+          "quote": "Most business operators they do not make a lot of money so you got to figure out if you're an entrepreneur or [intrapreneur].",
+          "summary_en": "Most business owners earn less than employees; consider becoming a wealthy intrapreneur inside a great company if entrepreneurship isn't right for you.",
+          "summary_zh": "多数创业者利润微薄，可先在好公司做内部创业",
+          "timestamp_sec": 172,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I just had to pull the trigger but I knew that I was okay losing absolutely every single penny knowing that I tried.",
+          "summary_en": "Once your preparation, capital, and timing align, pull the trigger and accept the risk of failure rather than staying stuck.",
+          "summary_zh": "条件具备就果断行动，宁可试错归零也别拖延后悔",
+          "timestamp_sec": 214,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "There's no point to diversify if you got no money that means you're just going to be kind of good at a bunch of things and really great at nothing.",
+          "summary_en": "Do not diversify early; focus all energy on becoming great at one core business until you build a big pile of wealth, then allocate.",
+          "summary_zh": "先在一件事上赚到大钱，没成功前切忌盲目多元化",
+          "timestamp_sec": 306,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "It helps with building your brand it builds connections when you can build an individual brand and you're not there to just make money but you just want to actually help people.",
+          "summary_en": "Build a personal brand by giving away free value to help people; it attracts top talent, media credibility, and business connections.",
+          "summary_zh": "靠免费干货打造个人品牌，能带来人才、信任与机会",
+          "timestamp_sec": 407,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Risk taking is everything... there's times you need to be risk on risk off you need to prepare for a rainy day... if you're not investing in yourself and your career and your development you're not going to be successful.",
+          "summary_en": "Risk-taking is essential to success—bet on yourself and invest in your own development while staying smart about preparing for downturns.",
+          "summary_zh": "敢于承担风险投资自己，同时做好风雨准备",
+          "timestamp_sec": 456,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Until you've been told no until you've been cussed out until you've been screamed at... and you still have to have that same attitude... you won't get it.",
+          "summary_en": "Real resilience cannot be learned from textbooks; you build it by enduring repeated rejection while maintaining your composure and attitude.",
+          "summary_zh": "经受无数次拒绝与辱骂仍保持心态，才是真本事",
+          "timestamp_sec": 552,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "When you're in sales and you learn how to communicate to all different types of people... you have no choice but to get better.",
+          "summary_en": "Gain real-world sales experience through thousands of cold calls and door knocks to master communicating with every type of person.",
+          "summary_zh": "靠大量电销与地推实战，学会与各类人高效沟通",
+          "timestamp_sec": 577,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Master Fundamentals Before Scaling",
+          "category": "Business & Strategy",
+          "quote": "Problem is people try to scale before they're actually conquering one thing... are you crushing it in the current place that you're at and everything is fundamentals.",
+          "summary_en": "Scaling is simply doing the little fundamentals right at scale; dominate your current market before expanding to new geographies.",
+          "summary_zh": "扩张就是把基本功规模化，先打透本地再扩张",
+          "timestamp_sec": 641,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Scaling is people at the end of the day we're going to need thousands of people... that know what they're doing that are as smart or smarter than me in different single areas.",
+          "summary_en": "You cannot scale with software alone; hire specialists smarter than you in specific areas and empower them without micromanaging.",
+          "summary_zh": "规模化靠的是比你更强的团队，放权别事必躬亲",
+          "timestamp_sec": 670,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's all about just staying extremely level-headed through the highs and through the low energy management emotional control and being consistent and just knowing when to take a break.",
+          "summary_en": "Prevent burnout through energy management, saying no to low-value drains, emotional control, reliable systems, and timely rest.",
+          "summary_zh": "做好精力与情绪管理，学会拒绝低价值事务",
+          "timestamp_sec": 752,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I was looking at what are the emerging industries... what is going to be bigger in the next 20 years than it is today.",
+          "summary_en": "Target emerging industries poised to be much bigger in 20 years and move counter to the crowd to capture early disruption.",
+          "summary_zh": "逆向布局未来二十年增长的新兴行业抢占先机",
+          "timestamp_sec": 788,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Are you coachable are you humble and are you persistent... if they have a backup plan... they almost never succeed so someone that has to make it no matter what always will find a way out.",
+          "summary_en": "Prioritize coachability, humility, and persistence—people with no safety net who must succeed always find a way through.",
+          "summary_zh": "看重可塑谦逊与坚持，没有退路的人终会成功",
+          "timestamp_sec": 898,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18-19岁在沃尔玛推销DirecTV、打大量陌生电话并挨家挨户敲门积累一线销售经验；因有家人需要供养，趁时机与资金成熟创办太阳能公司Mitt Group，将业务拓展至17个州并做到年营收超千万美元。",
+      "guest_name": "Grant Mitt",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication",
+        "Leadership & People Management",
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & CEO of Mitt Group & Mitt Blockchain; Investor",
+      "wealth_detail": "$10M+ solar company revenue (projecting $30M this year)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先评估自己适合独立创业还是在好公司做内部创业者；早期别盲目多元化，先选定未来20年大势行业，靠大量电销地推练就硬核沟通力，打透一件事、赚到第一桶金后再分散布局。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "AvKXrCCUEMI",
+  "video_type": "deep_dive_single"
+}

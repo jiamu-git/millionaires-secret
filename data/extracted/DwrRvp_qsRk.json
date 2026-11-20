@@ -1,0 +1,156 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "You could buy four units. The three units will pay all your bills, and this one here, you live for free at a minimum.",
+          "summary_en": "Buy a 1-to-4 unit multifamily property using VA or FHA financing so tenant rents cover your living costs.",
+          "summary_zh": "用低首付贷款买多户住宅以租养房",
+          "timestamp_sec": 234,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I use lawyers. I use brokers. I use bankers. You're just basically putting all the right pieces in the right place.",
+          "summary_en": "Rely on paid professionals like lawyers, brokers, and bankers to assemble and execute real estate deals properly.",
+          "summary_zh": "借助律师经纪人与银行家等专业人士",
+          "timestamp_sec": 259,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "If I borrow a million bucks in a bank, that's 60 grand a year in interest... The deal's got to make sense. It's all in buying the right deal and having a plan for that deal.",
+          "summary_en": "Leverage bank loans to grow wealth, but ensure the deal has enough profit cushion to easily cover interest costs.",
+          "summary_zh": "善用银行杠杆但必须算清利润空间",
+          "timestamp_sec": 301,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Take all the money the hotel's making and pump it into fixing it up. All right. Then we flipped it for 34.",
+          "summary_en": "Reinvest the property's operating cash flow directly into renovations to force appreciation instead of draining personal cash.",
+          "summary_zh": "用资产自身现金流投入翻新再增值",
+          "timestamp_sec": 488,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Data centers is the new future in real estate because computers are only going to grow always.",
+          "summary_en": "Target high-demand secular growth niches like data centers if operating at institutional scale.",
+          "summary_zh": "顶级玩家应布局数据中心等未来趋势",
+          "timestamp_sec": 519,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Refinancing is a non-taxable event. All the money I get was from a refinance. When I sell the building, I don't touch the money.",
+          "summary_en": "Pull equity out through tax-free refinances to roll into your next acquisition instead of triggering taxes by selling.",
+          "summary_zh": "利用免税再融资而非直接出售来滚雪球",
+          "timestamp_sec": 580,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to find the right people to deal with, and you got to get in with the right people that are doing it.",
+          "summary_en": "Build relationships and do business directly with active, experienced operators in your industry.",
+          "summary_zh": "主动融入正在实战的优质人脉圈子",
+          "timestamp_sec": 599,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "It came to me that this was all possible when I went to work for the guy that had all this... You can only grow to what you're exposed to.",
+          "summary_en": "Work alongside someone who already has what you want so their success expands your belief in what is achievable.",
+          "summary_zh": "先替成功者打工以打开眼界和认知上限",
+          "timestamp_sec": 638,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Stop partying. Stop worried about what everybody else is doing.",
+          "summary_en": "Cut out partying and stop worrying about peers so you can focus on executing your own plan.",
+          "summary_zh": "戒掉派对与攀比并专注按计划工作",
+          "timestamp_sec": 660,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Stop trying to have you can't afford. get busy and get to work and have a plan that makes sense.",
+          "summary_en": "Stop buying things you cannot afford and channel that energy into disciplined work with a clear plan.",
+          "summary_zh": "别为了面子购买超出承受能力的东西",
+          "timestamp_sec": 670,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Buy Primary Home Below Market for Forced Equity",
+          "category": "Wealth & Investing",
+          "quote": "If you're buying a home at a price below the market, how could it not be a good investment? ... It's a forced way of saving money and building equity.",
+          "summary_en": "Buy your personal residence below market value as a forced savings vehicle so you eventually own it free and clear.",
+          "summary_zh": "低价购入自住房作为长期强制储蓄手段",
+          "timestamp_sec": 702,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You got to build it. You got to build it block by block and never stop.",
+          "summary_en": "Wealth does not happen overnight; build your portfolio relentlessly block by block without quitting.",
+          "summary_zh": "财富无法一夜暴富须一砖一瓦持续积累",
+          "timestamp_sec": 754,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "In real estate, you're not going to fail if you do your homework and you assert yourself in finding a deal. You're not going to lose, but you got to have a plan to follow that makes sense in real estate.",
+          "summary_en": "Protect your downside by doing thorough homework and asserting yourself to find deals backed by a sound plan.",
+          "summary_zh": "做好功课并制定可行计划去果断出手",
+          "timestamp_sec": 764,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒，20岁出头起步，先为富人打工并建立合作打开认知，随后用退伍军人贷款(VA loan)零首付买下第一套1-4单元多户房产，从保障房逐步扩展到零售物业与酒店。",
+      "guest_name": "Ben Mala",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Entrepreneur & Investor (Hotels, Retail & Multifamily)",
+      "wealth_detail": "$500M net worth (stated by host/title; owns $30M mansion, sold $90M+ property package and $34M hotel)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先找一份工作保证稳定收入以获得银行贷款预批，利用VA零首付或FHA 3.5%低首付买下2-4单元多户住宅，用租金覆盖账单甚至实现正现金流；戒掉派对与虚荣消费，踏实研究好交易、借助专业人士并按计划逐块积累资产。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "DwrRvp_qsRk",
+  "video_type": "deep_dive_single"
+}

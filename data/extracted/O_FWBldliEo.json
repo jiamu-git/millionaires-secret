@@ -1,0 +1,395 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "take 10 of your income put in a stock index fund and all your other Investments are outside of that follow that strictly",
+          "summary_en": "Strictly allocate 10% of your income to a stock index fund separately from all other investments.",
+          "summary_zh": "严格将10%收入定投股票指数基金",
+          "timestamp_sec": 45,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Plan Multi-Stage Scaling",
+          "category": "Business & Strategy",
+          "quote": "a lot of people misestimate the initial first second and third tranches so thinking through that and having experts around you to do that",
+          "summary_en": "Plan ahead for the distinct demands of each scaling stage rather than assuming the second or third stage looks like the first.",
+          "summary_zh": "提前规划多阶段扩张并借助专家力量",
+          "timestamp_sec": 56,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "assessing your Market... understanding that next level is saying is there a market number one and if there's a huge market then what's the right approach",
+          "summary_en": "To scale from seven to eight figures, verify there is a huge scalable market first and then determine the right approach.",
+          "summary_zh": "先评估庞大增量市场再制定扩张路径",
+          "timestamp_sec": 80,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "getting the right people to tell you how to get there... just not trying to figure out on your own",
+          "summary_en": "Don't try to figure out scaling all on your own; surround yourself with experts and the right people who can guide you.",
+          "summary_zh": "别事事亲力亲为，要请教专业人士",
+          "timestamp_sec": 105,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾在多个行业担任业务拓展与销售副总裁多年，后自立门户创立公司，专门帮企业诊断并提升销售业绩。",
+      "guest_name": "Jim Sheridan",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Business Development & Sales Consultant / Former VP",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "pay yourself first and that goes to your retirement because Social Security is probably not going to be around",
+          "summary_en": "Pay yourself first by putting money into retirement savings early rather than relying on Social Security.",
+          "summary_zh": "先付钱给自己，趁早为退休储蓄投资",
+          "timestamp_sec": 163,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "look at what's going on where is their traction and then invest in there it's not a fly-by-night company",
+          "summary_en": "Avoid fly-by-night companies; invest only where you can see real, sustained traction.",
+          "summary_zh": "避开昙花一现的公司，投有增长的项目",
+          "timestamp_sec": 184,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "you live every day and you only die once... don't put off today what you could miss out on tomorrow",
+          "summary_en": "Adopt a 'you only die once' mindset—live every day like it's your last and don't put off today what you could miss tomorrow.",
+          "summary_zh": "保持每天最后一天心态，绝不拖延到明天",
+          "timestamp_sec": 196,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Miami Competitive Intelligence Spymaster",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Competitive Intelligence Specialist / Spymaster",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "建议趁早“先付钱给自己”为退休储蓄，并秉持“只死一次（YODO）”心态，不要把今天能做的事拖延到明天。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "here I finally feel accepted for wanting to work till 10 or 11 or until 3 A.M",
+          "summary_en": "Don't let lifestyle-shaming deter your work ethic; embrace working late and putting in relentless hours.",
+          "summary_zh": "无惧外界对拼命工作的嘲讽，保持极致投入",
+          "timestamp_sec": 251,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "when you're around people that are thinking bigger it creates this environment and container that pushes what's possible for you",
+          "summary_en": "Immerse yourself in high-wealth environments with bigger thinkers to constantly push what you see as possible.",
+          "summary_zh": "置身格局更大、财富密度高的圈层环境",
+          "timestamp_sec": 271,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "fail faster and don't make it mean shit... failing forward intelligently learning from their mistakes faster",
+          "summary_en": "Fail forward faster and strip emotional weight from small setbacks so you learn and compound quicker.",
+          "summary_zh": "快速试错向前失败，别放大负面情绪",
+          "timestamp_sec": 306,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "it all comes down to top tier talent... you cannot have talent without really good compensation packages",
+          "summary_en": "Scaling big ventures comes down to fundraising and recruiting top-tier talent backed by strong leadership and great compensation.",
+          "summary_zh": "靠强领导力和优厚薪酬招募顶尖人才",
+          "timestamp_sec": 367,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "you can't have good compensation packages if you don't have a badass product that sells itself",
+          "summary_en": "Build an undeniable product that sells itself—great products power compensation, talent recruitment, and scale.",
+          "summary_zh": "打磨能自销的硬核产品作为商业基石",
+          "timestamp_sec": 418,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Johnny (Miami Penthouse Sales Entrepreneur)",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Ryan Breslow"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Multi-Millionaire Sales Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "建议快速试错向前失败（Fail faster），不要把小失败看得太重；同时主动融入不排斥拼搏、富人与大格局者云集的环境。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "relationships is everything... whenever you want to develop a relationship with somebody... you come to the table with something to offer",
+          "summary_en": "Relationships are everything—connect with key players in every city and always bring something of value to the table.",
+          "summary_zh": "人脉决定一切，带着价值去结交关键人物",
+          "timestamp_sec": 465,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "learning how to leverage your credit you know that means that you can save your cash",
+          "summary_en": "Learn how to leverage credit wisely so you can preserve and accumulate your cash reserves.",
+          "summary_zh": "学会善用信用杠杆以保留手头现金流",
+          "timestamp_sec": 487,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "understanding the whole 70 30 rule whatever you earn you know you want to be able to save 70 of it and pretty much operate off of 30",
+          "summary_en": "Follow the 70/30 rule by saving 70% of everything you earn and operating strictly off the remaining 30%.",
+          "summary_zh": "遵循70/30法则，存下七成收入运转",
+          "timestamp_sec": 494,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "作为软件工程师自主创业，承接宾州州立大学、洛克希德·马丁及德州政府等机构的应用开发项目，单年最高收入约200万美元。",
+      "guest_name": "Brickell Software Engineer & App Company Owner",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Software Engineer & App Development Company Owner",
+      "wealth_detail": "~$2M/yr (peak single year)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I'm doing this for all these other people let me just start my own brand",
+          "summary_en": "Stop just servicing demanding clients—use your skills to build and own your own brand.",
+          "summary_zh": "从替甲方打工转向创立自有品牌掌股权",
+          "timestamp_sec": 536,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build a Strong Brand Moat",
+          "category": "Business & Strategy",
+          "quote": "they built a brand that is so powerful so strong they can release any product and people would buy",
+          "summary_en": "Build a brand so powerful that customers implicitly trust and buy any product you launch.",
+          "summary_zh": "打造强势品牌壁垒，让客户信赖买单",
+          "timestamp_sec": 549,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "you have to figure out the winning product... it goes product marketing sales so if your product's good you don't need marketing",
+          "summary_en": "When starting from nothing in e-commerce, focus on finding a winning product first—product trumps marketing and sales.",
+          "summary_zh": "电商从零起步重在爆品，产品优先于营销",
+          "timestamp_sec": 597,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "you don't need a Mac you just need this you need the Internet",
+          "summary_en": "Start lean without expensive status gear like a Mac; a basic computer and an internet connection are all you need.",
+          "summary_zh": "轻资产起步，有普通电脑和网络即可创业",
+          "timestamp_sec": 621,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "the more I've been here it's like damn I gotta hustle harder... I just want to level up",
+          "summary_en": "Let ambitious, wealthy environments push you to hustle harder and level up your output.",
+          "summary_zh": "在进取氛围中激发斗志，更加拼搏升级",
+          "timestamp_sec": 648,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "最初靠社交媒体营销代理（SMMA）赚到第一个100万美元；因厌倦服务挑剔客户，转而创立自己的保健品与电商品牌，个人单年最高收入达350万美元（公司年营收约1400万美元）。",
+      "guest_name": "Austin-Based E-Commerce & Supplement Brand Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "E-Commerce & Supplement Brand Founder",
+      "wealth_detail": "$3.5M/yr personal income; $14M/yr business revenue",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "电商从零起步最容易赚钱的不是投流或营销，而是先找出真正能打的“爆款产品”（产品>营销>销售），并用低成本设备轻资产启动。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "put my whole family in my back I like pressure and like when I put people on my back like I perform my best",
+          "summary_en": "Embrace responsibility for your family and use that pressure as fuel to perform at your highest level.",
+          "summary_zh": "将家庭责任化作高压动力以发挥最佳",
+          "timestamp_sec": 692,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "quit and Chase happiness you can't put a price on on happiness... work on your passion... try everything",
+          "summary_en": "Don't stay trapped in an unfulfilling job—quit, chase happiness, and try everything to discover your passion.",
+          "summary_zh": "离开不快乐的工作，多方尝试追逐热爱",
+          "timestamp_sec": 707,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在德国第四级别联赛（Viktoria队）担任职业足球运动员，以肩负全家期望作为高压前行的动力。",
+      "guest_name": "German Fourth-Division Pro Soccer Player",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Professional Soccer Player (Germany 4th Division)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "若在不喜欢的岗位上感到挣扎，应果断辞职追寻快乐，多方尝试找到自己的热情所在。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "ask a lot of questions find mentors and model their behaviors whatever it is you want to do in life it's already been done",
+          "summary_en": "Ask plenty of questions, find mentors who have already succeeded at your goal, and model their behaviors.",
+          "summary_zh": "多提问并寻找过来人导师，效仿其路径",
+          "timestamp_sec": 725,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "it's been unlimited possibilities for me it's the most important thing you can do",
+          "summary_en": "Surrounding yourself with the right people is the most important thing you can do to unlock unlimited possibilities.",
+          "summary_zh": "与对的人为伍能为你带来无限可能",
+          "timestamp_sec": 741,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "from owning that building he met that client there you go you can make money anywhere you want if you're entrepreneurial",
+          "summary_en": "Owning commercial real estate creates unexpected entrepreneurial deal flow—like a landlord backing a tenant's beverage brand into a public company.",
+          "summary_zh": "投资商业地产不仅赚租金还能衍生人脉商机",
+          "timestamp_sec": 783,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "don't count other people's money... keeping up with the Joneses and they're buying things and spending money on things they really can't afford",
+          "summary_en": "Stop counting other people's money or buying things you can't afford just to keep up with the Joneses.",
+          "summary_zh": "别盯着他人钱包攀比虚荣而透支消费",
+          "timestamp_sec": 832,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Avoid Social Media Comparison",
+          "category": "Mindset & Resilience",
+          "quote": "you start comparing yourself to other people there's always going to be someone richer... worry about yourself go at your own pace",
+          "summary_en": "Ignore fake wealth on social media, stop comparing yourself to others, and focus on moving at your own pace.",
+          "summary_zh": "戒掉社媒攀比焦虑，专注自己按节奏前进",
+          "timestamp_sec": 860,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "South Florida Commercial Real Estate Developer",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Commercial Real Estate Property Manager & Developer",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "多提问、找已经成功的人当导师并模仿其行为；同时别与社交媒体上的虚假人设攀比，专注自身按自己的节奏前进。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "O_FWBldliEo",
+  "video_type": "street_multi"
+}

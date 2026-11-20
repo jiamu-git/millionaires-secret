@@ -1,0 +1,365 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Think Independently & Don't Follow Blindly",
+          "category": "Mindset & Resilience",
+          "quote": "don't believe what anybody tells you figure it out for yourself only don't just do it based on what you think or you wish or what somebody tells you",
+          "summary_en": "Question external narratives and algorithm-driven advice; figure out the truth for yourself.",
+          "summary_zh": "不要轻信他人或算法，独立思考探索真相",
+          "timestamp_sec": 19,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "mostly in conservative for the most part High dividend stocks that will not do as well in good times and they won't do as badly in bad times... compounding is your",
+          "summary_en": "Invest in conservative high-dividend stocks and let compounding work over time rather than expecting overnight wealth.",
+          "summary_zh": "投资稳健高股息股票，依靠长期复利积累财富",
+          "timestamp_sec": 62,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Downtown Austin High-Dividend Stock Investor",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Conservative Stock Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时不要指望一年内财务自由，应靠复利稳健投资高股息股票并保持独立判断。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "intelligence you can develop",
+          "summary_en": "Actively cultivate and develop your intelligence over time.",
+          "summary_zh": "持续学习并刻意培养自己的认知与才智",
+          "timestamp_sec": 125,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Integrity is born within you Character Matters",
+          "summary_en": "Uphold strong character and integrity in everything you do.",
+          "summary_zh": "坚守诚信与品格，这是立身之本",
+          "timestamp_sec": 125,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "and initiative keep trying",
+          "summary_en": "Take initiative and keep trying persistently without giving up.",
+          "summary_zh": "保持主动性并持续尝试，永不言弃",
+          "timestamp_sec": 125,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "self-discipline ourselves are the hardest things to master but once you conquer that the rest of the world is open to you",
+          "summary_en": "Master self-discipline first; once you conquer yourself, every opportunity opens up.",
+          "summary_zh": "自律是最难但最关键的功课，征服自己即能拥抱世界",
+          "timestamp_sec": 141,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从军队退役后转型进入咨询行业。",
+      "guest_name": "Downtown Austin Retired Military Consultant",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Retired Military Officer & Business Consultant",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "大学毕业步入社会最重要的是培养才智、坚守诚信品格、保持主动性并彻底掌握自律。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "just the basics in mutual funds as well as a few other companies",
+          "summary_en": "Stick to foundational investing in mutual funds and select companies alongside minimal crypto exposure.",
+          "summary_zh": "以共同基金等基础资产为主进行稳健投资",
+          "timestamp_sec": 159,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "what is the secret to sales in 2022 Being Human if I'm going to sell you something I have to remember you still go home to somebody else",
+          "summary_en": "The secret to sales is being human and empathizing with the customer's real life outside work.",
+          "summary_zh": "销售的秘诀是保持人情味，真正理解客户的生活",
+          "timestamp_sec": 159,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Practice Values-Based Spending",
+          "category": "Wealth & Investing",
+          "quote": "really what boils down to being financially free whether you're 21 or 30 is based on values-based spending so you have to identify your value",
+          "summary_en": "Achieve financial freedom by practicing values-based spending—identify what matters most to you and allocate money intentionally.",
+          "summary_zh": "财务自由的关键是价值观导向消费，把钱花在真正看重的事上",
+          "timestamp_sec": 186,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在TikTok从事媒体与广告销售工作。",
+      "guest_name": "TikTok Media & Advertising Sales Rep",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Sales Representative at TikTok",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不必盲目追求复杂理财，先明确个人核心价值观并据此规划消费与基础基金投资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Take School & Early Career Seriously",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "take it more serious than I did... we just had a little fun didn't take it too serious and it took us a little longer until we finished",
+          "summary_en": "Take high school and university more seriously instead of just having fun, so you don't delay your progress.",
+          "summary_zh": "趁年轻认真对待学业与起步阶段，不要因贪玩耽误进度",
+          "timestamp_sec": 221,
+          "type": "regret"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "it gave me all sort of great opportunity to do what I was loving to do",
+          "summary_en": "Pursue opportunities that let you do work you genuinely love.",
+          "summary_zh": "投身自己真正热爱的事业并把握相关机会",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "70年代末80年代初从DJ做起，随后加入CBS Records、Sony Music和Capitol唱片公司。",
+      "guest_name": "Former DJ & Music Industry Veteran",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Former Professional DJ & Major Label Executive/Veteran",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时应更加认真对待学业，同时追随热爱进入喜欢的行业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "real estate myself and other people I trust",
+          "summary_en": "Invest in real estate, yourself, and trustworthy people.",
+          "summary_zh": "投资房地产、投资自己以及值得信赖的人",
+          "timestamp_sec": 281,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "no limitations you truly can do whatever you dream of",
+          "summary_en": "Put no limitations on yourself; you can achieve whatever you dream of.",
+          "summary_zh": "不要给自己设限，你完全可以实现自己的梦想",
+          "timestamp_sec": 292,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "in Austin there's an unlimited amount of opportunity and wealth right and why can't you have a big piece of it of course trying to scale",
+          "summary_en": "Position yourself in high-opportunity growing markets like Austin and aim to scale and capture a meaningful share.",
+          "summary_zh": "置身机遇与财富充沛的高增长市场并努力做大规模",
+          "timestamp_sec": 303,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "成为外科医生并同时涉足房地产与人脉投资。",
+      "guest_name": "Downtown Austin Surgeon",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Surgeon & Real Estate Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "打破自我设限，积极投资自己、房地产和可信赖的伙伴，在充满机遇的城市争取大份额。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find Your Own Unique Path",
+          "category": "Mindset & Resilience",
+          "quote": "we have to look inwardly and really do a lot of soul searching to see what our unique path is for me college was the way",
+          "summary_en": "Look inward and do soul-searching to determine whether college or another path fits your unique goals.",
+          "summary_zh": "向内审视并深入思考，找到适合自己的人生路径",
+          "timestamp_sec": 330,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "follow your heart think about what you love to do that thing that you would do for free and just ask the simple question how do I monetize there",
+          "summary_en": "Identify what you love enough to do for free, then figure out how to monetize it.",
+          "summary_zh": "找到免费也愿意做的热爱之事，再思考如何将其变现",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Downtown Austin College-Path Advisor",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Business & Career Advice Interviewee",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "先向内探索自己独特的道路，并思考如何将哪怕不给钱也热爱的事商业化变现。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Understand Asset Volatility & Track Record",
+          "category": "Wealth & Investing",
+          "quote": "the volatility in stocks is very little compared to cryptocurrency because compare cryptocurrency to a young kid it's been around 10 15 years... stocks have been around 100 years",
+          "summary_en": "Compare asset track records and volatility—stocks have 100 years of stability compared to newer, volatile crypto.",
+          "summary_zh": "理解不同资产的历史积淀与波动性，股市远比加密资产成熟稳定",
+          "timestamp_sec": 360,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Patient in High-Rate Market Cycles",
+          "category": "Wealth & Investing",
+          "quote": "Sometimes the best trade or the best deal you can make is sitting on the sidelines I mean tell everything evens out before you jump back in",
+          "summary_en": "When interest rates rise and markets are uncertain, sometimes the best move is sitting on the sidelines until conditions stabilize.",
+          "summary_zh": "加息周期与市场不明朗时应保持耐心，观望等待局势明朗再入场",
+          "timestamp_sec": 381,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事房地产开发行业。",
+      "guest_name": "Downtown Austin Real Estate Developer",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Real Estate Developer",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "在利率上升的棘手市场环境中，宁可持币观望也不要盲目入场。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "go through it with the military serve the military get your pension then get your second job as a doctor collect a pension for the rest of your life through the military",
+          "summary_en": "For medical/dental careers, consider serving through the military to secure a lifetime pension alongside your second career income.",
+          "summary_zh": "医疗从业者可通过军队服役获得终身养老金，叠加第二份职业收入",
+          "timestamp_sec": 420,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "equities and then annuities bonds and you know things that pay you every year for the rest of your life",
+          "summary_en": "Build a portfolio of equities, annuities, and bonds that generates reliable annual cash flow for life.",
+          "summary_zh": "配置股票、年金和债券，打造终身每年稳定派息的现金流组合",
+          "timestamp_sec": 448,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Keep Searching Until You Find a Responsive Advisor",
+          "category": "Actionable Skills & Habits",
+          "quote": "I've gone through several financial advisors that did nothing for me and then I found one who was very receptive and you just got to keep looking",
+          "summary_en": "Don't settle for unhelpful financial advisors; keep searching until you find one who is truly receptive to your needs.",
+          "summary_zh": "别将就无能的理财顾问，持续寻找真正积极负责的顾问",
+          "timestamp_sec": 463,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "it's gonna take you more than a year right well just do what you're doing Network and ask people and all that stuff and it's going to get there",
+          "summary_en": "Financial freedom takes more than a year; keep networking and asking successful people questions.",
+          "summary_zh": "财务自由非一年之功，持续拓展人脉并向他人虚心请教",
+          "timestamp_sec": 476,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Work Multiple Summer Jobs Before Graduating",
+          "category": "Actionable Skills & Habits",
+          "quote": "don't go to school during the summer go get different jobs about things that you think you might be interested in so that by the time you're out of college you've worked three or four different jobs",
+          "summary_en": "Skip summer classes and work three or four different jobs in areas of interest before graduating college.",
+          "summary_zh": "利用大学暑假去不同行业实习打工，毕业前积累三四种工作体验",
+          "timestamp_sec": 487,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾拥有并成功出售自己的牙科诊所，现已退休靠终身年金和分红生活。",
+      "guest_name": "Retired Dentist & Former Practice Owner",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Retired Dentist & Practice Seller",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "利用大学暑假尝试不同工作，多拓展人脉请教前辈，并通过股票、年金和债券建立长期现金流。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "67T9EMIvOlA",
+  "video_type": "street_multi"
+}

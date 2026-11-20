@@ -1,0 +1,308 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I was a very mediocre student. ... Not at all. ... I said, 'I'm going to prove them wrong.'",
+          "summary_en": "Do not let mediocre grades or others doubting your potential define you; use skepticism as fuel to prove them wrong.",
+          "summary_zh": "用行动证明质疑者看错自己，不被成绩定义",
+          "timestamp_sec": 278,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Don't go on the path that everybody wants to go. ... I want to go to the future for the growth. ... Go on the path less traveled.",
+          "summary_en": "Avoid crowded conventional career paths and target emerging, high-growth industries early.",
+          "summary_zh": "避开拥挤赛道，选择未来高增长行业",
+          "timestamp_sec": 300,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to know the people, you got to talk to the people, find out what their needs and desires are. ... It's got to be a win-win situation.",
+          "summary_en": "Understand the other party's needs and desires in every deal and structure negotiations as win-win outcomes.",
+          "summary_zh": "销售谈判要了解对方需求并实现双赢",
+          "timestamp_sec": 358,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Watch the debt. If you have too much debt and the markets go against you, you can lose control of the company.",
+          "summary_en": "Keep debt manageable and ensure your business generates enough cash flow to service it under any market conditions.",
+          "summary_zh": "控制债务规模，确保现金流能随时偿债",
+          "timestamp_sec": 372,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Just think outside of the box. Be creative, focus, and you will be a great entrepreneur.",
+          "summary_en": "Think outside the box, stay creative, and maintain laser focus to succeed as an entrepreneur.",
+          "summary_zh": "跳出固有框架思考，保持创造力与专注",
+          "timestamp_sec": 393,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Respect & Empower Frontline Employees",
+          "category": "Business & Strategy",
+          "quote": "I never felt as a CEO and founder of the company that I was any better than the lowest level installer or customer service rep in our company.",
+          "summary_en": "Treat frontline workers and janitors with the same respect as executives because they directly serve customers and drive loyalty.",
+          "summary_zh": "平等尊重基层员工，他们直接决定客户体验",
+          "timestamp_sec": 418,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Of course you fire people who are incompetent. ... Stay away from [hiring friends and family]. ... Those who deliver should move forward.",
+          "summary_en": "Maintain a strict meritocracy: avoid hiring friends or family and fire people who cannot deliver on the job.",
+          "summary_zh": "任人唯贤不雇亲友，果断辞退不称职者",
+          "timestamp_sec": 456,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Never give up. Be true to yourself and stick with your ideas. Never, ever give up and pursue those ideas.",
+          "summary_en": "Stay true to yourself, stick with your ideas, and never give up even when people think you are crazy.",
+          "summary_zh": "忠于自我与想法，面对质疑永不放弃",
+          "timestamp_sec": 480,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "中产家庭出身，上学时成绩平庸，12岁时因听到长辈说自己难成大器而立志证明自己；后从波士顿银行贷款700万美元收购有线电视系统，连续8年每年将公司规模翻倍，1999年以逾30亿美元出售公司。",
+      "guest_name": "Mark Nathanson",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder & Former CEO of Cable TV Company",
+      "wealth_detail": "Sold cable TV company for over $3B in 1999",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "走别人不走的路、瞄准未来高增长行业；学会洞察他人需求实现双赢谈判；控制好债务风险确保现金流能覆盖利息；平等待人、任人唯贤且绝不任用亲友；永不放弃自己的想法。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "The secret is you got to basically know who you are and don't take from anyone and know who you are. ... If you are secure in who you are, that can offset the [insecurity] in the boardroom.",
+          "summary_en": "Know who you are and stay secure in yourself, especially in boardrooms where many decision-makers act out of insecurity.",
+          "summary_zh": "认清自我保持内心笃定，不向任何人妥协",
+          "timestamp_sec": 564,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Attention to Detail & Note-Taking",
+          "category": "Actionable Skills & Habits",
+          "quote": "I carry a notepad and a pen. I write things down. ... It's the little things. It's the detail. Dress well, be polite, but also don't take any from anyone.",
+          "summary_en": "Carry a physical notepad and pen to track commitments in meetings, and master small details like dressing well and being polite.",
+          "summary_zh": "随身带纸笔记录并注重着装礼貌等细节",
+          "timestamp_sec": 589,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Take Profits & Avoid Greed",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Yeah, don't get greedy. If you're making a profit, you're never going to go broke.",
+          "summary_en": "Don't get greedy on deals or investments; consistently taking profits ensures you will never go broke.",
+          "summary_zh": "切忌贪婪，只要持续盈利就不会破产",
+          "timestamp_sec": 655,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "出身华盛顿普通五口之家（父亲管理体育馆年薪不超过5万美元），早年在Simon & Schuster从事图书出版与知识产权业务，通过收购书籍小众版权起步，31岁成为百万富翁，巅峰单年收入达1100万美元。",
+      "guest_name": "Beverly Hills Book Publishing IP Executive",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "IP Executive (Former Simon & Schuster Book Rights Buyer)",
+      "wealth_detail": "Became a millionaire at 31; peak single-year income of $11M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "认清自我、保持自信且不卑不亢；随身携带纸笔做记录，注重仪容和礼貌等细节；做交易切忌贪婪，只要持续盈利就不会破产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Keep Cash Reserves for Opportunities",
+          "category": "Wealth & Investing",
+          "quote": "Have cash at all times. Because when there's an opportunity that you want to strike, you better have the money. ... It doesn't take debt to make money, it takes money.",
+          "summary_en": "Always stockpile cash reserves rather than relying on debt so you have the flexibility to strike when opportunities arise.",
+          "summary_zh": "时刻保有充足现金储备以把握突发良机",
+          "timestamp_sec": 800,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Sometimes people make it and they go out and buy a fancy car, they buy a fancy plane instead of reinvesting it in their employees and their business and growing their business.",
+          "summary_en": "Reinvest profits back into your employees and business growth instead of spending on luxury status items like planes or cars.",
+          "summary_zh": "赚钱后拒绝炫耀消费，将利润再投向团队",
+          "timestamp_sec": 819,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I hang with people that like to invest in themselves, in their employees, in their business, and what they're doing. ... They'd rather live house poor and business rich.",
+          "summary_en": "Live house poor and business rich by keeping personal lifestyle modest while compounding capital in your business and people.",
+          "summary_zh": "坚持住房节俭而企业富足，避免生活膨胀",
+          "timestamp_sec": 848,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Be curious and don't be a know-it-all and shut your mouth. ... I can [solve everything], but not by myself.",
+          "summary_en": "Stay relentlessly curious, stop acting like you know everything, and recognize you cannot solve everything alone.",
+          "summary_zh": "保持好奇心与谦逊，不自以为是并多倾听",
+          "timestamp_sec": 859,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "They believe they have all the answers, they believe they're right, they have this pride of authorship... it requires you to be humble and be open-minded, and it requires you to listen and learn from other people.",
+          "summary_en": "Drop your ego and pride of authorship; stay humble, open-minded, and willing to listen and learn from others.",
+          "summary_zh": "放下傲慢与掌控欲，虚心向他人请教学习",
+          "timestamp_sec": 879,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Customer is not number one, the employee is number one. ... My mentality is I believe in an upside-down pyramid. The employees drive the business, and I'm here to serve them.",
+          "summary_en": "Put employees before customers using an upside-down pyramid—treat staff with dignity and give them a path to prosperity.",
+          "summary_zh": "把员工放在第一位，以倒金字塔理念服务团队",
+          "timestamp_sec": 888,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Everything that you have is a gift, and you better teach it and share it with everybody else.",
+          "summary_en": "Treat everything you have achieved as a gift and make it a duty to teach and share it with others.",
+          "summary_zh": "把所拥有的一切视作礼物，乐于教导与分享",
+          "timestamp_sec": 915,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "蓝领家庭出身，靠努力读书受教育；早年意识到自己不善体育和文艺但精通数学与金钱，27岁成为百万富翁，在房车（RV）行业打造出年净利润高达9亿美元的上市公司，并收购了Bed Bath & Beyond。",
+      "guest_name": "Marcus Lemonis",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Entrepreneur & Executive (RV Industry / Bed Bath & Beyond Buyer)",
+      "wealth_detail": "Became a millionaire at 27; public company made $900M in single-year bottom-line profit",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "时刻储备充足现金以便随时把握商业机会；拒绝盲目消费炫耀，坚持“住房节俭、企业富足”并把利润再投资于员工和业务；保持谦逊与好奇心，摒弃自以为是并向他人学习；把员工放在第一位以实现倒金字塔式服务。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I bought this house at a time when it was not expensive. ... I had been looking for 2 years for the right house and I decided to buy it back in 30 seconds.",
+          "summary_en": "Search patiently for the right property at a low price point, then act decisively when you find it.",
+          "summary_zh": "耐心寻找两年优质房产并在低谷期果断出手",
+          "timestamp_sec": 1190,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I just make it a priority. I'm pretty good at figuring out how to spend as little as possible for the best seats.",
+          "summary_en": "Allocate spending intentionally toward your top priorities while figuring out how to pay as little as possible for maximum quality.",
+          "summary_zh": "把钱花在热爱之事上，并精打细算追求高性价比",
+          "timestamp_sec": 1271,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "It's been my only car for 60 years. ... Because it's a classic. ... This was also a good investment because this car is worth $1 million.",
+          "summary_en": "Hold rare, classic assets long-term—owning one classic car for 60 years turned a $12,000 purchase into a $1 million investment.",
+          "summary_zh": "买入稀缺经典资产并长期持有实现大幅增值",
+          "timestamp_sec": 1441,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Look Forward & Enjoy the Present",
+          "category": "Mindset & Resilience",
+          "quote": "I don't like to look backwards. I like to look forward. If I look backwards, I could think of some things that maybe I would do differently, but it doesn't do any good to think about that.",
+          "summary_en": "Avoid dwelling on past regrets or what you might do differently; look forward and enjoy the present day.",
+          "summary_zh": "不去纠结过往遗憾，保持向前看并享受当下",
+          "timestamp_sec": 1474,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Value Independence Over Status Labels",
+          "category": "Mindset & Resilience",
+          "quote": "I don't have a goal to be in Forbes magazine. ... What's important is that I have independence to do what I want to do when I want to do it.",
+          "summary_en": "Prioritize personal independence to do what you want on your own schedule rather than chasing billionaire labels or Forbes rankings.",
+          "summary_zh": "追求做想做之事的独立自由，而非富豪榜虚名",
+          "timestamp_sec": 1499,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "投资加州房地产积累财富；60年前在比佛利山庄房价尚低时仅用30秒果断买下如今传闻估值逾1亿美元的豪宅（也是电影《谋杀绿脚趾》取景地），并曾以1.2万美元购入如今价值100万美元的1961年款劳斯莱斯。",
+      "guest_name": "James Goldstein",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "California Real Estate Investor & NBA Courtside Superfan",
+      "wealth_detail": "Mansion reportedly worth $100M+; owns 1961 Rolls-Royce worth $1M (bought for $12K); declined to confirm billionaire status",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "看准好资产果断出手（曾寻找两年但在30秒内拍板买房）；优先把钱花在真正热爱的事物上，同时精打细算以最低成本获取最优体验；购买经典稀缺资产作为长期投资；追求行动自由与独立而非财富榜虚名，活在当下向前看。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "6kYW4qK2qcM",
+  "video_type": "street_multi"
+}

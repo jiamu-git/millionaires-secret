@@ -1,0 +1,276 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you dream it, it's possible. I always tell everyone, it is possible, but you got to work hard to get there.",
+          "summary_en": "Success is possible if you dream it, but only hard work gets you past plateaus.",
+          "summary_zh": "每天拼命工作，才能突破停滞实现梦想",
+          "timestamp_sec": 279,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Anytime that you walk into a room, I will tell you, don't walk in looking to see what they can do for you, but how you can serve them.",
+          "summary_en": "Enter every sales or negotiation room focused on how you can serve the other party rather than what you can get.",
+          "summary_zh": "谈判先想如何服务对方，而非能索取什么",
+          "timestamp_sec": 298,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I was throwing down 5, 10 grand a night on my friends and having fun and buying drinks... are they really your friends or are they hanging out because the money's flowing?",
+          "summary_en": "Stop blowing thousands of dollars to entertain people who only stick around while money is flowing.",
+          "summary_zh": "别为撑场面请客挥霍，酒肉朋友靠不住",
+          "timestamp_sec": 317,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You wake up each and every single day, you are grateful for the breath that God gives you, and you lean into the moment... I'm happier than I've ever been because I'm at peace.",
+          "summary_en": "Practice daily gratitude and inner peace rather than chasing external validation or equating wealth with happiness.",
+          "summary_zh": "每天感恩生命活在当下，内心平静胜过财富",
+          "timestamp_sec": 348,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "When you start seeing red flags, don't ignore them because you want something so bad... You got to be very careful on who you surround yourself with.",
+          "summary_en": "Never ignore relationship red flags and choose partners and people who genuinely love you back.",
+          "summary_zh": "别忽视关系中的危险信号，慎重选择身边人",
+          "timestamp_sec": 379,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Go find the business that you can make a residual income from every single month.",
+          "summary_en": "Build a business with compounding monthly residual income instead of chasing one-off sales quotas.",
+          "summary_zh": "寻找能每月带来持续分成收入的生意",
+          "timestamp_sec": 409,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "When you get a hold of something that is truly making you revenue, stay focused. Stay intentful on that business. Don't get distracted.",
+          "summary_en": "Stay laser-focused on your core cash-generating business instead of chasing shiny new side ventures.",
+          "summary_zh": "抓住赚钱主业保持专注，别被新风口分心",
+          "timestamp_sec": 498,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you aren't showing up for yourself every single day first and foremost, how can you show up for others? How can you lead others?",
+          "summary_en": "Maintain daily physical and personal discipline first so people respect and follow your leadership.",
+          "summary_zh": "先自律管理好自己，才能有底气领导他人",
+          "timestamp_sec": 531,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20多岁中期赚到第一个百万；父亲给他看了一篇关于银行推广信用卡刷卡机的报纸文章后，他挨家挨户敲门把鞋底磨破，帮商户安装刷卡机并赚取每笔交易的持续分成。",
+      "guest_name": "Big Z (River Oaks Payment Processing Founder)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Payment Processing Company Founder",
+      "wealth_detail": "Over $500,000/month in residual revenue; several million dollars in a single year (first million in mid-20s)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "寻找能每月产生持续复利分成的生意，每天凌晨4点起床工作，抱着服务而非索取的心态做销售，并死磕主业不追逐新风口。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Hard work and full on commitment to doing whatever it takes.",
+          "summary_en": "Commit fully to working as many hours and days as it takes to build your business.",
+          "summary_zh": "全力以赴拼命工作，绝不轻易放弃",
+          "timestamp_sec": 901,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Diversify Customer Base",
+          "category": "Business & Strategy",
+          "quote": "Don't do what everybody thinks you should do, which is focus on one thing or focus on one customer. You have to be diversified so that you can survive.",
+          "summary_en": "Diversify your client base and offerings so losing a single customer cannot sink your company.",
+          "summary_zh": "别只依赖单一客户或业务，分散风险求生存",
+          "timestamp_sec": 958,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Save money because today we have an interest rate, the compound interest is the greatest force in the universe.",
+          "summary_en": "Save and invest early while you are young to harness the power of compound interest.",
+          "summary_zh": "趁年轻尽早存钱投资，善用复利这一最强力量",
+          "timestamp_sec": 991,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Leverage Strengths Over Passion",
+          "category": "Business & Strategy",
+          "quote": "Don't do what's your passion. Do what you're good at. If you do what you're good at, then people will buy that thing from you because you're good at it.",
+          "summary_en": "Focus on what you are genuinely good at so customers pay for your competence, rather than chasing passion prematurely.",
+          "summary_zh": "别盲从追逐激情，要去做自己擅长且能变现的事",
+          "timestamp_sec": 1043,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "In 22 years of being in business, you are going to be told no every day. Be prepared for it.",
+          "summary_en": "Expect to hear 'no' every single day in business and keep pushing forward anyway.",
+          "summary_zh": "创业每天都会被拒绝，必须提前做好心理准备",
+          "timestamp_sec": 1092,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Avoid Pointless Arguments",
+          "category": "Mindset & Resilience",
+          "quote": "Never argue with an idiot because the onlookers can't tell the difference between the two of you.",
+          "summary_en": "Refuse to argue with foolish people because bystanders cannot tell who the fool is.",
+          "summary_zh": "永远别和蠢人争论，否则旁观者分不清谁蠢",
+          "timestamp_sec": 1102,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "They actually should teach you to balance a checkbook. They should teach you what debt is. They should teach you about credit card interest rates... about your 401k and why you should save early.",
+          "summary_en": "Learn personal finance fundamentals early, including budgeting, debt, credit card interest, and 401(k) saving.",
+          "summary_zh": "尽早学习记账、债务、信用卡利息和退休储蓄",
+          "timestamp_sec": 1112,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通西班牙裔移民家庭，最早从事能源大宗商品交易与营销，后来与搭档零资金起步创办专注能源领域的猎头与咨询公司，22年做到年营收近3000万美元。",
+      "guest_name": "Shelly Wright",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Scott Galloway"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder of Energy Commodities Recruiting & Consulting Firm",
+      "wealth_detail": "Company revenue over $20M/year, approaching $30M+/year (host notes $22M in a single year); started with $0",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "做自己擅长而非单纯喜欢的事，做好每天被拒绝的准备并加倍努力工作，同时趁年轻尽早存钱利用复利。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "You just got to keep your well-being in place and that's all I do. It's just got to be sustainable, right? So, I do a smoothie in the morning, one bill, and exercise every day.",
+          "summary_en": "Maintain sustainable daily health habits, including regular exercise, to stay sharp over decades.",
+          "summary_zh": "保持健康与日常锻炼，让生活和精力可持续",
+          "timestamp_sec": 1224,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Innovate & Find a Better Way",
+          "category": "Business & Strategy",
+          "quote": "Find a better way to do it. Find it. Always... I've done some patents and we've done some really unique things. We think outside the box.",
+          "summary_en": "Constantly look for a better way, think outside the box, and innovate with unique solutions or patents.",
+          "summary_zh": "跳出固有思维搞创新，永远寻找更好的做法",
+          "timestamp_sec": 1261,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It's way more expensive, and it's way more capital intensive now. You can't do it with $2,500... You got to get into the business and the grind.",
+          "summary_en": "Because industries are more capital-intensive now, enter the business and put in the daily grind to break through.",
+          "summary_zh": "如今创业资本门槛高，必须深入行业踏实磨炼",
+          "timestamp_sec": 1283,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I sell on relationships. No one's going to do business with you if they can't trust that you're going to perform.",
+          "summary_en": "Build long-term business relationships rooted in proven reliability and trust that you will deliver.",
+          "summary_zh": "靠人际关系与履约信任才能做成大生意",
+          "timestamp_sec": 1292,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "All you have to do is earn their trust. And to do that, you have to understand what they like and a common thread... coming from a place of honesty, and you're coming from a place that you can take care of their business.",
+          "summary_en": "Win deals by finding common ground, communicating honestly, and proving you can take care of the client's business.",
+          "summary_zh": "销售关键在于真诚沟通、找共同话题并赢得信任",
+          "timestamp_sec": 1309,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Oh, don't be all about self. Cheer for others to succeed, and then you will be able to succeed.",
+          "summary_en": "Avoid selfishness and genuinely root for others to succeed, which enables your own success.",
+          "summary_zh": "别只顾着自己，真诚祝愿他人成功你才会成功",
+          "timestamp_sec": 1340,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通工人家庭，30岁时仅用2500美元起家进入下游润滑油和化工品行业，靠创新专利和建立客户信任将公司做到约1亿美元年营收，促成过数百亿美元规模的大单。",
+      "guest_name": "Ray (Lubricant Oils & Chemicals Founder)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Negotiation & Deal-Making",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Downstream Lubricant Oils & Chemicals Founder",
+      "wealth_detail": "Company revenue around $100M/year; biggest deal closed was tens of billions of dollars; started with $2,500 at age 30",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "如今行业资本门槛大幅提高，必须深入行业一线实干，靠创新寻找更好方法，并用诚实和履约能力赢得客户长期信任。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "RCSumiV43cQ",
+  "video_type": "street_multi"
+}

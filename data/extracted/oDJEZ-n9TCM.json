@@ -1,0 +1,204 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Take Care of Your People & Staff",
+          "category": "Business & Strategy",
+          "quote": "You take care of your people, you're going to be successful.",
+          "summary_en": "Take care of your employees and avoid corporate homogenization that neglects the staff.",
+          "summary_zh": "善待员工，别让大公司同质化企业文化",
+          "timestamp_sec": 98,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "I always tried to have three sources of income, three different businesses in different categories working to make money.",
+          "summary_en": "Diversify across three separate businesses in different industries rather than putting all eggs in one basket.",
+          "summary_zh": "布局三个不同领域的收入来源分散风险",
+          "timestamp_sec": 124,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "If your partners can't make the call... If you can't make that call, they don't need to be your partner.",
+          "summary_en": "Only partner with people who can step up and put in capital when the business needs cash flow.",
+          "summary_zh": "谨慎选择合伙人，必须能共同承担追加出资",
+          "timestamp_sec": 162,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I literally walked into a bank on Saturday and met with the president of the bank on the day he was off and got a loan for $550,000 and opened my first business.",
+          "summary_en": "Don't be afraid to take bold initiative and leverage business debt to launch your venture.",
+          "summary_zh": "不要害怕创业负债，果断抓住融资机会",
+          "timestamp_sec": 175,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在农场长大，周六直接找休假中的银行行长贷到55万美元创办首家企业，后经营电视台、餐厅和农场并在公司被收购时赚取丰厚回报。",
+      "guest_name": "Steady",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Entrepreneur (TV Stations, Restaurants & Farming)",
+      "wealth_detail": "TV stations $30M-$40M/yr revenue, restaurant $5M/yr revenue; multiple 8-figure earner",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "If you don't learn how to leverage debt, you'll always be working for somebody else who knows how to leverage debt.",
+          "summary_en": "Leverage other people's money to buy real estate or start cash-flowing businesses instead of merely trying to pay off debt.",
+          "summary_zh": "学会借用他人资金与杠杆，投资生息资产",
+          "timestamp_sec": 242,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Starting a business is hard... Well, it's hard being broke... So, you got to choose what hard you want.",
+          "summary_en": "Building a business is hard, but staying broke year after year is also hard—choose which hard you want.",
+          "summary_zh": "创业难、穷困也难，选择你愿意承担的困难",
+          "timestamp_sec": 304,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "幼年丧父、母亲曾入狱，大学读了90天便辍学且曾身无分文，后创办数字营销公司并投资，27岁成为百万富翁。",
+      "guest_name": "Tampa Digital Marketing Founder & Investor",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Digital Marketing Company Owner & Investor",
+      "wealth_detail": "$4M-$5M/yr (current year); multiple 7-figure entrepreneur",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Treat Yourself as a Business & Brand",
+          "category": "Business & Strategy",
+          "quote": "This is a business. You got to look at as a business. You're a business. You're your own commodity... I am my brand.",
+          "summary_en": "Prioritize business over trying to make friends or please everyone, and view yourself as your own brand and commodity.",
+          "summary_zh": "把自己当作独立品牌与生意来经营",
+          "timestamp_sec": 469,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Give Competitors Ammunition Against You",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Just always imagine that everybody's pointing a gun at your head... It's up to you how many bullets you give them.",
+          "summary_en": "Stay guarded and avoid giving others unnecessary ammunition or leverage they can use against you.",
+          "summary_zh": "谨慎言行，不要给对手留下攻击你的把柄",
+          "timestamp_sec": 482,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Always live beneath your means... I don't need a Bugatti. I'm not paying $3 $5 million for a car cuz I don't need one.",
+          "summary_en": "Live below your means and keep cash in the bank instead of buying extravagant wants after losing everything once to foreclosure.",
+          "summary_zh": "始终量入为出，避免为不需要的奢侈品挥霍",
+          "timestamp_sec": 506,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Do Business Pragmatically Beyond Personal Feelings",
+          "category": "Business & Strategy",
+          "quote": "I can do business with people I don't necessarily like... people will do business with you if you can generate money for them.",
+          "summary_en": "Separate personal feelings from work and be willing to do business with people you dislike when there is mutual financial value.",
+          "summary_zh": "以商业利益为重，能与不喜欢但互利的人合作",
+          "timestamp_sec": 554,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "由单亲妈妈在华盛顿特区贫困街区抚养长大，曾一度买不起食物，30多岁进入职业摔角界才开始赚钱，后破产并转战好莱坞影视业重获成功。",
+      "guest_name": "Dave Batista",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Triple H",
+        "The Undertaker"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Hollywood Actor & Former WWE Professional Wrestler",
+      "wealth_detail": "Over $10M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Poor people and middle-class people... pay for everything with money they've exchanged their time for... wealthy creative entrepreneurs... create an offer to pay for everything we buy.",
+          "summary_en": "Stop paying for life by trading time for money; instead, use creativity to craft offers that fund what you want.",
+          "summary_zh": "别用时间换钱，要用创造力设计方案来创收",
+          "timestamp_sec": 670,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Every success principle that I learned, the very first thing that I do is I go back and look at scripture and see if it lines up. If it does, I'll follow it.",
+          "summary_en": "Put faith first and evaluate every success principle against scripture before following it.",
+          "summary_zh": "以信仰和经文原则作为筛选成功法则的准则",
+          "timestamp_sec": 693,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年贫困，赚到数百万美元后曾再度破产，重建后通过商业咨询打造出稳定财富体系，单年最高收入达1500万美元。",
+      "guest_name": "Myron",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Business Consultant & Entrepreneur",
+      "wealth_detail": "$15M/yr (most made in a single year)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "oDJEZ-n9TCM",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,372 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I don't know what the word no means... The people that doubted me... you should have never not believed what I can do.",
+          "summary_en": "Refuse to accept 'no' and prove doubters wrong through execution.",
+          "summary_zh": "不接受「不可能」，用行動證明質疑者錯了",
+          "timestamp_sec": 325,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Overextend Yourself",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "They do things really bigger than they should. It's just so much food you could put in your mouth. Don't put too much food because you're going to choke.",
+          "summary_en": "Avoid biting off more than you can handle financially or operationally.",
+          "summary_zh": "切忌好大喜功超出承受力，貪多容易噎著",
+          "timestamp_sec": 345,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I just love what I do. I just feel I'm too young to retire... I get up in the morning and I'm motivated and I just want to keep doing things.",
+          "summary_en": "Stay energized and keep building as long as you love your work, regardless of age.",
+          "summary_zh": "熱愛自己的事業，78歲仍每天充滿動力工作",
+          "timestamp_sec": 364,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Put Money to Work Instead of Hoarding Cash",
+          "category": "Wealth & Investing",
+          "quote": "Money sitting in the bank don't make you money... Instead of putting the money in the bank, I put the money to use, buying businesses.",
+          "summary_en": "Do not hoard idle cash in the bank; deploy capital to acquire cash-flowing businesses.",
+          "summary_zh": "別把錢死存銀行，要拿去收購企業與資產生錢",
+          "timestamp_sec": 392,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Look, I'm looking at myself today... >> So, you had someone there guiding you all along. >> Yes.",
+          "summary_en": "Acknowledge faith and higher guidance throughout your entrepreneurial journey.",
+          "summary_zh": "懷抱對神的信仰，感恩一路走來的引導",
+          "timestamp_sec": 420,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "新車經銷（New car business）起家；早期曾背負大量貸款並全數還清，之後改以自有資金持續收購車行並擴大事業。",
+      "guest_name": "John (Palm Beach Car Dealership & Yacht Owner)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Car Dealership Owner & Multi-Nine-Figure Entrepreneur",
+      "wealth_detail": "Peak single-year business earnings $200M; owns 74m yacht bought for ~$90M+ with €120M / $130M offers",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "別把錢囤在銀行裡，要把資金投入收購能生錢的企業；做事量力而為不要過度擴張；絕不輕易接受「不」。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "If you spend a dollar, you have to go make two... Don't spend, discipline yourself to stack it up.",
+          "summary_en": "Discipline yourself not to overspend and focus on stacking capital.",
+          "summary_zh": "自律減少花費，明白花一元得賺兩元來補齊",
+          "timestamp_sec": 551,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "If you're not studying compounding and where interest is, the private equity game is so good... you need some capital, but that's why you want to save.",
+          "summary_en": "Save capital early and study how compounding and interest build wealth in investing.",
+          "summary_zh": "趁早儲蓄累積本金，深入研究複利與利息運作",
+          "timestamp_sec": 563,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "At the end of the day, fulfillment is the number one deal... You got to love what you do.",
+          "summary_en": "Prioritize fulfillment and genuinely love the business you are building.",
+          "summary_zh": "成就感才是核心，必須真心熱愛所做的事業",
+          "timestamp_sec": 584,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Turn over a million more rocks than most people... fear of what their name may look like for trying three or four ventures and falling on their face... It's the biggest mistake you can make in your early 20s.",
+          "summary_en": "Try many ventures in your 20s without fearing failure or what others think of your reputation.",
+          "summary_zh": "二十幾歲別怕丟臉失敗，多嘗試不同機會才對",
+          "timestamp_sec": 607,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I started calling every first name [in the phone book]... I understood the power of leaving voice messages... If you don't feel like what you're putting your name to is beneficial to others, you're wasting your time.",
+          "summary_en": "Build sales confidence through relentless cold outreach and only sell what truly benefits buyers.",
+          "summary_zh": "透過大量陌生開發練出自信，只賣真正有用的產品",
+          "timestamp_sec": 641,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Your rolodex is your Rolex... everyone has all these contacts, you've got all these friends, but what are you putting in front of them that you feel has value?",
+          "summary_en": "Treat your contact list as your greatest asset and bring real value to your network.",
+          "summary_zh": "人脈就是你的勞力士，要向人脈圈提供真正價值",
+          "timestamp_sec": 673,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Consistent Client Follow-Up",
+          "category": "Business & Strategy",
+          "quote": "That's the awesome thing about follow-up is that you're just giving them updates on what's going on with you... so they know it's growing without them or they know that they're missing out.",
+          "summary_en": "Follow up consistently with prospects by sharing company growth updates to create urgency.",
+          "summary_zh": "持續跟進客戶並同步公司成長動態，創造緊迫感",
+          "timestamp_sec": 718,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Give at least 5 to 10 compliments a day to anyone that's in front of you... remember that we're all equal... when you stay humble, blessings come.",
+          "summary_en": "Stay humble, treat everyone as equal, and compliment 5 to 10 people daily.",
+          "summary_zh": "保持謙卑並視眾人平等，每天至少稱讚五到十人",
+          "timestamp_sec": 752,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在網路普及前的 20 多歲中期，拿著電話簿從第一個名字開始逐一打陌生開發電話並留語音訊息推銷，藉此建立自信並達到月入六位數，26 歲成為百萬富翁，之後將儲蓄投入複利與私募股權併購。",
+      "guest_name": "Palm Beach Private Equity Founder (84 Companies)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Private Equity Investor & Multi-Business Owner (82-84+ Companies)",
+      "wealth_detail": "Became millionaire at 26; earned six figures/month in mid-20s; owns 82-84+ companies including one personally owned business generating over $3B",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "克制消費並積極儲蓄本金、學習複利原理；年輕時別怕失敗丟臉要多方嘗試；善用既有人脈並持續跟進客戶；每天讚美他人並保持謙卑。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Understand Human Psychology",
+          "category": "Business & Strategy",
+          "quote": "It all started with understanding human psychology because that's what drives all of business and all of life.",
+          "summary_en": "Study human psychology deeply because it drives every aspect of business and life.",
+          "summary_zh": "深入理解人類心理學，這是所有商業與人生的驅動力",
+          "timestamp_sec": 911,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "My whole life has grown from this focus on how do you give more, not how do you get more... it makes you feel fully alive.",
+          "summary_en": "Shift your focus from getting to giving; serving others creates wealth and real fulfillment.",
+          "summary_zh": "把焦點從「獲取」轉向「給予」，助人帶來生命意義",
+          "timestamp_sec": 984,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I was 17 years old and I went to work for him [Jim Rohn] because I loved what he was teaching... I worked as a janitor so I'd be around them.",
+          "summary_en": "Do whatever it takes—even entry-level work—to get close to and learn from great mentors.",
+          "summary_zh": "為接近頂尖導師不計身段，就算當清潔工也要跟隨學習",
+          "timestamp_sec": 1042,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "You have to become more valuable. You have to do more for others than anybody else in the marketplace... figure out what you can give... it has to be what people need, not what you want to give.",
+          "summary_en": "Increase your marketplace value by delivering what others actually need more than anyone else.",
+          "summary_zh": "提升自身市場價值，提供市場與他人真正需要的東西",
+          "timestamp_sec": 1085,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Most people rather than face their fear, they come up with a story... fearless doesn't mean you don't have fear. It means you fear less. It means you take action anyway.",
+          "summary_en": "Stop hiding behind excuses or past trauma; act despite fear rather than waiting for fear to vanish.",
+          "summary_zh": "別用過去創傷當藉口，勇敢直面恐懼並照樣採取行動",
+          "timestamp_sec": 1119,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "You got to master this thing before you go do these other 12 things... you have to have a certain level of mastery of business, economics, and so forth. Otherwise, you spread yourself too thin.",
+          "summary_en": "Achieve mastery in one business and its economics before diversifying into new ventures.",
+          "summary_zh": "先徹底精通一項事業與商業邏輯，再考慮多角化擴張",
+          "timestamp_sec": 1185,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Move from being an operator to an owner... really know how to leverage yourself. So I know how to recruit great leaders, I know how to scale things, I know how to be extremely strategic.",
+          "summary_en": "Transition from operator to owner by recruiting elite leaders and building strategic leverage.",
+          "summary_zh": "從親力親為的營運者轉型為擁有者，招募頂尖領導人放大槓桿",
+          "timestamp_sec": 1213,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Be relentless. Become the creator of your own life... If there's something you care about more than you, you're going to have enormous energy for the rest of your life.",
+          "summary_en": "Be relentless and anchor your effort in a mission bigger than yourself for lasting energy.",
+          "summary_zh": "永不放棄並主導人生，為超越自我的使命而戰才有持久能量",
+          "timestamp_sec": 1252,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身貧寒，11 歲感恩節收到陌生人匿名送來的火雞與食物後立志回饋社會；17 歲時為跟隨導師 Jim Rohn 學習而去擔任清潔工（janitor），並透過研究人類心理學與為市場創造價值，在 24 歲賺進第一個一百萬，最終建立橫跨多元產業的 114 家企業。",
+      "guest_name": "Tony Robbins",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Jim Rohn"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Public Speaking & Communication",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Entrepreneur, Author, Philanthropist & Business Strategist (114 Companies)",
+      "wealth_detail": "Millionaire at 24; self-confirmed billionaire; owns 114 companies doing over $12B/year",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "先思考你能為他人提供什麼「對方真正需要」的價值，而非只想索取；為接近成功人士不惜從基層做起；在精通一項事業前別急著分散精力，並學會招募優秀領導者讓自己從操作者轉為擁有者。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "It was really getting a lot of views back in the day from YouTube, brand deals, and then selling merchandise.",
+          "summary_en": "Build massive attention through content creation and monetize via brand deals and merchandise.",
+          "summary_zh": "靠自媒體內容累積流量，再透過品牌合作與周邊變現",
+          "timestamp_sec": 1383,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Always net. Always count the net. Don't count the gross, people.",
+          "summary_en": "Measure real financial success by net income rather than vanity gross revenue figures.",
+          "summary_zh": "永遠只看淨利（Net）而非虛胖的總營收（Gross）",
+          "timestamp_sec": 1392,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "I really started investing at 18 years old. I'm into startups and I just loved people who are on the frontiers of tech and changing the world and getting to be around them.",
+          "summary_en": "Start investing as early as 18 and surround yourself with frontier tech founders.",
+          "summary_zh": "18 歲就開始投資科技新創，並與改變世界的創業者同行",
+          "timestamp_sec": 1405,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Life is about fearing it and still going after it, still pushing yourself, being outside of your comfort zone... that's where success lies.",
+          "summary_en": "Harness fear as fuel and consistently push outside your comfort zone where growth happens.",
+          "summary_zh": "帶著恐懼依然前行，逼自己走出舒適圈才是成功所在",
+          "timestamp_sec": 1432,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Belief in the vision, seeing the knockout... If a negative thought comes up, I look at it as like a car on the freeway passing by. I acknowledge it, but I let it go.",
+          "summary_en": "Visualize your win, let negative thoughts pass without dwelling, and stay joyful in flow state.",
+          "summary_zh": "堅信願景並觀想勝利，讓負面念頭像過往車輛般流走",
+          "timestamp_sec": 1454,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "A lot of these people are pushing their own limitations... on to you... Not a single successful person has ever said anything hating on me... It's the losers who try to drag you down to their level.",
+          "summary_en": "Ignore haters and doubters who project their own insecurities and try to drag you down.",
+          "summary_zh": "別理會比你差的人的酸言酸語，他們只是在投射自身侷限",
+          "timestamp_sec": 1490,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Being able to walk with faith and connect with God through meditation, breath work, and daily prayer... Find God.",
+          "summary_en": "Build inner peace and fearlessness through faith, meditation, breathwork, and daily prayer.",
+          "summary_zh": "透過信仰、冥想、呼吸練習與每日禱告獲得內心平靜與無懼",
+          "timestamp_sec": 1525,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Find God, work hard, persevere, and practice discipline.",
+          "summary_en": "Combine hard work, perseverance, and daily discipline to sustain long-term success.",
+          "summary_zh": "努力工作、堅持不懈，並在日常中貫徹高度自律",
+          "timestamp_sec": 1547,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20 歲左右靠 YouTube 影片累積大量觀看數、接品牌合作（brand deals）並販售周邊商品（merchandise）賺到第一桶金成為百萬富翁，之後跨足職業拳擊賽事並從 18 歲起投入早期科技新創投資。",
+      "guest_name": "Jake Paul",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Boxer, Content Creator, Entrepreneur & Startup Investor",
+      "wealth_detail": "Became millionaire around age 20; projected close to nine figures ($100M) net income in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "把握自媒體流量與變現機會、只看淨利不看虛胖營收；儘早參與投資並接觸頂尖創業者；勇敢跨出舒適圈、無視酸民質疑，並保持信仰、努力與自律。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "AUaEd3_JbP8",
+  "video_type": "street_multi"
+}

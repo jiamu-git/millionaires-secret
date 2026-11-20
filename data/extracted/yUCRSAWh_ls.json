@@ -1,0 +1,148 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "You're going to be obsessed. Obsessed with everything you do, wake up every day obsessed with your goals, obsessed with what you want to achieve in life and literally grind.",
+          "summary_en": "Stay deeply passionate and obsessed with your goals every single day, and back it up with daily grind.",
+          "summary_zh": "对目标保持极致痴迷，每天全力以赴拼搏",
+          "timestamp_sec": 133,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "The more and more successful you become in life, the more you realize that you're going to fail a lot and you're going to get a lot of rejection... Secret recipe to success is try, fail, learn, fix, try again.",
+          "summary_en": "Expect frequent failure and rejection as you grow; treat entrepreneurship as a continuous five-step loop of trying, failing, learning, fixing, and trying again.",
+          "summary_zh": "把失败与拒绝当常态，试错学习并不断修正",
+          "timestamp_sec": 193,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "As an asset, it's very solid. You can touch it, you can feel it, see it, smell it, and I think it's the least volatile. So, in terms of risk management, it's always a safe investment.",
+          "summary_en": "Invest in real estate as a tangible, versatile, low-volatility asset class that protects wealth and manages risk.",
+          "summary_zh": "投资房地产实体资产，低波动且利于风控",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Diversification doesn't always mean to venture into another sector. You can always do it in one sector... really focus on serving this one sort of single monstrosity of a business rather than getting distracted in different sectors.",
+          "summary_en": "Avoid spreading into unrelated industries; diversify and scale inside one core sector instead of getting distracted.",
+          "summary_zh": "聚焦单一核心赛道做深，避免跨界分散精力",
+          "timestamp_sec": 244,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "You never have the full picture from day one. You just got to start and navigate your way through... When you're thrown in the ocean in a stormy day, you either drown or you swim.",
+          "summary_en": "Do not wait for a complete, perfect plan on day one; start taking action now and figure out the path as you go.",
+          "summary_zh": "不必等完美计划，先行动起来并在途中摸索",
+          "timestamp_sec": 286,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Vertical Integration & Operational Control",
+          "category": "Business & Strategy",
+          "quote": "Everything literally everything that goes into building the product we control and we own and ultimately what that gives you is agility when it comes to speed, quality and cost.",
+          "summary_en": "Vertically integrate by building or acquiring your own workforce and factories to gain agility in speed, quality, and cost.",
+          "summary_zh": "通过垂直整合掌控供应链，兼顾速度质量成本",
+          "timestamp_sec": 511,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Product Quality & Brand Storytelling",
+          "category": "Business & Strategy",
+          "quote": "The biggest lesson I learned when building these complexes is focusing on quality and letting the product talk for itself... the best companies out there worldwide are the companies that have products that market themselves.",
+          "summary_en": "Prioritize exceptional product quality and craft a clear brand narrative tailored to your target audience so the product markets itself.",
+          "summary_zh": "打磨极致产品品质与品牌故事，让产品自带流量",
+          "timestamp_sec": 553,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Comfort is the most dangerous drug. You got to learn to be comfortable being uncomfortable because the moment you become complacent and comfortable is the moment you have no drive to achieve more success in life.",
+          "summary_en": "Treat comfort as dangerous and stay comfortable being uncomfortable so complacency never kills your drive.",
+          "summary_zh": "安逸是最危险的毒药，要学会在不适中保持冲劲",
+          "timestamp_sec": 618,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "If you want to build something truly great, you got to focus on having nines out of 10 and tens out of tens only... If I have to tell someone what to do or how to do their job, they're not in the right place.",
+          "summary_en": "Hire only 9/10 and 10/10 self-starters who are better at their specialty than you, and empower them rather than micromanaging.",
+          "summary_zh": "只招顶级自驱型人才，充分授权而非微观管理",
+          "timestamp_sec": 693,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's definitely long term for me. There's no set term. It's like till the day I die... once you approach work like that, you build consistency. And I think in my mind, consistency is the most important ingredient towards success.",
+          "summary_en": "Adopt a lifelong, lifestyle mindset toward your craft rather than a short-term horizon; daily consistency beats raw intelligence.",
+          "summary_zh": "把事业当成终身习惯，用每日坚持胜过纯聪明",
+          "timestamp_sec": 807,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Leave something valuable behind, whether it's a project, a product, something that changes people's lives positively whilst making money for you... if you're able to solve a big problem, that's what you want to do.",
+          "summary_en": "Build projects or products that solve big problems and improve people's lives while generating profit, creating a lasting legacy.",
+          "summary_zh": "专注解决大问题并创造价值，利他同时实现盈利",
+          "timestamp_sec": 903,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "When you're so hopeless and you reach that point where you know you've done everything you could have done, but you're still failing. And then ultimately one of those follow-ups... suddenly becomes a breakthrough and you had asked for that in a prayer.",
+          "summary_en": "After putting in maximum effort, lean on faith and prayer during hopeless stretches and keep following up until a breakthrough arrives.",
+          "summary_zh": "尽人事后在低谷保持信仰，坚持跟进静待突破",
+          "timestamp_sec": 946,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Muhammad Benghadi",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Book by Sheikh Mohammed bin Rashid Al Maktoum (Ruler of Dubai)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Marketing & Distribution",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate Developer & Architect",
+      "wealth_detail": "Made almost $5 billion in a single year",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "如果明天归零，会凭借积累的经验和流程直接重新开始；从第一天起不必等待完美计划，先立刻行动，通过“尝试—失败—学习—修正—再尝试”不断突破。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "yUCRSAWh_ls",
+  "video_type": "deep_dive_single"
+}

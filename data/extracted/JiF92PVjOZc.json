@@ -1,0 +1,158 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Before winning this one I had won it six times for other people... so I was like you know what screw it I'm gonna go do it and get the award for myself",
+          "summary_en": "Build a proven track record winning for clients or mentors before launching your own venture.",
+          "summary_zh": "先帮赢家打工积累战绩再独立创业",
+          "timestamp_sec": 106,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "First thing I wake up anywhere between five to six in the morning... I'll read I'll meditate... then I'll go down we'll go on a walk",
+          "summary_en": "Maintain a disciplined daily routine with early mornings, exercise, reading, and meditation.",
+          "summary_zh": "坚持早起运动阅读冥想等每日习惯",
+          "timestamp_sec": 163,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Protect Your Time & Boundaries",
+          "category": "Actionable Skills & Habits",
+          "quote": "I am super strict now with my time I used to always give time to people... at some point there's like the diminishing returns where your Cup's not being filled",
+          "summary_en": "Guard your time strictly and reserve daily quiet time for yourself to avoid burnout and diminishing returns.",
+          "summary_zh": "严格守护个人时间，避免过度消耗",
+          "timestamp_sec": 295,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Instead of just blindly going into a faith or religion like understanding why and also what that connection means",
+          "summary_en": "Explore and truly understand the moral foundation behind your faith rather than following blindly.",
+          "summary_zh": "信仰需深入理解缘由而非盲目跟从",
+          "timestamp_sec": 362,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Invest in the mentors get into the room whatever it is whether it's you don't really have a lot of money that time so give your time to the actual mentor to help them",
+          "summary_en": "Get into the room with mentors—if you lack money, trade your time and labor to help them.",
+          "summary_zh": "没钱时用时间帮导师干活换取人脉",
+          "timestamp_sec": 401,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Everyone has problems if you can solve those problems the digital side and making it super sexy isn't the first place to start you want to actually solve a problem first and then... you can go to scale it",
+          "summary_en": "Start in services and focus on solving real problems before worrying about branding or scaling.",
+          "summary_zh": "创业先做服务业解决痛点再谈规模化",
+          "timestamp_sec": 429,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Scale in Stages & Follow Data",
+          "category": "Business & Strategy",
+          "quote": "Zero to six is the skill sets six of seven is then being able to get predictable new clients... and then seven to eight is following the graph whether that's ads people numbers don't lie people do",
+          "summary_en": "Scale in stages: build skills to 6 figures, predictable client flow to 7, and rely on hard numbers and data to reach 8.",
+          "summary_zh": "分阶段扩张，高阶增长靠数据而非感觉",
+          "timestamp_sec": 447,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Copywriting sales and marketing if you can learn those three copywriting is sales and written form sales is doing it over the phone being able to persuade and then third is marketing",
+          "summary_en": "Master copywriting, phone sales, and marketing—the three core skills that separate top performers.",
+          "summary_zh": "精通文案、电话销售与营销三大技能",
+          "timestamp_sec": 460,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "High ticket services and collaboration I would look for networks to be able to tap into that way I don't have to spend a lot on marketing and ads",
+          "summary_en": "Leverage masterminds and partner networks to distribute high-ticket services collaboratively without heavy ad spend.",
+          "summary_zh": "善用人脉网络合作推广，降低获客成本",
+          "timestamp_sec": 477,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "A lot of people are in it for the transaction... try to at least build community and build trust and really understand that you have their best interest at mind or at heart",
+          "summary_en": "Treat sales as relationship-building rather than a transaction by genuinely prioritizing the customer's best interest.",
+          "summary_zh": "销售重在真诚利他与建立长期信任",
+          "timestamp_sec": 500,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "In the beginning of starting out I was very like I was 6 a.m until 10 P.M every single day grinding on every single part of the business",
+          "summary_en": "Expect to grind relentlessly (6 AM to 10 PM daily) across every part of the business when starting out.",
+          "summary_zh": "起步阶段每天高强度工作十余小时",
+          "timestamp_sec": 548,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I think if you think that you know it all you've already lost... what's your internal library that you can actually draw from those are typically courses",
+          "summary_en": "Never stop reading and taking courses to build an internal library of solutions for future business problems.",
+          "summary_zh": "持续阅读与学习，自认全懂就输了",
+          "timestamp_sec": 608,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "17-18岁受书籍启发进入创业，曾在数字营销领域为Grant Cardone工作7-8个月，后在广告代理业务中6次帮客户达成百万美元销售漏斗（Two Comma Club），随后用约6个月为自己打造出百万美元单页漏斗并创立电商代理与投资公司。",
+      "guest_name": "Robert Miller",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The 10X Rule (Grant Cardone)",
+        "DotCom Secrets / .com series (Russell Brunson)",
+        "Think and Grow Rich (Napoleon Hill)",
+        "Unshakeable (Tony Robbins)",
+        "The History of Central Banking and the Enslavement of Mankind",
+        "The Fiat Standard (Saifedean Ammous)",
+        "Grant Cardone",
+        "Ray Dalio",
+        "Earl Shoaff",
+        "Jim Rohn"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Serial Entrepreneur, E-Commerce Agency Owner & Investor",
+      "wealth_detail": "Eight-figure e-commerce agency; $1M+ through a single funnel",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "从零起步应先切入高客单价服务业，聚焦解决真实痛点而非表面光鲜；没有资金时用时间去协助导师换取进入圈子的机会；先打磨文案、销售与营销核心技能，再通过人脉网络和社群合作批量获客、降低广告成本。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "JiF92PVjOZc",
+  "video_type": "deep_dive_single"
+}

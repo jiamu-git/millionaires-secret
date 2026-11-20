@@ -1,0 +1,314 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Not thinking about the money. Thinking about the work. You got to believe it to see it in a world that needs to see it to believe it.",
+          "summary_en": "Focus on the craft rather than money, and believe in your vision before others see it.",
+          "summary_zh": "专注作品本身而非金钱",
+          "timestamp_sec": 206,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I'm always comfortably uncomfortable. When you're an entrepreneur, you're never comfortable. You know why? Because no success nor failure is ever final.",
+          "summary_en": "Stay comfortably uncomfortable as an entrepreneur because neither success nor failure is ever final.",
+          "summary_zh": "习惯保持危机感，胜败皆非终点",
+          "timestamp_sec": 233,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "And the universe has always been my guide. I just love everybody. I don't care what you look like. I care more about how you feel than what you look like.",
+          "summary_en": "Let the universe guide you and treat everyone with genuine love regardless of appearances.",
+          "summary_zh": "以宇宙为指引，以善意待所有人",
+          "timestamp_sec": 260,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Price is only an issue if value is absent. The higher the price, the easier is to sell the art.",
+          "summary_en": "Price is only an objection when value is missing; scarcity and high price points increase perceived specialness.",
+          "summary_zh": "价值足够高时，高价反而更容易成交",
+          "timestamp_sec": 287,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Be Authentic",
+          "category": "Mindset & Resilience",
+          "quote": "Be yourself. Because everyone else is taken.",
+          "summary_en": "Be authentically yourself because everyone else is already taken.",
+          "summary_zh": "坚持做自己，真实才是最强竞争力",
+          "timestamp_sec": 326,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "30岁出头赚到第一个一百万，通过创作高端艺术品并在全球顶级画廊整套售出，曾单日进账100万美元。",
+      "guest_name": "NYC Fine Artist & Gallery Seller",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Fine Artist & Art Business Owner",
+      "wealth_detail": "$1M in a single day; $1M per artwork edition",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "They work harder than everyone else. At the end of the day there's no shortcut. You got to be willing to put in the work.",
+          "summary_en": "There are no shortcuts; outworking everyone else compounds into success over time.",
+          "summary_zh": "没有捷径，唯有比所有人都更拼命",
+          "timestamp_sec": 409,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "You got to work hard for yourself. If you want to create wealth, you have to start your own thing. You can't work hard for someone else.",
+          "summary_en": "A salary won't build true wealth; you have to work hard for yourself and start your own thing.",
+          "summary_zh": "想真正致富必须自己创业而非打工",
+          "timestamp_sec": 426,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "The key is you got to stop wishing and you got to decide... Do something right now. If you're watching this, get off Instagram, get off YouTube, and go do something that is going to change your life.",
+          "summary_en": "Stop wishing, make a firm decision, get off social media, and take immediate action.",
+          "summary_zh": "停止空想，立刻下决心并付诸行动",
+          "timestamp_sec": 473,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Data-Driven Marketing & Testing",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to be relentlessly data-focused every single day... You can measure relentlessly. Know what's working... Don't be afraid to move quickly. Don't be afraid to test and fail.",
+          "summary_en": "Master social ad platforms by measuring data relentlessly, being intellectually honest, and testing rapidly.",
+          "summary_zh": "极致专注数据复盘，敢于快速试错",
+          "timestamp_sec": 503,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Ask questions. I think people think sales is about talking. It's about asking, really listening to what people need, and then seeing if you can provide a solution for that.",
+          "summary_en": "Sales is about asking questions, deeply listening to needs, and seeing if you can solve them.",
+          "summary_zh": "销售的本质是多提问并倾听真实需求",
+          "timestamp_sec": 533,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I can get smarter people who've done things and I can listen to them... whatever sport you play, you get a coach. The reason you bring that coach on is you want to listen to him.",
+          "summary_en": "Drop the hubris of thinking you know everything; bring in experienced investors and coaches and listen to them.",
+          "summary_zh": "引入聪明人当教练，虚心倾听建议",
+          "timestamp_sec": 564,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "If I was doing it today, I would 100% do it on Shopify... we spent close to 40 million building our own platform. I would have gladly taken that 40 million and invested in other ways.",
+          "summary_en": "Use plug-and-play platforms like Shopify instead of wasting tens of millions building custom infrastructure early.",
+          "summary_zh": "善用现成平台轻资产启动，省下研发费",
+          "timestamp_sec": 609,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "If you are hiking only cuz you want to get to the peak, don't hike. You got to enjoy the entire journey cuz when you get to the peak, it's never as good as you think it is.",
+          "summary_en": "Love the day-to-day entrepreneurial journey rather than doing it solely for the exit.",
+          "summary_zh": "享受攀登过程而非只盯着山顶结果",
+          "timestamp_sec": 637,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Whatever religion, they all follow on the same foundation. Be good to people, follow that golden rule and work your ass off.",
+          "summary_en": "Live by the golden rule, treat people well, and work hard.",
+          "summary_zh": "坚守信仰与黄金法则，善待他人并苦干",
+          "timestamp_sec": 662,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "35岁前曾有一次创业破产并背负100万美元债务，账户只剩15美元；凭借产品市场契合度创办Freshly直邮熟食电商，5年多做到5.5亿美元销售额并以15亿美元出售（持股10%）。",
+      "guest_name": "Michael Weistrach",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Co-Founder of Freshly",
+      "wealth_detail": "Sold Freshly for $1.5B (owned 10% at exit); $550M in annual sales",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "别只停留在空想，要立刻下定决心关掉社交媒体去行动；想创造真正财富必须自己创业而非打工；借力现成平台轻资产起步并极致关注广告数据。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "No bird flies so high that they don't come down for water. Everybody's the same. Everybody's got an opportunity.",
+          "summary_en": "Stay humble no matter how high you rise, and recognize everyone shares the same humanity and opportunity.",
+          "summary_zh": "飞得再高也要保持谦逊与敬畏之心",
+          "timestamp_sec": 777,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Don't ever give up. Everybody can succeed in this country. Work hard, play hard.",
+          "summary_en": "Never give up regardless of doubters; work hard and play hard.",
+          "summary_zh": "永远不要放弃，拼命工作也尽情生活",
+          "timestamp_sec": 797,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "We put my mother's house up as collateral for a loan in 1979... We couldn't fail. My mother would be out of her house. So, it has to work or it has to work.",
+          "summary_en": "Put everything on the line with total commitment so failure is not an option.",
+          "summary_zh": "敢于背水一战，在巨大压力下全力以赴",
+          "timestamp_sec": 815,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "there's only two things in life that you control. It's your credit and your reputation. Everything else somebody else can ruin. You can only ruin your credit and your reputation.",
+          "summary_en": "Guard your credit and your reputation above all else, because only you can ruin them.",
+          "summary_zh": "你唯一能掌控的是自己的信用和声誉",
+          "timestamp_sec": 867,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "12岁丧父、毫无背景，1979年抵押母亲的房产贷款创办National Data Products，80年代靠销售电脑将公司做到6.5亿美元规模，单年最高赚取6亿美元。",
+      "guest_name": "National Data Products Founder (67yo)",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder, National Data Products (Retired)",
+      "wealth_detail": "$650M biggest company; $600M made in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "永远不要放弃，在没有退路时全力以赴，并始终死守自己的信用与声誉。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "everyone's looking for an overnight success. My experience is the only overnight successes are someone else's. Everything worth doing is hard and takes a long time.",
+          "summary_en": "Stop chasing overnight success; anything worthwhile is difficult and takes years of sustained effort.",
+          "summary_zh": "别幻想一夜成名，大事往往需要多年深耕",
+          "timestamp_sec": 954,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Work hard, listen, never compromise your integrity. It's the only thing you have.",
+          "summary_en": "Work hard, listen closely, and never compromise your integrity, as it is the only thing you truly have.",
+          "summary_zh": "勤奋倾听，绝不妥协自己的商业诚信",
+          "timestamp_sec": 984,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Clear Mission, Strategy & Honest Culture",
+          "category": "Business & Strategy",
+          "quote": "have a mission that is straightforward and understandable, ambitious but achievable. You need to state your strategy, preferably in three words. You need to state your culture and you need to live by it.",
+          "summary_en": "Lead with a clear, achievable mission, a concise strategy, and an honest culture you actually live by.",
+          "summary_zh": "使命要清晰，战略用三词概括并践行文化",
+          "timestamp_sec": 1034,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on What You Can Control",
+          "category": "Mindset & Resilience",
+          "quote": "I can control my desires, my actions, my goals, my plans. I can't control the outcomes. The outcomes are out of my control.",
+          "summary_en": "Take responsibility for your desires, actions, goals, and plans while accepting that outcomes are outside your control.",
+          "summary_zh": "只专注可控的行动与目标，不强求结果",
+          "timestamp_sec": 1067,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Think about what you truly want in life, truly want, professionally and personally. Not what someone wants for you, but what you want and then go for it.",
+          "summary_en": "Define what you personally and professionally want rather than following others' expectations, then pursue it.",
+          "summary_zh": "追随内心真正渴望，而非他人对你的期待",
+          "timestamp_sec": 1081,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Chase Intersection of Skill & Passion",
+          "category": "Business & Strategy",
+          "quote": "People should chase the intersection of what they're good at and what they like to do. With emphasis on what you're good at. Everyone's good at something. Do that thing.",
+          "summary_en": "Instead of blindly chasing passion, pursue the intersection of what you enjoy and what you are genuinely good at.",
+          "summary_zh": "寻找热爱与特长的交集，重点发挥所长",
+          "timestamp_sec": 1090,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "毕业于哈佛法学院与商学院，2007年接手Take-Two Interactive，历经至少5年才迎来真正突破，持续耕耘19年将其打造为市值约400亿美元、年营收67亿美元的游戏公司。",
+      "guest_name": "Take-Two Interactive CEO",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "CEO, Take-Two Interactive",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不要幻想一夜暴富，任何值得做的事都漫长而艰难；想清楚自己真正想要什么，去深耕「擅长且喜欢」的交集领域。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "HeuqoqyRQdk",
+  "video_type": "street_multi"
+}

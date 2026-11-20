@@ -1,0 +1,319 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "the worst thing you can have is Plan B. Plan B is the largest enemy to Plan A, it takes away focus from Plan A",
+          "summary_en": "Avoid having a Plan B because it steals focus from making Plan A succeed.",
+          "summary_zh": "专注A计划，别留B计划分散精力",
+          "timestamp_sec": 194,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "they don't understand cash flow... a lot of businesses will grow fast and thinking they're successful and they outstrip their capital",
+          "summary_en": "Understand cash flow and the financial side so rapid growth does not outstrip your capital.",
+          "summary_zh": "懂现金流，别因扩张过快耗尽资本",
+          "timestamp_sec": 215,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "don't let any investor be too big or otherwise you're working for them",
+          "summary_en": "Do not let any single investor hold too much leverage or you end up working for them.",
+          "summary_zh": "别让单一投资人占股过大而失去控制权",
+          "timestamp_sec": 244,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "get to the gym every day and eat well",
+          "summary_en": "Go to the gym every day and eat well to maintain health and energy as you age.",
+          "summary_zh": "每天坚持去健身房锻炼并健康饮食",
+          "timestamp_sec": 254,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "go out on my own sooner than I did",
+          "summary_en": "He wishes he had gone out on his own and started his own business sooner.",
+          "summary_zh": "后悔没有比当年更早出来独立创业",
+          "timestamp_sec": 264,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "not everybody's built for it, but if you want to make real money you usually have to make it working for yourself",
+          "summary_en": "While entrepreneurship is not for everyone, making real wealth usually requires working for yourself.",
+          "summary_zh": "想赚大钱通常必须靠自己创业持有股权",
+          "timestamp_sec": 273,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "walk away. The best deals I've done in my life I've walked away and they've come back",
+          "summary_en": "Be willing to walk away during negotiations; the best deals often come back to you.",
+          "summary_zh": "谈判最好的策略是敢于主动起身离开",
+          "timestamp_sec": 299,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年曾经历经济拮据，随后在银行业深耕44年，主要通过收购银行并削减冗余成本实现规模化扩张，将旗下业务做到年营收约5亿美元。",
+      "guest_name": "Kevin James",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Bank Owner & Executive (44 years in banking)",
+      "wealth_detail": "$500M/yr business revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "尽早独立创业，全力聚焦A计划而不留退路，牢牢掌握现金流避免盲目扩张耗尽资本，融资时避免让单一投资人话语权过大，并在谈判中敢于离场。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "they have a great product or service but they don't know how to manage cash flow",
+          "summary_en": "Even with a great product or service, businesses fail within five years if owners cannot manage cash flow.",
+          "summary_zh": "企业有好产品但往往不懂管理现金流",
+          "timestamp_sec": 370,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Cast a Clear Vision for Your Team",
+          "category": "Business & Strategy",
+          "quote": "casting a vision for a team, small team to make it into a large team, that this is where we are but this is where we're going, follow me",
+          "summary_en": "Master casting a compelling vision to align and grow a small team into a large organization.",
+          "summary_zh": "为团队描绘清晰愿景并带领从小做大",
+          "timestamp_sec": 380,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "retained equity in our company... the 7 or 8 million came through dividends on the equity that we owned because we were so profitable",
+          "summary_en": "Retaining equity in a profitable company generates far greater wealth through dividends than salary and bonuses alone.",
+          "summary_zh": "保留公司股权靠利润分红实现千万收益",
+          "timestamp_sec": 390,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "love what you do and you'll never work a day in your life",
+          "summary_en": "Love what you do so your career never feels like a chore.",
+          "summary_zh": "热爱自己所做的事就不会觉得在工作",
+          "timestamp_sec": 414,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I learned my trade in 10 years working for the big firms and then next 20, 25 years I built my own companies",
+          "summary_en": "Spend years learning your trade at established firms before launching and building your own companies.",
+          "summary_zh": "先在大公司磨炼十年再出来创业二十年",
+          "timestamp_sec": 421,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "most fail, but you have to have the burn the ships mentality—there is no retreat and you're taking the island",
+          "summary_en": "Adopt a burn-the-ships mentality with no retreat if you want to beat the odds in entrepreneurship.",
+          "summary_zh": "创业必须有破釜沉舟、不留退路的心态",
+          "timestamp_sec": 430,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家，先在大企业工作10年磨炼专业能力，随后花20至25年创办并经营自己的咨询与服务公司，依靠保留公司股权和分红实现个人年入800万至1000万美元。",
+      "guest_name": "Dallas Enterprise Consultant & Business Owner",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Retired Enterprise Consultant & Company Founder (age 59)",
+      "wealth_detail": "$8M-$10M/yr personal income ($500k salary, $250k bonus, $7M-$8M equity dividends)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先在大公司打工积累十年行业经验再出来自主创业，保留企业股权获取利润分红，学会管理现金流并为团队树立清晰愿景，以破釜沉舟的决心热爱并投入事业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Leverage Proven Franchise Systems",
+          "category": "Business & Strategy",
+          "quote": "I bought a franchise so that somebody else would do the heavy thinking; all I had to do is run the restaurants",
+          "summary_en": "Buying into a proven franchise lets someone else handle concept development so you can focus purely on execution.",
+          "summary_zh": "加盟成熟品牌让他人承担研发与试错",
+          "timestamp_sec": 465,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "they don't build a team that supports them and they think they're king and they don't think the other people matter",
+          "summary_en": "Build a supportive team and value every person rather than acting like an arrogant king.",
+          "summary_zh": "组建支持团队，别自大以为别人不重要",
+          "timestamp_sec": 487,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Risking Personal Assets Early",
+          "category": "Business & Strategy",
+          "quote": "don't rush into owning your own business if you can work for the other guy... owning your own business you have to put your house up",
+          "summary_en": "Do not rush into business ownership and put your house and assets on the line if you can build a lucrative career working for someone else.",
+          "summary_zh": "别急着抵押房产创业，可先为他人打工",
+          "timestamp_sec": 497,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose the Right Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "choose the right life partner... you got to have support at home",
+          "summary_en": "Choose a supportive life partner, because misery at home ruins your work life and health.",
+          "summary_zh": "选对支持自己的人生伴侣至关重要",
+          "timestamp_sec": 529,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "if you're just working to work then your health will be crap",
+          "summary_en": "Do not work endlessly just for the sake of working at the expense of your health.",
+          "summary_zh": "别只顾着盲目工作而拖垮自己的健康",
+          "timestamp_sec": 536,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I go long on real estate, real estate never goes down... owned the properties instead of leasing and renting, they bought the land, so own that and don't sell it",
+          "summary_en": "Buy and hold real estate and land long-term instead of leasing, and never sell it.",
+          "summary_zh": "长期投资房地产，买下土地物业别卖出",
+          "timestamp_sec": 546,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身普通工薪家庭（父亲病弱无法工作，母亲在药店做柜台店员），从职业体系一路晋升担任TGI Fridays首席执行官，同时购入Golden Chick特许经营权及门店物业地产。",
+      "guest_name": "Former TGI Fridays CEO & Golden Chick Franchisee",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Former TGI Fridays CEO & Golden Chick Franchisee (age 70+)",
+      "wealth_detail": "~$1B biggest annual revenue across businesses",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不必急于拿全部家当冒险创业，可先在企业担任高管或借助成熟特许经营体系专注执行；选对家庭伴侣并注重健康，同时长期买下并持有房地产与土地。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Invest Back Into Yourself & Business",
+          "category": "Wealth & Investing",
+          "quote": "you're better off investing back into you, invest back into your own business... skills, associations, relationships, reputation, that's what it means to invest back into yourself",
+          "summary_en": "To double your money, invest back into your own business, skills, associations, relationships, and reputation rather than handing it to Wall Street.",
+          "summary_zh": "将资金投资回自身技能人脉声誉与事业",
+          "timestamp_sec": 637,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "when you're in the worst position you're actually in the best position, that's when God shows up... you sometimes forget where your blessings and your resources come from",
+          "summary_en": "Stay grounded in faith and gratitude during both rock-bottom moments and peak success, never taking sole credit for your blessings.",
+          "summary_zh": "身处低谷时保持信仰与感恩，别忘恩负义",
+          "timestamp_sec": 665,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "number one they ask the most questions... number two they go into a room not thinking that they know everything",
+          "summary_en": "Ask the most questions and enter every room with intellectual humility, assuming you might be wrong so you can learn.",
+          "summary_zh": "保持谦逊并多提问，不自以为无所不知",
+          "timestamp_sec": 698,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "everybody that had a fun lifestyle 2, 3, 4 years ago and they didn't save money, they're selling it right now 20, 30, 40, 50% discount",
+          "summary_en": "Do not finance an unaffordable luxury lifestyle without saving, or downturns and high rates will force you to liquidate at steep losses.",
+          "summary_zh": "别在繁荣期不存钱而透支维持奢华生活",
+          "timestamp_sec": 716,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "during times of good be the guy that stacks cash, when times are great be the one that constantly puts money away... waiting for opportunities",
+          "summary_en": "Stack cash aggressively during good economic times so you have dry powder to buy discounted assets when others are forced to sell.",
+          "summary_zh": "顺境时积极储备现金，等待低谷抄底机会",
+          "timestamp_sec": 736,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾在海军陆战队服役8年，退伍后创业25年深耕金融与保险行业；30多岁首次成为百万富翁，随后破产两三次，40多岁东山再起，旗下业务年营收达4000万美元（且曾有部分业务被以300万美元收购）。",
+      "guest_name": "Matt (Dallas Financial & Insurance Entrepreneur)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Principles by Ray Dalio"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Financial & Insurance Entrepreneur / USMC Veteran (age 50)",
+      "wealth_detail": "$40M/yr top-line revenue; $10M+ liquid capital",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "把资本投回自身的技能、人脉、关系和声誉以及自己的事业中；保持信仰与谦逊，向高手多提问；经济顺境时克制消费、积极存钱，等待危机时抄底被低价抛售的资产。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "JsEUa3mMGe0",
+  "video_type": "street_multi"
+}

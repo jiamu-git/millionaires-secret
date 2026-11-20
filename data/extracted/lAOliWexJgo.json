@@ -1,0 +1,191 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "find a mentor and I would repeat that 10 times... the more successful people are the more they really want to see other people win... just ask them for help",
+          "summary_en": "Proactively seek out a mentor who already does what you want to do and ask successful people for help.",
+          "summary_zh": "主动寻找同领域顶尖导师并虚心请教",
+          "timestamp_sec": 71,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "don't count other people's money... people get so caught up in what other people have and keeping up with the Joneses and they're buying things and spending money on things they really can't afford",
+          "summary_en": "Stop counting other people's money or overspending to keep up with fake appearances on social media.",
+          "summary_zh": "别攀比他人财富或为虚荣超前消费",
+          "timestamp_sec": 274,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "it was a huge risk but pays off you got to be willing to take those shots",
+          "summary_en": "Assess your worst-case downside and be willing to take big calculated swings early in your career.",
+          "summary_zh": "敢于在年轻时承担可控的大风险",
+          "timestamp_sec": 450,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Long-Term Thinking & Patience",
+          "category": "Mindset & Resilience",
+          "quote": "everybody overestimates what they could do in one year but we underestimate what we could do in five and if you scale things out and figure out you just chunk it it'll all add up but you got to be patient",
+          "summary_en": "Break big goals into chunks over a five-year horizon and stay patient instead of overestimating what one year can bring.",
+          "summary_zh": "保持长期耐心，以五年为周期拆解目标",
+          "timestamp_sec": 486,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "last year I read 60 books... anyone who writes a book probably has 25 30 years of experience and they're going to give it to you in 200 pages... read books by real estate guys",
+          "summary_en": "Read voraciously—especially books written by experienced practitioners in your industry—to absorb decades of experience quickly.",
+          "summary_zh": "大量阅读专业书籍，汲取前人数十年经验",
+          "timestamp_sec": 509,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I've done so much the greatest thing I could do now is helping give back so I wrote a book and I give all the proceeds to charity",
+          "summary_en": "Once you achieve success, give back by sharing your knowledge and donating proceeds to help others.",
+          "summary_zh": "成功后懂得感恩回馈，把收益与经验分享给他人",
+          "timestamp_sec": 547,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "the richest people on the planet... they all invest in real estate... you buy one piece of real estate and you do everything else wrong but pay that one property off over 25 years 20 years you own it you're set",
+          "summary_en": "Invest in real estate and pay down property over time to secure long-term wealth and retirement stability.",
+          "summary_zh": "尽早投资房地产以构建长期现金流",
+          "timestamp_sec": 592,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "if you want to be the greatest architect or the greatest dentist you could be you're not going to have continued cash flow in your retirement years you're not going to have something you could give your kids",
+          "summary_en": "Do not rely solely on active labor or commissions; build ownership in cash-flowing assets that pay you even when you stop working.",
+          "summary_zh": "不要只靠时间或佣金赚钱，要拥有资产",
+          "timestamp_sec": 604,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I very rarely ever hear of a person saying I don't want to own a second they say I should have done it sooner so start early",
+          "summary_en": "Start buying assets as early as possible; almost nobody regrets starting, only waiting too long.",
+          "summary_zh": "买房投资要趁早，人们只会后悔起步太晚",
+          "timestamp_sec": 683,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Find Good Deals First (Capital Follows)",
+          "category": "Business & Strategy",
+          "quote": "anyone who has no money no credit and thinks that there's no shot they could buy a property go find a deal... anyone could find a billion dollars you got to find the deal... the money is easy the deal is hard",
+          "summary_en": "If you lack capital or credit, focus on sourcing great deals because capital is abundant for compelling opportunities.",
+          "summary_zh": "没钱也能靠找好项目起步，好项目不缺资金",
+          "timestamp_sec": 711,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Local Market Focus & In-House Operations",
+          "category": "Business & Strategy",
+          "quote": "every property that we own is within 250 300 miles from where we are right now... everything we do we do in-house... when you have everything in-house you have absolute control",
+          "summary_en": "Keep investments within a local radius you understand deeply and manage leasing, accounting, and operations in-house for control and synergies.",
+          "summary_zh": "深耕本地市场并自建全流程团队把控全局",
+          "timestamp_sec": 779,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Contrarian Investing (Go Against the Herd)",
+          "category": "Wealth & Investing",
+          "quote": "you got to go against the grain... when people are really scared to make decisions that's when you got to be aggressive and when they're very aggressively buying everything you better get scared",
+          "summary_en": "Avoid herd mentality; be aggressive when everyone else is fearful and cautious when the crowd is overly bullish.",
+          "summary_zh": "坚持逆向投资，别人恐惧时果断出手",
+          "timestamp_sec": 868,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I believe anyone could be a multi-millionaire you just got to believe you want to be a millionaire and you got to know why you want to be a millionaire",
+          "summary_en": "Believe you can achieve wealth and anchor yourself to a deep, meaningful 'why' such as family security rather than vanity.",
+          "summary_zh": "坚信自己能成功，并找到有意义的致富动力",
+          "timestamp_sec": 925,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "if your bank account goes to zero you have built up so much knowledge and so many contacts it does get a lot easier",
+          "summary_en": "Cultivate strong industry and banking relationships so you can rebuild rapidly even if you lose all your capital.",
+          "summary_zh": "积累行业与银行人脉，清零后也能东山再起",
+          "timestamp_sec": 984,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "my reputation of what I am and what I stand for I know I could build it all back up in no time",
+          "summary_en": "Protect your reputation and what you stand for, as trust is the foundation that lets you recover from any setback.",
+          "summary_zh": "建立过硬的个人声誉与信誉是最宝贵的资产",
+          "timestamp_sec": 1007,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "why don't you open a restaurant why don't you take a vacancy and open this one that's not what I do I don't have passion for that I invest in real estate",
+          "summary_en": "Stay strictly focused on the core business you love and know well instead of chasing unrelated side ventures.",
+          "summary_zh": "聚焦热爱的核心主业，拒绝不熟悉的诱惑",
+          "timestamp_sec": 1018,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年为富人洗车洗船接触财富圈层，90年代做股票经纪人靠佣金攒下六位数积蓄；25岁时掏空账户只剩50美元，以57.5万美元买下首套商业地产，翻新招租后7个月内按80万美元估值再融资套回全部本金，从此获得每月5000美元的永久自由现金流。",
+      "guest_name": "Todd Napola",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Gary Rappaport (Billionaire Real Estate Mentor)",
+        "Awaken the Giant Within by Tony Robbins",
+        "Unlimited Power by Tony Robbins",
+        "Keeping It Real on Commercial Real Estate by Todd Napola"
+      ],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Commercial Real Estate Investor & Company Founder",
+      "wealth_detail": "Eight-figure commercial real estate portfolio; closed a $25M shopping center deal; first $575K property refinanced at $800K generating $5,000/mo free cash flow",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "凭借多年积累的专业知识、数百年阅读经验、银行人脉以及个人声誉，账户清零后能迅速重来，并百分之百会继续投身热爱的房地产行业；同时建议没钱没信用的年轻人从寻找优质项目入手吸引资金合作。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "lAOliWexJgo",
+  "video_type": "deep_dive_single"
+}

@@ -1,0 +1,110 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I started at a mom and pop brokerage first one in last one out just hustling man I got rookie of the year",
+          "summary_en": "Be the first one in, last one out, and out-hustle everyone early in your career.",
+          "summary_zh": "早出晚归拼命工作，初入行就拿新人王",
+          "timestamp_sec": 70,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I always wanted to learn as much as possible about real estate and then figure out how do I own real estate",
+          "summary_en": "Learn every aspect of your industry—including finance and appraisal—to prepare for ownership.",
+          "summary_zh": "全面学习行业知识，掌握金融与评估技能",
+          "timestamp_sec": 96,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "all of you guys in this room right now have a lot of ways to help each other out and most people just don't go all in on that",
+          "summary_en": "Go all in on collaborating and building long-term, mutually beneficial relationships with ambitious peers.",
+          "summary_zh": "深度链接身边志同道合的伙伴并互相成就",
+          "timestamp_sec": 150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Lead With Composure Through Adversity",
+          "category": "Business & Strategy",
+          "quote": "you've got to be a leader when you know deals are falling apart when you know you got lawsuits... you gotta show up and still lead every day",
+          "summary_en": "Show up every day and lead with composure to support your team even amid failing deals, lawsuits, and personal struggles.",
+          "summary_zh": "面对危机与诉讼仍要稳住心态带领团队",
+          "timestamp_sec": 375,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "one in 20 Partnerships work out if that... I gave him ten doors and he'd go knock a hundred",
+          "summary_en": "Most business partnerships fail; rigorously test a potential partner's work ethic, sobriety, and discipline before committing.",
+          "summary_zh": "合伙成功率极低，合作前须先考验执行力",
+          "timestamp_sec": 413,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "we've divided the roles where he's the operations guy... and I'm out there living what I believe is my best role which is networking",
+          "summary_en": "Run the business on clear operating systems and divide roles by strengths—delegating operations and hiring so you focus on vision and relationships.",
+          "summary_zh": "按优势分工并搭建运营体系，专注擅长领域",
+          "timestamp_sec": 496,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "take off the broker hat we're investors... we have control of this piece of paper which is actual ownership",
+          "summary_en": "Shift from an agent mindset to an investor mindset by controlling property contracts and building equity ownership.",
+          "summary_zh": "从经纪人思维转向投资者，掌控资产所有权",
+          "timestamp_sec": 544,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Set Clear Goals & Vision",
+          "category": "Mindset & Resilience",
+          "quote": "I'm a big believer that you got to have goals in life if you don't have any kind of goal like you can't be happy",
+          "summary_en": "Maintain a clear vision and concrete goals to push toward, as progress toward meaningful goals drives fulfillment and motivation.",
+          "summary_zh": "人生必须设定清晰目标并持续向前推进",
+          "timestamp_sec": 759,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "17岁考取房产经纪执照，一边在Papa John's送披萨、拖地打工，一边在小型经纪公司早出晚归；拖地时接到首个客户电话并成功成交，赚取约6000-7000美元，从此踏入房产行业。",
+      "guest_name": "Matt Tyfe",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Traction"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Negotiation & Deal-Making",
+        "Operations & Systems",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Owner & Co-Founder, Taifi Real Estate (Real Estate Brokerage & Investor)",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "cttsP_8MjEo",
+  "video_type": "deep_dive_single"
+}

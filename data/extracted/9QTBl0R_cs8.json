@@ -1,0 +1,416 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Health is wealth. It really is.",
+          "summary_en": "Prioritize your health because physical well-being is true wealth.",
+          "summary_zh": "健康就是真正的财富",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "The most important thing in life is about taking shots. You take a lot of risks.",
+          "summary_en": "Take bold shots and calculated risks throughout your career.",
+          "summary_zh": "人生最重要的是敢于冒险出手",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose a Supportive Life Partner",
+          "category": "Mindset & Resilience",
+          "quote": "The most important thing is you have to have a partner who's with you all the way.",
+          "summary_en": "Having a committed life partner who stands by you is essential.",
+          "summary_zh": "选择全力支持你的人生伴侣",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "The most valuable piece of real estate is in graveyards because there's billion-dollar ideas in the ground of people that never took action.",
+          "summary_en": "Act on your business ideas now rather than taking unexecuted ideas to the grave.",
+          "summary_zh": "有想法要立刻行动，莫留终身遗憾",
+          "timestamp_sec": 203,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "No is halfway to yes. Take that to the bank.",
+          "summary_en": "Welcome rejection and treat every 'no' as halfway to a 'yes'.",
+          "summary_zh": "把每次拒绝都视为成功的一半",
+          "timestamp_sec": 203,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Value Character Over Material Things",
+          "category": "Mindset & Resilience",
+          "quote": "We're not all defined by material things. It's really what are you made of.",
+          "summary_en": "Focus on your inner character and resilience rather than material possessions.",
+          "summary_zh": "人的价值在于内在品格而非物质",
+          "timestamp_sec": 251,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Don't take no for an answer, man. Believe in yourself.",
+          "summary_en": "Believe in yourself relentlessly and refuse to accept no for an answer.",
+          "summary_zh": "坚定自信，无视质疑与否定",
+          "timestamp_sec": 272,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18岁开始创业，深耕健身与健康领域，创立Fit TV电视网并以超1亿美元出售给新闻集团（News Corp）。",
+      "guest_name": "Jake (Fit TV Founder)",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Fitness & Health Entrepreneur / Fit TV Founder",
+      "wealth_detail": "Sold Fit TV to News Corp for over $100M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要接受“不”的回答，坚定相信自己；有想法就立刻行动，别等老了留下遗憾，把每次拒绝当作通往成功的阶梯。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I found a way to mirror my passion and make a little money doing it, too. I love what I do.",
+          "summary_en": "Align your business and investments with work you genuinely love.",
+          "summary_zh": "将热爱与赚钱的事业结合起来",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Evaluate People, Processes, and Profitability",
+          "category": "Business & Strategy",
+          "quote": "It's three things really: people, processes, or profitability. Most companies have two out of three; if I can add value, then you get me.",
+          "summary_en": "Evaluate businesses on people, processes, and profitability, and invest where you can add the missing piece.",
+          "summary_zh": "投资看重人、流程与盈利三要素",
+          "timestamp_sec": 363,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "The world crashed, pandemic... and we just doubled down. When everybody's fearful, that's the time to jump in.",
+          "summary_en": "Double down and seize opportunities when everyone else is fearful during downturns.",
+          "summary_zh": "市场低迷众人恐惧时果断加倍下注",
+          "timestamp_sec": 384,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You don't have to be the smartest person in the room... put all y'all together and I'm going to speak last.",
+          "summary_en": "Surround yourself with the smartest people, let them contribute first, and speak last.",
+          "summary_zh": "重用比你更聪明的人才并虚心倾听",
+          "timestamp_sec": 403,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I had to be strong enough to understand that not everybody's going to see my vision.",
+          "summary_en": "Stay committed to your vision even when family and peers doubt you.",
+          "summary_zh": "屏蔽质疑声音，坚定自己的愿景",
+          "timestamp_sec": 455,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家，收购并经营高等职业院校（位于加州卡尔斯巴德的Theora Technical College），并在疫情低谷期逆势加倍投资，单年最高赚取约1700万美元。",
+      "guest_name": "Theora Technical College Owner",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Higher Education Investor & College Owner",
+      "wealth_detail": "$17M highest single-year earnings",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "在众人恐惧时果断入场；用人、流程、盈利三要素评估企业并补足短板；凝聚比自己更聪明的人共事并最后发言。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "We were crazy hard workers.",
+          "summary_en": "Work relentlessly hard rather than relying on luck alone.",
+          "summary_zh": "成功的背后是近乎疯狂的努力",
+          "timestamp_sec": 540,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Just keep your eyes open. Read a lot, talk to people, network, but just read a lot, think a lot.",
+          "summary_en": "Read voraciously, think deeply, and stay observant to spot winning products.",
+          "summary_zh": "保持敏锐观察，大量阅读与深入思考",
+          "timestamp_sec": 570,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "The more competitive something is, that means there's an opportunity. The best place to put a gas station is next to another gas station.",
+          "summary_en": "Enter competitive markets because high competition proves strong demand and opportunity.",
+          "summary_zh": "敢于进入高竞争市场寻找大机会",
+          "timestamp_sec": 625,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Differentiate With a Unique Product Angle",
+          "category": "Business & Strategy",
+          "quote": "There's a million guys selling the same nonsense. You have to find something different.",
+          "summary_en": "Stand out in crowded markets by finding a unique product or selling angle.",
+          "summary_zh": "打造差异化产品，避免同质化竞争",
+          "timestamp_sec": 641,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Keep your eyes open. Keep thinking big. Think big and never ever, no matter what, quit.",
+          "summary_en": "Think big, stay alert to opportunities, and never quit.",
+          "summary_zh": "敢于格局放大，无论如何绝不放弃",
+          "timestamp_sec": 679,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Don't ever quit. We've been punched in the head so many times it's not even funny.",
+          "summary_en": "Endure repeated setbacks and keep pushing forward without quitting.",
+          "summary_zh": "承受反复打击依然坚持前行",
+          "timestamp_sec": 689,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事健康产品推广与营销，1998年推出首款草本伟哥并成为GNC史上最畅销产品，后布局远程医疗业务，巅峰单年收入达数亿美元。",
+      "guest_name": "Beverly Hills Health & Telemedicine Promoter",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Think and Grow Rich (Napoleon Hill)",
+        "The Ultimate Sales Letter (Dan Kennedy)"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Promoter & Health/Telemedicine Entrepreneur",
+      "wealth_detail": "Hundreds of millions of dollars in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持高强度努力与观察力，大量阅读并多与人交流；不惧怕竞争激烈的市场，关键在于找到差异化的独特产品；格局放大，永不放弃。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "You can get rich by following a trend. You can get wealthy by creating a trend.",
+          "summary_en": "Create or get ahead of emerging industry trends like cybersecurity or AI to build true wealth.",
+          "summary_zh": "顺应趋势能致富，引领趋势成巨富",
+          "timestamp_sec": 763,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Nothing changes unless you change. If you're not willing to do something different today, you're going to lead the life you had yesterday.",
+          "summary_en": "Take different actions today if you want your life and financial situation to change.",
+          "summary_zh": "不做出改变，生活就永远原地踏步",
+          "timestamp_sec": 794,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "It's very hard to get wealthy making a big income. You got to have capital gains. You got to build something of value that you can sell.",
+          "summary_en": "Build sellable equity and capital gains rather than relying solely on high annual income.",
+          "summary_zh": "靠高薪难成巨富，必须打造可出售股权",
+          "timestamp_sec": 817,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "The difference between successful people and others is how long they wallow in misery... 5 minutes later, I just got to get up and do it again.",
+          "summary_en": "Minimize how long you dwell on setbacks and get right back up to keep going.",
+          "summary_zh": "别沉溺痛苦太久，跌倒后迅速起身",
+          "timestamp_sec": 869,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Never sell a house. Always keep every house... if you can hang on to a property for 10 years, for sure you'll make money.",
+          "summary_en": "Buy real estate and hold properties for at least 10 years without selling prematurely.",
+          "summary_zh": "买下房产长期持有十年以上切勿轻卖",
+          "timestamp_sec": 902,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Biggest mistake people make in sales is they have a pitch and they apply that pitch to every single person... Before you sell, find out the need.",
+          "summary_en": "Stop using a generic pitch; learn who the buyer is and uncover their specific need first.",
+          "summary_zh": "销售前先洞察客户需求，切忌套用话术",
+          "timestamp_sec": 933,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you don't know anybody, you got to become the person other people want to know... provide something of value.",
+          "summary_en": "Become someone successful people want to know by delivering value and building your reputation.",
+          "summary_zh": "先创造价值，让自己成为值得结交的人",
+          "timestamp_sec": 978,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Motivation is easy. Passion is easy. But all that stuff fades. Obsession lasts.",
+          "summary_en": "Cultivate deep obsession with your craft, because motivation and passion fade while obsession endures.",
+          "summary_zh": "激情会消退，唯有极度执着才能持久",
+          "timestamp_sec": 986,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "The biggest flex of wealth today is being in shape... If you're not using your money to stay healthy, what's the point?",
+          "summary_en": "Invest your time and resources into staying physically fit, as health is the ultimate flex.",
+          "summary_zh": "保持身材与健康才是财富最大的炫耀",
+          "timestamp_sec": 1033,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you have no money, e-commerce... It depends on your brand. I think it's easy to build a brand today online.",
+          "summary_en": "Start with low-capital e-commerce and build a strong online brand if you lack starting money.",
+          "summary_zh": "没本钱可从电商切入打造线上品牌",
+          "timestamp_sec": 1065,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "A great person can make a bad idea good. A bad person can take a great business and completely screw it up.",
+          "summary_en": "Bet on exceptional people rather than ideas, since A-players elevate any business.",
+          "summary_zh": "投人胜过投点子，优秀人才可化腐朽",
+          "timestamp_sec": 1076,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Beware the man in the t-shirt because that guy worked his ass off to a point that he can wear whatever he want. He doesn't have to dress to impress.",
+          "summary_en": "Avoid dressing or spending to impress others; build real leverage so people come to you.",
+          "summary_zh": "别靠名牌撑门面，实力够强无需讨好",
+          "timestamp_sec": 1112,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Train Custom AI on Your Workflow",
+          "category": "Actionable Skills & Habits",
+          "quote": "Train your AI model to the way you work. So, we spent a lot of time training our version of AI to write like me.",
+          "summary_en": "Customize and train AI tools on your personal style and workflows for business leverage.",
+          "summary_zh": "按个人工作方式训练专属AI提升效率",
+          "timestamp_sec": 1158,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Sell joy... It's not what you say, it's how you make people feel. The less you have, the nicer and the more engaging you have to be.",
+          "summary_en": "Win clients over by selling joy, warmth, and making people feel great when dealing with you.",
+          "summary_zh": "向客户传递快乐与好感，重视情绪价值",
+          "timestamp_sec": 1172,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You'll never find anything in life as fascinating as another human being. And I'm deeply Christian and so I try to approach every human being that way.",
+          "summary_en": "Stay grounded in faith and approach every person with genuine curiosity about their story.",
+          "summary_zh": "怀抱信仰与好奇心真诚对待每个人",
+          "timestamp_sec": 1208,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒随父母偷渡到加拿大，21岁投身当时尚存质疑的互联网与网络安全领域抢占先机，靠自身实力创造价值，最终出售公司单年斩获约5亿美元（含资本利得）。",
+      "guest_name": "Robert Herjavec",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Barbara Corcoran",
+        "Charlie Munger"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Marketing & Distribution",
+        "Real Estate Underwriting",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Cybersecurity & AI Entrepreneur / Shark Tank Investor",
+      "wealth_detail": "$500M highest single-year total (including business sale capital gains); ~$18M/yr income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "若保留人脉从零开始会创立AI公司（看好AI数据基础设施）；若完全无资金则从电商切入打造线上品牌，通过提供价值和积极情绪赢得客户与人脉。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "9QTBl0R_cs8",
+  "video_type": "street_multi"
+}

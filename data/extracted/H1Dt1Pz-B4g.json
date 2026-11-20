@@ -1,0 +1,290 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "if you put your passion into something that you really want to do people recognize that",
+          "summary_en": "Putting genuine passion into your chosen field gets recognized regardless of your background.",
+          "summary_zh": "全身心投入热爱之事自会被认可",
+          "timestamp_sec": 91,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "the seventh wonder of the world is the power of compounding... the minute you get a job open your 401k account and put some money in it",
+          "summary_en": "Open a 401(k) as soon as you start working so compound interest works for you over time.",
+          "summary_zh": "尽早开通401(k)发挥复利威力",
+          "timestamp_sec": 116,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "it's 90% hard work you know the cream always rises to the top for 10 years I've worked every Christmas every Thanksgiving holidays nights days",
+          "summary_en": "Standing out in a competitive field is 90% hard work, including sacrificing holidays and nights for years.",
+          "summary_zh": "九成靠拼搏，十年节假日无休终有回报",
+          "timestamp_sec": 143,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "原本在巴基斯坦担任医生，移民美国后重新参加所有执业资格考试，连续十年节假日与夜班连轴转，最终进入七位数年薪行列。",
+      "guest_name": "Houston Anesthesiologist Physician (from Pakistan)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Anesthesiologist / Physician",
+      "wealth_detail": "Seven figures plus in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "一有工作就立刻开通401(k)账户并坚持投入，利用复利积累养老财富；在竞争激烈的行业里，靠热爱与90%的极致努力脱颖而出。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I've actually had the only one job in my life... working part-time at McDonald's going to college and I just stayed with it",
+          "summary_en": "Stick with one proven career or business long-term instead of constantly jumping around.",
+          "summary_zh": "一生深耕麦当劳单一事业持之以恒",
+          "timestamp_sec": 261,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "it was really about perseverance you got to be with the right franchise too... it's hard working very difficult but you stay with it you'll get the rewards",
+          "summary_en": "Long-term perseverance and hard work within the right franchise system eventually pay off.",
+          "summary_zh": "选对加盟体系并靠毅力与苦干坚持",
+          "timestamp_sec": 302,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I lived with enough money just to make ends meet and all the rest of it went to pay down debt once you get out of debt now you become much freer",
+          "summary_en": "Live strictly on what you need to make ends meet and put all extra cash toward paying off business and personal debt.",
+          "summary_zh": "保持极简开销，把余钱全力用于还债",
+          "timestamp_sec": 311,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "17岁上大学期间在麦当劳兼职起步，一生只做这一份事业，最终发展到自己拥有50家麦当劳门店、子女拥有19家门店。",
+      "guest_name": "Houston McDonald's 50-Unit Franchisee",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "McDonald's Franchisee (50 Locations)",
+      "wealth_detail": "",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "日常花销只留够维持基本生活，其余资金优先还清商业债务及车贷房贷以获得财务自由；选择成熟特许经营模式并长期坚持。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "you have to live below your means and if you can live below your means I think you could endure bad times you're pretty safe",
+          "summary_en": "Living below your means protects you from overextending and keeps you safe during downturns.",
+          "summary_zh": "量入为出才能在艰难时期安然度过",
+          "timestamp_sec": 420,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "if you look for the easy way you're never gonna find",
+          "summary_en": "Stop looking for shortcuts or easy ways to build wealth because they do not exist.",
+          "summary_zh": "切勿妄想走捷径或寻找轻松致富路",
+          "timestamp_sec": 448,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Houston Multi-Million Dollar Homeowner (Phone Interview)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Homeowner (Industry Unspecified)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "保持量入为出、不要过度透支和加杠杆；脚踏实地努力工作，不要指望寻找轻松成功的捷径。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Learn Practical Operations Beyond Textbooks",
+          "category": "Business & Strategy",
+          "quote": "I wish I had an opportunity to learn more about operational businesses at school... you're not going to do it by the textbook",
+          "summary_en": "Business school textbooks do not teach the real-world operational challenges of running a business and meeting payroll.",
+          "summary_zh": "后悔未早点学实战运营而非纸上谈兵",
+          "timestamp_sec": 514,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "you're going to have to basically get with somebody who's willing to mentor you and take the time to instruct you on everything you've got to look at",
+          "summary_en": "Find an experienced mentor willing to teach you the practical details of running an operation.",
+          "summary_zh": "找愿意手把手指导的导师向实战学习",
+          "timestamp_sec": 537,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "we really organized the team to come together on one... rallying point, a motivational point something that you have passion about that you can motivate others to achieve at a higher level",
+          "summary_en": "Unite and motivate your team around a shared rallying point and vision so everyone executes wholeheartedly.",
+          "summary_zh": "用共同愿景凝聚并激励团队冲向更高目标",
+          "timestamp_sec": 561,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "you don't have to be the smartest guy... you learn to outwork everybody else and I promise you good things will happen for you",
+          "summary_en": "You do not need to be the smartest, biggest, or fastest—just outwork everyone in the organization.",
+          "summary_zh": "不必最聪明，比所有人更努力终有好事",
+          "timestamp_sec": 629,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1979年离开福特汽车公司后接手一家濒临破产的经销商，一年半内带领团队扭亏为盈并做到全美福特卡车销量第一，随后自购门店并出售给AutoNation且出任高管。",
+      "guest_name": "Former AutoNation Executive & Champion Ford Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Auto Dealership Mogul & Former AutoNation Executive",
+      "wealth_detail": "$36M+ home (Zillow listing); $150K-$1M/wk payroll",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要指望仅靠学校课本学会经营，要主动跟随愿意带你的导师学实战；学会用共同愿景激励团队；比组织里任何人都更拼命工作。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "your biggest asset is your staff treat them like gold and they'll treat you like gold you know it's a team effort",
+          "summary_en": "Treat your employees like your most valuable asset and they will go above and beyond for your business.",
+          "summary_zh": "员工是最大资产，待之如金方能齐心",
+          "timestamp_sec": 664,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "it's all about balance so you got to make time for it if you burn yourself out and you let life pass you by sure you have a lot of money but you know don't take that with you",
+          "summary_en": "Maintain work-life balance and avoid burning out for money because you cannot take wealth with you.",
+          "summary_zh": "注重工作生活平衡，别因透支错过人生",
+          "timestamp_sec": 694,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "曾是职业巡演音乐人，40岁时转行成为厨师并创办经营多家餐厅，如今为高端客户提供私人烹饪服务。",
+      "guest_name": "Houston Private Chef & Former Touring Musician",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Private Chef & Former Restaurant Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "把员工当成最重要的资产并善待团队；努力工作同时也要懂得享受生活、保持平衡，不要因为过度劳累而错过人生体验。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "you have to always want to learn... if you want it and you're willing to learn and you're willing to work then you'll find out whatever it takes to get it",
+          "summary_en": "Stay committed to continuous learning and hard work rather than expecting quick or easy success.",
+          "summary_zh": "保持终身学习心态并愿为成功全力付出",
+          "timestamp_sec": 801,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "sometimes you don't want to wait too long... sometimes you're just stalling you're just delaying",
+          "summary_en": "Start building early instead of stalling under the excuse of waiting for ideal conditions.",
+          "summary_zh": "创业不要过度等待或自我拖延，果断行动",
+          "timestamp_sec": 875,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "you might start saving up money then you're like well let me buy this first let me buy that first and now you don't have the capital but if you can focus and just save as much as you can",
+          "summary_en": "Resist buying discretionary items early on and focus on saving capital to fund your first venture.",
+          "summary_zh": "克制早期消费欲望，专注攒下创业本金",
+          "timestamp_sec": 887,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "my first year out I worked probably three times as much as a normal doctor would it was non-stop because I knew I had to save to have enough money to take to a bank and get a loan to build my first facility",
+          "summary_en": "Outwork peers dramatically in your early career to accumulate the seed capital needed to finance your business.",
+          "summary_zh": "毕业首年以常人三倍强度工作积累资本",
+          "timestamp_sec": 897,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:View Money as a Tool, Not the Goal",
+          "category": "Mindset & Resilience",
+          "quote": "you don't go for money but think of money as a tool as a tool to do something great... if you focus on money in cars you're never going to be happy",
+          "summary_en": "Treat money as a tool to build great things rather than chasing money or luxury cars for happiness.",
+          "summary_zh": "把钱视为成就伟业的工具而非追逐终点",
+          "timestamp_sec": 907,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "成为急诊科医生后，毕业第一年以普通医生三倍的工作强度拼命攒钱，随后向银行贷款建立了自己的第一家医疗机构。",
+      "guest_name": "Houston ER Doctor & Medical Facility Founder (Rolls-Royce Owner)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Emergency Medicine Physician & Medical Facility Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "保持持续学习与拼搏精神；别因犹豫拖延而迟迟不行动，克制早期购买欲攒够本金；把金钱当作做大事的工具而非终点。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "H1Dt1Pz-B4g",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,293 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Continue to build relationships, significant relationships.",
+          "summary_en": "Continue building significant, high-value relationships.",
+          "summary_zh": "持续建立重要且有价值的人脉关系",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Narrow down on your value add and scrub on that continuously.",
+          "summary_en": "Narrow down on your unique value add and continuously refine it.",
+          "summary_zh": "聚焦自身核心价值并持续打磨精进",
+          "timestamp_sec": 200,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Believe that you can be the best you possibly want of yourself.",
+          "summary_en": "Believe that you can become the best version of yourself.",
+          "summary_zh": "坚信自己能成为最优秀的样子",
+          "timestamp_sec": 200,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Templars Law Firm Owner",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Owner, Templars Law Firm (22 partners, 150+ lawyers)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "持续建立重要且有价值的人脉关系，聚焦并不断打磨自身核心价值，同时坚信自己能做到最好。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Find exceptional people, share the mission with them, and then get out of their way and let them build. Let them innovate.",
+          "summary_en": "Hire exceptional people, align them with the mission, and empower them to build without micromanagement.",
+          "summary_zh": "招募顶尖人才并放权让他们创新",
+          "timestamp_sec": 324,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Africa is the only market that is yielding financial services from ground up at this scale. It is the single largest greenfield opportunity for financial services",
+          "summary_en": "Target massive, young, underserved greenfield markets with long-term demographic tailwinds.",
+          "summary_zh": "选择处于起步期的高增长大市场",
+          "timestamp_sec": 376,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Everybody has their own thing going on. It's on you to chase it up.",
+          "summary_en": "Master follow-up in business because everyone is busy and it is your responsibility to chase opportunities.",
+          "summary_zh": "在商业中主动持续跟进客户与机会",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Let your ego go. Somebody says no to you, it's not no forever. It's no today. No doesn't mean no, it means not yet.",
+          "summary_en": "Drop your ego and treat a 'no' as 'not yet' rather than permanent rejection.",
+          "summary_zh": "放下自尊，把拒绝视为暂未成功",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Really focus on something that you love, decide your mission and your passion, and go after it.",
+          "summary_en": "Focus on something you genuinely love, define your mission and passion, and pursue it relentlessly.",
+          "summary_zh": "专注热爱之事，明确使命并全力追求",
+          "timestamp_sec": 476,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在旧金山德勤咨询工作并赴斯坦福商学院深造，20多岁时立志投身重建非洲，随后创立金融基础设施公司 Paga。",
+      "guest_name": "Tayo Oviosu",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "First boss at Deloitte Consulting (San Francisco)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & CEO, Paga",
+      "wealth_detail": "Company worth hundreds of millions of dollars; ~$60M annual revenue; $1.5B+/month processed volume",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "放下傲气坚持跟进，把“不”当成“暂未成功”，并专注投身于你热爱的使命与事业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Vertically Integrate Your Supply Chain",
+          "category": "Business & Strategy",
+          "quote": "We build everything from scratch, from building the noodle plant to the packaging plant to the carton plant to the seasoning plant and now to the palm plantation. So from farm to table, that's what we have done.",
+          "summary_en": "Build vertical integration from raw materials and packaging to manufacturing and distribution.",
+          "summary_zh": "从源头到终端垂直整合供应链",
+          "timestamp_sec": 749,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Invest. If you have any savings, invest. Don't save, invest. You make more money investing than saving.",
+          "summary_en": "Put your savings to work by investing rather than letting cash sit idle.",
+          "summary_zh": "别只存钱，把积蓄拿去投资生钱",
+          "timestamp_sec": 760,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "It's not a short term business, you know, it's not a tech business or AI business where you make quick bucks. This is a consumer business. Consumer business you have to build over time.",
+          "summary_en": "Avoid short-term quick-buck thinking; durable consumer businesses take decades to build.",
+          "summary_zh": "不追逐快钱，消费品生意需长期深耕",
+          "timestamp_sec": 780,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Right product, right taste, right price. Best quality is the first thing and then you find the right price. All our products are premium priced.",
+          "summary_en": "Lead with best-in-class quality, the right product and taste, and price appropriately rather than chasing the cheapest price.",
+          "summary_zh": "坚持最优品质并匹配合理高价定位",
+          "timestamp_sec": 789,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Keep walking. Any situation in life, you keep walking.",
+          "summary_en": "Keep moving forward regardless of whatever situation you face in life.",
+          "summary_zh": "无论人生境遇如何，都要坚持走下去",
+          "timestamp_sec": 813,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "30年前因周末短途旅行从印尼来到尼日利亚，与家人共同引入 Indomie 方便面，耗时10年打基础、20年塑品牌，最终超越雀巢美极成为第一品牌。",
+      "guest_name": "Indomie Nigeria Noodle Company Owner",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Owner, Africa's Largest Noodle Company (Indomie Nigeria)",
+      "wealth_detail": "Company revenue exceeds $2B with 25,000 employees",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "有结余就去投资而非单纯储蓄，坚持长期主义（消费品需20年沉淀），以最佳品质配合适定价，并在任何困境下继续前行。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "If I continue to trade my time for money, that I was going to have to work forever. So, I needed to find some sources of passive income so that I can truly have financial freedom, geographic freedom, time freedom.",
+          "summary_en": "Stop trading time for money and build passive income assets for financial, geographic, and time freedom.",
+          "summary_zh": "停止用时间换钱，靠被动收入获自由",
+          "timestamp_sec": 907,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Understand exactly how to raise capital, how to manage these properties properly, identify the proper locations, and how to use data-driven strategies... Location, location, location.",
+          "summary_en": "Invest in multifamily real estate using data-driven analysis, proper management, capital raising, and prime locations.",
+          "summary_zh": "投资多户住宅地产，重地段与数据",
+          "timestamp_sec": 941,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Working out frequently, drinking water, staying out of other people's business.",
+          "summary_en": "Maintain health and focus through regular exercise, hydration, and staying out of other people's business.",
+          "summary_zh": "坚持健身喝水并少管他人闲事",
+          "timestamp_sec": 991,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Avoid Negative News & Negativity",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I focus on the positive things cuz if you listen to just all the negativity, you're never going to make a move. You're going to be paralyzed.",
+          "summary_en": "Avoid consuming negative news and negativity, which paralyzes people from taking action.",
+          "summary_zh": "远离负面新闻与消极信息以免瘫痪",
+          "timestamp_sec": 1013,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "A journey of a thousand miles starts with the first step. Just take that first step today.",
+          "summary_en": "Take the first step today—every major journey begins with immediate action.",
+          "summary_zh": "千里之行始于足下，今天就迈出第一步",
+          "timestamp_sec": 1026,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在美国担任骨科医生多年后意识到不能永远用时间换钱，于是联合合伙人投资多户住宅地产，6年内收购超2.76亿美元资产并实现财务自由。",
+      "guest_name": "Nigerian Orthopedic Surgeon & Multifamily Investor",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Orthopedic Surgeon & Multifamily Real Estate Investor",
+      "wealth_detail": "Acquired $276M+ in multifamily real estate over 6 years (with partners)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "尽早布局能带来被动收入的优质地段地产以摆脱用时间换钱，远离负面新闻，今天就迈出第一步。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I don't really look at those things. They are very destructive. They will distract me. But once you are focused, you know what you are doing, you'll get there.",
+          "summary_en": "Ignore net worth rankings and external distractions; stay focused on executing what you know you are doing.",
+          "summary_zh": "不被身价榜单分心，专注手头事业",
+          "timestamp_sec": 1109,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I've been humble all my life and I came from a family that they've been very, very humble. They always teach me discipline and also to be very, very down to earth.",
+          "summary_en": "Stay humble, disciplined, and down-to-earth regardless of the scale of your success.",
+          "summary_zh": "始终保持自律、谦逊与脚踏实地",
+          "timestamp_sec": 1140,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Aliko Dangote",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Founder / Industrialist, Dangote Group (Oil & Gas Refinery, Petrochemicals, Fertilizer)",
+      "wealth_detail": "$30B net worth (Forbes at time of interview; $50B+ post-listing per host); $40B+ refinery; $10B Q1 revenue",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "保持自律、谦逊与脚踏实地，不被财富榜等外物分心，专注做好手头的事就能到达目标。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "zkc7b8UWDoU",
+  "video_type": "street_multi"
+}

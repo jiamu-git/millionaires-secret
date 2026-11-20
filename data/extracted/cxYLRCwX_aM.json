@@ -1,0 +1,385 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "Diversification. Because you never know if something's got a hard stop, you might need to put energy in something else until that come back into it.",
+          "summary_en": "Diversify across businesses so a hard stop in one doesn't wipe you out.",
+          "summary_zh": "多行业分散布局以对冲单一业务停摆风险",
+          "timestamp_sec": 204,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Multi-family homes. Because you're going to get more money, more bang for your buck.",
+          "summary_en": "Focus on multi-family properties to get higher returns and better bang for your buck.",
+          "summary_zh": "优先投资多户住宅以获得更高投资回报率",
+          "timestamp_sec": 221,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "When you somewhere trying to start a business and you trying to get out here and hustle and grind and people doubt you, you got to be strong.",
+          "summary_en": "Stay strong and keep grinding through adversity even when people doubt you.",
+          "summary_zh": "面对质疑与逆境时必须坚强并持续拼搏",
+          "timestamp_sec": 254,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Saved and baptized, that's when I realized my life changed... When you underprivileged, man, that's where you turn to.",
+          "summary_en": "Stay grounded in your faith; spiritual conviction transforms your mindset during hard times.",
+          "summary_zh": "在逆境中保持信仰，精神力量能改变人生轨迹",
+          "timestamp_sec": 271,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "They don't teach you how to cultivate relationships and maximize those in school... making your network your net worth. Just getting rooms and be a sponge... Pick up a hobby. I golf, so that helped me get a lot of rooms, too.",
+          "summary_en": "Get in the right rooms using hobbies like golf, stay quiet, observe, and make your network your net worth.",
+          "summary_zh": "借高尔夫等社交爱好进高端圈层并低调学习",
+          "timestamp_sec": 289,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Well, people want to be led. So, they want you to tell them what they do. Remember that, especially in sales.",
+          "summary_en": "In sales and negotiation, take the lead decisively because undecided clients want to be guided.",
+          "summary_zh": "销售与谈判时要果断引导犹豫的客户做决定",
+          "timestamp_sec": 339,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "All money ain't good money... Trust your gut, man. It might be good on paper, but in the long run, it's going to be detrimental to your business. So, you got to learn how to walk away.",
+          "summary_en": "Walk away from bad clients or deals that look good on paper but feel wrong in your gut.",
+          "summary_zh": "远离看似赚钱但不靠谱的合作，学会拒绝烂钱",
+          "timestamp_sec": 347,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Take a risk, man. Jump off the porch... Get off the boat, Peter. Walk on water. Take a chance.",
+          "summary_en": "Don't stay on the sidelines—take a leap of faith and bet on a chance.",
+          "summary_zh": "别观望，鼓起勇气迈出第一步去冒险尝试",
+          "timestamp_sec": 360,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫困，靠篮球奖学金免费读大学并成为职业球员，攒下第一桶金后进入商界，曾任NBA体育经纪人并涉足房地产与居家护理等多项业务。",
+      "guest_name": "Atlanta Serial Entrepreneur & Former NBA Sports Agent (Ferrari Owner)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Serial Entrepreneur, Real Estate Investor & Former NBA Sports Agent",
+      "wealth_detail": "$10M highest single-year income; owns 49 luxury townhomes and commercial real estate",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持信仰与抗压心态，利用高尔夫等共同爱好进入富人圈层低调观察学习，多赛道布局并勇于承担风险。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "If you have a billion dollars and your spirit's zero, a billion times zero is zero. But if you have one dollar and your spirit's a billion, a dollar times a billion is a billion. You got to have both.",
+          "summary_en": "Build both financial wealth and spiritual/philanthropic richness, because money without spirit equals zero.",
+          "summary_zh": "兼顾财富与精神丰盈，只赚取金钱而无灵魂等于零",
+          "timestamp_sec": 452,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "It's really important that you believe in the end of your story... If you're an entrepreneur, you have to believe that what you're doing is going to work.",
+          "summary_en": "Maintain deep conviction that your venture will ultimately succeed even before the proof arrives.",
+          "summary_zh": "创业者必须坚信自己的故事会有好结局",
+          "timestamp_sec": 518,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I met that guy at 26. His name was Bob Sillerman. And he held my hand as a young kid. He said three things: make money, have fun, and have fun making money.",
+          "summary_en": "Seek out an experienced mentor early who can guide you on both business execution and enjoying the ride.",
+          "summary_zh": "年轻时寻找强力导师引路，学会赚钱并享受过程",
+          "timestamp_sec": 538,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "What he was teaching me was how to deal with disappointment and that nothing would be handed to you... I had so many ventures that failed before one worked.",
+          "summary_en": "Learn to absorb repeated failure and disappointment without quitting before your breakthrough hits.",
+          "summary_zh": "学会消化失望与连续失败，不轻言放弃才能等到成功",
+          "timestamp_sec": 592,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Put more on your plate of what it is you love to do with the people you love to do it with... we tend to over index in the energy we put into the financial side, but we tend to sometimes neglect the spiritual side.",
+          "summary_en": "Don't over-index on money at the expense of adventure, friendships, and the people you love.",
+          "summary_zh": "别只顾赚钱而忽略挚爱之人、友情与生活体验",
+          "timestamp_sec": 620,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "At the end of the day, we only have one job and that's stay healthy... You can't enjoy anything if you don't have your health.",
+          "summary_en": "Protect your physical health above everything else; without health you cannot enjoy wealth.",
+          "summary_zh": "保持身体健康是头等大事，没有健康一切归零",
+          "timestamp_sec": 664,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The biggest thing I learned from Warren is that you get rich slowly... It takes 8, 10 years to build a brand in this country for most people. And it takes a long time to acquire wealth.",
+          "summary_en": "Accept that real brand building and wealth creation take 8-10+ years; avoid overnight-rich illusions.",
+          "summary_zh": "听巴菲特劝告慢慢变富，打造品牌需要8到10年沉淀",
+          "timestamp_sec": 727,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Hunger. Yeah, I'm looking at like you're hungry. I see you out there hustling. The way you approached me, you are the business plan.",
+          "summary_en": "Show relentless hunger and hustle; top investors bet on hungry founders even more than business plans.",
+          "summary_zh": "保持强烈饥饿感与行动力，你本人就是最好的商业计划书",
+          "timestamp_sec": 823,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Proximity. You got to put yourself in situations in right in the right rooms... I went every single day at 21 into the Beverly Hills Hotel and I would watch their mannerisms... Just starting small talk.",
+          "summary_en": "Deliberately place yourself in rooms where top performers hang out, observe them, and initiate conversations.",
+          "summary_zh": "主动走进大佬聚集的场所，通过近距离社交改变命运",
+          "timestamp_sec": 877,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I think the best quote I ever heard is from Gandhi. Learn like you'll live forever, live like you'll die tomorrow.",
+          "summary_en": "Stay a lifelong learner while living boldly every single day.",
+          "summary_zh": "以永生之心持续学习，以末日之心尽情生活",
+          "timestamp_sec": 915,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "23岁睡朋友沙发年薪仅1.6万美元且入不敷出，经历上门卖海鲜、唱片、T恤、营销等多家公司失败后，因受邀坐上私人飞机发现商机，与合伙人创办私人飞机公司（年销超50亿美元并出售给巴菲特），26岁成为百万富翁。",
+      "guest_name": "Jesse Itzler",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Bob Sillerman (Mentor)",
+        "Warren Buffett (Business Mentor / Acquirer)"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Serial Entrepreneur & Private Jet / Beverage Company Founder",
+      "wealth_detail": "Sold 4 companies including a private jet company with $5B+ in sales; made hundreds of millions of dollars; became a millionaire at 26",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "在没背景时每天去比弗利山酒店等顶级场所制造近距离接触大佬的机会，保持饥饿感，做好十年磨一剑慢慢变富的准备。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I worked a law firm, and I realized that my income there's a salary cap, and no matter how good I was, I'm only going to make X amount of money. I was like, 'This isn't for me. I'm going to go on my own.'",
+          "summary_en": "Leave jobs with fixed salary caps and build your own business with uncapped upside.",
+          "summary_zh": "跳出有薪资上限的打工模式，自主创业追求无上限收益",
+          "timestamp_sec": 1085,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Build Corporate Structure & Brand Early",
+          "category": "Business & Strategy",
+          "quote": "Run your business like it's Walmart. Meaning, from the very beginning... have your corporate structure, your LLC, your corporation, have your business bank account... Follow the corporate formalities.",
+          "summary_en": "Set up proper legal entities, business banking, and polished branding from day one like a major corporation.",
+          "summary_zh": "从第一天起就按大公司标准建好法人架构与专业品牌形象",
+          "timestamp_sec": 1128,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "You can bootstrap it. Start small. You want to first get what's called proof of concept. Can you go sell your product or service to a stranger?... You bootstrap it, you own more equity in your business.",
+          "summary_en": "Bootstrap early to prove strangers will pay and retain equity before raising capital to scale what works.",
+          "summary_zh": "先低成本自筹资金跑通产品验证并保留股权，再融资放大",
+          "timestamp_sec": 1157,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Health and self-care. I believe as a woman you need to always look your best. And in business you represent the brand, so you got to show up for yourself. You cannot sell a dream looking like a nightmare.",
+          "summary_en": "Prioritize health, self-care, and sharp personal presentation because you are the face of your brand.",
+          "summary_zh": "注重健康与形象管理，你本人的状态就代表公司品牌",
+          "timestamp_sec": 1208,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Your biggest dream killers don't see the vision, but my motto is never take advice from someone that you wouldn't exchange a bank account with... I'm going to bet on myself.",
+          "summary_en": "Ignore dream killers who can't see your vision; never take advice from people whose financial life you wouldn't trade for.",
+          "summary_zh": "别听不愿与之交换银行账户的人的劝阻，坚定押注自己",
+          "timestamp_sec": 1231,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "It's not how you start, it's how you finish. In business, in life, you're going to get knocked down... If you get back up, you can keep on fighting and go get your win.",
+          "summary_en": "Get back up every time business knocks you down; resilience determines how you finish.",
+          "summary_zh": "创业不看起点看终点，被打倒后只要爬起来就能赢",
+          "timestamp_sec": 1273,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "非富裕家庭出身，法学院毕业在律所工作时意识到高薪仍有上限，果断辞职转行做美发产品与美发沙龙特许经营，创业20余年。",
+      "guest_name": "Joy (Atlanta Attorney & Hair Salon Franchise Founder)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Attorney & Hair Salon Franchise Founder",
+      "wealth_detail": "$5M highest single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不必等大笔资金再创业，先自筹资金向陌生人卖货验证需求，同时建立正规公司架构与专业门面，跑通后再融资10倍放大。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "My mother had an expression, you do the right things for the right reasons, and live with the consequences.",
+          "summary_en": "Operate from strong core values: do the right things for the right reasons and stand by the outcome.",
+          "summary_zh": "秉持正确动机做正确的事，坚守价值观并承担后果",
+          "timestamp_sec": 1460,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "They said, 'Just ignore these guys. They're going to go broke.'... Commitment to values, commitment to behavior, staying the course, having the resilience.",
+          "summary_en": "Stay resilient and stay the course when critics predict your business model will go broke.",
+          "summary_zh": "面对外界看衰与唱衰，保持定力与韧性坚持走下去",
+          "timestamp_sec": 1487,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Listening to what customers wanted, not debating, not forcing our arguments on them, learning from them, and having the real humility... our ultimate sign of success is when our customers... would feel like they would be disloyal by shopping someplace else.",
+          "summary_en": "Listen to customers with genuine humility instead of arguing, and earn fierce customer loyalty.",
+          "summary_zh": "谦卑倾听客户需求而非争辩，赢得客户的极致忠诚",
+          "timestamp_sec": 1505,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "It was never about money to me per se. It was always about building value, doing the right things for the right reasons. So, becoming a billionaire was only a byproduct of that.",
+          "summary_en": "Focus on creating genuine value rather than chasing money; billionaire wealth is merely a byproduct.",
+          "summary_zh": "专注创造真实价值而非追逐金钱，十亿身家只是副产品",
+          "timestamp_sec": 1541,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Because I've gotten older, success means not just financially, means not just your immediate family, but everybody living in your circle of love, but your really humanity.",
+          "summary_en": "Define true success broadly around caring for your family, community, and humanity, not just net worth.",
+          "summary_zh": "将成功的定义超越金钱，扩展到家庭、爱人与全人类福祉",
+          "timestamp_sec": 1573,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "In all these businesses, I think it's so critical that you develop the trust, whether it be with your associates or whether it be the people that you're serving. Because once you have that trust level established, people will open up their hearts and their minds and eventually their wallets to you.",
+          "summary_en": "Build deep trust with both employees and customers; trust unlocks hearts, minds, and long-term business.",
+          "summary_zh": "与员工和客户建立深度信任，信任是一切商业合作的基础",
+          "timestamp_sec": 1592,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身清贫，一家四口挤在一室公寓，父母睡门厅折叠沙发；36岁时被解雇，随后创办家得宝（Home Depot），初期不被看好并被预言破产，最终于1981年成功上市并发展成约3500亿美元的商业帝国。",
+      "guest_name": "Arthur Blank",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Co-Founder of The Home Depot & Owner of the Atlanta Falcons",
+      "wealth_detail": "Co-founded The Home Depot (~$350B company); owns the Atlanta Falcons (bought for $500M+, now worth $5B+)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "以正确价值观为根基，放下傲慢谦卑倾听客户需求，无论对待团队还是客户都要把建立信任放在首位，财富会随之而来。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "cxYLRCwX_aM",
+  "video_type": "street_multi"
+}

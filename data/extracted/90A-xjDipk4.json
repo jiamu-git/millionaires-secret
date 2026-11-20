@@ -1,0 +1,259 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "how'd you turn $50 into 600 million execution execution execution",
+          "summary_en": "Turned $50 into $600M through relentless execution rather than just ideas.",
+          "summary_zh": "靠极致执行力把50美元做成6亿美元",
+          "timestamp_sec": 88,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I have a few mentors that are [billionaires] and uh they've taught me the ways",
+          "summary_en": "Learn directly from billionaire mentors and lean on them during tough times.",
+          "summary_zh": "向亿万富翁导师学习并听取建议",
+          "timestamp_sec": 130,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Vet Key Hires & Monitor Cash Burn",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I hired a very bad marketing manager and he lost $800,000 my money in 90 days... it almost put me out of business",
+          "summary_en": "Hiring the wrong key manager can burn massive cash quickly and nearly bankrupt your company.",
+          "summary_zh": "切勿盲目聘用差劲高管以免烧光现金",
+          "timestamp_sec": 130,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Got Back to Basics dotted all the eyes crossed all the te's hired great tax people accountants all that to look at all the books",
+          "summary_en": "Recover from crises by going back to basics and having strong accountants and tax experts review the books.",
+          "summary_zh": "聘请专业财税人员并亲自盯紧账目",
+          "timestamp_sec": 155,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you lost everything tomorrow could you make it all back absolutely how so selling",
+          "summary_en": "Master selling so you can rebuild from zero anytime even if you lose everything.",
+          "summary_zh": "掌握销售能力是东山再起的底气",
+          "timestamp_sec": 155,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I embraced it cuz I thought a lot of people would be getting on there and having problems they needed solved",
+          "summary_en": "Embrace new technologies early because new users will have emerging problems that need solving.",
+          "summary_zh": "拥抱新技术平台并解决用户痛点",
+          "timestamp_sec": 168,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "that same thing is going to happen right now with blockchain and AI it's 1992 all the way again now so that fresh opportunity is there with undiscovered billions to be made",
+          "summary_en": "Target massive emerging markets like blockchain and AI, which offer 1992-level internet upside.",
+          "summary_zh": "紧抓区块链与AI等新兴大市场机遇",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "带着50美元来到犹他州白手起家，在90年代初互联网刚起步时投身电脑行业；2014年利用公司富余显卡无意中建成了犹他州最大的比特币矿场。",
+      "guest_name": "Salt Lake City Gaming PC & Bitcoin Mining Entrepreneur",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Founder & Owner, Gaming Computer & Bitcoin Mining Business",
+      "wealth_detail": "Over $600M over the last decade (started with $50)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "如果明天失去一切，靠销售（selling）能力就能东山再起；2024年入行科技领域应抓住区块链和AI带来的如同1992年互联网初期般的新机遇，去解决人们的新问题。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I house hacked I mean I put a 3% down payment on my very first house bought it below market so that meant that I could strip the equity out and that house bought my next house",
+          "summary_en": "Start in real estate by house hacking with 3% down below market and rolling equity into the next property.",
+          "summary_zh": "低首付自住出租房产并套现净值滚雪球",
+          "timestamp_sec": 277,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "the language of business is accounting which means you have to learn to read your own financials you have to understand what a margin is",
+          "summary_en": "Do not blindly delegate accounting; as the owner you are the CFO and must read your own financials and margins.",
+          "summary_zh": "创业者必须懂财务数字与利润率",
+          "timestamp_sec": 313,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "if I can borrow money at three or 5 or 7% but I can earn 25 or 50 or 100% on it all I'm really doing to build wealth is I'm borrowing money at cheap rates and then I'm putting Investments at high rates",
+          "summary_en": "Use financial arbitrage by borrowing capital at low interest rates and deploying it into high-return investments.",
+          "summary_zh": "善用低息借贷投资高回报资产套利",
+          "timestamp_sec": 329,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "they're taking advice from poor people poor people are teaching poor people how to become more poor and that's weird cuz they're like crabs in a bucket",
+          "summary_en": "Stop taking financial advice from broke peers who act like crabs in a bucket pulling you down.",
+          "summary_zh": "远离穷人思维的建议与负能量圈子",
+          "timestamp_sec": 348,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "the number one fear... is they're afraid they're going to lose their family and friends and the truth is you will",
+          "summary_en": "Accept that making bold financial moves and finding mentors may cost you some old friends and family ties.",
+          "summary_zh": "克服失去旧友的恐惧勇敢做出财务改变",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "for every person you lose you're going to open up into a whole new world of other people that are going to expire even deeper greatness in you",
+          "summary_en": "Outgrowing old circles opens the door to a new network of peers who inspire greater achievement.",
+          "summary_zh": "主动融入能激发更大潜能的高质量人脉圈",
+          "timestamp_sec": 373,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "通过3%首付低于市场价买下第一套房并采用House Hack策略，抽出净值再去购置第二、第三套房产，大学毕业时已积累25套房产无需打工，随后扩展至数千套房产。",
+      "guest_name": "Chris Cron",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Investor & Serial Entrepreneur",
+      "wealth_detail": "Over $10M in a single year; billions in career sales; thousands of homes and dozens of companies",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不需要大量资金或信用就能在房地产起步：先用3%低首付低于市场价买第一套房并House Hack，再提取房产净值滚雪球购买后续房产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "you should learn how to downgrade your lifestyle so you can upgrade your life most people live paycheck to paycheck... because they refuse to downgrade their lifestyle for a moment",
+          "summary_en": "Temporarily downgrade your living expenses so you can escape paycheck-to-paycheck life and upgrade later.",
+          "summary_zh": "先主动降级生活方式以换取长期跃升",
+          "timestamp_sec": 446,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "you should only dump money into two things personal investment into you and investing into your company that's it",
+          "summary_en": "Put every spare dollar exclusively into self-development and reinvesting into your business until you have excess wealth.",
+          "summary_zh": "只把钱投在自我成长和公司业务上",
+          "timestamp_sec": 469,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "find one thing and go deep there's no person on this Earth that did 40 things with a shotgun approach and made a ton of money... if I put 100% in one thing I'll Crush that one thing",
+          "summary_en": "Avoid splitting effort across many ventures early on; put 100% focus into one thing and go deep.",
+          "summary_zh": "聚焦单一赛道深耕并全力以赴做到极致",
+          "timestamp_sec": 500,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you can't manage a $100 you can't manage a 100,000 you can't manage a million... you'd blow that and you'd be living paycheck to paycheck even if you had $10 million",
+          "summary_en": "Build disciplined money management with small sums first, or more income will just vanish into higher spending.",
+          "summary_zh": "先学会管好小钱才有能力驾驭大钱",
+          "timestamp_sec": 570,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "they spend too much money on that they don't need... you just think because you live here that you're owed the house and the apartment and the car and the ring and the watch",
+          "summary_en": "Stop buying status symbols like expensive cars, rings, and watches that you have not earned yet.",
+          "summary_zh": "别为了面子买豪车名表等非必要消费",
+          "timestamp_sec": 601,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Reject Entitlement Mentality",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "everybody thinks that they're owed something you're not owed no one's coming to save you... your entitlement is going to keep you broke the rest of your life",
+          "summary_en": "Drop any sense of entitlement because nobody owes you anything and no one is coming to save you.",
+          "summary_zh": "摒弃理所当然的索取心态靠自己打拼",
+          "timestamp_sec": 611,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I just vowed to my dad that I would never in my life be in a place where I needed somebody to help me that's why I decided I was going to build everything on my back",
+          "summary_en": "Commit to total self-reliance and outworking everyone without expecting handouts.",
+          "summary_zh": "发扬不怕吃苦的拼搏精神只管埋头实干",
+          "timestamp_sec": 558,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21岁父亲去世时账户里只有100美元，发誓绝不依赖他人救济，也从不依赖外部投资人，靠自己严格管钱与独立打拼，从21岁起创办了35家公司。",
+      "guest_name": "Katon Hoskins",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Serial Entrepreneur (Built 35 companies, owns 4)",
+      "wealth_detail": "Over $10M in a single year; built 35 companies since age 21",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "如果回到月薪3000美元的起点，会找4个室友合租1000美元的房子、开Uber、骑车、自己做饭、每天穿同样衣服以砍掉非必要支出，并把所有钱只投入自我提升和自己的事业。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "90A-xjDipk4",
+  "video_type": "street_multi"
+}

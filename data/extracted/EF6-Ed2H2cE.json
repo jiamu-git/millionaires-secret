@@ -1,0 +1,261 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Delegate. Get partners that you can trust and share in the profit. If you're going to scale and you want great people, you got to bring them along with you and they got to make a lot of money with you, not for you.",
+          "summary_en": "Scale by delegating to reliable 'send-delete' partners and sharing profits so great people build wealth with you.",
+          "summary_zh": "充分授权并与可信赖的合伙人共享利润",
+          "timestamp_sec": 165,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Turn Personal Pain Into Purpose",
+          "category": "Mindset & Resilience",
+          "quote": "I turned my pain into passion and purpose. And every time I walk in and see one of my clients, I see Tim.",
+          "summary_en": "Channel personal tragedy and pain into enduring passion and purpose that drives how you serve clients.",
+          "summary_zh": "把个人痛苦转化为保护客户的使命感",
+          "timestamp_sec": 215,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I would not be a lawyer charging by the hour. There's just not enough upside for that for you.",
+          "summary_en": "Avoid trading time for hourly wages; choose contingency or ownership models with high upside.",
+          "summary_zh": "不要按小时出卖时间，要追求高上限回报",
+          "timestamp_sec": 289,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Master class in negotiating is this. Whoever speaks first loses. You got to listen and learn and then negotiate.",
+          "summary_en": "In negotiations, whoever speaks first loses; listen carefully and size up the other party before speaking.",
+          "summary_zh": "谈判中先开口者输，学会倾听后再出牌",
+          "timestamp_sec": 301,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Successful people pat themselves on the back too much. What they really should do is get on their knees and thank God.",
+          "summary_en": "Acknowledge the role of luck in your trajectory, stay humble, and practice daily faith and gratitude.",
+          "summary_zh": "承认运气成分，常怀信仰与感恩之心",
+          "timestamp_sec": 360,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Keep your word because all we have at the end of the day is our reputation... your word is your bond.",
+          "summary_en": "Always keep your word because reputation is your most valuable asset and brings repeat business.",
+          "summary_zh": "一诺千金，声誉是商业中最后的底牌",
+          "timestamp_sec": 380,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I find cancers in my business and I excise the cancers... You cannot get rich when you're negative. You can only get rich when you're positive.",
+          "summary_en": "Remove toxic people from your business—even paying them to leave—because negativity blocks wealth creation.",
+          "summary_zh": "果断切除组织中的毒瘤与负能量之人",
+          "timestamp_sec": 404,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "I admit it... You were my client. You came to me. I'm going to take care of you now.",
+          "summary_en": "Admit mistakes openly to clients and take full financial responsibility to make them whole.",
+          "summary_zh": "犯错时坦诚承担并全力保障客户利益",
+          "timestamp_sec": 438,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Embrace Competition to Improve",
+          "category": "Mindset & Resilience",
+          "quote": "Competition makes me better. And competition should make you better. I welcome competition.",
+          "summary_en": "Welcome fierce competition because stronger rivals force you to sharpen your own performance.",
+          "summary_zh": "欢迎竞争，强敌会逼迫自己持续进化",
+          "timestamp_sec": 572,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "What would Google do if it was a law firm? ... Google be everywhere for everyone, all 50 states, 24/7... you can be my client in 2 minutes.",
+          "summary_en": "Build frictionless, 24/7 accessibility nationwide so customers can easily get help whenever they need it.",
+          "summary_zh": "打造全天候、零门槛触达的极致服务体验",
+          "timestamp_sec": 593,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Expand Methodically Brick by Brick",
+          "category": "Business & Strategy",
+          "quote": "Brick by brick by brick by brick... Don't use straw. Don't use sticks. Use bricks. Cuz bricks stand up to a hurricane.",
+          "summary_en": "Expand market by market on solid foundations rather than fragile shortcuts so your business survives storms.",
+          "summary_zh": "一砖一瓦稳健扩张，用实打实根基抗风险",
+          "timestamp_sec": 632,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "It's hard to make money. It's harder to keep money. When I've lost money is when greed has taken over... if it's too good to be true, it's too good to be true.",
+          "summary_en": "Control greed to protect your capital; walk away from anything that sounds too good to be true.",
+          "summary_zh": "克制贪婪，远离好得不真实的暴富诱惑",
+          "timestamp_sec": 700,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "The best time to plant a tree was 20 years ago. The next best time to plant a tree today... Should have, would have, could have. That's an excuse.",
+          "summary_en": "Stop making lazy excuses about not starting earlier; plant your tree today and nurture it.",
+          "summary_zh": "别拿错过时机当借口，今天就立刻行动",
+          "timestamp_sec": 749,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Only Invest in What You Understand",
+          "category": "Wealth & Investing",
+          "quote": "Everybody wants to do crypto. I don't know what it is. If I don't understand it, I don't do it.",
+          "summary_en": "Avoid investing in hyped trends like crypto if you do not genuinely understand how they work.",
+          "summary_zh": "绝不碰自己看不懂的资产或投机风口",
+          "timestamp_sec": 783,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I tell you viewers, read these books. A Random Walk Down Wall Street and Black Swan.",
+          "summary_en": "Study classic investing and risk books such as A Random Walk Down Wall Street and The Black Swan.",
+          "summary_zh": "研读投资与风险管理经典书籍建立认知",
+          "timestamp_sec": 805,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Index funds for equities. Tax-free bonds... and US treasuries... once my money goes into my investments, I never touch it. It's there forever.",
+          "summary_en": "Invest in index funds, tax-free bonds, and US treasuries, and hold them permanently without touching them.",
+          "summary_zh": "长期配置指数基金与国债且绝不轻易动用",
+          "timestamp_sec": 805,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I take my capital invest in me. I own attractions. I own hotels. I develop shopping centers. I build apartments.",
+          "summary_en": "Deploy business cash into tangible commercial real estate, apartments, hotels, and attractions.",
+          "summary_zh": "将现金流投入房地产与实体资产开发",
+          "timestamp_sec": 818,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Be ready for the black swan... All your money in savings, no debt. Debt and leverage is the death of most business people.",
+          "summary_en": "Prepare for unexpected Black Swan crises by keeping cash reserves and operating with zero debt.",
+          "summary_zh": "保持零债务和充足现金以应对黑天鹅",
+          "timestamp_sec": 852,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Pair Marketing With Real Execution",
+          "category": "Business & Strategy",
+          "quote": "You have to have the marketing, which we have. But if you don't have the lawyers, you're a paper tiger.",
+          "summary_en": "Pair aggressive customer acquisition ('catching fish') with elite delivery ('cooking fish') so you aren't a paper tiger.",
+          "summary_zh": "营销获客与过硬专业交付必须双轮驱动",
+          "timestamp_sec": 925,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I'm suing the biggest drug manufacturers in the world, the tobacco industry, the insurance industry... My hero in history was David who took down Goliath.",
+          "summary_en": "Do not fear challenging industry giants when you have built the capability to fight and win.",
+          "summary_zh": "敢于挑战行业巨头，以强大实力正面迎战",
+          "timestamp_sec": 965,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to be willing to kind of make fun of yourself a little bit... Make your creative creative, but you got to build a brand that people can trust for the long haul.",
+          "summary_en": "Differentiate your brand with creative, self-deprecating advertising while earning long-term trust as a proven winner.",
+          "summary_zh": "用幽默创意做品牌宣传并赢得长期信任",
+          "timestamp_sec": 1000,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Follow the Golden Rule (Karma)",
+          "category": "Mindset & Resilience",
+          "quote": "The golden rule. Do unto others as you would have them do unto you. Because I believe in karma.",
+          "summary_en": "Follow the Golden Rule and treat others fairly because good and bad deeds inevitably come back around.",
+          "summary_zh": "恪守黄金法则待人，相信因果循环回报",
+          "timestamp_sec": 1054,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "People who give expecting nothing in return are the ones who end up getting the most... You become a person they trust.",
+          "summary_en": "Build deep trust in your network by being a genuine giver who helps others without expecting immediate return.",
+          "summary_zh": "人脉中先无私给予不求回报反而收获最多",
+          "timestamp_sec": 1074,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身肯塔基州普通家庭，7岁起靠卖贺卡和做全年无休的送报童磨炼出创业韧性；大学期间因哥哥遭遇事故瘫痪却未获公正对待而立志学法律，最终与哥哥及合伙人共同创办北美最大的人身伤害律所Morgan & Morgan。",
+      "guest_name": "John Morgan",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "A Random Walk Down Wall Street",
+        "The Black Swan",
+        "Give and Take"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Negotiation & Deal-Making",
+        "Marketing & Distribution",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder of Morgan & Morgan (Largest Personal Injury Law Firm in North America)",
+      "wealth_detail": "$1.5B net worth (Forbes); $2B annual firm fees; $5B annual settlements and verdicts",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不要做按小时计费的打工模式，要选择按结果抽成、拥有高回报上限的平台或加入赢家团队；别拿“早该开始”当借口，今天就种下第一棵树；保持零债务和现金储备，绝不投机自己不懂的领域，并恪守黄金法则与无私给予来积累长期信任。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "EF6-Ed2H2cE",
+  "video_type": "deep_dive_single"
+}

@@ -1,0 +1,158 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "It takes a lot of loss, a lot of headaches in oil and gas. And it's not just a get-rich-quick deal. You have to be consistent. You have to diversify. And you got to have a risk tolerance.",
+          "summary_en": "Oil and gas is not a get-rich-quick scheme; it demands consistency, diversification, and high risk tolerance through losses.",
+          "summary_zh": "没有一夜暴富，需长期坚持与风险承受力",
+          "timestamp_sec": 171,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You have to have an army. You have to have people that know what they're doing that are experienced. Safety is absolutely super important.",
+          "summary_en": "Running 24/7 heavy operations requires an experienced, capable team that prioritizes safety.",
+          "summary_zh": "组建经验丰富且重视安全的专业团队",
+          "timestamp_sec": 201,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Money doesn't come from chasing money. Money comes from chasing problems and monetizing the solution to those problems.",
+          "summary_en": "Wealth comes from identifying real problems and monetizing effective solutions rather than chasing money directly.",
+          "summary_zh": "赚钱不是追钱，而是解决痛点并变现",
+          "timestamp_sec": 250,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Oil and gas is one of the only industries where you can actually write off your investments against your active income when the deals are structured properly.",
+          "summary_en": "Understand tax rules and proper deal structuring so investments can legally offset active income.",
+          "summary_zh": "善用油气投资税收抵扣与合规交易结构",
+          "timestamp_sec": 270,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Diversify & Mitigate Downside Risk",
+          "category": "Wealth & Investing",
+          "quote": "I never recommend putting your whole $100,000 in one well, in one new drill, or in any single company due to the fact is there is a lot of volatility in here... I believe that there's a way to mitigate loss.",
+          "summary_en": "Never concentrate all your capital into a single well or company; diversify across deals and asset classes to mitigate losses.",
+          "summary_zh": "分散投资切忌孤注一掷，优先控制亏损",
+          "timestamp_sec": 569,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Buy Undervalued & Distressed Assets",
+          "category": "Wealth & Investing",
+          "quote": "Money is saved by purchasing assets that are undervalued and usually from people that are in a bind.",
+          "summary_en": "Acquire distressed or undervalued assets—such as rigs from bankruptcy at 15 cents on the dollar—from sellers in a bind.",
+          "summary_zh": "在他人陷入困境时低价收购低估资产",
+          "timestamp_sec": 702,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "You can make millions in sales, but you can make billions in marketing... if you're not marketing on social media, you're going to get left behind.",
+          "summary_en": "Sales can earn millions, but social media marketing scales to billions; even traditional industries get left behind without it.",
+          "summary_zh": "销售赚百万，善用社媒营销才能赚十亿",
+          "timestamp_sec": 940,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Oil and gas is a multi-trillion dollar industry. It's always going to be needed. Everything that you touch today... everything.",
+          "summary_en": "Operate in a massive, multi-trillion-dollar essential industry with enduring global demand.",
+          "summary_zh": "选择刚需且规模庞大的万亿美元赛道",
+          "timestamp_sec": 995,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "People are lazy. They want to be YouTube influencers, but not everybody's got what it takes. You want to make money, you got to get out here and bust your ass.",
+          "summary_en": "Making real money requires hard physical and operational work rather than chasing easy internet fame.",
+          "summary_zh": "摒弃懒惰心态，脚踏实地拼命干实事",
+          "timestamp_sec": 1014,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "Nobody talks about natural gas. Well, that's exactly why you should do it. You should always go for things the media is not talking about.",
+          "summary_en": "Focus on overlooked, unglamorous traditional sectors like natural gas that the mainstream media ignores.",
+          "summary_zh": "避开媒体喧嚣，深耕无人问津的传统赛道",
+          "timestamp_sec": 1033,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "You can have good people around you that are the wrong people. And the faster you get rid of them, the better.",
+          "summary_en": "Cut off people who cannot see your vision or hold you back, even if they are otherwise good people.",
+          "summary_zh": "果断远离消耗你或不同频的错误圈子",
+          "timestamp_sec": 1082,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you want to be successful, you have got to pay to be in the rooms with people that are successful... It was just about paying to be in the room with the other people that paid to be in the room.",
+          "summary_en": "Invest money to join masterminds and get into rooms with successful, committed peers.",
+          "summary_zh": "付费进入成功者圈层，与同频高手同行",
+          "timestamp_sec": 1091,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Don't let anybody ever stop you from chasing your dreams... you're going to see the keyboard warriors... trying to stop entrepreneurs and successful people like ourselves from chasing our dream.",
+          "summary_en": "Ignore online haters and doubters and never let anyone stop you from pursuing your dreams.",
+          "summary_zh": "无视键盘侠质疑，坚定追逐自己的梦想",
+          "timestamp_sec": 1108,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "退役后靠割草维生，经朋友介绍前往德州米德兰-敖德萨的钻井平台打工入行；几年后买下钻井设备，并做了十余年房产批发与翻新积累资本，最终打造垂直整合的油气与投资公司。",
+      "guest_name": "Brent Franklin",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Oil & Gas Mogul / Founder of Rise Capital",
+      "wealth_detail": "$40M/yr company revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "找到擅长领域并解决实际痛点将其变现，大力投入社交媒体营销树立品牌与立场，果断远离不同频的人并付费进入成功者圈层，无视质疑坚定追梦。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "7i0D5OMZzw0",
+  "video_type": "deep_dive_single"
+}

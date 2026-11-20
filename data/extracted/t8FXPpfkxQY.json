@@ -1,0 +1,274 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "we don't borrow money at all, ever, for anything... the borrower is slave to the lender.",
+          "summary_en": "Never borrow money; grow slowly using organic cash so your business survives downturns.",
+          "summary_zh": "绝不借贷扩张，靠自有现金流降低风险",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "we began to save and watch the cash flow, and company was growing, and just kept dumping everything we made into this concrete thing here",
+          "summary_en": "Save carefully, monitor cash flow, and continually reinvest business profits into hard assets.",
+          "summary_zh": "严控现金流并把利润持续复投实体资产",
+          "timestamp_sec": 192,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "pay cash and move slow... if you get one or two properties, pretty quickly they'll throw off enough cash to buy the third one.",
+          "summary_en": "Pay cash for good real estate and let debt-free rental cash flow snowball into additional properties.",
+          "summary_zh": "全款购入优质房产，靠租金现金流滚雪球",
+          "timestamp_sec": 221,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Nobody's going to come save you. Nobody's going to come discover you... even if you don't feel good, shut up and go do it anyway.",
+          "summary_en": "Nobody is coming to save or discover you; show up every day and take steady steps regardless of how you feel.",
+          "summary_zh": "没人会来拯救你，必须每天坚持行动",
+          "timestamp_sec": 259,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "y'all are always looking for an easy button... the best barbecue is cooked the whole weekend not in a microwave.",
+          "summary_en": "Stop searching for an easy button or fast shortcuts; lasting wealth takes slow, patient cooking.",
+          "summary_zh": "别总想找捷径求快，好成果需要时间慢炖",
+          "timestamp_sec": 330,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Follow God... The one and only, the great I Am, Jesus.",
+          "summary_en": "Follow God and anchor your life in faith as your core guiding principle.",
+          "summary_zh": "保持对神的信仰，以信仰作为人生指引",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20多岁曾一度破产，此后始终坚持无负债创业，靠公司现金流逐步全款买下1000万美元的48英亩土地并自建总部园区，2008年金融危机时用现金以15%-20%的低价抄底大量优质房产。",
+      "guest_name": "Dave Ramsey",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of Ramsey Solutions",
+      "wealth_detail": "Probably a billionaire; ~$850M in real estate (all cash); $300M made at Ramsey this year",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "坚持全款买房、绝不借贷并稳步推进，靠无债房产的充沛现金流滚雪球买入下一套；不要幻想有人来拯救或发掘你，也别寻找捷径，每天脚踏实地持续行动，保持信仰。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Second to last in my class... I'm the only billionaire from my class.",
+          "summary_en": "Do not let poor grades or past academic rankings define your ceiling or future success.",
+          "summary_zh": "别让成绩定义自己，打破局限相信自我",
+          "timestamp_sec": 520,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Jamie Coulter taught me 1987... he shared with me all his process procedure stuff that he had at his Pizza Huts, and I adapted into the Jimmy John stores.",
+          "summary_en": "Learn from proven operators and adapt their tested processes and procedures into your own stores.",
+          "summary_zh": "向成功前辈取经并借鉴成熟运营体系",
+          "timestamp_sec": 538,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you can't measure it, you can't manage it... Know your numbers. Get your numbers, know them.",
+          "summary_en": "Track and understand every metric in your business because you cannot manage what you cannot measure.",
+          "summary_zh": "无法衡量就无法管理，必须精通业务数据",
+          "timestamp_sec": 562,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I do things that I understand. I've got to be able to understand in a single sheet of paper... real estate for me is really easy. Farm ground, I'm a massive farm owner.",
+          "summary_en": "Invest only in simple assets you can understand on a single sheet of paper, such as farmland and real estate.",
+          "summary_zh": "只投一眼看懂的资产，重仓农田等地产",
+          "timestamp_sec": 599,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Back Driven Performers Without Excuses",
+          "category": "Wealth & Investing",
+          "quote": "I bet the jockey not the horse... I like to invest in performers. I don't want any stories.",
+          "summary_en": "Bet on driven founders with fire who deliver results rather than people who tell stories and make excuses.",
+          "summary_zh": "看人下菜碟，只投没有借口的实干派",
+          "timestamp_sec": 631,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I quit selling and I told people... this is 24/7/365... It was a reverse pitch. The more I told people don't do it, guess what people want to do?",
+          "summary_en": "Stop hard-selling and tell prospects the brutal truth about the grind; an honest reverse pitch drives demand.",
+          "summary_zh": "用坦诚的逆向推销代替硬推，反促成交",
+          "timestamp_sec": 662,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "work-life balance is the biggest line of [ __ ] that has ever been created... to create something from nothing, there is no such thing",
+          "summary_en": "Reject the myth of work-life balance when building from nothing; outgrind adversity and survive every setback.",
+          "summary_zh": "白手起家无工作生活平衡，唯有死磕熬过",
+          "timestamp_sec": 720,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "what delivery did is allowed me to pay B and C rent and do A sales cuz I went out and hustled and I went out giving out samples literally on college campuses",
+          "summary_en": "Rent affordable B/C locations and generate A-level revenue by hustling with delivery and disciplined sampling.",
+          "summary_zh": "租便宜铺面控成本，靠外送地推冲业绩",
+          "timestamp_sec": 784,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I made a lot of did a lot of stupid [ __ ] but I'm not going there... All we got is this moment right now in the present and I got the future.",
+          "summary_en": "Let go of past mistakes and regrets, forgive, and keep all your focus on the present and future.",
+          "summary_zh": "放下过去失误与懊悔，专注当下向前看",
+          "timestamp_sec": 806,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "最初只想赚点钱买大麻和啤酒而创办三明治店；因租不起黄金铺位只能选二三类地段，靠在大学校园发放成千上万份免费试吃并推出极速外送打爆销量；1987年仅4家店时得贵人Jamie Coulter传授流程与数据管理。",
+      "guest_name": "Jimmy John",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Jamie Coulter"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder of Jimmy John's",
+      "wealth_detail": "Company valued at ~$3.5B when sold; had $1B net worth before selling",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "必须量化并掌握核心数据，因为无法衡量就无法管理；从零创业没有工作生活平衡，要做好全年无休死磕的准备；租不起好铺面就靠外送和地推试吃打出顶级业绩；投资只投一页纸能看懂的农田等资产以及没有借口的实干派。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "never just assuming that the spigot is never going to, you know, get shut off or run dry... sock some away for a rainy day because that that rainy day can turn into a rainy decade.",
+          "summary_en": "Never assume good income will last forever; save aggressively because a rainy day can become a rainy decade.",
+          "summary_zh": "居安思危留足储备，防范漫长低谷期",
+          "timestamp_sec": 910,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Believing in myself when others didn't. Don't let other people cancel your dreams because they never realized their own.",
+          "summary_en": "Believe in yourself when others doubt you, and never let small-minded doubters cancel your dreams.",
+          "summary_zh": "遭质疑时坚信自己，别让人否定你梦想",
+          "timestamp_sec": 935,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Taking risks, doing things that weren't guaranteed, and just always being open to just explore different genres, different avenues, different opportunities",
+          "summary_en": "Take risks on unguaranteed paths and stay open to exploring new genres and opportunities.",
+          "summary_zh": "敢于冒无保障风险，积极探索多元机会",
+          "timestamp_sec": 948,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "there definitely people that do have those hidden intentions... more than I should probably have been subjected to or worse to suffer.",
+          "summary_en": "Stay alert to people with hidden motives, even while recognizing most people are well-intentioned.",
+          "summary_zh": "警惕别有用心之人，避免被恶意伤害",
+          "timestamp_sec": 1005,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Just to know that it's never too late to get a fresh start.",
+          "summary_en": "Even when hitting rock bottom or facing public exile, remember it is never too late for a fresh start.",
+          "summary_zh": "哪怕跌至谷底也永远有机会重新开始",
+          "timestamp_sec": 1041,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "No matter what, you have to honor your word... we tend to break a lot of promises to ourselves.",
+          "summary_en": "Honor your word no matter what, especially the promises you make to yourself, and stop letting yourself down.",
+          "summary_zh": "无论如何都要信守承诺，别辜负自己",
+          "timestamp_sec": 1051,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Charlie Sheen",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "His dad"
+      ],
+      "recommended_skills": [],
+      "role_or_title": "Actor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "顺境时切忌以为财源永不枯竭，务必存钱以防低谷期拉长；遭遇质疑时坚信自己，不让未实现梦想的人否定你，勇于尝试没有保障的新机会；即便跌入谷底也永远来得及重新开始，信守对自己与他人的承诺。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "t8FXPpfkxQY",
+  "video_type": "street_multi"
+}

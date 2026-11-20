@@ -1,0 +1,158 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "It made me a better leader cuz I listened to my team. I listened to my customers. And it's not what I think or you think. It's what the customer thinks.",
+          "summary_en": "Listen closely to your team and customers; base decisions on what the customer values, not your own ego.",
+          "summary_zh": "倾听团队与客户，以客户视角做决策",
+          "timestamp_sec": 208,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Protect Your Brand & Intellectual Property",
+          "category": "Business & Strategy",
+          "quote": "I ended up getting that brand name against Ralph Lauren... I'm big on trademarks. I'm big on domains. Big on brand.",
+          "summary_en": "Secure trademarks and domains early, and have the courage to defend your brand rights even against major corporations.",
+          "summary_zh": "尽早注册并坚决捍卫商标、域名与品牌",
+          "timestamp_sec": 348,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You got to step in some potholes and you got to get beaten up a little bit. Getting beaten up, you got to understand is good because it's growth.",
+          "summary_en": "Accept setbacks and getting beaten up along the journey—adversity is essential for growth.",
+          "summary_zh": "经历挫折与打击正是个人成长的必经之路",
+          "timestamp_sec": 546,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Stay Present & Listen Actively",
+          "category": "Mindset & Resilience",
+          "quote": "Getting to a point where you can stay present, focusing on the person you're with, listening, that's when opportunity presents itself.",
+          "summary_en": "Practice staying present and fully listening to the person in front of you—that is when opportunities appear.",
+          "summary_zh": "保持专注当下并倾听他人，机会自然出现",
+          "timestamp_sec": 556,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "It takes decades and decades to build a brand. It takes minutes to kill a brand. It's all about integrity. If you lie to me, you bust my trust. Don't bust my trust. You're done.",
+          "summary_en": "Integrity is everything: it takes decades to build a brand and minutes to destroy it if you break trust.",
+          "summary_zh": "品牌建立需数十年毁掉只需几分钟，诚信是底线",
+          "timestamp_sec": 586,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Cut Toxic Performers to Protect Culture",
+          "category": "Business & Strategy",
+          "quote": "I had to fire my number one salesperson in the world because they created a cancer within the organization. When I removed that person from the organization, we grew by 20%.",
+          "summary_en": "Never tolerate a toxic top performer who lies to customers or poisons company culture; removing them unlocks growth.",
+          "summary_zh": "果断清理破坏文化的销冠，保住组织增长",
+          "timestamp_sec": 645,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to do diligence. Anything you do, I always do my due diligence. Always. I traveled and I wanted to see what works, what didn't work.",
+          "summary_en": "Always do thorough due diligence and study industry leaders firsthand to spot gaps and opportunities.",
+          "summary_zh": "做任何事都要深入尽职调查，向标杆学习",
+          "timestamp_sec": 696,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Stay Nimble & Master Every Operation",
+          "category": "Business & Strategy",
+          "quote": "We became a battleship that could move like a speedboat. That's because the chairman, CEO, founder, myself could talk about any job in the business.",
+          "summary_en": "Keep a large business agile like a speedboat by understanding and being willing to do every job in the company.",
+          "summary_zh": "让大公司像快艇般敏捷，创始人要懂业务每一环",
+          "timestamp_sec": 766,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "You have to love what you do. So I would always just pop up in different departments and listen to what our team was doing to make sure we were on message.",
+          "summary_en": "You have to genuinely love what you do, which drives meticulous care across every part of the business.",
+          "summary_zh": "必须热爱所做之事，并全身心投入业务细节",
+          "timestamp_sec": 801,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I got so many nos. I literally walked up and down Park Avenue, hundreds of financial institutions and banks... I turned over every rock and we finally got it together. We did not give up.",
+          "summary_en": "Expect hundreds of rejections when raising capital; turn over every rock and refuse to quit until it works.",
+          "summary_zh": "面对数百次拒绝绝不放弃，翻遍每块石头找突破",
+          "timestamp_sec": 958,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be thankful to their investors, be transparent, be accountable... Don't negotiate with your banks. Give your investors a good return because they'll be there the next time and the time after that.",
+          "summary_en": "Be transparent and generous with banks and investors so everyone profits—they will back you again and again.",
+          "summary_zh": "对金主透明感恩并确保对方获利，赢得长期复投",
+          "timestamp_sec": 1004,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Once you're done with the sale, first person who talks loses. Never go past the close... When you ask for the deal, shut your mouth. Just wait it out.",
+          "summary_en": "Never talk past the close: once you ask for the deal, stay silent and wait—the first person who speaks loses.",
+          "summary_zh": "谈判提出成交后保持沉默，先开口者输",
+          "timestamp_sec": 1058,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "What is perceived as my opposition is my offense. I fix the most broken... There is nothing that's out there that I'm afraid of.",
+          "summary_en": "Turn opposition into offense and stay fearless when tackling broken businesses or high-stakes challenges.",
+          "summary_zh": "无惧阻力与非议，把质疑变成进攻动力",
+          "timestamp_sec": 1228,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期开发购物中心因承包商和租户破产而失利；29岁时与父亲合作在拉斯维加斯按时按预算建成全球最大分时度假酒店Polo Towers，随后克服负2000万美元起步困境，将酒店业务扩张至35个国家435家酒店，最终以33亿美元企业价值出售给希尔顿。",
+      "guest_name": "Stephen Cloobeck",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Sales & Persuasion",
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Hospitality Founder & Former Chairman/CEO (Sold company to Hilton); Former Brand USA Chair",
+      "wealth_detail": "Billionaire; built and sold hospitality company to Hilton for $2.2B ($3.3B enterprise value)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "先深入做尽职调查并亲自掌握业务各环节，保持大公司的创业敏捷性，始终以诚信透明对待银行、投资人和团队，认真倾听客户需求并在遭拒时绝不放弃。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "9YldQVM4u-I",
+  "video_type": "deep_dive_single"
+}

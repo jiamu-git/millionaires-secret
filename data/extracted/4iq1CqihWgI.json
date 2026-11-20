@@ -1,0 +1,292 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "We don't do any regulations. We just do paper, rolling paper.",
+          "summary_en": "Pick an ancillary, unregulated niche (rolling papers) within a booming industry (cannabis).",
+          "summary_zh": "切入无监管细分市场卖卷烟纸",
+          "timestamp_sec": 199,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Work hard and you can do whatever you want.",
+          "summary_en": "Consistent hard work makes anything possible, especially in America.",
+          "summary_zh": "秉持坚韧精神全力努力工作",
+          "timestamp_sec": 219,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Connect yourself with good people, and that's hard to find these days... trustworthy people, happy people.",
+          "summary_en": "Surround yourself with trustworthy, positive, high-character people.",
+          "summary_zh": "结交诚实可靠积极的优质人脉",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "have discipline, wake up in the morning, work hard. I came from boxing and became the world champion. Takes a lot of discipline.",
+          "summary_en": "Maintain strict daily discipline, wake up early, and stay sober.",
+          "summary_zh": "保持高度自律早起并保持清醒",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "来自荷兰阿姆斯特丹，曾是职业拳击世界冠军；移居美国后切入大麻产业链中不受监管的细分市场，创立卷烟纸品牌 Futurama 并经营14年，年营收达1000万至1亿美元。",
+      "guest_name": "Futurama Rolling Paper Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder of Futurama (Rolling Paper Brand) & Former World Champion Boxer",
+      "wealth_detail": "$10M-$100M/yr revenue (Futurama)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持清醒和自律，每天早起努力工作，并与值得信赖、积极乐观的优秀人才建立联系。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Hustle hustle hustle, grind grind grind. Lift others while you excel.",
+          "summary_en": "Outwork everyone relentlessly while lifting others up along the way.",
+          "summary_zh": "持续拼搏并在成功时提携他人",
+          "timestamp_sec": 278,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Real estate and the defense industry... as long as there enemies, there going to be wars.",
+          "summary_en": "Operate in durable, enduring sectors such as real estate and defense.",
+          "summary_zh": "选择刚需长青的房地产与国防赛道",
+          "timestamp_sec": 289,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Follow Before You Lead",
+          "category": "Mindset & Resilience",
+          "quote": "First, you have to follow before you can lead. You learn something from everyone you encounter.",
+          "summary_en": "Learn how to follow first and extract lessons from everyone you meet before leading.",
+          "summary_zh": "先学会追随并向每个人虚心学习",
+          "timestamp_sec": 344,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "education, whether it's content education or the weapons industry education, grow, learn, and excel at that, and it opens doors.",
+          "summary_en": "Invest in domain education and keep growing and learning to unlock opportunities.",
+          "summary_zh": "通过专业教育与持续学习打开大门",
+          "timestamp_sec": 366,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Haters fuel. If they're not hating, you're not doing anything.",
+          "summary_en": "Use critics and doubters as fuel rather than letting them stop you.",
+          "summary_zh": "把质疑与嘲讽化作前进的燃料",
+          "timestamp_sec": 377,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Adaptability & Embracing New Tech",
+          "category": "Business & Strategy",
+          "quote": "Adaptability. Technology has changed the landscape... If we can't do that or trust and embrace folks like you who can, then we're going to get left behind.",
+          "summary_en": "Stay adaptable and embrace emerging technologies like AI or risk being left behind.",
+          "summary_zh": "保持适应力并主动拥抱AI新技术",
+          "timestamp_sec": 385,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Content is changing everything. ... You evolve or you become yesterday's news.",
+          "summary_en": "Create content consistently to stay relevant in modern business.",
+          "summary_zh": "必须创作内容否则将被时代淘汰",
+          "timestamp_sec": 407,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I put God before everything else. God, faith, family.",
+          "summary_en": "Keep God, faith, and family ahead of business and wealth.",
+          "summary_zh": "把信仰和家庭置于金钱之上",
+          "timestamp_sec": 458,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Win Without Fighting (Strategic Restraint)",
+          "category": "Business & Strategy",
+          "quote": "To win without fighting is best. Sun Tzu.",
+          "summary_en": "Apply Sun Tzu's principle of winning strategically without unnecessary conflict.",
+          "summary_zh": "借鉴孙子兵法追求不战而胜",
+          "timestamp_sec": 477,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身克利夫兰赤贫家庭，凭借奖学金考入伊萨卡学院并服役美国海军陆战队；退役后进入房地产、国防工业及退伍军人创意内容领域。",
+      "guest_name": "Beverly Hills Marine Veteran & Defense/Real Estate Entrepreneur",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Sun Tzu (The Art of War)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Real Estate & Defense Industry Entrepreneur / Marine Corps Veteran",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "先学会追随再领导，向遇到的每个人学习；重视专业教育与持续成长，拥抱AI与内容创作等新技术，并坚定信仰与格局。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Cash. Just remember one thing. Cash is king, queen, jack, and everything else.",
+          "summary_en": "Prioritize cash flow above everything else when scaling a business.",
+          "summary_zh": "经营企业时刻牢记现金为王",
+          "timestamp_sec": 579,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You feel it in your heart and you intellectualize with your head. You study.",
+          "summary_en": "Ground your faith through both heartfelt conviction and disciplined study.",
+          "summary_zh": "用心感受并以理性钻研坚定信仰",
+          "timestamp_sec": 599,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "If you have an idea and you think that someone is not doing an idea that you think you can do, go for it.",
+          "summary_en": "Location doesn't matter—if you spot an unserved idea you can execute, act on it immediately.",
+          "summary_zh": "有别人未做的想法就立即行动",
+          "timestamp_sec": 609,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1970年5月与四位合伙人共同创立面向黑人女性的《Essence》杂志，发展至约300名员工的九位数规模企业，最终出售给时代华纳（Time Warner）。",
+      "guest_name": "Essence Magazine Co-Founder (85-Year-Old Publishing Mogul)",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Co-Founder of Essence Magazine (Sold to Time Warner)",
+      "wealth_detail": "Nine-figure company ($50M+; host states $2.8B sale)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "现金为王（Cash is king）；只要看到别人没在做而你能实现的想法，不必纠结所在城市，立刻放手去做。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Prioritize Love & Affection Over Money",
+          "category": "Mindset & Resilience",
+          "quote": "what do you want in life? I said, love and affection. If you don't have that, I don't care how much money you've got, you don't want to enjoy it.",
+          "summary_en": "Money cannot be enjoyed without love and affection in your life.",
+          "summary_zh": "爱与情感比金钱更重要否则难享财富",
+          "timestamp_sec": 801,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "some people make money and they don't spend it because they're afraid. They don't like to take the risk. They want a paycheck.",
+          "summary_en": "Don't hoard cash in a bank out of fear—you have to put capital at risk to build real wealth.",
+          "summary_zh": "克服恐惧敢于投资与承担风险",
+          "timestamp_sec": 811,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I want to pay myself what I think I should earn. I don't want to work for anybody.",
+          "summary_en": "Work for yourself rather than someone else, because employment caps your upside.",
+          "summary_zh": "不要替人打工而要自己创业致富",
+          "timestamp_sec": 840,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "It keeps you out there wanting looking at the sky and saying, 'Look at that. I can do this.'",
+          "summary_en": "Keep your ambition high and stay hungry to build and improve every day.",
+          "summary_zh": "保持野心与自信相信自己能做到",
+          "timestamp_sec": 863,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Always do it right. Being honest makes you money. Not being honest... destroys your life. Just be honest, be kind and be loving.",
+          "summary_en": "Always act with honesty, kindness, and integrity—cutting corners destroys your life.",
+          "summary_zh": "做人做事诚实善良才能长久赚钱",
+          "timestamp_sec": 884,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Wait Too Long to Start / Invest",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "So don't wait too long starting now because you're already getting old because when you get into your 30s and your 40s, it slides down the hill. So do it.",
+          "summary_en": "Life moves fast—start now while young instead of waiting until your 30s or 40s.",
+          "summary_zh": "趁年轻立刻行动别等老了再后悔",
+          "timestamp_sec": 905,
+          "type": "regret"
+        }
+      ],
+      "first_money_or_break": "29岁时带着孩子来到加州白手起家，主营烟草行业并拥有多家保密企业，最终成为坐拥3500万美元豪宅及多辆顶级豪车的亿万富翁。",
+      "guest_name": "Hugh Hefner (89-Year-Old Tobacco Billionaire)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Tobacco Industry Mogul & Multi-Business Owner",
+      "wealth_detail": "Billionaire; $35M LA house, $515K+ Rolls-Royce",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不要因害怕风险而把钱死存银行，要敢于为自己打工而不是替别人打工；始终保持诚实与善良；趁年轻马上行动。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "4iq1CqihWgI",
+  "video_type": "street_multi"
+}

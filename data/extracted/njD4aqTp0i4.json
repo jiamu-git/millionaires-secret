@@ -1,0 +1,377 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "AI... This is the future. Everybody's looking for it... This is coming whether you guys like it or not.",
+          "summary_en": "Focus on AI as the defining growth industry for the next generation.",
+          "summary_zh": "把握AI大趋势，布局未来核心产业",
+          "timestamp_sec": 257,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Commitment, repeating, and don't give up. The future is going to be there one day. It's going to work.",
+          "summary_en": "Stay committed, keep repeating the effort, and never give up until it works.",
+          "summary_zh": "保持承诺并持续投入，绝不轻言放弃",
+          "timestamp_sec": 307,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "We depend on God first, with God willing. Then the efforts and the commitment you do, that's what makes it all happen.",
+          "summary_en": "Put faith first and pair it with sustained effort and commitment.",
+          "summary_zh": "先心怀信仰，再以全力付出和承诺促成成功",
+          "timestamp_sec": 317,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "22岁赚到第一个100万美元，担任阿布扎比大型机构经济顾问，单年最高收入达千万美元级别。",
+      "guest_name": "Abu Dhabi Economic Advisor",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Economic Advisor",
+      "wealth_detail": "First million at age 22; within the $10M+ single-year income range",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "瞄准2026年及未来的AI行业机遇，借助阿布扎比成熟的基础设施与无障碍投资环境起步。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "It's going to advance society, economies, make things more efficient... AI just needs much more compute power.",
+          "summary_en": "Target AI infrastructure and data centers driven by massive demand for compute power.",
+          "summary_zh": "关注AI算力需求爆发带动的基建赛道",
+          "timestamp_sec": 380,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "There is no free money... Money finds opportunity, more value.",
+          "summary_en": "Understand there is no free money; capital naturally flows to real value and opportunity.",
+          "summary_zh": "世上没有免费午餐，资本只会流向真正价值",
+          "timestamp_sec": 391,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事私募股权投资，目前在得克萨斯州Hubbard建设耗资880亿美元、7.2吉瓦的AI数据中心。",
+      "guest_name": "Private Equity AI Data Center Investor",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Private Equity Investor (AI Data Center Developer)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Great Businesses Rather Than Chasing an Exit",
+          "category": "Business & Strategy",
+          "quote": "The easiest way to sell your company is really try to hold on to it and make it as great and as amazing as you can, not try to sell it.",
+          "summary_en": "Focus on building an exceptional company to hold rather than trying to sell it, and buyers will come to you.",
+          "summary_zh": "专心把公司做到极致而非急于出售，买家自会来找",
+          "timestamp_sec": 477,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "It was 2020 and we were very early into artificial intelligence and we had a great advantage in terms of knowledge, understanding the data sets.",
+          "summary_en": "Enter emerging high-growth markets early with deep technical and domain knowledge.",
+          "summary_zh": "早期切入AI等高潜力赛道，建立数据与认知优势",
+          "timestamp_sec": 493,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It's like eating glass and staring into the void every day... You have to chew cactus, and working with governments is the ultimate cactus.",
+          "summary_en": "Expect extreme daily hardship in entrepreneurship and selling to major enterprises or governments.",
+          "summary_zh": "创业如同每天嚼仙人掌，必须做好承受极大艰难的准备",
+          "timestamp_sec": 522,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "You have to know the value of your service through and through... speed over scale and then scale.",
+          "summary_en": "Have total conviction in your unique service value and prioritize speed before scaling.",
+          "summary_zh": "深刻理解自身服务价值，先求速度再谈规模化扩张",
+          "timestamp_sec": 543,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm happy to walk away from the deal rather than hurt my brand and hurt your outcome... we didn't even make it to the gate. They called us back immediately.",
+          "summary_en": "Be willing to walk away from multi-million dollar deals if payment terms compromise product quality.",
+          "summary_zh": "谈判中敢于为交付品质设定底线，甚至果断离场",
+          "timestamp_sec": 579,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "There's no $100 million deal in your kitchen. Guys, you can't make a billion dollars working from home. You have to go out there.",
+          "summary_en": "Leave your hometown bubble and travel to where global deals and opportunities happen in person.",
+          "summary_zh": "走出舒适圈与家乡，去全球一线现场面对面抓机会",
+          "timestamp_sec": 631,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Go and create something. Write a poem, write a song, write a novel, write a piece of code, write a deck, build a website, but just bring something out of nothing.",
+          "summary_en": "Take immediate creative action and bring something new into the world from nothing.",
+          "summary_zh": "立刻动手创造，哪怕从零写出一段代码或一个方案",
+          "timestamp_sec": 666,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "由单亲妈妈抚养长大，家境普通，从基层销售助理起步；2020年早期入局AI并服务沙特政府及大型企业客户，39岁时以超10亿美元出售公司。",
+      "guest_name": "Polish AI Company Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Kurt Vonnegut"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "AI Company Founder & Former CEO",
+      "wealth_detail": "Made first $1B at age 39; sold AI company for over $1B",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "走出家乡和居家舒适区，去全球有机会的地方建立连接，并先从小事入手从无到有创造作品。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Even if they don't know it yet, life will teach them to start taking risks.",
+          "summary_en": "Recognize that building wealth through entrepreneurship requires learning to take risks.",
+          "summary_zh": "勇于承担风险是每个人走向创业的必经课题",
+          "timestamp_sec": 814,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I learn every day. The day you stop realizing that you're learning something new every day is the day you don't become competitive and you die.",
+          "summary_en": "Commit to learning something new every day to stay competitive in business.",
+          "summary_zh": "每天坚持学习新知，停止学习就意味着失去竞争力",
+          "timestamp_sec": 819,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I don't allow people in the room to doubt me... because it's the way I'm built. I won't allow it.",
+          "summary_en": "Project unshakable conviction and refuse to let others' doubts enter your environment.",
+          "summary_zh": "保持绝对自信，绝不允许怀疑者影响自己的判断",
+          "timestamp_sec": 835,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You learn the client... use the words they use... 'No' is just another version of someone saying, 'I don't understand. Sell me.'",
+          "summary_en": "Study your client's language, sell benefits with urgency, and treat 'no' as a prompt to explain better.",
+          "summary_zh": "研究客户语言，把拒绝当作对方尚未理解的成交信号",
+          "timestamp_sec": 844,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "In the real world, you need to adapt. You need to be mobile, you need to be agile. When someone says no... take that away and use that in your repertoire going forward.",
+          "summary_en": "Stay agile and turn every rejection into practical feedback for future deals.",
+          "summary_zh": "在实战中保持灵活敏捷，将每次被拒化为武器库经验",
+          "timestamp_sec": 872,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "You're supposed to buy when people are fearful and sell when they're greedy... Buy when it's cheap, hold. It's only a negative if you realize and crystallize it.",
+          "summary_en": "Understand market cycles, buy assets like crypto during fear, and hold through dips instead of panic-selling.",
+          "summary_zh": "理解周期规律，在市场恐慌低谷买入资产并长期持有",
+          "timestamp_sec": 899,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在英国出生并接受教育，曾从事对冲基金行业，后定居迪拜创办支付处理公司，目前月交易处理量达3亿美元。",
+      "guest_name": "Dubai Payment Processing Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Payment Processing Founder (Former Hedge Fund)",
+      "wealth_detail": "$300M/month in payment processing volume",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "每天保持学习新知，在销售中深入研究客户并把拒绝当作沟通起点，投资上坚持恐慌期低吸并长期持有。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "The energy that this region has right now, that this city, this country has, the talent that's coming in, and the opportunities, they outweigh everything.",
+          "summary_en": "Operate in booming hubs like Dubai where talent, energy, and market opportunities concentrate.",
+          "summary_zh": "选择人才与机会高度集聚的增长型城市和市场",
+          "timestamp_sec": 983,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Build for Legacy & Long-Term Impact",
+          "category": "Mindset & Resilience",
+          "quote": "Legacy. We want to create something that leaves a legacy... contribute to our country's skyline, to our country's development.",
+          "summary_en": "Stay motivated beyond money by aiming to leave a lasting legacy and contribute to your country.",
+          "summary_zh": "以创造传世遗产和推动城市发展作为长期驱动力",
+          "timestamp_sec": 1003,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It requires a special spark, a special determination and an ability to persist beyond all odds.",
+          "summary_en": "Persist through moments of doubt with extraordinary determination and belief that your work matters.",
+          "summary_zh": "创业需要非凡的决心，在逆境与自我怀疑中死磕到底",
+          "timestamp_sec": 1024,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I don't listen to them cuz I have a father who believes in me, a husband who's supportive, and brothers that are amazing.",
+          "summary_en": "Ignore constant doubters and lean on a strong core support system that believes in you.",
+          "summary_zh": "屏蔽外界质疑声音，依托核心支持者的信任坚定前行",
+          "timestamp_sec": 1043,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Number one is the founder... Number two is what's the product, are you solving a problem... And number three is, is there a market that is monetizable for this product?",
+          "summary_en": "Ensure every venture checks three boxes: a winning founder, a problem-solving product, and a monetizable market.",
+          "summary_zh": "好生意需兼具强创始人、解决真痛点的产品与可变现市场",
+          "timestamp_sec": 1052,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Not let the noise around you distract you. Doesn't matter what others are doing... If you believe in what you're doing, you keep going, you're going to make it. You got to focus.",
+          "summary_en": "Block out external noise and stay laser-focused on your own path regardless of what others do.",
+          "summary_zh": "屏蔽周围噪音，专注自己坚信的事业绝不轻易分心",
+          "timestamp_sec": 1092,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You got to rely on God because it takes a ton of hard work, a little bit of luck, but it takes a lot of love from somebody upstairs for you to make it.",
+          "summary_en": "Give your absolute best effort while trusting in God and destiny.",
+          "summary_zh": "尽人事并敬畏信仰，全力以赴后把其余交给上天",
+          "timestamp_sec": 1111,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Go into a service business where you could generate cash flows based on service. You don't need massive capital. Use those cash flows to reinvest into things that require capital.",
+          "summary_en": "Start with a low-capital service business or AI prototype, then reinvest cash flow into real estate or tech.",
+          "summary_zh": "低成本从服务业起家赚现金流，再复投地产或AI项目",
+          "timestamp_sec": 1130,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Prioritize Daily & Involve Family",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's about priority. You will not be a 10 out of 10 on every front. It's what matters in the day... my kids, they come to the office, they see how hard we work.",
+          "summary_en": "Balance family and business by setting daily priorities and bringing your kids into your work environment.",
+          "summary_zh": "按轻重缓急分配每日精力，带孩子走进职场理解奋斗",
+          "timestamp_sec": 1166,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Enjoy the Journey & Live Fully",
+          "category": "Mindset & Resilience",
+          "quote": "Take advantage of your life. Don't let your life pass you by. Do as much as you can... Live it to the fullest, and enjoy the journey.",
+          "summary_en": "Seize life, achieve as much as possible, and enjoy the journey rather than only chasing the destination.",
+          "summary_zh": "不虚度人生全力去拼搏，同时享受过程而非只看终点",
+          "timestamp_sec": 1200,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "家族深耕迪拜房地产开发22年（现年31岁），现为地区最大私营地产开发商之一（拥有酒店、社区与建筑），去年地产销售额超100亿美元，并担任《Shark Tank Dubai》评委。",
+      "guest_name": "Dubai Property Developer & Shark Tank Dubai Judge",
+      "industry": "Real Estate",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [
+        "Her father"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Real Estate Developer & Shark Tank Dubai Judge",
+      "wealth_detail": "Sold over $10B of real estate last year; runs billion-dollar private property development company",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "从无需大额启动资金的服务业起步积累现金流，再用利润复投土地开发或借助AI工具快速做出商业计划与原型去融资。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "njD4aqTp0i4",
+  "video_type": "street_multi"
+}

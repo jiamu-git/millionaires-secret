@@ -1,0 +1,367 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Use gel on my teeth. I took it from my teeth. If stay in your teeth, they'll stay on your hands.",
+          "summary_en": "Borrow proven solutions from adjacent fields to solve customer pain points.",
+          "summary_zh": "跨界借鉴补牙凝胶痛点，打造刚需产品",
+          "timestamp_sec": 149,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to sell yourself first.",
+          "summary_en": "Sell yourself first before pitching your product or deal.",
+          "summary_zh": "做销售前必须先推销好自己",
+          "timestamp_sec": 158,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Never had a line of credit, never had a mortgage, never borrowed money in 44 years... Just kept putting the profit back in. Just reinvest and reinvest.",
+          "summary_en": "Operate without debt and continually reinvest profits back into growth.",
+          "summary_zh": "不借债创业，靠高利润滚雪球再投资",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Sell gel for $25 that cost a dollar... I'm in 90 countries... I knew in the 80s that global was the play.",
+          "summary_en": "Build high-margin products and expand into global markets early.",
+          "summary_zh": "紧抓高毛利产品并尽早布局全球大市场",
+          "timestamp_sec": 208,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Hire interpreters and you just keep going until you find somebody good.",
+          "summary_en": "Keep iterating on local hires until you find genuinely capable talent.",
+          "summary_zh": "持续筛选当地翻译人才直到找到高手",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "The best financial advice in the world, save your money and don't waste it on stupid stuff. This car was 520 grand. I bought it at an auction for 175.",
+          "summary_en": "Save aggressively, avoid wasteful spending, and buy luxury assets at deep discounts.",
+          "summary_zh": "攒住钱别乱挥霍，豪车也只买拍卖低价款",
+          "timestamp_sec": 242,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Of course I believe in God. I wouldn't be here if it wasn't.",
+          "summary_en": "Stay anchored in faith as a foundation for long-term success.",
+          "summary_zh": "心怀对神的信仰，成功离不开信念支撑",
+          "timestamp_sec": 262,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Act on to others you wish them to act on to you. Don't do anything to anybody you wouldn't want them to do to you or your daughter.",
+          "summary_en": "Live by the Golden Rule and treat everyone ethically.",
+          "summary_zh": "己所不欲勿施于人，用黄金法则待人处事",
+          "timestamp_sec": 273,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Babe Ruth led the league in home runs and strikeouts in the same year... I failed three times before... But I kept shooting and then I hit the big one.",
+          "summary_en": "Keep swinging after early business failures until you hit a home run.",
+          "summary_zh": "连续失败三次也不放弃，持续挥棒终会成功",
+          "timestamp_sec": 291,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "父亲是水管工，白手起家，18、19、22岁连续创业失败三次后，于1981年用200美元在威尼斯海滩摆摊，受补牙凝胶启发发明美甲凝胶，并持续将高毛利利润再投资扩展至全球90个国家，单年收入超1亿美元。",
+      "guest_name": "Gel Nails Inventor (Rolls-Royce Entrepreneur)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Inventor of Gel Nails",
+      "wealth_detail": "Over $100M in a single year; drives a $520K Rolls-Royce bought at auction for $175K and states he could buy 100 brand new",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先推销好自己、不借债并将高毛利利润持续再投资、早早布局全球市场、连续失败也不放弃，同时养成攒钱不乱挥霍的习惯。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Give me your best sales and negotiation advice right here... Don't take no for an answer.",
+          "summary_en": "Refuse to accept the first refusal in sales and deal negotiations.",
+          "summary_zh": "销售谈判绝不轻言放弃，不接受拒绝",
+          "timestamp_sec": 386,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Spend Without Fear & Enjoy the Journey",
+          "category": "Mindset & Resilience",
+          "quote": "Don't be afraid to spend money, you'll always make more... When you're out there hustling, trying to make it happen. Don't be afraid to spend a few dollars and enjoy yourself along the way.",
+          "summary_en": "Do not live in scarcity while hustling; spend without fear and enjoy life along the way.",
+          "summary_zh": "拼搏时敢于花钱并享受奋斗沿途的人生",
+          "timestamp_sec": 455,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Don't take the first no or the second no. You got to be able to keep pushing forward... if you want something badly enough, you got to go out there and make it happen.",
+          "summary_en": "Push past repeated rejections and relentlessly force your goal into reality.",
+          "summary_zh": "不接受前两次拒绝，足够渴望就全力促成",
+          "timestamp_sec": 491,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I met someone on the internet and you went into business together. He was already in the business... in some cases who you know is more important than what you know.",
+          "summary_en": "Partner with someone already inside the industry you want to enter.",
+          "summary_zh": "靠人脉搭档入行，懂得谁比懂什么更关键",
+          "timestamp_sec": 500,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒且高中辍学，通过网络结识了一位已在油气行业深耕的伙伴并联合创业，在堪萨斯州从事油井交易撮合，靠单人运作将旗下多个生意做到年营收超1000万美元。",
+      "guest_name": "Kansas Oil & Gas Deal-Maker (High School Dropout)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Oil & Gas Entrepreneur & Deal-Maker",
+      "wealth_detail": "Over $10M/yr in total revenue across businesses (less than $100M/yr)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要接受第一或第二次拒绝，足够渴望就要全力去促成结果；同时主动通过网络或人脉结识行业内已有根基的伙伴并展开合作。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Do what you do best, delegate the rest. I got the right people around me... Treat them right. Give them your expectations right up front... a leader is only a leader when somebody willingly wants to follow them.",
+          "summary_en": "Delegate outside your strengths, set clear expectations, and lead so people follow willingly.",
+          "summary_zh": "聚焦最擅长的事，用尊重与信任留住顶尖人才",
+          "timestamp_sec": 608,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Show Respect & Basic Manners",
+          "category": "Actionable Skills & Habits",
+          "quote": "I learned three things, three words that will help you get through your prison time pretty good. Please, thank you. Excuse me.",
+          "summary_en": "Show basic respect and courtesy to everyone regardless of environment.",
+          "summary_zh": "常说请、谢谢和借过，给予他人基本尊重",
+          "timestamp_sec": 707,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Number one, in this life, we are who we hang out with. You have to surround yourself with the right people. No question about it.",
+          "summary_en": "Choose your inner circle carefully because you become who you associate with.",
+          "summary_zh": "物以类聚人以群分，必须与对的人同行",
+          "timestamp_sec": 736,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Who you are accountable to in life is going to direct the path that you go on... Now I'm accountable to my God first, to my family, my wife, my children.",
+          "summary_en": "Anchor your life in accountability to God and family to transform your behavior.",
+          "summary_zh": "向神和家人负责，内心问责才能彻底蜕变",
+          "timestamp_sec": 746,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "You never trust anybody 100% no matter who it is.",
+          "summary_en": "Maintain healthy skepticism and never place 100% blind trust in anyone in business.",
+          "summary_zh": "在商业合作中保持警惕，绝不百分百轻信他人",
+          "timestamp_sec": 823,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Determination is everything. Don't ever feel sorry for yourself. Don't ever think somebody's going to give you a hand out or help you. You got to work.",
+          "summary_en": "Never feel sorry for yourself or expect handouts; rely on sheer determination and hard work.",
+          "summary_zh": "绝不自怜自艾或等施舍，靠决心独自闯出来",
+          "timestamp_sec": 872,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "26岁赚到第一个100万美元。父亲曾是纽约哥伦布黑手党家族二号人物并引荐他入会，他在19岁官司缠身、穷到请不起律师后，靠汽油税运作在巅峰期每周入账800万至1500万美元，后因与政府达成认罪协商入狱8年并改过自新。",
+      "guest_name": "Former Colombo Family Mafia Member",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former Organized Crime Member & Speaker",
+      "wealth_detail": "Made first $1M at age 26; brought $8M-$15M per week into operation at peak",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "做自己最擅长的事并将其他事务授权给顶尖人才；选对同行圈子并建立对神与家人的责任感；绝不自怜或指望他人施舍，全靠坚定决心自己闯。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose a Life Partner With Shared Faith",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "What was the worst financial decision that you made throughout your career? Marriage, actually... It's not the right person if you guys don't share the same faith... when the home front is not good, it takes away your attention to create.",
+          "summary_en": "Avoid marrying someone without shared faith and values, as domestic misalignment drains creative focus and finances.",
+          "summary_zh": "切勿选错伴侣，信仰与价值观一致才不内耗",
+          "timestamp_sec": 1030,
+          "type": "regret"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Without God, I would not be here... God wants us all to prosper.",
+          "summary_en": "Ground your journey from humble origins in faith and spiritual purpose.",
+          "summary_zh": "信仰是逆袭根基，神愿人们以正道实现丰盛",
+          "timestamp_sec": 1077,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "Blueprint diversification. I'm in the process of launching a pharmaceutical plant in Ghana. It's going to be the biggest plant in sub-Saharan Africa... That's the key to me becoming a billionaire.",
+          "summary_en": "Diversify beyond high-income professional practice into scalable industrial ventures.",
+          "summary_zh": "从高收入专业向大型实业多元化布局",
+          "timestamp_sec": 1095,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身加纳阿什敦贫民窟，凭借信仰与专业能力来到比弗利山庄成为顶级整形外科医生并开设个人诊所（已执业13年），约34岁赚到第一个100万美元，单年最高收入达900万美元。",
+      "guest_name": "Ghana-Born Beverly Hills Plastic Surgeon",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible (Genesis 1:26, Jeremiah 29:11)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Plastic Surgeon & Practice Owner",
+      "wealth_detail": "$9M in a single year; first $1M at ~34 years old",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "保持坚定信仰并谨慎选择信仰与价值观一致的人生伴侣，同时通过跨领域多元实业布局（如建设大型制药厂）放大财富规模。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "You're always interviewing... You will be judged on your ability to drive performance. And I'll tell you, you earn credibility by delivering results. Full stop. Credibility kills all bad attitudes.",
+          "summary_en": "Treat every day as an interview and build industry credibility by consistently delivering results.",
+          "summary_zh": "时刻都在面试，靠交付业绩建立行业信誉",
+          "timestamp_sec": 1195,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Everyone celebrates the winners. You know how you network with successful people? Become successful.",
+          "summary_en": "The most effective way to network with successful people is to become a winner yourself.",
+          "summary_zh": "想要结交成功人士，最好的方式就是自己成功",
+          "timestamp_sec": 1213,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "We call it a fortress balance sheet. We have just over two billion in cash or cash equivalents on the balance sheet with zero debt today. And we generate enough cash to... support our own growth.",
+          "summary_en": "Maintain a zero-debt fortress balance sheet and self-fund expansion from strong cash flow.",
+          "summary_zh": "保持零负债与充裕现金流，自筹资金稳健扩张",
+          "timestamp_sec": 1264,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "There's a difference between responsibility and accountability. If you and I are both responsible for a task, who's accountable? No one... one of us has to be accountable.",
+          "summary_en": "Distinguish shared responsibility from single-point accountability so one person always owns the outcome.",
+          "summary_zh": "区分共同责任与个人问责，明确唯一负责人",
+          "timestamp_sec": 1284,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "You can't save your way to prosperity... continue to invest in the consumer experience, continue to invest in the team member experience, and that will always pay outsized dividends.",
+          "summary_en": "Adopt an abundance mindset by continuously investing in customer and employee experiences rather than just cutting costs.",
+          "summary_zh": "别想靠省钱致富，持续投资客户与员工体验",
+          "timestamp_sec": 1303,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身非常普通，第一份工作在麦当劳煎汉堡，高中阶段靠洗盘子补贴生计，凭长期在餐饮行业交付卓越业绩和建立声誉，一路晋升至Chipotle Mexican Grill首席执行官。",
+      "guest_name": "Scott (Chipotle CEO)",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "CEO of Chipotle Mexican Grill",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "牢记自己时刻都在接受职业审视，靠实打实的业绩积累行业信誉；通过自身成为赢家来吸引高端人脉；明确单一问责制，并持续投资顾客与员工体验而非一味节流。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "uUwf3HM_bBg",
+  "video_type": "street_multi"
+}

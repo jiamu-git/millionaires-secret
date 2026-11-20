@@ -1,0 +1,353 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "It was new to everyone. So we were all on a level playing field... if you can really be specific with it and roll it out to people and just be smarter about it, you have a foothold in the industry.",
+          "summary_en": "Enter emerging fields like internet marketing or AI where everyone starts on a level playing field and out-execute through specificity.",
+          "summary_zh": "在AI等新兴平坦赛道找准细分切入点",
+          "timestamp_sec": 411,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Leverage AI for Repetitive Tasks",
+          "category": "Business & Strategy",
+          "quote": "Anything that you can automate is repetitive, you have to use AI for. Anything that requires critical thinking, that's what you want to really focus on yourself.",
+          "summary_en": "Use AI to automate all monotonous, repetitive tasks so you can dedicate your own energy to critical thinking.",
+          "summary_zh": "用AI自动化重复工作，专注批判性思考",
+          "timestamp_sec": 445,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "I sent an email over Christmas time and I said, 'Hey, listen, my team is going to be gone for the next two hours. If you need anything, just let me know.' He goes, 'You won the business.'",
+          "summary_en": "Beat giant competitors through extreme responsiveness and availability, even during holidays.",
+          "summary_zh": "节假日秒回客户，以极致服务赢下大单",
+          "timestamp_sec": 498,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Preserve Founder Mentality & Value Employees",
+          "category": "Business & Strategy",
+          "quote": "They forget the people behind it... The employees that actually built the company... always running that company like a startup regardless of the size.",
+          "summary_en": "Never forget the employees who built the company and always keep running the business with a startup founder's mentality regardless of size.",
+          "summary_zh": "重视一线员工，保持初创期的创始人精神",
+          "timestamp_sec": 535,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You don't want to lose that drive. The biggest thing is not losing that founder spirit... Getting up, being excited, going in, coming up with new ideas, and just never stopping. Can't take a break.",
+          "summary_en": "Protect your drive and founder spirit; stay hungry, keep generating ideas, and never stop pushing.",
+          "summary_zh": "永不满足停步，保持创业初期的干劲",
+          "timestamp_sec": 587,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Believe in yourself. Always having that picture of something that's out of reach and saying, 'How do I get there?' But what are all the little steps along the way to actually get there?",
+          "summary_en": "Believe in yourself, envision goals that seem out of reach, and map out the small incremental steps required to achieve them.",
+          "summary_zh": "坚定自信并把远大目标拆解为可执行步骤",
+          "timestamp_sec": 601,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Set Up Proper Legal Entity Structure",
+          "category": "Business & Strategy",
+          "quote": "Incredibly important. That's how you protect yourself. That's how you make sure that you have everything legally done the right way.",
+          "summary_en": "Set up a proper business entity structure like an LLC early to legally protect yourself and operate properly.",
+          "summary_zh": "尽早设立LLC等合规架构保护个人资产",
+          "timestamp_sec": 614,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年挨家挨户推销黄页（Yellow Pages），参与公司互联网项目时看到公司收款1亿美元却只分给他1万美元奖金，遂决定在地下室白手起家单干，创办互联网广告公司。",
+      "guest_name": "Sergio",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder of Internet Advertising Company (Sold to Blackstone)",
+      "wealth_detail": "Sold company to Blackstone for ~$200M in 2016 (later bought it back)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "相信自己，设立看似遥不可及的目标并拆解每一步去实现；利用AI自动化一切重复性工作以释放批判性思维精力；尽早搭建LLC等合规实体结构保护自身。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Fast money never lasts. And if you keep building and be patient, that's what a real entrepreneur is, is it's longevity and endurance.",
+          "summary_en": "Avoid chasing fast money because it never lasts; true entrepreneurship is about patience, longevity, and endurance.",
+          "summary_zh": "快钱难以长久，创业重在耐心与持久耐力",
+          "timestamp_sec": 825,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "Leveraging the trends that are out there such as AI to build them into your business... being able to basically ride that wave at the same time.",
+          "summary_en": "Build your business around major macro waves like AI and robotics rather than chasing superficial trends.",
+          "summary_zh": "借力AI等时代浪潮将其融入自身业务",
+          "timestamp_sec": 874,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I tried to build like a life very fast. Patience is like key... Just cuz you can afford a Lamborghini or whatever does not mean you're at the level that everyone that has a Lamborghini is.",
+          "summary_en": "Do not rush into building a flashy lifestyle or equate buying luxury cars with true business maturity.",
+          "summary_zh": "警惕年少得志后盲目消费与虚荣攀比",
+          "timestamp_sec": 898,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Invest in yourself. And that means even just like trying and failing. Like start a business, fail cuz you're going to learn so much about it that it's not a waste of money... fail fast. Just do something.",
+          "summary_en": "Invest in yourself by starting a small business and failing fast; real-world experience teaches far more than school.",
+          "summary_zh": "投资自己并勇于试错，实战比学校更学东西",
+          "timestamp_sec": 921,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I listen to books. I don't read them. I'm always on Audible. There's a book called Ego is the Enemy... a great way to start pushing my headspace to a much more like neutral space.",
+          "summary_en": "Continuously listen to audiobooks like Ryan Holiday's 'Ego is the Enemy' to keep your ego in check and maintain a neutral headspace.",
+          "summary_zh": "坚持听书学习，克制自负保持平和心态",
+          "timestamp_sec": 940,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Just don't give up... you may have a really down day in business and the next day might be amazing... as long as you're in the game, you're going to get somewhere.",
+          "summary_en": "Never give up through bad days in business because one life-changing breakthrough can happen the very next day as long as you stay in the game.",
+          "summary_zh": "绝不轻言放弃，留在牌桌上等待转机",
+          "timestamp_sec": 977,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "高中时期白手起家，在当地率先创办无人机摄影与营销公司；24岁成为百万富翁，四年前切入人形机器人赛道，首年即做到100万美元，随后乘着AI浪潮实现近百倍增长。",
+      "guest_name": "Teddy Hagerty",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Ego is the Enemy by Ryan Holiday"
+      ],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Technical / Engineering",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Robotics & AI Hardware Company Owner",
+      "wealth_detail": "Company on track for $100M+ annual revenue; became a millionaire by age 24",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "投资自己，尽早创办小生意并勇于快速试错（实战比学校学得更多）；保持耐心追求长期复利而非快钱；顺应AI大趋势并通过听书克制自我膨胀。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I get up every morning and I go to work every single day. Yes.",
+          "summary_en": "Maintain lifelong work ethic and discipline—even at 81 years old, he still gets up and goes to work every single day.",
+          "summary_zh": "81岁仍每日坚持工作，保持极强职业精神",
+          "timestamp_sec": 1088,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "They have to find something that is needed in the industry, whatever industry you're in... We do high-end swimwear designer brands. Plus, we have our own brands, very niche.",
+          "summary_en": "Find a genuine need in an industry and stay laser-focused on a specialized niche for decades to compete against giants.",
+          "summary_zh": "找准行业刚需并深耕细分市场抗衡巨头",
+          "timestamp_sec": 1121,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Afraid? We never believed that we'd ever go out of business. The first year we actually lost money.",
+          "summary_en": "Do not be intimidated by giant competitors trying to crush you; hold unshakeable conviction even when losing money in year one.",
+          "summary_zh": "首年亏损也无惧巨头竞争，坚信绝不倒闭",
+          "timestamp_sec": 1154,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "You have to manage your money. You don't live above your means... protect what you have... when things are getting tough, you need to figure out how to stop it, how to control it.",
+          "summary_en": "Manage your money prudently, avoid living above your means, protect wealth in trusts, and tighten spending quickly when times get tough.",
+          "summary_zh": "量入为出控制开支，用信托妥善保护资产",
+          "timestamp_sec": 1196,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Take Care of Your Employees & Partners",
+          "category": "Business & Strategy",
+          "quote": "Be good with the people that you work with. You need to take care of all your people.",
+          "summary_en": "Treat the people you work with well and take care of your entire team.",
+          "summary_zh": "善待共事伙伴与员工，照顾好团队每个人",
+          "timestamp_sec": 1209,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Give their word to whoever they deal with. Look them in the eyes and shake their hands and always be honest and be truthful. I never try to screw anybody.",
+          "summary_en": "Keep your word, look people in the eye, shake hands, and never cheat anyone—integrity earned him 90-day supplier terms on a handshake.",
+          "summary_zh": "重信守诺言出必行，凭口碑赢得长期赊账",
+          "timestamp_sec": 1226,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "意大利移民出身，在南布鲁克林长大；已有妻儿时从银行取出全部积蓄12,500美元起家，在60年前创办泳装及游泳装备公司，并依靠专精细分市场顶住大公司竞争。",
+      "guest_name": "Joe Dorenzo",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Swimwear Company Founder & Owner",
+      "wealth_detail": "Company worth $300M-$500M; made $30M-$50M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "寻找所在行业真正被需要的细分领域并长期专注；做人做事必须守信、看重口头承诺与握手之交；学会管钱不超前消费，用信托等工具保护好现有资产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "In 2008, when the financial crisis hit, I gambled everything I had and acquired a piece of property... Went all in, all chips to the middle of the table.",
+          "summary_en": "Be willing to bet all your chips when a defining opportunity presents itself during a downturn like the 2008 financial crisis.",
+          "summary_zh": "危机中敢于押上全部筹码，抓住翻身机遇",
+          "timestamp_sec": 1351,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I've never worked a day in my life. I love what I do. This isn't work. This is hustle.",
+          "summary_en": "Wake up every morning hungry and love the hustle so much that it never feels like work.",
+          "summary_zh": "热爱所做之事并保持饥渴感，工作即乐趣",
+          "timestamp_sec": 1395,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Realized that there was a hole in the market and we double, triple, quadruple down and we're now 21 schools deep with 10,000 kids in our buildings.",
+          "summary_en": "When you discover an underserved hole in the market, double, triple, and quadruple down to fill that demand.",
+          "summary_zh": "敏锐发现市场空白并成倍重仓深耕到底",
+          "timestamp_sec": 1419,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Reputation is the only thing that matters.",
+          "summary_en": "Protect your reputation above all else—never screw people over because a single dishonest act can erase a lifetime of good work.",
+          "summary_zh": "声誉高于一切，守住底线绝不毁掉名声",
+          "timestamp_sec": 1429,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Ronald Reagan said it best. Trust but verify. Do your homework.",
+          "summary_en": "Do thorough due diligence on people and partners in business—trust, but always verify.",
+          "summary_zh": "合作需信任但更要核实，事先做好尽职调查",
+          "timestamp_sec": 1460,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Sense of urgency. Constant pedal to the metal no matter what. Don't ever put off to tomorrow what you can do today cuz you don't know what tomorrow's going to bring.",
+          "summary_en": "Operate with a relentless sense of urgency and never delay until tomorrow what can be executed today.",
+          "summary_zh": "保持极致紧迫感，今日事绝不拖延到明天",
+          "timestamp_sec": 1476,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Be Methodical & Stick to Your Plan",
+          "category": "Business & Strategy",
+          "quote": "Teaches you patience. You just got to be mindful. You got to be methodical. You got to have a plan. You stick to your plan.",
+          "summary_en": "Be patient, mindful, and methodical—create a clear plan and stick to it rather than rushing blindly.",
+          "summary_zh": "稳扎稳打有耐心，制定计划并坚定执行",
+          "timestamp_sec": 1533,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Don't sell. Hold. When it comes to real estate, when it comes to anything else, hold. Be patient... Don't sell assets.",
+          "summary_en": "Do not sell your real estate or core assets for short-term chips—hold patiently and stay in the game long term.",
+          "summary_zh": "优质地产与核心资产只买不卖，长期持有",
+          "timestamp_sec": 1550,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1999年向并不富裕的父亲借了3万美元，仅凭一辆皮卡和一包工具做起总承包生意；2008年金融危机时赌上全部身家买下原本替人代建的房产项目大获成功，随后做过十几家酒店并偶然接手皇后区一所旧天主教学校，发现特许学校场地缺口后重仓深耕至21所学校。",
+      "guest_name": "Scott Baron",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Public/Charter School Real Estate Developer & General Contractor",
+      "wealth_detail": "$100M-$150M annual revenue; $600M-$700M real estate portfolio (3M sq ft, with partners)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "保持强烈的紧迫感，今日事今日毕；极度爱护个人声誉并信守承诺，同时对合作方“信任但要核实”；有耐心、按计划稳步推进，拿到优质资产后长期持有、切忌轻易卖出。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "E_9nX5ReMcY",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,386 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "even when I was really doing well making tens of millions of dollars I was very very cash poor... I made $10 million I'm balling no I'm not I got bills like big bills",
+          "summary_en": "Understand cash flow and obligations—high revenue does not mean you are cash-rich.",
+          "summary_zh": "营收高不代表现金充裕，需警惕大额账单",
+          "timestamp_sec": 89,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "sales cures everything... sales persuasion influence the mastering the art of copywriting if you can sell well you can sell your way out of any challenge",
+          "summary_en": "Master sales, persuasion, and copywriting so you can sell your way out of any crisis.",
+          "summary_zh": "磨练销售与说服力，销出一切困境",
+          "timestamp_sec": 124,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "winners have a bounceback spirit... I'm going to rally the team we're going to fight like hell",
+          "summary_en": "Cultivate a bounce-back spirit and rally your team to fight through crises.",
+          "summary_zh": "拥有反弹精神，带领团队奋力拼搏",
+          "timestamp_sec": 135,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "look at the single tenant triple net lease game... it's easier to do a $50 million commercial deal than a $1 million house flip the financing is easier the people involved are smarter",
+          "summary_en": "Invest in single-tenant triple-net commercial real estate; larger deals have easier financing and smarter counterparties.",
+          "summary_zh": "切入三净租约商业地产，大额交易更易融资",
+          "timestamp_sec": 164,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I fired myself I got the hell out of the way... form this amazing team and get the hell out of the way",
+          "summary_en": "Build an elite team, fire yourself from daily operations, and get out of the way to scale.",
+          "summary_zh": "组建顶尖团队并果断退位放权",
+          "timestamp_sec": 208,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "money love speed cut the check",
+          "summary_en": "Move fast and execute decisively because money rewards speed.",
+          "summary_zh": "金钱喜欢速度，果断决策立即行动",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "it's not going to happen on your time frame it's much more difficult than you think and if you're a mental [__] it's not for you bow out now",
+          "summary_en": "Do not expect overnight results on your own timeline; business is far harder than expected.",
+          "summary_zh": "创业远比想象艰难，不急于求成者方能胜出",
+          "timestamp_sec": 238,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "早年靠街头智慧白手起家，曾面临55万美元信用卡账单与20多万美元薪资的现金流危机，靠一周半卖出80万美元新产品渡过难关。",
+      "guest_name": "Cody (Scottsdale Multi-Business Owner)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Early mentor (who taught him 'sales cures everything')"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Real Estate Underwriting",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Multi-Business Owner & Commercial Real Estate Investor",
+      "wealth_detail": "Owns ~4 eight-figure businesses; has made tens of millions of dollars",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "从单租户三净租约（NNN）商业地产入手（规模越大融资越容易）；磨练销售、说服力与文案写作能力；组建优秀团队并果断放权退出日常执行。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "I have a garage door company called A1 Garage Door Service so blue collar home service industry best decision I've ever made... good things come to those who wait",
+          "summary_en": "Build a blue-collar home service business and commit to it for the long haul.",
+          "summary_zh": "深耕蓝领家居服务等传统现金流行业",
+          "timestamp_sec": 270,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "we'll do $240 million this year you know we're over 20% on the bottom line so remember this revenue is for vanity profit is for sanity we run a lot of efficiency",
+          "summary_en": "Prioritize bottom-line profit over vanity revenue through operational efficiency and economies of scale.",
+          "summary_zh": "营收虚荣利润才真实，靠规模降本增效",
+          "timestamp_sec": 280,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "here's the book you should read... The E-Myth Revisited Think and Grow Rich by Napoleon Hill Dale Carnegie... Dan Martell Buy Back Your Time",
+          "summary_en": "Read foundational business and time-leverage books like The E-Myth Revisited and Buy Back Your Time.",
+          "summary_zh": "持续阅读商业经典书籍迭代认知",
+          "timestamp_sec": 302,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "studying where your time's going and how much waste we have... if you could buy back your time and look at efficiency I think you could really scale",
+          "summary_en": "Audit and eliminate time-wasters like endless phone scrolling so you can buy back and compound your time.",
+          "summary_zh": "戒掉无意义刷手机，买回并复利时间",
+          "timestamp_sec": 324,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "billionaires are much better at not working... they know who to call when... I'm calling the best and they're not cheap... I need these results more than I need a deal",
+          "summary_en": "Instead of doing everything or haggling on price, hire the best experts and pay for top results.",
+          "summary_zh": "富豪不硬拼低价，花钱请顶尖人才解决",
+          "timestamp_sec": 363,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "the magic you're looking for is in the work you're avoiding",
+          "summary_en": "Stop avoiding hard tasks—the breakthrough you want lies in the work you are putting off.",
+          "summary_zh": "你寻找的奇迹就藏在你逃避的工作里",
+          "timestamp_sec": 384,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Focus on Gratitude & What You Control",
+          "category": "Mindset & Resilience",
+          "quote": "focus what you have versus what you don't have... focus on today and the future versus the past... focus on what you can control versus what you can't control",
+          "summary_en": "Focus on what you have, the present and future, and only the things within your control.",
+          "summary_zh": "聚焦已有资源、当下未来及可控之事",
+          "timestamp_sec": 393,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕蓝领家居服务行业（车库门维修安装 A1 Garage Door Service）二十年，靠长期积累、规模采购与精细化运营将公司做到年营收2.4亿美元。",
+      "guest_name": "A1 Garage Door Service Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The E-Myth Revisited",
+        "Think and Grow Rich by Napoleon Hill",
+        "Dale Carnegie",
+        "Buy Back Your Time by Dan Martell",
+        "Dan Martell (coach)",
+        "2008 CPA (mentor)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder, A1 Garage Door Service",
+      "wealth_detail": "$240M/yr revenue with >20% bottom-line profit (nine-figure business)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "选择蓝领家居服务等传统现金流行业并长期深耕；通过阅读经典书籍和雇佣顶尖专家买回时间以产生复利效应；专注于当下与未来以及自己能控制的事情。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "how old were you when you became a millionaire 26... well you know I learned how to sell",
+          "summary_en": "Learn how to sell early—mastering sales is a direct path to becoming a millionaire.",
+          "summary_zh": "学习销售技能是创造百万财富的起点",
+          "timestamp_sec": 560,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "a book by Daniel Pink it's called To Sell Is Human... it really talks about how buying behaviors and consumers have radically changed",
+          "summary_en": "Study modern books like Daniel Pink's To Sell Is Human to understand how buyer behavior has evolved.",
+          "summary_zh": "紧跟现代消费心理，研究新销售理念",
+          "timestamp_sec": 572,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "people don't really buy from people they like they buy from people or companies they trust can get them the best result",
+          "summary_en": "Build trust that you can deliver the best result rather than relying solely on likability.",
+          "summary_zh": "客户只向信任能带来最佳结果的人买单",
+          "timestamp_sec": 609,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "God feeds the birds but he doesn't drop worms in their nest... most people they're all afraid they never do anything so just go out and do something",
+          "summary_en": "Stop letting fear keep you passive—take agency and go take action to help people.",
+          "summary_zh": "机会就在眼前，克服恐惧立刻去行动",
+          "timestamp_sec": 662,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "you got to be a thousand percent committed... you can't be flaky... they wake up at a certain time they go through a certain day-to-day routine",
+          "summary_en": "Be 1,000% committed and stick to a disciplined daily routine with zero flakiness.",
+          "summary_zh": "杜绝敷衍摇摆，保持百分百承诺与自律",
+          "timestamp_sec": 680,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Develop High-Value Skills",
+          "category": "Actionable Skills & Habits",
+          "quote": "develop the right skills... your skill level can take you to levels that most people don't get cause they don't put in the time to learn the skill level",
+          "summary_en": "Put in the dedicated time to build high-value skills that separate you from the average person.",
+          "summary_zh": "投入时间打磨高价值技能以突破层级",
+          "timestamp_sec": 702,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "building a culture like building a company where people want to be around and they have that same drive... we share that common goal",
+          "summary_en": "Build a driven company culture where sales, operations, and marketing unite around a shared mission.",
+          "summary_zh": "打造使命一致、互相驱动的团队文化",
+          "timestamp_sec": 712,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年通过学习销售在26岁成为百万富翁，2018年底创业，五年多时间将公司年营收做到近3400万美元。",
+      "guest_name": "Scottsdale $34M Sales Company Founder",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "To Sell Is Human by Daniel Pink",
+        "Dale Carnegie (1936 book)",
+        "Andy Andrews (speaker)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder, Sales-Driven Company (47yo, ~$34M/yr revenue)",
+      "wealth_detail": "Became a millionaire at 26; company revenue just under $34M/yr",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "保持百分之百的承诺与日常自律，绝不敷衍摇摆；花时间打磨高价值核心技能；靠信任与过硬结果赢得客户，并打造共同使命感的公司文化。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "sales and leadership will get you rich if you want to get rich you get great at sales you become a great leader you'll dominate everybody",
+          "summary_en": "Become great at both sales and leadership to dominate your market and get rich.",
+          "summary_zh": "精通销售与领导力就能主宰财富与竞争",
+          "timestamp_sec": 760,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Leverage the Compound Effect",
+          "category": "Business & Strategy",
+          "quote": "it's a penny a day doubled every day for 30 days... it took me a year to get to a million followers it took me 90 days to get to my next million... it's a compound effect",
+          "summary_en": "Stay consistent through slow beginnings because business and audience growth accelerate via compounding.",
+          "summary_zh": "利用复利效应实现营收与流量指数增长",
+          "timestamp_sec": 778,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "lowest barrier of entry... what does it cost to get in sales zero... you can get in sales and you can make 500 grand a year",
+          "summary_en": "Choose a vehicle like sales with zero barrier to entry and immediate six-to-seven-figure earning upside.",
+          "summary_zh": "选择零门槛且回报无上限的销售赛道",
+          "timestamp_sec": 798,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "broken people are the most dangerous... when the pain overrides the fear of change people change... without a test there's no testimony",
+          "summary_en": "Use rock-bottom pain and adversity as fuel to bounce back higher and build your testimony.",
+          "summary_zh": "把谷底痛苦化作反弹动力与成长见证",
+          "timestamp_sec": 850,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "I care more about my clients than they care about themselves... be where your feet are... take care of your clients better than they've ever been taken care of",
+          "summary_en": "Give clients your undivided presence and care more about their outcomes than anyone else ever has.",
+          "summary_zh": "比客户更关心其利益，全神贯注服务",
+          "timestamp_sec": 899,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "if you treat something like it's the beginning there'll never be an end... I never get exhausted it never gets burned out... whoever's the hungriest wins",
+          "summary_en": "Keep day-one hunger and excitement for your craft so you never burn out and always out-hustle competitors.",
+          "summary_zh": "永远像第一天般饥渴热爱，永不倦怠",
+          "timestamp_sec": 936,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "everybody's built for it if you can just believe in you and no one else believes in you that's enough",
+          "summary_en": "Reject the lie that only a few are built for success—believing in yourself is enough.",
+          "summary_zh": "即便无人看好也要坚定相信自己",
+          "timestamp_sec": 975,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "have you ever thought about the unlived life... either get there or die trying but damn sure don't be average never conform",
+          "summary_en": "Have the courage to chase your full potential and unlived life rather than settling for average.",
+          "summary_zh": "勇敢追求本该活出的人生，拒绝平庸",
+          "timestamp_sec": 995,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒、在校成绩拿D，19岁进入零门槛的销售行业，第一年赚12.5万美元，第二年22.5万，20岁第三年赚到50万美元，后创办大型销售培训公司（年营收1.6亿美元）。",
+      "guest_name": "Andy Elliott",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Marketing & Distribution",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Founder & CEO, Coaching Company (Sales & Leadership)",
+      "wealth_detail": "$160M revenue last year; $250M goal this year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "从零门槛的销售行业切入并掌握销售与领导力；把谷底的痛苦转化为反弹动力；全身心专注于客户并比客户更关心他们的利益；坚信自己、拒绝平庸。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "sExOe8q1QBc",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,347 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "It's ownership. It's about ownership.",
+          "summary_en": "Building major wealth in film comes down to having ownership rather than just working for others.",
+          "summary_zh": "做电影赚钱的关键在于拥有所有权",
+          "timestamp_sec": 214,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I was rejected at audition... I was like, 'I'm gonna produce my own self.'",
+          "summary_en": "Turn rejection into fuel by creating your own platform instead of waiting for someone else to cast or hire you.",
+          "summary_zh": "面对试镜被拒，转而自己掌控制作",
+          "timestamp_sec": 229,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "When you get is just about ready to succeed, it gets harder and harder... So, keep grinding.",
+          "summary_en": "Things get hardest right before a breakthrough; keep pushing through with consistency and persistence.",
+          "summary_zh": "接近成功时越艰难，必须咬牙坚持",
+          "timestamp_sec": 260,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "You have to keep God first in all that you do. Faith is important. Don't ask for a divine intervention. Intervene with divinity.",
+          "summary_en": "Keep faith first in all you do and act purposefully rather than passively waiting for miracles.",
+          "summary_zh": "把信仰放在首位，以神性思维主动行动",
+          "timestamp_sec": 335,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you want to hide something from anybody, put it in a book.",
+          "summary_en": "Valuable wisdom is often hidden in books—read actively to uncover what isn't taught in school.",
+          "summary_zh": "真正的智慧往往藏在书本里，要多读书",
+          "timestamp_sec": 347,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Keep a favor book. There going to be people along the way that you owe favors that you just may forget.",
+          "summary_en": "Track who helped you along the way so you don't forget to repay kindness, and beware of people who never helped asking first.",
+          "summary_zh": "记下人情账，记住帮助过你的人",
+          "timestamp_sec": 366,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Go for it. Don't overthink it.",
+          "summary_en": "Take action immediately on your goals instead of getting paralyzed by overthinking.",
+          "summary_zh": "勇敢去干，不要过度纠结和思考",
+          "timestamp_sec": 399,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Never mistake attendance for alliance. Everybody that's with you is not for you. Eagles don't fly with pigeons.",
+          "summary_en": "Don't confuse someone being around with true loyalty; surround yourself with teammates who genuinely want you to win.",
+          "summary_zh": "别把在场当同盟，鹰不与鸽子同飞",
+          "timestamp_sec": 401,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "试镜被拒后看到现场制片人，决定创办自己的电影制作公司自己制作电影，深耕行业25年。",
+      "guest_name": "Philadelphia Filmmaker & Producer",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Clarence Avant (The Black Godfather)"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Filmmaker & Film Production Company Owner",
+      "wealth_detail": "$35M peak single-year income",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "别过度思考，直接去行动；重视所有权并保持坚持，多读书、记住曾帮助过你的人，同时远离并非真正支持你的“鸽子”。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Not everyone needs to be a founder. Sometimes you can be an entrepreneur in somebody else's business too.",
+          "summary_en": "Not everyone is wired for startup chaos—you can build wealth by being an entrepreneurial driver inside someone else's business.",
+          "summary_zh": "不必人人都去创业，可在他人公司创造价值",
+          "timestamp_sec": 500,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Everyone needs a mentor. So, I had a great mentor when I was a kid who was in the real estate business and literally taught me the business.",
+          "summary_en": "Seek out a great mentor early in life who can directly teach you the fundamentals of a business.",
+          "summary_zh": "每个人都需要导师手把手带路",
+          "timestamp_sec": 514,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "AI is not going to fix somebody's toilet or wire their house... these old line businesses... can you modernize something like that?",
+          "summary_en": "Target traditional, AI-proof service businesses like plumbing, electrical, and construction and modernize their operations.",
+          "summary_zh": "用现代方法改造水电建筑等传统服务业",
+          "timestamp_sec": 554,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Real estate is a great long-term business. Your customers are paying down your mortgage, goes up in value.",
+          "summary_en": "Invest in real estate for the long term as a hard asset where tenants pay down your mortgage while the property appreciates.",
+          "summary_zh": "房地产是租客帮你还贷增值的优质硬资产",
+          "timestamp_sec": 581,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Leverage is everything. Too much leverage is not a good thing.",
+          "summary_en": "Use leverage prudently in real estate so tenants pay down your debt service, while avoiding excessive debt.",
+          "summary_zh": "善用杠杆但不过度负债，让租客偿还债务",
+          "timestamp_sec": 589,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I love the action... it's not about money. It's about building businesses... solving complex issues.",
+          "summary_en": "Stay driven by the love of building businesses, taking care of employees, and solving complex problems rather than chasing money.",
+          "summary_zh": "热爱创业挑战、解决问题和照顾团队家庭",
+          "timestamp_sec": 605,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Work In-Person / Show Up at the Office",
+          "category": "Actionable Skills & Habits",
+          "quote": "Go to the office, get back to work... You can't become a millionaire working from home? Definitely not.",
+          "summary_en": "Show up at the office and work in person rather than working from home if you want to build real wealth and networks.",
+          "summary_zh": "别居家办公，回到办公室线下工作",
+          "timestamp_sec": 625,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "You get one reputation. Be honest and do the right thing... Deliver bad news quickly. Just be honest.",
+          "summary_en": "Protect your single reputation by being honest with lenders and partners, doing the right thing, and delivering bad news fast.",
+          "summary_zh": "声誉只有一次，保持诚实并快速沟通坏消息",
+          "timestamp_sec": 640,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "童年遇到一位房地产导师教他做生意，并将成人礼收到的2000美元投入房地产。",
+      "guest_name": "David Adelman",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Childhood real estate mentor"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Real Estate Underwriting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Private Equity Executive, Real Estate Investor & Sports Team Co-Owner (76ers & Devils)",
+      "wealth_detail": "Company manages ~$80B in private equity assets; described as a billionaire",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "找好导师学习，不一定要独立创业，也可以先在别人公司里发挥价值；回到办公室线下工作，守住诚实与声誉。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Read the book The Simple Path to Wealth.",
+          "summary_en": "Read 'The Simple Path to Wealth' to learn a straightforward approach to investing and financial independence.",
+          "summary_zh": "阅读《简单致富之路》学习指数投资理财",
+          "timestamp_sec": 815,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Put it into Vanguard Index Funds and you do it for decades... Money doesn't grow linearly. It grows geometrically.",
+          "summary_en": "Invest your earnings into Vanguard index funds starting as young as possible so geometric compounding pays off over decades.",
+          "summary_zh": "尽早并数十年坚持定投指数基金享受复利",
+          "timestamp_sec": 819,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "It's not how much you earn, it's how much you save and invest... I lived relatively conservative considering how much I earned.",
+          "summary_en": "Wealth comes from how much you save and invest, not just income; living conservatively lets you retire early.",
+          "summary_zh": "决定财富的是储蓄投资率，保守消费早退休",
+          "timestamp_sec": 832,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "They have instant gratification... They spend more than they have... friends who earned more than I did are still going to work because they spent.",
+          "summary_en": "Avoid instant gratification and spending beyond your means; even high earners end up working forever if they overspend.",
+          "summary_zh": "戒掉即时满足与超前消费，避免终身打工",
+          "timestamp_sec": 878,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Life is not a straight line. You have your ups, your downs... You're going to have your losses.",
+          "summary_en": "Accept that progress isn't linear—you will face losses and setbacks along the way, and experience teaches what advice alone cannot.",
+          "summary_zh": "人生并非直线，接受起伏和亏损并从中成长",
+          "timestamp_sec": 1000,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "行医四十余年前为大学同窗，通过牙科执业赚取收入并数十年坚持将结余投入先锋指数基金实现财务自由。",
+      "guest_name": "Retired Philadelphia Dentists (Two Classmates)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "The Simple Path to Wealth (JL Collins)"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Retired Dentists",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "阅读《The Simple Path to Wealth》，尽早储蓄并长期定投先锋指数基金让几何复利发挥威力，拒绝即时满足与超前消费。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I was conservative and I tried to pay back more principal per year than I was due. So they saw me as a good client.",
+          "summary_en": "Be conservative with loans and pay down extra principal ahead of schedule so friendly banks trust and finance your growth.",
+          "summary_zh": "保守用债并提前多还本金赢得银行信任融资",
+          "timestamp_sec": 1120,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "My real goal is to build a tremendous community... put in great tenants that people would love to go to.",
+          "summary_en": "Focus on building vibrant communities by bringing in great tenants and creating places people genuinely enjoy visiting.",
+          "summary_zh": "买楼旨在引进优质租户、打造有活力的社区",
+          "timestamp_sec": 1146,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Everyone has failures. I have them every day... If you dwell in failure, you'll never be successful.",
+          "summary_en": "Everyone experiences failures daily; recall your past successes and move past setbacks quickly rather than dwelling on them.",
+          "summary_zh": "失败每天都在发生，别沉溺其中而要向前看",
+          "timestamp_sec": 1164,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Spend as much time as you can with your family.",
+          "summary_en": "Prioritize spending as much time as possible with your family, recognizing how fragile life can be.",
+          "summary_zh": "人生苦短，尽可能多花时间陪伴家人",
+          "timestamp_sec": 1188,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Whatever religion you are praying to God, but also taking care of family.",
+          "summary_en": "When you hit rock bottom, lean on prayer and faith while taking care of your family.",
+          "summary_zh": "陷入低谷时依靠信仰祈祷并照顾好家人",
+          "timestamp_sec": 1210,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "与银行建立良好信任，每笔按时并超额偿还本金，以30%首付或抵押现有房产杠杆逐步买下费城市中心整条街区物业。",
+      "guest_name": "Alan Dom",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Father ('We grow old too soon and wise too late')"
+      ],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Commercial Real Estate Entrepreneur & Downtown Property Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "保守借贷并超额还本金赢得银行支持，不要沉溺于每天的失败；珍惜当下，多花时间陪伴并照顾家人。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "hJYkUMV8I_s",
+  "video_type": "street_multi"
+}

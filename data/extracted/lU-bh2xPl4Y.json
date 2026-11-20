@@ -1,0 +1,266 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I built a great team around me, smartest guys out there, hardest working, super loyal.",
+          "summary_en": "Surround yourself with the smartest, hardest-working, and most loyal team possible.",
+          "summary_zh": "组建聪明勤奋且忠诚的顶尖团队",
+          "timestamp_sec": 157,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Had a great product, competitive pricing, great service. Service is a big big factor in our business.",
+          "summary_en": "Win and retain clients through strong products, competitive pricing, and exceptional service.",
+          "summary_zh": "用优质产品、高性价比与极致服务赢客",
+          "timestamp_sec": 189,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "If you have real estate, you can never really go broke. Actually.",
+          "summary_en": "Invest in real estate as a resilient asset base that keeps you from going broke.",
+          "summary_zh": "配置房地产资产，长期持有几乎不会破产",
+          "timestamp_sec": 210,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You would be able to leverage that building and take out the money tax free... and you go buy some more real estate.",
+          "summary_en": "Refinance appreciated real estate to pull out tax-free equity and acquire more properties.",
+          "summary_zh": "用增值房产免税再融资并继续购置资产",
+          "timestamp_sec": 242,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Win-Win Deal Negotiation",
+          "category": "Business & Strategy",
+          "quote": "The most important thing about negotiation, the deal has to work for both of you... It's got to be win-win always.",
+          "summary_en": "Always structure negotiations as win-win deals because one-sided deals never last.",
+          "summary_zh": "谈判必须追求双赢，单方获利难以长久",
+          "timestamp_sec": 262,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Structure & Systematize Business for Exit",
+          "category": "Business & Strategy",
+          "quote": "They didn't structure it correctly. They didn't create enough of a platform where they implemented the right process and procedures for them to obtain the highest valuation possible.",
+          "summary_en": "Set up proper legal entities, processes, and procedures early to maximize company exit valuation.",
+          "summary_zh": "提前搭建公司架构与流程以实现高估值退出",
+          "timestamp_sec": 282,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Buy for Access, Build With Tools",
+          "category": "Business & Strategy",
+          "quote": "I didn't buy income. I bought access to the industry. I bought access to key employees... You buy businesses when you need access. You build businesses when you have the tools.",
+          "summary_en": "Buy a business when you need industry and talent access; build from scratch when you already have the tools.",
+          "summary_zh": "缺行业渠道时收购企业，有工具时自行创办",
+          "timestamp_sec": 349,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在一家企业工作并表现出色，随后以30万美元收购了一家小型食品分销公司；组建强力采购与街头销售团队覆盖所有餐厅客户，首次以超1亿美元出售，之后引入新合伙人与管理体系再次以超4亿美元出售。",
+      "guest_name": "Miami Food Distribution Founder",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Real Estate Underwriting",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Food Distribution Founder & Real Estate Investor",
+      "wealth_detail": "Sold food distribution business for $100M+ then $400M+; owns over $100M in real estate",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "拥有现成工具与能力时应从零创办企业，缺乏行业与核心员工渠道时可通过收购切入；创业初期务必搭建正规公司架构与流程体系，并将收益配置到房地产中。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "It takes the same effort to make $1 than it does to make 100 million... the rules are the same, the laws are the same. It's just a bigger platform.",
+          "summary_en": "Play on bigger platforms because making $100M takes the same effort and rules as making $1.",
+          "summary_zh": "做大平台生意，赚1亿与赚1美元费力相同",
+          "timestamp_sec": 600,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It takes a lot of dedication, hard work, and a lot of sacrifice... I sleep 3 and 1/2, 4 hours a night at most.",
+          "summary_en": "Accept that entrepreneurship requires relentless dedication, hard work, and ongoing personal sacrifice.",
+          "summary_zh": "创业需要极度投入、艰苦努力与巨大牺牲",
+          "timestamp_sec": 645,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Maintain Physical Health & Sobriety",
+          "category": "Actionable Skills & Habits",
+          "quote": "I don't drink, I don't do drugs, I don't do anything that's toxic to my body. I try to work out, train, I eat well.",
+          "summary_en": "Avoid alcohol, drugs, and toxins while consistently exercising and eating well.",
+          "summary_zh": "戒除不良嗜好，坚持锻炼和健康饮食",
+          "timestamp_sec": 664,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Always Be Available & Responsive",
+          "category": "Actionable Skills & Habits",
+          "quote": "One of the most important things that people need to understand is you have to be available... There's not one text message that I don't... I'm responding to everybody's text message.",
+          "summary_en": "Stay accessible and respond promptly to people instead of using busyness as a status symbol.",
+          "summary_zh": "随时保持响应，认真回复每一条信息",
+          "timestamp_sec": 674,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You got to believe in yourself. And don't listen to the noise. Every single time I've had a business that's been successful, everybody told me it wasn't going to work.",
+          "summary_en": "Believe in yourself and ignore doubters and critics who do not pay your bills.",
+          "summary_zh": "坚定自信，不要听信外界质疑的噪音",
+          "timestamp_sec": 704,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "There's no bad business with a good man. There's no good business with a bad men. You'll never fail.",
+          "summary_en": "Only do business with good, trustworthy people; bad partners ruin any deal.",
+          "summary_zh": "只与正派人做生意，远离品行不端之辈",
+          "timestamp_sec": 801,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to make the other person understand why what you have is valuable to them, not valuable to you. So when you make them understand that they need you and you don't need them, that's when you're going to make the best deal.",
+          "summary_en": "Frame negotiations around why your offer is valuable to the other party so they feel they need you.",
+          "summary_zh": "让对方明白他们需要你，才能谈成好交易",
+          "timestamp_sec": 821,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "It's not about how great you are one day. My dad taught me this. You got to do it every day... I wake up every day with the same goal in mind, which is to execute.",
+          "summary_en": "Consistency beats one-day greatness; wake up every single day committed to execution.",
+          "summary_zh": "每天保持同样目标，日复一日坚定执行",
+          "timestamp_sec": 841,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "父亲曾无家可归，带着5个孩子从古巴来到美国。他是家里唯一受过高等教育并从法学院毕业的人，靠父亲给的800美元Discover信用卡起步，法学院一毕业就开设个人律所，以工作时间抵扣办公室租金。",
+      "guest_name": "John Ruiz",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "His father"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Law Firm, Healthcare & Tech Billionaire Entrepreneur",
+      "wealth_detail": "Billionaire; owns a $175M Miami compound (bought for $46M plus ~$20M in improvements)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不必重新发明轮子，做大平台业务与小生意的规则相同却回报巨大；保持全天候响应、自律作息与强健体魄，无视外界噪音并每天坚定执行。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Every entrepreneur needs to be a sales person... It's not just selling a product, you're selling a vision for the future. You want to have great employees, you want to have great people that buy into your vision.",
+          "summary_en": "Recruit great employees by communicating a compelling vision that moves them emotionally rather than relying only on pay.",
+          "summary_zh": "用愿景在情感上打动并招募顶尖人才",
+          "timestamp_sec": 988,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Anyone that really wants to live a life of abundance, it's very difficult to do that with a paycheck.",
+          "summary_en": "Build or own a business rather than relying on a paycheck if you want true financial abundance.",
+          "summary_zh": "追求丰盛生活不能靠领薪水，要自己创业",
+          "timestamp_sec": 1068,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Often you like you start something, you think you got a great plan, looks great on paper, never works the first time. It's about pivoting and then trying things and suddenly that last piece of the puzzle comes into place and you soar.",
+          "summary_en": "Expect initial plans to fail, keep pivoting and testing through hard work until the formula clicks.",
+          "summary_zh": "商业首次很少成功，要不断试错和调整方向",
+          "timestamp_sec": 1089,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "The job of a real salesperson is to take let me think about it and turn it into a yes... how can I sell you a pen if I first don't know what you want? I don't waste my time trying to sell things to people that don't need them or want them.",
+          "summary_en": "Qualify what the buyer actually needs first and focus on converting undecided prospects rather than pushing people who say no.",
+          "summary_zh": "先挖掘客户真实需求，专注转化犹豫的买家",
+          "timestamp_sec": 1127,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Focus on Today & Daily Self-Improvement",
+          "category": "Mindset & Resilience",
+          "quote": "Yesterday is history, tomorrow's a mystery, and today is a gift. That's why they call it the present... You can live, learn, and be a better version of yourself every day, and I focus on that.",
+          "summary_en": "Do not dwell on past regrets; focus on the present and strive to learn and become a better person every day.",
+          "summary_zh": "活在当下，每天汲取教训成为更好的自己",
+          "timestamp_sec": 1179,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "年轻时创办自己的证券经纪公司，凭借销售与说服能力做大，曾在一天约4分钟内通过操作IPO赚取2300万美元现金。",
+      "guest_name": "Jordan Belfort",
+      "industry": "Finance & Investing",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "His sobriety sponsor"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Former Stockbroker, Sales Trainer & Author (The Wolf of Wall Street)",
+      "wealth_detail": "Made $23M in cash in a single day (~4 minutes) from an IPO",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "若想过上财务丰盛的生活，必须摆脱单纯领薪水并投身创业；学会向员工和客户销售愿景，同时在商业计划受挫时不断试错与调整方向，直到找到可复制的赚钱公式。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "lU-bh2xPl4Y",
+  "video_type": "street_multi"
+}

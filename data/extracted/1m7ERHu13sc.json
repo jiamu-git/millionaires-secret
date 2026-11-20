@@ -1,0 +1,315 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "don't borrow money... the biggest mistake I ever made was letting Banks lend me money always fund it yourself as best you can friends and family raise the money",
+          "summary_en": "Self-fund or raise from friends and family early on instead of taking bank loans you may regret.",
+          "summary_zh": "创业早期尽量自筹资金，避免向银行借贷",
+          "timestamp_sec": 64,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "surround yourself with a team of professionals or aspiring professionals or like-minded individuals in the vision and come together and share that vision",
+          "summary_en": "Scale through horizontal collaboration and surround yourself with professionals who share your vision.",
+          "summary_zh": "组建共享愿景的专业团队，推行扁平化协作",
+          "timestamp_sec": 95,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Practice Active Listening Without Ego",
+          "category": "Business & Strategy",
+          "quote": "and listen we don't listen to people anymore we're ready for fight we're ready to get in the corner and go after it and we should never bring that into a business",
+          "summary_en": "Listen to your team and drop a combative, defensive attitude in business.",
+          "summary_zh": "在商业沟通中学会倾听，摒弃好斗与对抗心态",
+          "timestamp_sec": 107,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Nexalin Technology CEO (Austin Neurotechnology Entrepreneur)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "CEO of Public Neurotechnology Company (Nexalin Technology) & Entrepreneur",
+      "wealth_detail": "$600,000/yr (highest single-year income)",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "创业初期务必谨慎理财，尽量自筹资金或向亲友及众筹平台融资，避免轻易向银行贷款；扩展业务时推行扁平化管理，围绕共同愿景组建专业团队并学会倾听。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Choose Broad Startup Learning Over Comfort",
+          "category": "Business & Strategy",
+          "quote": "by staying in startups I got to touch a lot of different areas... it let me grow faster than I think I would have if I just took a really comfortable high paying job at the beginning",
+          "summary_en": "Join startups early to gain broad, cross-functional experience instead of getting pigeonholed in a comfortable big-company role.",
+          "summary_zh": "早期多去小公司历练，避免在大厂被单一岗位定型",
+          "timestamp_sec": 197,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "first and foremost you have to have really healthy relationships in the role that you're in because those ultimately will get you additional roles later on",
+          "summary_en": "Prioritize building healthy relationships in your current role because your network unlocks future career opportunities.",
+          "summary_zh": "在现有岗位建立良性人脉，人际关系决定未来机会",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "always just remember that you are a brand so if you're just out having a good time you don't know who you're going to meet and those could turn into really great opportunities",
+          "summary_en": "Treat yourself as a personal brand at all times, because casual social interactions can turn into business opportunities.",
+          "summary_zh": "时刻牢记自己就是个人品牌，社交场合皆是机遇",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早期放弃安稳的高薪大公司职位，选择在多家小型初创公司任职一到两年，接触多元业务板块从而实现快速成长。",
+      "guest_name": "Software Company VP of Marketing (Austin)",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "VP of Marketing at a Software Company",
+      "wealth_detail": "High six figures/yr (declined exact figure)",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "多抓住早期进入小型初创公司的机会，避免被单一岗位束缚；同时在当前岗位用心经营健康的人际关系，并将自己当作个人品牌来持续塑造。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I was a guy that always took chances if you're going to sit there and wait and never take chances good luck",
+          "summary_en": "Take chances rather than sitting back and waiting for opportunities to come to you.",
+          "summary_zh": "不要坐等机会，要敢于抓住时机并承担风险",
+          "timestamp_sec": 290,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "nobody cares honestly after the first year... where you go to school after that it's you versus the rest of the world... I will eat your freaking lunch",
+          "summary_en": "Your college pedigree stops mattering after your first year; from then on, relentless hustle determines whether you beat the competition.",
+          "summary_zh": "毕业一年后没人看学历，靠拼搏赢过竞争对手",
+          "timestamp_sec": 302,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I don't care if you sell paper clips or locomotives for a living people buy from people they like",
+          "summary_en": "Regardless of what you sell, build likability because people buy from people they like.",
+          "summary_zh": "无论销售什么产品，人们只向自己喜欢的人买单",
+          "timestamp_sec": 326,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus Only on What You Can Control",
+          "category": "Mindset & Resilience",
+          "quote": "don't sweat the small stuff control the controllables don't sweat all the other in life if you can't control it don't worry about it",
+          "summary_en": "Control what you can control and refuse to waste energy worrying about things outside your control.",
+          "summary_zh": "专注掌控自己能控制的事，不为无力改变之事内耗",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Austin Stem Cell Company Owner",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Owner of a Stem Cell Medical Company",
+      "wealth_detail": "$4M+/yr company revenue (personal income undisclosed)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "毕业后不要只坐等机会，要敢于冒险并全力投入竞争；记住人们只会向喜欢的人买单，同时专注掌控可控之事，不为不可控的琐事焦虑。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "the whole time I always had something on the side I always had some form of entrepreneurial mindset no matter what I do",
+          "summary_en": "Maintain an entrepreneurial side hustle alongside your main career to build additional income streams.",
+          "summary_zh": "工作之余坚持发展副业，始终保持创业者思维",
+          "timestamp_sec": 371,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I'd buy a house at one military base I had to change Duty stations and I'd buy another house and I'd rent it out... acquire several houses",
+          "summary_en": "Buy properties when relocating, rent them out or flip them, and build a real estate portfolio over time.",
+          "summary_zh": "把握驻地或工作机遇买房出租，滚动积累房产",
+          "timestamp_sec": 380,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build & Execute a Strategic Plan",
+          "category": "Business & Strategy",
+          "quote": "you can't just wake up and go with the flow or do whatever you normally do you have to have a plan live strategically",
+          "summary_en": "Stop drifting day to day and live by a deliberate, strategic plan.",
+          "summary_zh": "不要随波逐流，要制定清晰的战略规划并执行",
+          "timestamp_sec": 433,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "find something that's broken and find a solution to fix it or recreate something that's already working well... add your own spin and your own knowledge and twist to it",
+          "summary_en": "Create value either by fixing something that is broken or by replicating a proven model with your own unique spin.",
+          "summary_zh": "要么发现痛点并解决，要么复制成熟模式并创新",
+          "timestamp_sec": 444,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在军旅服役期间每到一个驻地就购置房产并在调任后出租，逐步积累多处房产与翻新转卖经验，退役后进入咨询和项目管理领域并同步开展副业。",
+      "guest_name": "Military Veteran Consultant & Real Estate Investor",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Consultant, Project Manager & Real Estate Investor",
+      "wealth_detail": "$500,000-$600,000/yr (highest single-year income); owns 4 properties",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "不要每天随波逐流，必须制定战略规划；主动去创造产品或内容，寻找市场痛点并解决，或者复制已有成功模式并融入自己的特色。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I can't work for someone I can't be like in this environment where I'm like told what to do... so I just kind of took the risk and jumped",
+          "summary_en": "Take the leap into entrepreneurship early if you know working for someone else is not for you.",
+          "summary_zh": "不愿受雇于人就趁早果断跳出舒适圈去创业",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "leverage real estate... get your hands on like an asset like that I think that's probably one of the most important things to do at an early age because it'll just keep on appreciating over time",
+          "summary_en": "Use leverage or family help to acquire real estate early so it appreciates, builds credit, and backs you up even if a business fails.",
+          "summary_zh": "趁年轻尽早加杠杆购置房产，兼具增值与抗风险",
+          "timestamp_sec": 525,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Reverse-Engineer From Your End Goal",
+          "category": "Business & Strategy",
+          "quote": "have a plan and think about like where you want to end up and just work backwards from there",
+          "summary_en": "Define your end goal first and work backward to map out every required trade, skill, and step.",
+          "summary_zh": "先明确终极目标，再倒推拆解实现路径与资源",
+          "timestamp_sec": 542,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21岁在德州农工大学就读建筑科学并完成实习后，意识到自己无法长期为人打工，于是果断冒险投入自己创办的垃圾清理公司，逐步扩展为拆除和土地清理企业。",
+      "guest_name": "28-Year-Old Demolition & Land Clearing Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Founder of Junk Removal, Demolition & Land Clearing Businesses",
+      "wealth_detail": "~$650,000/yr (highest single-year income; up to $75,000/month)",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "趁年轻尽早通过信用额度或家人支持购置第一套房产作为保底增值资产；同时确立终极目标并采取逆向思维倒推，理清实现目标所需的每一步资源与人才。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "invest my training officer when I first came on advised me to not only just depend on the pension but invest in diversity... so you have two little buckets that you can pull out when you get older",
+          "summary_en": "Don't rely solely on a pension; diversify early into investments and deferred compensation plans so you have multiple buckets for retirement.",
+          "summary_zh": "别只依赖单一养老金，尽早进行多元化投资储蓄",
+          "timestamp_sec": 583,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在洛杉矶警察局（LAPD）服役约30年，并通过承接名人婚礼安保等工作，单年最高收入突破30万美元。",
+      "guest_name": "30-Year LAPD Veteran & Celebrity Wedding Security Specialist",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "LAPD Training Officer (mentor)"
+      ],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "LAPD Police Officer (30 Years) & Celebrity Wedding Security",
+      "wealth_detail": "$300,000+/yr (highest single-year income)",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "不要只指望单一的退休金，从入行开始就要把部分收入做多元化投资并参与递延薪酬计划，为未来建立多个资金储备池。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Develop Technical Problem-Solving Foundations",
+          "category": "Actionable Skills & Habits",
+          "quote": "the best decision in my lifetime was to major in engineering because you know even though you have an engineering degree you can just do so many other things... it teaches you a lot about problem solving",
+          "summary_en": "Major in engineering or a rigorous technical field to build problem-solving skills that open doors across many high-paying industries.",
+          "summary_zh": "学习工程类专业培养解决问题能力，拓宽职业选择",
+          "timestamp_sec": 635,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学主修电气工程后进入网络安全与隐私保护领域，单年最高收入达到40万美元。",
+      "guest_name": "Cybersecurity & Privacy Professional (Electrical Engineering Graduate)",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Cybersecurity & Privacy Professional",
+      "wealth_detail": "$400,000/yr (highest single-year income)",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "选择主修工程等能锻炼扎实解决问题能力的专业，即便日后不直接从事工程岗位，也能借此进入更多高潜力行业。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "1m7ERHu13sc",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,95 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "you also need to be physically fit you have to treat your body as it is a machine",
+          "summary_en": "Learn martial arts for self-defense and stay physically fit by treating your body like a machine.",
+          "summary_zh": "学习格斗防身并保持体魄，像机器一样保养身体",
+          "timestamp_sec": 33,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "so many people out there are stuck into the preparation mode because they are scared shitless to actually take that first step",
+          "summary_en": "Preparation means nothing without action; stop staying stuck in prep mode and take the first step.",
+          "summary_zh": "别只停留在准备阶段，要克服恐惧迈出第一步",
+          "timestamp_sec": 103,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I was scared shitless every single time but I did it to prove to myself that I had what it takes to face my opponents to face my fears",
+          "summary_en": "Build courage by stepping into hard situations despite fear to prove to yourself you can handle them.",
+          "summary_zh": "主动迎接挑战直面恐惧，在实战中建立自信",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "put him in martial arts because all the good coaches out there are mentors",
+          "summary_en": "Online advice isn't enough; seek real-world mentors such as experienced martial arts coaches.",
+          "summary_zh": "别只看线上内容，要在现实中寻找真正的好导师",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prepare Early to Provide",
+          "category": "Wealth & Investing",
+          "quote": "you don't want to wait until you have a family in order to become a provider you need to start way before the family ever gets into the picture",
+          "summary_en": "Develop the ability to earn and provide financially well before you start a family.",
+          "summary_zh": "成家前就要及早培养赚钱养家的能力与责任感",
+          "timestamp_sec": 256,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Practice Emotional Self-Mastery",
+          "category": "Mindset & Resilience",
+          "quote": "you only control three things in life your emotions your actions and your reactions",
+          "summary_en": "Practice stoic temperance and self-mastery by focusing only on your emotions, actions, and reactions.",
+          "summary_zh": "修习节制与自控，只掌控情绪、行动与反应",
+          "timestamp_sec": 315,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "faith in yourself faith in something bigger than yourself",
+          "summary_en": "Cultivate faith in yourself and a higher force to stay grounded and achieve your goals.",
+          "summary_zh": "培养对自我和更高力量的信念，坚信终将有所成",
+          "timestamp_sec": 394,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Nico Lagan",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Self-Defense & Martial Arts",
+        "Physical Fitness",
+        "Emotional Self-Control"
+      ],
+      "role_or_title": "Martial Arts Coach & Men's Mentor / Content Creator",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻男性应掌握五项核心能力：学习格斗防身并保持体魄、克服恐惧迈出行动第一步、在现实中寻找良师（如武术教练）、成家前及早培养养家能力、修习情绪与言行自控（节制），以及保持对自我和更高力量的信念。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "e38FC689mXA",
+  "video_type": "deep_dive_single"
+}

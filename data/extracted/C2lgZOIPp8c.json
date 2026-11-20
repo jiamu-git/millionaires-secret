@@ -1,0 +1,423 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "being able to take my expertise of people and being able to hang out with people that are 10 years or 20 years older than me",
+          "summary_en": "Use people skills to build relationships with mentors and peers 10 to 20 years older than you.",
+          "summary_zh": "主动结交年长10到20岁的优秀前辈",
+          "timestamp_sec": 37,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "once you hit that seven figure Mark you can't... really training people building a team... build that trust with your team",
+          "summary_en": "Breaking from six to seven figures requires leadership, training people, patience, and building team trust for client fulfillment.",
+          "summary_zh": "突破七位数须靠领导力、育人与团队信任",
+          "timestamp_sec": 65,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "偶然创办社交媒体代理机构，凭借一贯的拼劲、擅长与人打交道以及主动结交比自己年长10到20岁的人脉起家，实现连年增长并在去年达到300万美元营收。",
+      "guest_name": "Orlando Social Media Agency Founder",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Social Media Agency",
+      "wealth_detail": "$3M single-year agency revenue (targeting $5M)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Know Your Market Before Building Tech",
+          "category": "Business & Strategy",
+          "quote": "know the marketplace that you plan to sell it to better than you know the technology because anyone can build technology but if you don't know how to sell it you're not going to be able to make any money",
+          "summary_en": "Understand the target marketplace better than the technology itself, because building tech without knowing how to sell it won't make money.",
+          "summary_zh": "做软件必须先懂目标市场与销售而非只懂技术",
+          "timestamp_sec": 107,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "do a lot of research before you approach a customer and you got to believe in what you're selling... let's set that appointment right now",
+          "summary_en": "Research prospects thoroughly, truly believe in your product, be diplomatic yet direct, and book the next meeting before ending the call or meeting.",
+          "summary_zh": "深研客户、笃信产品、直接沟通并当场约下次",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "you have to own either equity in a business or start a business... if you don't have Equity you don't have wealth",
+          "summary_en": "True wealth requires starting a business or owning equity in one rather than working solely for pay.",
+          "summary_zh": "想致富必须自己创业或持有公司股权",
+          "timestamp_sec": 164,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "when you're young go work for some young companies that are willing to give you some equity and then give them everything you've got",
+          "summary_en": "When young, join early-stage companies willing to grant sweat equity and give them everything you have.",
+          "summary_zh": "年轻时加入肯给股权的早期公司并全力以赴",
+          "timestamp_sec": 174,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "apply to AI find something very simple think of it as a utility that can be fully automated by Ai and then licenses",
+          "summary_en": "Focus on AI by finding a simple utility workflow that can be fully automated with AI and licensing it.",
+          "summary_zh": "押注AI，寻找能被AI完全自动化的简单工具并授权",
+          "timestamp_sec": 193,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "凭借自身积累的技能与价值创造，先后两次通过“汗水股权（Sweat Equity）”成为科技公司合伙人，现任酒店与旅游业软件平台Frontline Performance Group首席执行官。",
+      "guest_name": "Frontline Performance Group CEO",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [
+        "Best salesperson he ever met (lock in next appointment on the spot)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "CEO & Partner, Frontline Performance Group",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时去愿意给股权的初创公司全力以赴；做软件要先把目标市场与销售搞透，而不只是埋头写技术。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Nightlife Promoter Career Traps",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "don't become a nightclub promoter... that's what I did for 10 years",
+          "summary_en": "Regrets spending 10 years as a nightclub promoter and warns his 20-year-old self against taking that path.",
+          "summary_zh": "告诫20岁的自己千万别去做夜店推广人",
+          "timestamp_sec": 203,
+          "type": "regret"
+        }
+      ],
+      "first_money_or_break": "曾做了10年夜店推广人，如今已转型进入人道主义领域并运营一家非营利组织。",
+      "guest_name": "Orlando Humanitarian Non-Profit Director",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Non-Profit Leader (Former Nightclub Promoter)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "we worked incredibly hard... we worked a hundred hours a week",
+          "summary_en": "Put in relentless hours—such as 100-hour weeks—rather than losing drive to distractions like video games and movies.",
+          "summary_zh": "创业要极度拼搏，每周工作100小时",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Orlando 100-Hour-Week Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Entrepreneur",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "创业必须具备每周工作100小时的极致拼搏精神与决心。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Demonstrate Consistent Business Growth",
+          "category": "Business & Strategy",
+          "quote": "show growth you know you have to grow even if you're a little bit nobody wants to invest in a shrinking business",
+          "summary_en": "Ensure your business shows consistent growth, even modestly, because nobody wants to invest in a shrinking company.",
+          "summary_zh": "企业哪怕增长微弱也要持续增长以吸引投资",
+          "timestamp_sec": 280,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Sweat the Small Details for Excellence",
+          "category": "Business & Strategy",
+          "quote": "Excellence is very is a lot of small things done well... you don't trip over mountains we trip over mole Hills",
+          "summary_en": "Excellence comes from doing many small things well; businesses fail over overlooked small details rather than huge obstacles.",
+          "summary_zh": "卓越源于把无数小事做好，细节决定成败",
+          "timestamp_sec": 298,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "people are your greatest asset and your greatest liability good people will build all around you will make you better and a few bad people will destroy your business",
+          "summary_en": "People are both your greatest asset and greatest liability; retaining long-tenured good staff builds your company while bad hires destroy it.",
+          "summary_zh": "人是最大资产也是隐患，留住资深优秀人才",
+          "timestamp_sec": 310,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you have to be what I would call the uncommon man now you don't want to be weird... people have to respect you first",
+          "summary_en": "Stand out as an uncommon, memorable professional without being weird, because buyers must respect you first.",
+          "summary_zh": "销售要先做到与众不同又不怪异，赢得尊重",
+          "timestamp_sec": 320,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "follow your passion your passion is always right that will guide you more than school will anybody's opinions will",
+          "summary_en": "Trust and follow your passion and gut instincts over schooling or other people's opinions.",
+          "summary_zh": "追随内心热爱与直觉，比学校和他人意见更准",
+          "timestamp_sec": 341,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在学术界完成整个职业生涯后转入商界，创立面向保险代理人、保险公司和理赔员的专业教育认证机构（类似保险业的CPA项目），现已发展出五个项目。",
+      "guest_name": "National Alliance for Insurance Education Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Sales & Persuasion",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Insurance Education & Risk Management Organization",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "you need to know that you know more about your business than anybody else does because people will try to tell you what they think you should do",
+          "summary_en": "Recognize that you know your own business best and don't let outsiders dictate how you run it.",
+          "summary_zh": "坚信自己比任何外人都更了解自己的生意",
+          "timestamp_sec": 366,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "stack your knowledge you can always learn more and you can always learn from other people... it's okay to ask for help",
+          "summary_en": "Continuously stack knowledge from others and real-world experiences, and never hesitate to ask for help to break plateaus.",
+          "summary_zh": "不断叠加知识并勇于求助，从经历中学习突破瓶颈",
+          "timestamp_sec": 376,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "最初攻读并从事运动与运动科学领域，随后转型为涵盖体能、营养与人生目标的生命协调教练（Life Alignment Coach）。",
+      "guest_name": "Orlando Life Alignment Coach",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Life Alignment Coach (Former Sport & Exercise Science)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "you never spend what you don't have to get what you don't need so you don't risk a lot of money",
+          "summary_en": "Never spend money you don't have on things you don't need so you keep downside risk low.",
+          "summary_zh": "绝不花没有的钱去买不需要的东西，控制风险",
+          "timestamp_sec": 462,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "one of the rules is don't over leverage don't get yourself backed up and then you can't make decisions if you have Financial stress",
+          "summary_en": "Never over-leverage yourself into financial stress where you lose the freedom to make sound business decisions.",
+          "summary_zh": "切忌过度加杠杆，财务承压会让你丧失决策空间",
+          "timestamp_sec": 474,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "study successful people that are in the same Market you're around or the same Avenue you're in and learn what they do and try to emulate them",
+          "summary_en": "Study successful operators in your specific market and emulate what they did to succeed.",
+          "summary_zh": "研究并效仿同市场成功人士的成功路径",
+          "timestamp_sec": 485,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "start in the bottom and work yourself up step by step by step it's a two-point game... there's no fast way to this",
+          "summary_en": "There are no shortcuts to wealth; start at the bottom and grind step by step like scoring two-pointers instead of chasing three-pointers.",
+          "summary_zh": "致富没有捷径，要从底层一步一个脚印稳扎稳打",
+          "timestamp_sec": 497,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "大学后服完兵役进入房地产行业，将其作为立足工具从底层一步步做起，在犯错与磨砺中持续扩张，在同一行业深耕50年，如今在Winter Park拥有大量商业地产并管理4.5万套公寓。",
+      "guest_name": "Winter Park Commercial Real Estate Mogul (Trey's Grandfather)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Successful operators in the same local market (emulate them)"
+      ],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Commercial Real Estate Owner & Apartment Management Executive (45,000 Units)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "从底层做起，研究并效仿同市场成功者的做法；量入为出、绝不过度加杠杆，一步一个脚印稳健积累，不要幻想速成。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "let people know that you're new but don't be scared to either get back to that client... hire a mentor get a coach for yourself",
+          "summary_en": "When starting out, be upfront about being new, follow up diligently on questions you don't know, and hire a mentor or coach.",
+          "summary_zh": "新人坦诚不懂并及时回复，同时请导师教练带路",
+          "timestamp_sec": 571,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "providing high quality service to the clients... which is going to ultimately build a referral basis",
+          "summary_en": "Deliver exceptional service to existing clients so happy clients generate referrals and free your time to build relationships.",
+          "summary_zh": "提供极致客户服务以建立转介绍口碑，节省获客时间",
+          "timestamp_sec": 595,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "近两年进入商业地产与投资领域并带领约40名经纪人的商业地产团队，通过长期服务持有酒店资产的客户完成1150万美元的最大交易，月收入最高曾达7.5万美元，目前已拓展至高端住宅与高尔夫社区板块。",
+      "guest_name": "Orlando Commercial & Luxury Real Estate Specialist",
+      "industry": "Real Estate",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Mentor / Coach (hire one to accelerate in commercial real estate)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Commercial & High-End Residential Real Estate Specialist / Team Lead",
+      "wealth_detail": "$75,000/month (peak months); $11.5M biggest real estate deal",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "入行商业地产时不要怕向客户坦白自己是新人，遇到不懂的问题先记下来再回访解答，并善用资源请导师或教练指导。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I think AI is number one number two I think being a Creator content creator it's building a personal brand... and number three is always going to be real estate",
+          "summary_en": "The top three industries to enter are AI, content creation/personal branding, and real estate.",
+          "summary_zh": "当下三大风口行业是AI、个人品牌自媒体和房地产",
+          "timestamp_sec": 628,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Lose Your Ego & Stay Humble",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "lose your ego a lot of content creators start making money... and they become egotistical... I see a lot of people's demise happening from ego",
+          "summary_en": "Drop your ego as your audience and income grow, because arrogance alienates followers, breeds laziness, and ruins opportunities.",
+          "summary_zh": "戒除自我膨胀，傲慢会让创作者失去受众与机会",
+          "timestamp_sec": 647,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "the last one is brand deals... the first one is probably affiliate marketing... create something for yourself instead of just always focusing on like hopefully I get a deal",
+          "summary_en": "Once you capture attention, monetize via affiliate marketing and your own courses, services, or merch rather than relying solely on brand deals.",
+          "summary_zh": "先做分销或自有产品课程服务变现，别只等品牌合作",
+          "timestamp_sec": 678,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Leverage AI to Systemize & Scale",
+          "category": "Business & Strategy",
+          "quote": "use AI to facilitate and systemize and make your job easier think of it as like an assistant... simplify the time the system and the effort and focus on getting more clients",
+          "summary_en": "Treat AI as an assistant to systemize operations and speed up service delivery, freeing your time to acquire more clients.",
+          "summary_zh": "用AI作助手简化流程、提升效率并腾出时间获客",
+          "timestamp_sec": 731,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Orlando Serial Entrepreneur & Creator/AI Advisor",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Serial Entrepreneur (Claims 900 Businesses Owned)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "C2lgZOIPp8c",
+  "video_type": "street_multi"
+}

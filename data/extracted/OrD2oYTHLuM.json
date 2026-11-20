@@ -1,0 +1,272 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Preparation & Strategic Planning",
+          "category": "Business & Strategy",
+          "quote": "Proper planning prevents a piss-poor performance... Always stay ready so you ain't got to get ready.",
+          "summary_en": "Plan ahead rigorously and stay prepared before opportunities or bills arrive.",
+          "summary_zh": "提前周密规划，时刻做好准备避免被动应付",
+          "timestamp_sec": 209,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "That's why you got to be around the right people and not be afraid to get a mentor and a coach because they're not going to teach this in school.",
+          "summary_en": "Seek out mentors and coaches because real-world business lessons aren't taught in school.",
+          "summary_zh": "主动寻找导师与教练，学习学校不教的实战经验",
+          "timestamp_sec": 240,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I will beat IQ any day. I have done more with the willpower of Stormy than the IQ of Stormy... Believe in the power of you.",
+          "summary_en": "Relentless willpower and self-belief outperform raw IQ or formal schooling.",
+          "summary_zh": "强大的意志力和自信比高智商或学历更能决定成就",
+          "timestamp_sec": 259,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be around people that fortify your willpower.",
+          "summary_en": "Surround yourself with people who strengthen your drive and willpower.",
+          "summary_zh": "结交能够强化你意志力和斗志的同频之人",
+          "timestamp_sec": 272,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I started my first business that made me who I am today with $300... you don't need a ton of capital. You just need to take action.",
+          "summary_en": "You don't need large capital to start a business; start lean and take action immediately.",
+          "summary_zh": "创业不需要巨额启动资金，小本钱即可立刻行动",
+          "timestamp_sec": 282,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I read the Bible every day and so now I know that God is within me.",
+          "summary_en": "Ground yourself in daily spiritual faith and inner conviction.",
+          "summary_zh": "保持每日信仰与精神修养，汲取内在力量",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Embrace Change & Live Fully",
+          "category": "Mindset & Resilience",
+          "quote": "Live full, die empty. Nothing is permanent. Be okay with things changing.",
+          "summary_en": "Accept that nothing is permanent, embrace change without overreacting, and live fully.",
+          "summary_zh": "接纳世事无常与变化，活出丰盛不留遗憾的人生",
+          "timestamp_sec": 355,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "13岁开始创业，在贫困和寄养家庭环境中靠300美元启动第一个生意，29岁赚到第一个100万美元。",
+      "guest_name": "Stormy (Miami Rolls-Royce Entrepreneur)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "E Class (owner of Finger Lickin)",
+        "The Bible"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Business Owner / Entrepreneur",
+      "wealth_detail": "$10M peak single-year income; first million at age 29",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不需要很多资金，用几百美元马上行动，做好提前规划并找导师和积极圈子强化意志力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "My best negotiation advice is never act desperate. Never act like you want what you want. I've walked away so many times and came back a year later when they called me.",
+          "summary_en": "Never appear desperate in negotiations; be willing to walk away so leverage shifts to you.",
+          "summary_zh": "谈判时绝不显露急切，敢于转身离开才能掌握主动权",
+          "timestamp_sec": 550,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I think they quit before they hit success... rather than tying a knot at the end of the rope and holding on.",
+          "summary_en": "Most businesses fail because owners quit right before success; hold on and outwork the tough times.",
+          "summary_zh": "多数人失败是因在成功前夕放弃，咬牙坚持才能熬出头",
+          "timestamp_sec": 624,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Think Before Reacting Under Uncertainty",
+          "category": "Business & Strategy",
+          "quote": "When you don't know what to do, do nothing. So many people react to situations and my rule is if I don't know what to do, I take my time.",
+          "summary_en": "Avoid reactive, desperate leadership decisions; pause and think thoroughly when uncertain.",
+          "summary_zh": "遇到未知局面先按兵不动，深思熟虑后再做决策",
+          "timestamp_sec": 664,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I do the hardest things first... What everybody else is procrastinating, I'm going to do before everybody else... Massive action. It's the only thing I believe in.",
+          "summary_en": "Tackle the hardest tasks before others stop procrastinating and execute with massive action.",
+          "summary_zh": "优先处理最难的事，趁他人拖延之际采取大规模行动",
+          "timestamp_sec": 673,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Save money. Stop wasting money on the fancy shoes. I didn't buy all the fancy shoes. I didn't buy the cars... We did not ever even buy a house until we could afford to have that same amount of money in the bank.",
+          "summary_en": "Delay luxury spending and save aggressively until you have matching cash reserves in the bank.",
+          "summary_zh": "克制奢侈消费、坚持存钱，直到存款远超资产价格再买",
+          "timestamp_sec": 722,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Invest in Yourself & Your Dreams",
+          "category": "Business & Strategy",
+          "quote": "You can save and invest in yourself. Invest in your dreams. If you have a dream, go for it. But you got to put blood, sweat, and equity into that.",
+          "summary_en": "Reinvest your savings into yourself and your dreams backed by relentless sweat equity.",
+          "summary_zh": "用攒下的钱投资自己和梦想，并倾注全部心血汗水",
+          "timestamp_sec": 731,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Don't Buy Assets You Can't Afford",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't buy something that you can't afford to pay for. It's going to cause you to sweat. There's no reason to go house broke.",
+          "summary_en": "Avoid buying expensive assets like yachts or houses before your income comfortably supports them.",
+          "summary_zh": "别买超出承受力的昂贵资产，以免陷入现金流焦虑",
+          "timestamp_sec": 761,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Live Life Fully Now",
+          "category": "Mindset & Resilience",
+          "quote": "Live your best life. Life is short. It is precious. It's later than you think. Most people are alive, but they don't really live.",
+          "summary_en": "Remember time is finite and don't wait until it's too late to truly live your life.",
+          "summary_zh": "人生苦短且时间有限，别等到太晚才去真正享受生活",
+          "timestamp_sec": 778,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1992年互联网尚未普及前与丈夫共同创立Market America，在没钱备货时亲自敲门推销并布局线上购物趋势，前两年营收即达1亿美元。",
+      "guest_name": "Lauren (Market America Owner)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Owner / Co-Founder of Market America",
+      "wealth_detail": "$50M yacht; company revenue close to $1B/year ($100M in first 2 years)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "先存钱并克制炫耀性消费，把资金和汗水投入自己与梦想中，同时靠果断大规模行动和绝不放弃的精神熬过艰难期。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Your network is really your net worth. And in college I met like the smartest computer scientists out there aka future engineers that I was going to hire.",
+          "summary_en": "Build friendships with the smartest peers early, especially in college, as they become future co-founders, hires, and investors.",
+          "summary_zh": "人脉即净值，趁大学结交顶尖人才作未来合伙人与员工",
+          "timestamp_sec": 943,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "You should always double down on what works... time is best spent adding fuel to the fire.",
+          "summary_en": "Once you find a working market like self-driving data, double down and pour resources into it instead of chasing new ideas.",
+          "summary_zh": "找到有效赛道后加倍下注、乘胜追击，切勿浅尝辄止",
+          "timestamp_sec": 983,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Why would you leave your high-paying job to go start a company that has a 99.9% chance of failure? But in order to be a billionaire you have to go do that and take that risk.",
+          "summary_en": "Be irrational enough to leave safe high-paying jobs, take huge asymmetric risks, and hold relentless self-belief.",
+          "summary_zh": "敢于放弃高薪稳定工作，以近乎疯狂的信念承担高风险",
+          "timestamp_sec": 1012,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Seek Happiness in Material Possessions",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I think a lot of billionaires try to find happiness through material possessions... that's not really like fulfilling as a life.",
+          "summary_en": "Don't chase fulfillment through material possessions or using wealth to impress people; focus on genuine connection.",
+          "summary_zh": "不要试图靠物质占有或炫富讨好他人来获取人生满足感",
+          "timestamp_sec": 1043,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "There's so many untouched industries that can be made a thousand times more efficient with AI. And when you can change the P&L of a business, you have a unicorn.",
+          "summary_en": "Target traditional untouched industries where AI can dramatically improve efficiency and transform the business P&L.",
+          "summary_zh": "切入尚未被AI改造的传统行业，用技术彻底重塑企业利润表",
+          "timestamp_sec": 1085,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Who you hire is really how you build a unicorn company.",
+          "summary_en": "Recruiting top-tier talent is the decisive factor in scaling a unicorn company.",
+          "summary_zh": "招到最顶尖的人才，才是打造独角兽公司的核心关键",
+          "timestamp_sec": 1121,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "亚裔移民家庭出身，幼儿园起在操场赚钱、二年级开始网上赚钱；从卡内基梅隆大学退学获10万美元蒂尔奖学金后联合创办AI数据标注公司，早期拿下自动驾驶客户实现高速增长，后将49%股权以约250亿至260亿美元估值售予Meta。",
+      "guest_name": "Lucy Guo",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Technical / Engineering",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "AI Data Labeling Company Co-Founder (World's Youngest Self-Made Female Billionaire)",
+      "wealth_detail": "Meta bought 49% of company for $25B-$26B",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "趁年轻和在大学期间尽可能结交最聪明的人脉，借助当下AI工具低门槛把产品感与营销能力转化为改变传统行业利润表的创业公司。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "OrD2oYTHLuM",
+  "video_type": "street_multi"
+}

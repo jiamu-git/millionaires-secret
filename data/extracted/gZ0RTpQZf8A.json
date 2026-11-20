@@ -1,0 +1,253 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I was bankrupt twice, sued 24 times... the genius thing I [did] is never quit",
+          "summary_en": "Never quit even after going bankrupt twice and facing 24 lawsuits.",
+          "summary_zh": "永不放弃，经历破产与官司仍坚持到底",
+          "timestamp_sec": 109,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "is it the most important thing... I've had bad experiences with partners... have complete ownership, personally yes",
+          "summary_en": "Vet business partners carefully or maintain full ownership after bad experiences.",
+          "summary_zh": "慎选商业合伙人，最好保持完全控股",
+          "timestamp_sec": 149,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "most people are scared of losing money for me it's just money it's like so what just money let's make more of it",
+          "summary_en": "Do not fear losing money or failing; stay aggressive and focus on making more.",
+          "summary_zh": "不怕赔钱与失败，将其视为常态并勇于进攻",
+          "timestamp_sec": 158,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "my first year I was rejected 617 times... every no is one step closer... that's the best lesson I've ever had",
+          "summary_en": "Treat every rejection as one step closer to success and the best lesson available.",
+          "summary_zh": "把每一次拒绝当作成功阶梯与最佳课程",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "train your mind harder than your body never accept someone else limitation",
+          "summary_en": "Train your mind harder than your body and refuse to accept others' limitations.",
+          "summary_zh": "锤炼强大心智，永不接受别人的设限",
+          "timestamp_sec": 198,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "become obsessed never become satisfied",
+          "summary_en": "Stay obsessed with your mission and never become complacent.",
+          "summary_zh": "对目标保持痴迷，永不轻易满足",
+          "timestamp_sec": 210,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身中产工薪家庭，早年两次破产、被起诉24次、因合伙人问题背负180万至400万美元债务，创业第一年被拒绝617次仍绝不放弃，最终拥有全球最大水上乐园并实现单年八位数收入。",
+      "guest_name": "Dubai World's Largest Water Park Owner ('Aquaman')",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Owner of the world's largest water park",
+      "wealth_detail": "Eight figures in a single year (stated by host); previously $1.8M–$4M in debt",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "whatever you want you can have it as long as you're willing to bleed for what you're asking",
+          "summary_en": "You can achieve anything you want if you are willing to bleed and pay the price for it.",
+          "summary_zh": "想拥有梦想生活，必须愿为目标流血并付出代价",
+          "timestamp_sec": 298,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I'm willing to lock myself in go monk mode don't see friends for 6 months don't be with no chicks",
+          "summary_en": "Sacrifice short-term social distractions and enter monk mode to become your future self.",
+          "summary_zh": "戒除社交诱惑进入闭关状态，聚焦未来蜕变",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "if you don't want any haters then becoming successful is not for you... there's no better feeling than proving the ones wrong that doubted you",
+          "summary_en": "Accept haters as part of success and use doubters' skepticism to fuel your drive.",
+          "summary_zh": "无视质疑与黑粉，把看轻转化为证明自己的动力",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创立时尚品牌Ion，创业六年期间忍受外界与亲友质疑并闭关苦干，今年单年营收/收入达到3000万美元，并用60万美元现金购入劳斯莱斯。",
+      "guest_name": "Ion Fashion Brand Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Founder of fashion brand Ion",
+      "wealth_detail": "$30M in a single year (this year); bought $600k Rolls-Royce in cash",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "music was my first foray into any kind of success, you know, I was obsessed with music as a kid",
+          "summary_en": "Use deep childhood obsession with your craft as the springboard for your first breakthrough.",
+          "summary_zh": "从小对所选领域保持痴迷，以此开启事业突破",
+          "timestamp_sec": 509,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "everybody washes their car... even during the pandemic people were washing their cars... it's been recession proof",
+          "summary_en": "Build everyday essential cash-flow businesses like car washes that stay resilient in recessions and pandemics.",
+          "summary_zh": "投资洗车店等刚需现金流生意，穿越经济周期",
+          "timestamp_sec": 535,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "essentially you're owning a piece of land... just being real estate you know as time progresses it just appreciates in value",
+          "summary_en": "Operate businesses on land you own so the underlying real estate appreciates over time.",
+          "summary_zh": "结合实体生意持有土地房产，享受长期资产增值",
+          "timestamp_sec": 557,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "we pay attention to details so every customer experience we treat it like it's our last chance at having that customer",
+          "summary_en": "Outperform competitors through meticulous attention to detail and treating every customer as vital.",
+          "summary_zh": "注重细节并提供极致客户体验，建立竞争壁垒",
+          "timestamp_sec": 567,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I always have somebody else make the offer first... you cannot be desperate... coming from a position of power is always the better route",
+          "summary_en": "Let the other side make the first offer, counter higher, and pause rather than appearing desperate.",
+          "summary_zh": "谈判时让对方先出价，保持从容不显急迫",
+          "timestamp_sec": 603,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "what you're not changing you're choosing... if you don't feel like you have enough money and you're not trying to change that you're choosing to be broke",
+          "summary_en": "Take action to change any circumstance you dislike, because inaction is choosing to stay broke.",
+          "summary_zh": "不去改变的现状就是你的选择，想变富必须行动",
+          "timestamp_sec": 672,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从小痴迷音乐并借此获得人生首次成功，随后跨界创业，目前已拥有13家公司及约65家洗车店，单年最高收入达3000万美元。",
+      "guest_name": "Jason Derulo",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Musician & Entrepreneur (Owner of 13 businesses and ~65 car washes)",
+      "wealth_detail": "$30M in a single year; hundreds of millions over career (host-stated); owns 13 businesses & ~65 car washes",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "对20岁从零开始的自己说：你不去改变的现状，就是你主动做出的选择；如果不满足于目前的收入或生活，就必须立刻行动去改变。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "if a bank says I'm only going to take 1% of your money for managing all your things that's not 1% of your money that's probably 95% of your income that you would have had in your lifetime",
+          "summary_en": "Recognize how seemingly small bank management fees and taxes silently wipe out most lifetime wealth.",
+          "summary_zh": "警惕银行管理费与高税率对长期财富的隐形吞噬",
+          "timestamp_sec": 719,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "you would have 96% less... because they took away your compounding effect... the compounding comes with the growing base",
+          "summary_en": "Protect your capital base because long-term compounding depends on an uninterrupted growing base.",
+          "summary_zh": "复利爆发靠持续扩大的本金，避免中途损耗基数",
+          "timestamp_sec": 764,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "negotiations are won by the people who don't need the deal who could just walk away... be diplomatic never be disrespectful but put yourself into their shoes after the deal",
+          "summary_en": "Win negotiations by being willing to walk away while staying diplomatic and framing your stance around the counterparty's post-deal interests.",
+          "summary_zh": "谈判胜在敢于离场，同时立足对方长远利益博弈",
+          "timestamp_sec": 804,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾创立并高价退出一家公司，单年最高收入达数亿美元。",
+      "guest_name": "Dubai Exited CEO (Hundreds of Millions in a Year)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "CEO & Entrepreneur (exited a company)",
+      "wealth_detail": "Hundreds of millions in a single year; exited a company",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "gZ0RTpQZf8A",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,193 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Hyper focus on intention and ignore distraction. Intention is anything that moves the needle in your favor.",
+          "summary_en": "Stay hyper-focused on actions that move the needle and ruthlessly ignore distractions.",
+          "summary_zh": "高度专注核心意图，屏蔽一切无关干扰",
+          "timestamp_sec": 158,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Middle-class people think the primary purpose of money is to maintain good credit so they can buy things they can't afford to impress people they don't know or like.",
+          "summary_en": "Avoid going into debt or buying status symbols to impress strangers.",
+          "summary_zh": "别为取悦他人而透支信用去买面子消费品",
+          "timestamp_sec": 194,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Rich people believe the primary purpose of money is to turn into more money... when I get a dollar I want to turn it into 10 or preferably 100.",
+          "summary_en": "Treat every dollar as capital meant to multiply rather than be spent.",
+          "summary_zh": "把钱当成资本滚雪球，追求十倍百倍增值",
+          "timestamp_sec": 202,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "You have to solve somebody else's problem in order to solve your money problem, and you can't be focused on your money problem when you're solving it.",
+          "summary_en": "Focus entirely on solving other people's problems and creating value; income follows.",
+          "summary_zh": "聚焦解决他人的真实痛点，金钱自然随之而来",
+          "timestamp_sec": 212,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I upgraded my lifestyle way too soon... if you can live off of 10% of your income, now you're in a place where the bottom can fall out and you're still going to be okay.",
+          "summary_en": "Resist upgrading your lifestyle too early; live on a small fraction of your income to stay resilient.",
+          "summary_zh": "切忌过早消费升级，只花收入的一成留足缓冲",
+          "timestamp_sec": 262,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Keep the expenses low even when the margins and the profits are high... you want to make sure that the business is sustained first.",
+          "summary_en": "Keep business overhead low even during high-margin periods and retain capital to sustain growth.",
+          "summary_zh": "高利润时仍要压低开支，优先留存资金养业务",
+          "timestamp_sec": 282,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "It's easier to create wealth in the economic era that you're living in... right now we are in the AI age.",
+          "summary_en": "Build in the defining industry of your current economic era, such as AI today.",
+          "summary_zh": "顺应当前AI时代浪潮，在风口行业创造财富",
+          "timestamp_sec": 306,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on Objectives Without Deadlines",
+          "category": "Mindset & Resilience",
+          "quote": "Have an objective for input, an objective for outcomes, but don't put a time limit on it so you're not feeling like a failure and quitting.",
+          "summary_en": "Set input and outcome objectives without arbitrary deadlines that breed discouragement and quitting.",
+          "summary_zh": "只设行动与结果目标，不设死线避免自我挫败",
+          "timestamp_sec": 359,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Income follows assets, so I stopped focusing on 8 hours work for 8 hours pay... how can I put more assets in my asset column.",
+          "summary_en": "Shift from trading time for wages to buying and building assets like books that pay you repeatedly.",
+          "summary_zh": "停止用时间换薪酬，转向购买和打造生息资产",
+          "timestamp_sec": 461,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "The most important thing I've ever invested in is my own mind to learn the things I don't know so I can do the things I couldn't do before.",
+          "summary_en": "Prioritize investing in your own mind and skills to unlock new capabilities.",
+          "summary_zh": "投资自身大脑是核心，持续学习掌握未知能力",
+          "timestamp_sec": 484,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "Mentorship is like the ultimate shortcut. Somebody's already spent their whole life figuring out how to do something and they charge you some money to teach you.",
+          "summary_en": "Pay for proven mentors to compress decades of trial and error into an actionable shortcut.",
+          "summary_zh": "花钱请教导师是最快捷径，直接吸收前人经验",
+          "timestamp_sec": 515,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You have to think a lot bigger and you have to learn to perceive the big things that are already there all around you.",
+          "summary_en": "Expand your mental ceiling and train yourself to recognize abundant opportunities around you.",
+          "summary_zh": "打破思维局限，学会看见并接纳更大的财富体量",
+          "timestamp_sec": 586,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You pay to be in the room, you buy your way into the room, and you get paid on the way out of the room.",
+          "summary_en": "Invest to get into high-level masterminds and rooms where wealthier peers recognize your value.",
+          "summary_zh": "花钱挤进高净值圈层，在顶级社群中获得回报",
+          "timestamp_sec": 747,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you want to get rich, sell to rich people... it takes no more energy to sell a million-dollar offer than it does to sell a $1,000 offer.",
+          "summary_en": "Sell high-ticket value offers upfront to affluent buyers who already want and can afford them.",
+          "summary_zh": "向有钱且有需求的人销售高客单价值方案",
+          "timestamp_sec": 805,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Prove to people that you can help them by actually helping them... people pay you long enough with their attention, they'll eventually pay you with their assets.",
+          "summary_en": "Consistently publish free helpful content to earn audience attention, which later converts into paying clients.",
+          "summary_zh": "持续免费输出高价值内容，用注意力换取变现",
+          "timestamp_sec": 948,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Live every day with gratitude in your heart... everything good in my life is a gift.",
+          "summary_en": "Stay grounded in gratitude, love the people around you, and serve as many people as possible.",
+          "summary_zh": "心怀感恩并服务大众，把每一天都当成礼物",
+          "timestamp_sec": 1051,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年曾做垃圾清运工（时薪6.25美元），16岁受父亲辞职单干启发立志创业；45岁赚到第一个百万美元，却因过早升级消费且遭遇家庭变故亏光；后通过重金跟随导师学习一对多舞台销售，并转向积累资产而非出卖时间，最终实现年入1500万美元。",
+      "guest_name": "Myron Golden",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Robert G. Allen (Multiple Streams of Income)",
+        "Daniel Priestley",
+        "Frank Kern (\"Frank K\")",
+        "Jerry (first stage-selling mentor)",
+        "The Bible"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Public Speaking & Communication",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Business Consultant, Author & Sales Trainer",
+      "wealth_detail": "$15M/yr; $5.5M in a single day",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "拒绝设定“90天暴富”类带死线的目标（避免未达预期引发挫败感而放弃），建议从专注解决他人真实痛点入手，用免费高价值内容获取注意力、向具备支付能力的高净值人群提供高客单方案，并花钱进入高水平圈层学习与链接。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "GCXhTFKVHkg",
+  "video_type": "deep_dive_single"
+}

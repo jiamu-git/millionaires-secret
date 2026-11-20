@@ -1,0 +1,170 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I see this train going past... if we start running now we might be able to catch the last car of that train because this is going to be the future.",
+          "summary_en": "Spot transformative industry shifts early and pivot to catch the emerging market wave.",
+          "summary_zh": "抓住时代大趋势与新兴市场风口",
+          "timestamp_sec": 119,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "It always helps to have something demonstrable and not just an idea. Ideas are really difficult to get funded.",
+          "summary_en": "Build a demonstrable product and prove early user adoption rather than pitching just an idea.",
+          "summary_zh": "先做可演示产品并验证真实需求",
+          "timestamp_sec": 216,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Partner With a Trustworthy Co-Founder",
+          "category": "Business & Strategy",
+          "quote": "Anybody who's looking for a good entrepreneurial work-life balance I would encourage them to partner with somebody... finding somebody you trust is critical.",
+          "summary_en": "Partner with a trustworthy co-founder who brings complementary skills and helps share the operational load.",
+          "summary_zh": "寻找可信赖且能力互补的合伙人",
+          "timestamp_sec": 375,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "The worst thing that can happen to me is I'll have to go get a job... if I didn't try it I would be always wondering why didn't I try.",
+          "summary_en": "Recognize that the worst-case downside is simply getting a job, and take the entrepreneurial leap without regret.",
+          "summary_zh": "看清最坏兜底后果后勇敢冒险一试",
+          "timestamp_sec": 450,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Hire Honest, Feedback-Receptive Teammates",
+          "category": "Business & Strategy",
+          "quote": "You have to work with honest people, you have to work with intelligent people, you have to work with people that can take constructive feedback.",
+          "summary_en": "Build your leadership team with honest, intelligent people who welcome constructive feedback and healthy debate.",
+          "summary_zh": "选诚实聪明且能接受批评的团队成员",
+          "timestamp_sec": 474,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Deals Against Your Gut Instinct",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't get involved with something you don't want to get involved in. My gut instinct was telling me from day one don't do it.",
+          "summary_en": "Trust your gut instinct and refuse to get talked into ventures or deals you do not genuinely want to pursue.",
+          "summary_zh": "违背直觉不想做的生意坚决不碰",
+          "timestamp_sec": 552,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "We were way more frugal with the decisions we made going forward and when we took the company public he and I owned 95 percent of the company.",
+          "summary_en": "Avoid unnecessary venture capital dilution and stay frugal so founders retain overwhelming equity ownership.",
+          "summary_zh": "不盲目融资以守住高比例公司股权",
+          "timestamp_sec": 613,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "Keep your expenses controlled. The problem with scaling is that expenses scale as well... one bad dip someplace can wipe out your whole business.",
+          "summary_en": "Keep expenses tightly controlled while scaling fast so a single downturn does not wipe out the company.",
+          "summary_zh": "扩张期务必严控成本谨防利润反噬",
+          "timestamp_sec": 624,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I started reading Into Thin Air and then it clicked for me what the problem was with my company... that book to me saved my company.",
+          "summary_en": "Read books across domains to gain mental models for diagnosing management bottlenecks and launching products.",
+          "summary_zh": "通过阅读精准解决企业管理与营销难题",
+          "timestamp_sec": 663,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "We changed our hiring practices across the company to hire above a level for the position... I need somebody who's already been up the mountain.",
+          "summary_en": "Hire leaders who have already operated at your future scale, and relieve early staff who hit their management ceiling.",
+          "summary_zh": "超前招聘高段位人才并及时调整职责",
+          "timestamp_sec": 761,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Money Buys Security, Not Infinite Happiness",
+          "category": "Wealth & Investing",
+          "quote": "At a certain level the champagne doesn't get any better... just making more and more money doesn't buy happiness.",
+          "summary_en": "Money buys happiness up to financial security and freedom, after which additional wealth yields diminishing returns.",
+          "summary_zh": "金钱在解决基本保障后难以换来更多快乐",
+          "timestamp_sec": 819,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I would tell myself to take care of my health better because I think that's the first and easiest thing to let go as an entrepreneur.",
+          "summary_en": "Protect your physical health and meaningful relationships instead of letting 60-70 hour workweeks cause burnout or divorce.",
+          "summary_zh": "切勿为事业拼命而忽略健康与家庭",
+          "timestamp_sec": 881,
+          "type": "regret"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Don't spend so much money once you finally make it; better yet would be get some really good financial advice once you finally do make good money.",
+          "summary_en": "Avoid overspending once wealth arrives and seek qualified financial advice early to manage newfound money.",
+          "summary_zh": "赚到钱后切忌乱花并尽早寻求理财建议",
+          "timestamp_sec": 893,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Procrastination is your worst enemy... if you're going to fail, fail fast. Get in there, try it, it didn't work, move on.",
+          "summary_en": "Stop waiting for the perfect idea—time is non-renewable, so start immediately, fail fast, and iterate.",
+          "summary_zh": "戒掉拖延立刻行动并快速试错迭代",
+          "timestamp_sec": 930,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "家境贫寒出身，年少自学编程，20岁出头辞职创业并靠最后1000美元积蓄和卖掉摩托车撑过起步期。先开发局域网安全审计软件拿下美联储及美国各大银行客户实现年入百万美元，后抓住互联网浪潮转型做网站流量营销分析，4年内做到1.2亿美元营收，1999年上市并最终以超10亿美元出售。",
+      "guest_name": "Glenn Boyd",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Into Thin Air",
+        "Crossing the Chasm"
+      ],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder of EG Software (Major Tech Company)",
+      "wealth_detail": "Sold tech company for over $1 billion; owned 95% with partner at 1999 IPO; grew to $120M in annual sales within 4 years",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "不要只停留在空想阶段，先做出可演示的产品原型并获取早期用户，用真实需求去吸引投资；同时克服拖延立刻行动，把最坏结果看作回去打工，勇敢试错、快速迭代，并在扩张期严控开支、守住股权。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "MQv7Te8VmYI",
+  "video_type": "deep_dive_single"
+}

@@ -1,0 +1,46 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I started reading Into Thin Air and then it clicked for me what the problem was with my company",
+          "summary_en": "Read books—even outside business—to gain frameworks that help diagnose and solve critical company problems.",
+          "summary_zh": "通过跨界阅读获取思维框架，解决公司成长危机",
+          "timestamp_sec": 26,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Manage Employee Capacity & Role Fit",
+          "category": "Business & Strategy",
+          "quote": "it was my responsibility to stop handing them balls and also in some cases take them down the mountain",
+          "summary_en": "During rapid growth, recognize each employee's capacity ceiling and take responsibility as a leader to stop overloading them or move them back to a manageable scope.",
+          "summary_zh": "识别快速扩张期员工的能力上限，及时减负或回调岗位",
+          "timestamp_sec": 80,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "High-Tech Company Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Into Thin Air"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder (High-Tech Company)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "8GgL-uvICKY",
+  "video_type": "deep_dive_single"
+}

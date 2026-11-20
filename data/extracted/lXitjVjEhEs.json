@@ -1,0 +1,319 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I was driven by the problem I was trying to solve... build wearable devices that millions of people understand and use to improve their health.",
+          "summary_en": "Start a business driven by a genuine problem you want to solve for millions of people.",
+          "summary_zh": "以解决真实痛点为创业驱动力",
+          "timestamp_sec": 131,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "The single trait that I found is the hardest trait in all of building business is courage... Can you say the hard thing? Can you do the hard thing?",
+          "summary_en": "Develop the courage as a leader to confront problems head-on and make hard decisions when things go wrong.",
+          "summary_zh": "培养直面危机与做艰难决定的勇气",
+          "timestamp_sec": 157,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Well, we certainly took it seriously when they came out with a product, but we also said we're going to win. In fact, we wrote on every circuit board, don't bother copying us. We will win.",
+          "summary_en": "Do not be intimidated by giant competitors; believe in your superior product and commit to winning.",
+          "summary_zh": "不被行业巨头吓倒，坚信凭借产品力必胜",
+          "timestamp_sec": 306,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I think you got to find something you love and be obsessed with it and chase it and chase it and chase it.",
+          "summary_en": "Find something you genuinely love and pursue it with relentless obsession.",
+          "summary_zh": "找到真正热爱的事物并极致痴迷地追逐",
+          "timestamp_sec": 317,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "No one is entitled to be a great entrepreneur... you go do the hard work that other people aren't doing... and then it's persistence, persistence, persistence.",
+          "summary_en": "Drop any sense of entitlement, do the hard work others avoid, and persist relentlessly.",
+          "summary_zh": "摒弃理所当然心态，做苦工并坚持到底",
+          "timestamp_sec": 327,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You find a great team, you raise capital and then boom, you'll do something special.",
+          "summary_en": "Assemble a great team and raise capital to turn persistence and vision into something special.",
+          "summary_zh": "组建顶尖团队并善用资本推动事业成长",
+          "timestamp_sec": 337,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "2012年创立Whoop并致力打造可穿戴健康设备，前六七年一度濒临破产；2015年在电视广告中看到勒布朗·詹姆斯佩戴当时全球仅百条之一的Whoop手环，成为重燃信心的关键转折点。",
+      "guest_name": "Boston Whoop Wearable Tech Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Founder & CEO of Whoop",
+      "wealth_detail": "Company valued at $3.6B; millionaire in his 20s",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "找到真正热爱并痴迷的事业，放下理所当然的心态，去做别人不愿做的苦差事，换个角度看待问题并保持极致坚持，同时组建优秀团队并融资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "The more I fail, those have been the blessings in my life... It unlocks work ethic, it unlocks discipline and unlocks creativity. So fail more.",
+          "summary_en": "Seek out and embrace failure and adversity because they unlock work ethic, discipline, and creativity.",
+          "summary_zh": "拥抱失败与逆境以激发自律和创造力",
+          "timestamp_sec": 431,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Money is just paper... a lot of the richest people, social capital is what they're after.",
+          "summary_en": "Prioritize building social capital and meaningful relationships rather than simply hoarding cash in the bank.",
+          "summary_zh": "重视积累社会资本与人脉而非仅囤现金",
+          "timestamp_sec": 456,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Negotiate With Willingness to Walk Away",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm a great negotiator... I will run away from it [a deal if it doesn't align]. I'm not very materialistic... I'm not desperate.",
+          "summary_en": "Negotiate from a position of abundance and non-materialism so you are never afraid to walk away from a misaligned deal.",
+          "summary_zh": "保持不匮乏心态，不合适就果断放弃交易",
+          "timestamp_sec": 466,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "When you have haters, that mean you're doing something right... They don't build statues for haters. They build statues for people that do things.",
+          "summary_en": "Ignore haters and imitators, and remind yourself during dark moments that you can and will do great things.",
+          "summary_zh": "不理会质疑与模仿者，坚信自己能成大事",
+          "timestamp_sec": 499,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Anytime I've ever been alone, I've just always filled that space with the Most High. And he's always guided me. Faith, consistency, and hard work pays off.",
+          "summary_en": "Stay grounded in faith, gratitude, and philanthropy, knowing that faith, consistency, and hard work pay off.",
+          "summary_zh": "在孤独低谷中坚守信仰、感恩并回馈社会",
+          "timestamp_sec": 564,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身单亲家庭，童年曾与兄弟合睡上下铺并面临断水断电；18岁离开大学追逐NBA梦想，加入波士顿凯尔特人队成为职业球员并成为百万富翁。",
+      "guest_name": "Jaylen Brown",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "NBA Player (Boston Celtics)",
+      "wealth_detail": "$50M single-year earnings (last season); millionaire at 18",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "主动拥抱逆境与失败，将其视为解锁自律、苦干与创造力的祝福；不被质疑或模仿者干扰，在低谷中保持信念、信仰与持续努力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I worked my ass off and then got just a series of breaks that I took advantage of.",
+          "summary_en": "Work relentlessly so you are prepared to seize opportunities and breaks when people invest in you.",
+          "summary_zh": "拼命努力工作，才能抓住降临的机会",
+          "timestamp_sec": 671,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Learn how to dribble with your left. Don't rely on what comes natural, what comes easy. Constantly look for those other things to supplement the things that you already have.",
+          "summary_en": "Do not rely only on what comes naturally; continuously learn new skills to supplement your strengths.",
+          "summary_zh": "不要只靠天赋，主动学习补齐自身短板",
+          "timestamp_sec": 682,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Put it in an index fund. Vanguard... S&P 500. Like don't be overly complicated... Compound wealth over time.",
+          "summary_en": "Avoid overly complicated bets and consistently invest in a low-cost S&P 500 index fund to let wealth compound over time.",
+          "summary_zh": "定投低成本标普500指数基金长期复利",
+          "timestamp_sec": 691,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "A lot of people think about, you know, cars and rings. When you're lying on your deathbed, the last thing that you're thinking about is the next thing that you bought.",
+          "summary_en": "Do not obsess over buying cars, rings, or status items; none of them matter at the end of life.",
+          "summary_zh": "切勿沉迷豪车名表等外物炫耀，临终无用",
+          "timestamp_sec": 716,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "More importantly than how much I made in a single year is how much I gave away to help others... Faith has been key for me... do something to help somebody today.",
+          "summary_en": "Ground your life in faith and measure yourself by how much you give and help others rather than how much money you stack.",
+          "summary_zh": "以信仰、行善与助人多少来衡量人生价值",
+          "timestamp_sec": 711,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose a High-Character Life Partner",
+          "category": "Wealth & Investing",
+          "quote": "The single best decision that you can make is marrying someone great... So many people pick a spouse based on the exterior only. Focus on what's inside. Focus on the character.",
+          "summary_en": "Prioritize inner character over exterior appearances when choosing a spouse, as a great life partner is your best financial decision.",
+          "summary_zh": "看重内在品格，选对伴侣是最好的财务决策",
+          "timestamp_sec": 767,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫困（曾住加州贫民区及北卡乡村拖车房），靠拼命努力赢得他人投资与信任，抓住机会在管理近400亿美元资产的对冲基金担任资深管理合伙人长达21年，30岁成为百万富翁。",
+      "guest_name": "De Man (Hedge Fund Managing Partner)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Former Hedge Fund Managing Partner & CEO",
+      "wealth_detail": "Millionaire at 30; managed ~$40B hedge fund",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要只依赖天赋与舒适区，要刻意学习补足短板；投资无需复杂化，把钱放进标普500等低成本指数基金并长期复利；重视伴侣品格并多行善助人。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "At the end of the day, marketing is very overrated. Really, what really works is a better product... And we had a better glass of beer.",
+          "summary_en": "Prioritize creating a genuinely superior product over flashy branding or marketing.",
+          "summary_zh": "打磨极致好产品远比华丽营销和品牌更重要",
+          "timestamp_sec": 940,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I've seen a lot of businesses that went broke, and they all had computers, but they went broke cuz they didn't have any sales. Go out and get one customer every day and don't come home till you got that customer.",
+          "summary_en": "Stop procrastinating with equipment or setup tasks; overcome fear and go win at least one customer every day.",
+          "summary_zh": "别用筹备琐事拖延，每天必须拿下一个客户",
+          "timestamp_sec": 1020,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You're the best salesperson there is if you genuinely believe in your product. Being genuine, sincere, authentic... no business went broke because they had too many sales.",
+          "summary_en": "Focus on authentic, sincere selling driven by genuine belief in your product, because strong sales cure almost every business issue.",
+          "summary_zh": "真诚相信产品并全力销售，销量能解一切难题",
+          "timestamp_sec": 1045,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "What is the absolute minimum I need to start this business?... I didn't have an office for a year. I did everything from pay phone booths... invested all your money back into the business for the first like 15 years.",
+          "summary_en": "Strip startup costs to the absolute minimum—using contract production and no office—and reinvest profits back into the business for years.",
+          "summary_zh": "极简轻资产起步，前15年利润全部再投入",
+          "timestamp_sec": 1070,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I needed the best brew master in the world to help me. So I went out and hired him... I couldn't really afford what he cost, but I gave him 2% of the company.",
+          "summary_en": "Offer equity creatively to bring in world-class talent you cannot yet afford in cash.",
+          "summary_zh": "用股权激励招募现金暂时请不起的顶尖人才",
+          "timestamp_sec": 1111,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "If you get to the point where you can go public, keep the voting shares... I basically sacrifice some of the economics for control cuz I don't want to work my ass off every day for somebody else.",
+          "summary_en": "Retain voting control even when taking on investors or going public so you never end up working for someone else.",
+          "summary_zh": "即使上市也要保留投票权，牢牢守住控制权",
+          "timestamp_sec": 1144,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Chase Meaningful Purpose Over Wealth",
+          "category": "Mindset & Resilience",
+          "quote": "If your ambition is to become a billionaire, good luck. But if your ambition is something different, like, I want to make great beer... getting rich is life's biggest booby prize.",
+          "summary_en": "Pursue a meaningful craft or mission and personal happiness rather than chasing billionaire status as your primary goal.",
+          "summary_zh": "追求真正有意义的使命与快乐，别只盯着发财",
+          "timestamp_sec": 1188,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "40年前在自家厨房酿出第一批Samuel Adams啤酒，通过委托现有酒厂代工、用酒吧谈生意和投币电话亭办公等极简方式创业；公司仅两人时便在上市6周后被评为全美最佳啤酒，并靠每天拿下一个客户打下市场。",
+      "guest_name": "Jim Koch",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "His uncle (Goldman Sachs salesperson & original investor)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder of Samuel Adams (Boston Beer Company)",
+      "wealth_detail": "$2B (stated as peak single-year earnings)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "将开支缩减到绝对最低，把资源集中到优质原料与顶尖人才上并持续将利润再投入；不要过度迷信营销，先做出好产品并亲自真诚去卖，同时追求有意义的事业目标而非单纯追逐暴富。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "lXitjVjEhEs",
+  "video_type": "street_multi"
+}

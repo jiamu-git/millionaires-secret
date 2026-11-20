@@ -1,0 +1,332 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "I was smart enough to say I'm going to own part of the place I do the surgery center... I've got to be in my own practice I've got to own all the components of it",
+          "summary_en": "Work for yourself and own equity in your practice and facilities rather than letting a big firm profit off your labor.",
+          "summary_zh": "不仅靠手术赚钱，更要自主执业并持有股权",
+          "timestamp_sec": 74,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "on the real estate very important also right try not to rent try not to lease try to own the real estate",
+          "summary_en": "Own the commercial real estate for your business instead of renting or leasing so it builds long-term equity.",
+          "summary_zh": "尽量不要租房，买下自己的商业地产",
+          "timestamp_sec": 106,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "the power of compounding interest so early on you make sure that you invest and you allow the money to work for you",
+          "summary_en": "Start investing early to harness the power of compounding interest and let your money work for you.",
+          "summary_zh": "尽早开始投资，让复利为你赚钱",
+          "timestamp_sec": 138,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I've always been very good about not spending an excessive amount of money when I can buy something comparable for much less... when you're younger be very judicious with your money",
+          "summary_en": "Be disciplined with your spending when you are young and choose comparable value over expensive status items.",
+          "summary_zh": "年轻时量入为出，避免为面子过度消费",
+          "timestamp_sec": 149,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "8岁时陪同祖母看手外科医生从而立志从医，成为手外科医生后自主创业并持有手术中心及物业股权，进而创办骨科急诊连锁网络OrthoNow，实现了年入超200万美元。",
+      "guest_name": "Miami Hand Surgeon & OrthoNow Founder",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Hand Surgeon & Founder of OrthoNow",
+      "wealth_detail": "In excess of $2M in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要只满足于在大机构里拿薪水打工，要自己执业并尽可能拥有生意和房产股权；尽早投资利用复利让钱生钱，年轻时消费要克制精明。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "there was a need in the market and then nobody was doing it and so I thought you know what I'll take a chance... you're never going to hit a home run unless you take about nine swings to get there",
+          "summary_en": "When you spot an unserved market need, take a chance—you have to take plenty of swings to hit a home run.",
+          "summary_zh": "发现市场空白勇敢尝试，多挥棒才能打出本垒打",
+          "timestamp_sec": 215,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Finance isn't about math it's about choices it's needs versus wants we all want everything but what do we need deal with that first and then start working on your wants",
+          "summary_en": "Treat finance as choices rather than math: prioritize your essential needs first before pursuing your wants.",
+          "summary_zh": "理财重在选择，先满足刚需再追求欲望",
+          "timestamp_sec": 236,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "退伍军人出身，在一次研讨会上发现移动饮用水拖车的市场空白并发明了Cool Earth产品，获加拿大安大略省和BC省政府协助推广至奥运会，单年收入达75万美元。",
+      "guest_name": "Cool Earth Mobile Water Trailers Founder (Army Vet)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Founder & Inventor of Cool Earth (Army Veteran)",
+      "wealth_detail": "$750,000 in a single year",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "看到没人做的市场需求时敢于冒险出手，不怕多尝试几次才能成功；理财的核心在于区分“必需”与“想要”，先解决刚需再考虑欲望。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "always produce a perfect product if you do great work they'll find you it's that simple",
+          "summary_en": "Consistently deliver top-quality work; when your product is exceptional, clients will seek you out.",
+          "summary_zh": "把产品和服务做到极致，好口碑自然吸引客户",
+          "timestamp_sec": 279,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "you got to spend money to make money... you need top of the line tools you need top of the line labor the labor forces are very important you need good guys on your team",
+          "summary_en": "Reinvest money back into top-tier tools and skilled team members in order to grow your business.",
+          "summary_zh": "把利润再投资于顶级工具和优秀团队以做大生意",
+          "timestamp_sec": 300,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "the best advice I mean I wish I knew 20 years ago was hustle hard at the beginning hustle hard work on yourself work hard work long hours do your thing get into a gym get your stuff together",
+          "summary_en": "Outwork everyone in the early years, put in long hours, hit the gym, and get your life in order.",
+          "summary_zh": "起步阶段拼命工作，打磨自己并保持健身自律",
+          "timestamp_sec": 324,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Choose Your Life Partner Wisely",
+          "category": "Mindset & Resilience",
+          "quote": "you want to be successful myself you gotta find yourself a good woman yeah it's that simple because they can make a break and I'll tell you right now my wealth has doubled because of this one",
+          "summary_en": "Choose a supportive life partner carefully, as the right spouse can dramatically multiply your success and wealth.",
+          "summary_zh": "选择能支持你事业的好伴侣，这能决定财富倍增",
+          "timestamp_sec": 337,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从小跟随父亲做小型房屋翻新工程入行，在私营建筑承包领域深耕27年并取得丰厚回报。",
+      "guest_name": "Miami Construction Contractor (27-Year Veteran)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Construction Contractor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "创业初期一定要拼命投入长时间工作、规律健身保持状态；舍得花钱投资顶级工具与优秀工人来扩张生意，把工程品质做到极致并找一位好伴侣。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "always work their butt off and learn how to delegate to be an entrepreneur you have to trust other people to do the job for you",
+          "summary_en": "Work relentlessly and learn to trust and delegate responsibilities to others so your business can scale to hundreds or thousands of employees.",
+          "summary_zh": "努力工作并学会信任和授权，才能把企业做大",
+          "timestamp_sec": 423,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Invest in Cryptocurrency",
+          "category": "Wealth & Investing",
+          "quote": "crypto like the cryptocurrency invest in that right now that's the new future... crypto is your own you can't get a garnish the government can't come after it",
+          "summary_en": "Invest in cryptocurrency as the future of finance because it gives you direct custody outside bank insurance limits.",
+          "summary_zh": "将资金投入加密货币，掌握不被银行控制的资产",
+          "timestamp_sec": 461,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "sales to me is the number one job in the world because there's always something to sell... everything in life is a sale",
+          "summary_en": "Recognize that everything in life is a sale and master selling as the most recession-proof skill in the world.",
+          "summary_zh": "世上万物皆为销售，掌握销售技能永不过时",
+          "timestamp_sec": 502,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "they just gotta trust himself... and learn from the best go when you go to a company ask the question who's the top producer here that's the guy you want to sit next to",
+          "summary_en": "Trust yourself and intentionally sit next to and learn from the top producer at your company.",
+          "summary_zh": "去公司找到业绩第一的销冠，坐在他身边学习",
+          "timestamp_sec": 522,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "因为一直想自己当老板、不愿为别人打工，大约20年前创办了自己的金融信贷公司（经营抵押贷款、个人贷款与信用卡业务），单年最高收入达到800万美元。",
+      "guest_name": "Miami Finance & Lending Business Owner",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder & Owner, Mortgage & Lending Business",
+      "wealth_detail": "$8M in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "要从六位数迈向七位数收入，必须在努力工作的同时学会放权与信任团队；去任何公司都要主动向业绩最好的销冠学习，并不断锤炼销售能力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "when you're a business owner the real work begins where others end... if you're a small business you have to roll up your sleeves and actually put in that actual work",
+          "summary_en": "Understand that for a small business owner, the real work begins where employees stop—you must roll up your sleeves and execute.",
+          "summary_zh": "做老板真正的辛苦才刚开始，必须亲力亲为",
+          "timestamp_sec": 629,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "you got to look at packages you have to look at what looks good on paper for your resume... opportunities for growth you have within that organization if there's opportunity for Equity buying shares",
+          "summary_en": "Evaluate career roles for resume value, growth trajectory, and opportunities to own equity or buy shares.",
+          "summary_zh": "择业要看重长期成长空间与持股分红的机会",
+          "timestamp_sec": 673,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "most importantly you've got to get an awesome boss you have to look at their credentials just as much as they scrutinize yours... that experience that I gained from working for these individuals I could never replicate in a lifetime",
+          "summary_en": "Scrutinize your boss's credentials and work under elite industry titans to gain irreplaceable experience before running your own brand.",
+          "summary_zh": "先去为顶尖大佬和好老板工作，积累无价经验",
+          "timestamp_sec": 685,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾在路易威登（Louis Vuitton）等法国奢侈品集团担任高管多年，先后追随7位身家数十亿的行业巨头工作了20年，如今成为自有酒水品牌的合伙人并重新亲自带头开拓客户。",
+      "guest_name": "Wine & Spirits Brand Partner (Former LVMH Executive)",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Partner, Wine & Spirits Brand (Former Luxury Executive)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "在职业生涯早期要慎重选择老板并考察其背景，尽量在行业巨头手下积累无可替代的经验，同时关注薪酬包、成长空间和股权机会；自己创业后则要做好卷起袖子从零一瓶瓶推销的准备。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "patience is everything in real estate because the richest families in the world in real estate... started buying real estate 100 years ago but you got to be the one to start now",
+          "summary_en": "Real estate rewards patience rather than daily price-checking; start acquiring property now to build generational wealth.",
+          "summary_zh": "投资房地产需要耐心，现在买下并长期持有",
+          "timestamp_sec": 775,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Reject Outdated Middle-Class Script",
+          "category": "Mindset & Resilience",
+          "quote": "the middle class kind of got stuck into that belief... what used to work 100 years ago doesn't work today you need to take responsibility for yourself",
+          "summary_en": "Reject the outdated school-job-pension script that traps the middle class and take full responsibility for your financial future.",
+          "summary_zh": "摒弃过时的中产传统路径，为自己的人生负责",
+          "timestamp_sec": 837,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I would be working very hard to see how I could add value to other people",
+          "summary_en": "Focus intensely on finding ways to add real value to other people as the foundation of financial freedom.",
+          "summary_zh": "努力思考自己能如何为他人创造并增加价值",
+          "timestamp_sec": 861,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "find very wealthy people so find the wealthiest people you could be around... get a job as a valet Parker at a country Club where he's parking fancy cars",
+          "summary_en": "Put yourself in environments where the wealthiest people spend time—even via an entry-level job like country club valet—to learn how they operate.",
+          "summary_zh": "主动混入富人圈层，近距离观察并建立人脉",
+          "timestamp_sec": 871,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "three months later he realizes these rich people are no different they tell the same jokes they wear the same things... so first you got to believe",
+          "summary_en": "Recognize that wealthy people are ordinary humans no different from you, and start by believing financial freedom is possible for you.",
+          "summary_zh": "打破自我设限，相信富人与你并没有本质不同",
+          "timestamp_sec": 882,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "look for people who made it from the absolute bottom like you... look for people who have done it and model those people",
+          "summary_en": "Seek out mentors and role models who started from the bottom without privilege and study how they succeeded.",
+          "summary_zh": "寻找和你一样白手起家的成功者并效仿他们",
+          "timestamp_sec": 892,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学毕业后第一份工作是担任股票经纪人，25年前为追求财务独立转行进入商业地产领域，如今创立并经营南佛罗里达最大的商业地产公司之一，管理近10亿美元资产。",
+      "guest_name": "Todd Nepola",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder, Commercial Real Estate Company (~$1B AUM)",
+      "wealth_detail": "~$1B assets under management (owned and client properties)",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不要迷信“读书找好工作存钱还房贷退休”的传统脚本；首先相信自己与富人并无不同，主动找机会待在最富有的人身边（如去乡村俱乐部做代客泊车），找到同样白手起家的榜样并模仿他们，加倍努力思考如何为他人创造价值。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ZHFNlM0xG4U",
+  "video_type": "street_multi"
+}

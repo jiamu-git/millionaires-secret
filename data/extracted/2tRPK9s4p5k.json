@@ -1,0 +1,232 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "I buy as much information as I can to help me get better.",
+          "summary_en": "Invest in buying as much information as possible to continuously improve yourself.",
+          "summary_zh": "持续花钱购买信息，不断提升自身认知",
+          "timestamp_sec": 130,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Be a Producer Over a Consumer",
+          "category": "Mindset & Resilience",
+          "quote": "I like to be a producer more than a consumer... we know more about LeBron stats than we know about our own stats.",
+          "summary_en": "Focus on being a producer rather than a consumer, and track your own metrics instead of celebrities' stats.",
+          "summary_zh": "少做消费者多当生产者，关注自身数据",
+          "timestamp_sec": 139,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Every horse that races they got something called blinders... if everybody start focusing on your own race and what's in front of you everything could change in a short period of time.",
+          "summary_en": "Put on blinders like a racehorse and focus strictly on your own lane and what is right in front of you.",
+          "summary_zh": "像赛马戴眼罩般专注赛道，不被他人干扰",
+          "timestamp_sec": 150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Invest Heavily in Marketing & Visibility",
+          "category": "Business & Strategy",
+          "quote": "If you are the best at this and no one knows you're going to go out of business, so you need to be spending as much money as you can on marketing and getting yourself out here.",
+          "summary_en": "Even if you are the best at what you do, spend heavily on marketing so the market knows you exist.",
+          "summary_zh": "再优秀也要重金做营销，让所有人知道你",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The biggest way to kill a big dream is to introduce it to a small mind. Be very guarded who you share your goals and dreams with.",
+          "summary_en": "Guard your goals closely and do not share big dreams with small-minded people or unmotivated peers.",
+          "summary_zh": "别把大梦想告诉格局小的人，谨防被否定",
+          "timestamp_sec": 199,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you want to become successful learn from someone who's already there in the industry that they're in that you want to learn about.",
+          "summary_en": "Seek advice from people already succeeding at a high level in the exact industry you want to enter.",
+          "summary_zh": "向目标行业中已经成功的高手请教学习",
+          "timestamp_sec": 237,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身费城西区贫困社区，父亲自其两岁起因谋杀入狱，曾被高中和大学开除且被10份工作解雇；全职创业15年、深耕营销代理8年，近年每年收入均超1000万美元。",
+      "guest_name": "Atlanta Marketing Agency Owner (Lamborghini)",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Marketing Agency Founder & Owner",
+      "wealth_detail": "Over $10M/yr in recent years (age 36)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "切勿把远大梦想告诉格局小的人或安于现状的同事；要向行业内已经取得成功的高手请教，像戴眼罩一样专注自身赛道，并把钱大力投入营销曝光。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Understand the Role of Timing",
+          "category": "Business & Strategy",
+          "quote": "If you go back and look at all the businesses that are really successful out there a lot of it has to do with timing.",
+          "summary_en": "Recognize that scaling a business from eight to nine figures heavily involves timing.",
+          "summary_zh": "企业能否做大做强，很大程度取决于时机",
+          "timestamp_sec": 302,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Clarify Values & Focus on What Matters",
+          "category": "Mindset & Resilience",
+          "quote": "Beliefs are what you think is true, values are what you think are important... focus on things that are important.",
+          "summary_en": "Distinguish between your beliefs and your values, and focus your energy on what is truly important.",
+          "summary_zh": "厘清价值观与信念，聚焦真正重要的事",
+          "timestamp_sec": 324,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "They understand margins, they understand cost structures... raising capital is you got to start with like a really good business plan that has a legitimate pathway to growth.",
+          "summary_en": "To raise capital, build a thorough business plan grounded in margins, cost structures, and a clear return on investment.",
+          "summary_zh": "融资需先做扎实商业计划，吃透利润与成本",
+          "timestamp_sec": 352,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I learned how to manage resources, people, time, money, expectation... what I decided was real estate development and I enjoyed every minute of it.",
+          "summary_en": "Identify your core transferable skill set and apply it to an industry you genuinely enjoy working in.",
+          "summary_zh": "找到真正热爱的事，发挥资源管理核心优势",
+          "timestamp_sec": 418,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Prioritize Happiness & Fulfillment Over Net Worth",
+          "category": "Mindset & Resilience",
+          "quote": "I've been happy for 40 years and that's a hell of a lot more important to me... you got to figure out like what makes you happy... focus on that and the rest is good.",
+          "summary_en": "Figure out what genuinely makes you happy rather than obsessing over net-worth milestones.",
+          "summary_zh": "幸福感比何时成为百万富翁重要得多",
+          "timestamp_sec": 387,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾经历破产穷困，后在餐厅工作时发掘并锻炼了管理资源、人员、时间与资金的能力，随后将该能力迁移到商业地产开发，深耕25年并创下单年数亿美元收入。",
+      "guest_name": "James (Commercial Real Estate Developer)",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Leadership & People Management",
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Commercial Real Estate Developer (25 years)",
+      "wealth_detail": "Couple hundred million dollars in best single year (age 55-56)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "房地产门槛高确实需要一定启动资金，但市场上并不缺资金而缺好商业计划；想融资必须打磨出利润、成本和回报路径清晰的计划书，并选择与聪明能干的人共事。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Sell Shovels Instead of Chasing Gold",
+          "category": "Business & Strategy",
+          "quote": "I always rather be on the end of producing... more people got rich during the Gold Rush selling shovels than looking for gold.",
+          "summary_en": "Position yourself on the producing/supplying side rather than blindly chasing the hype.",
+          "summary_zh": "与其盲目淘金，不如做卖铲子的生产者",
+          "timestamp_sec": 535,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Fix Bad Habits & Personal Issues First",
+          "category": "Mindset & Resilience",
+          "quote": "You don't have a financial issue, it's a personal issue... you have bad habits that you need to correct... before building properly on top of this foundation.",
+          "summary_en": "Address personal traumas, daily bad decisions, and toxic habits before trying to build wealth on top of them.",
+          "summary_zh": "先戒除坏习惯并修复内在问题，再谈致富",
+          "timestamp_sec": 571,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you flat broke on rock bottom I would pick up and learn how to sell.",
+          "summary_en": "Once your personal foundation is stable, learn how to sell as your primary skill from rock bottom.",
+          "summary_zh": "如果一无所有跌入谷底，先从学销售起步",
+          "timestamp_sec": 600,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Align Skills With Self-Awareness & Strengths",
+          "category": "Mindset & Resilience",
+          "quote": "Your mindset will allow you to identify who you are, what's your strong points, what's your weaknesses... I strengthen my weaknesses on purpose but I flourish in my strong points intentionally.",
+          "summary_en": "Develop self-awareness to pick skills suited to your true strengths rather than blindly copying others.",
+          "summary_zh": "先认清自身优劣势，再用正确心态选对技能",
+          "timestamp_sec": 642,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Money is a tool, spend it to further your information, to further your network, to get in different environments that you're not privy to.",
+          "summary_en": "Treat money as a tool to buy information, expand your network, and gain access to higher-level environments.",
+          "summary_zh": "把钱当工具，用来买信息、拓人脉、换圈子",
+          "timestamp_sec": 685,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prepare for Relationship Friction as You Level Up",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "The hardest part is that everything around you changes, everybody around you changes... realizing they can't accept me for where I'm at.",
+          "summary_en": "Be mentally prepared for financial success to change you and strain relationships with friends and family.",
+          "summary_zh": "暴富后要做好心理准备，面对人际关系疏离",
+          "timestamp_sec": 734,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "24岁时曾无家可归、身无分文，从24到26岁辛苦工作重新站稳脚跟并逐步创立多项业务，29岁赚到人生第一个100万美元，现拥有6家公司，单年最高收入达1500万美元。",
+      "guest_name": "Atlanta Serial Entrepreneur (Six Businesses)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Serial Entrepreneur (Owner of 6 Businesses)",
+      "wealth_detail": "$15M highest single-year income; first $1M at age 29; owns 6 businesses",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "穷困往往根源于个人习惯与心态问题，应先戒掉坏习惯、修复内在创伤并认清自身优劣势，再学习销售技能，并把钱花在获取信息、拓展人脉和进入更高圈层上。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "2tRPK9s4p5k",
+  "video_type": "street_multi"
+}

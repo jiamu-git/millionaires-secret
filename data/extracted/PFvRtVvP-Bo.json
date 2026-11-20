@@ -1,0 +1,254 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "most people can't say no to themselves... it drains you off all your resources your number one resource is your energy",
+          "summary_en": "Practice strict discipline, say no to indulgences, and protect your energy as your #1 resource.",
+          "summary_zh": "保持自律，守住精力不浪费",
+          "timestamp_sec": 105,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "spending habits it's like people hate money right they got to get rid of it... got to keep up what the Jones is",
+          "summary_en": "Fix your spending habits instead of trying to get rid of money to keep up with the Joneses.",
+          "summary_zh": "控制消费习惯，拒绝攀比消费",
+          "timestamp_sec": 132,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Develop Wealth Consciousness (Attract, Don't Chase)",
+          "category": "Mindset & Resilience",
+          "quote": "you don't chase money you become magnetized MoneyWise and money chases you",
+          "summary_en": "Tune into the consciousness of money so you become magnetized to wealth rather than desperately chasing it.",
+          "summary_zh": "建立财富意识，吸引而非追逐金钱",
+          "timestamp_sec": 161,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "原本是健身房私人教练，约17-18年前被他训练的一位客户发掘并推荐进入华尔街金融行业，曾多次破产，40多岁成为百万富翁。",
+      "guest_name": "Wall Street Finance Expert (Former Personal Trainer)",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Finance / Wall Street Professional",
+      "wealth_detail": "$80K best single month; millionaire in his 40s",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "it was an opportunity at the time to jump into a market that there was a lot of white space in so that's where I saw the opportunity and that's where I jumped in full force",
+          "summary_en": "Look for markets with lots of white space and jump in full force when you spot the opportunity.",
+          "summary_zh": "寻找市场空白机会并全力切入",
+          "timestamp_sec": 227,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Set Exit Benchmarks (Long-Term Business, Disciplined Investing)",
+          "category": "Wealth & Investing",
+          "quote": "when it comes to business you want to think very longterm when it comes to Wall Street investing... set a benchmark and get out",
+          "summary_en": "Think long-term when building a business, but set return benchmarks and take profits when investing in financial markets.",
+          "summary_zh": "实业看长期，金融投资设止盈目标",
+          "timestamp_sec": 237,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "best financial decision that you made throughout your career I bet on myself",
+          "summary_en": "Bet on yourself and take the risk to follow your own path if entrepreneurship is in your DNA.",
+          "summary_zh": "敢于押注自己，承担创业风险",
+          "timestamp_sec": 293,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Know Yourself & Don't Force Entrepreneurship",
+          "category": "Mindset & Resilience",
+          "quote": "be okay with who you are naturally Don't Force being an entrepreneur or any other route",
+          "summary_en": "Accept who you are naturally and don't force entrepreneurship if you thrive better with corporate structure.",
+          "summary_zh": "顺应天性，不适合创业就别强求",
+          "timestamp_sec": 303,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身中产家庭，7岁卖糖果、14岁创办高压清洗公司；后在华尔街当经纪人月入仅2000美元勉强糊口一两年，最终辞职抓住巴西莓果昔连锁的市场空白，30岁成为百万富翁。",
+      "guest_name": "Acai Bowl Smoothie Franchise Founder",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Traction by Gino Wickman"
+      ],
+      "recommended_skills": [
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Acai Bowl Smoothie Franchise",
+      "wealth_detail": "$20M+/yr business revenue; became a millionaire at 30",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "认清自己的天性与真正适合的路，如果天生适合创业就果断押注自己，如果更需要公司结构也不要强行创业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Jay-Z said scared money don't make money",
+          "summary_en": "Scared money doesn't make money—you have to be willing to take risks.",
+          "summary_zh": "胆小不生财，敢于冒险才能赚钱",
+          "timestamp_sec": 359,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "you have to invest for the long term you know you have Warren Buffett talks about compounding",
+          "summary_en": "Invest for the long term and let compounding multiply every dollar over time.",
+          "summary_zh": "坚持长期投资，发挥复利效应",
+          "timestamp_sec": 359,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "riches in niches right that's super important like you pick your Niche and you just go for it and then endurance for the win",
+          "summary_en": "Pick a niche and stick with it through setbacks—treat obstacles as speed bumps rather than brick walls.",
+          "summary_zh": "深耕细分赛道，遇挫坚持不乱跳",
+          "timestamp_sec": 409,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Value Your Time & Spend Intentionally",
+          "category": "Wealth & Investing",
+          "quote": "they really understand the value of a dollar... and they value their time more than anything",
+          "summary_en": "Understand the value of a dollar—be frugal when it makes sense, spend without hesitation when it counts, and value your time above all.",
+          "summary_zh": "懂得金钱价值，更要视时间如命",
+          "timestamp_sec": 454,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "learn how to sell like sales is the greatest skill set of the new economy",
+          "summary_en": "Learn how to sell—sales is the greatest skill set of the new economy.",
+          "summary_zh": "学会销售，它是新经济第一技能",
+          "timestamp_sec": 497,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "work for yourself have 10 streams of income doing whatever you want whenever you want",
+          "summary_en": "Reject the outdated student-debt-to-9-to-5 script; work for yourself and build multiple streams of income.",
+          "summary_zh": "为自己工作，打造多元收入来源",
+          "timestamp_sec": 522,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "2006年到纽约做戏剧却花光积蓄，在雷曼兄弟破产当天考取房产经纪执照入行，最初只为每月赚2000美元付房租糊口，28岁左右成为百万富翁。",
+      "guest_name": "Ryan Serhant",
+      "industry": "Real Estate",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Jay-Z",
+        "Warren Buffett"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Real Estate Broker & Entrepreneur",
+      "wealth_detail": "$22M single-year income (2021); ~$4.5B annual real estate sales; $195M single residential sale; became a millionaire at ~28",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "2024年想白手起家成为百万富翁，必须学会销售，不要被负债上大学和朝九晚五W2工作的传统剧本束缚，要为自己工作并打造多元收入流。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Practice Candor in Leadership & Work",
+          "category": "Business & Strategy",
+          "quote": "the only flaw you have is your inability to be canderous to people that you love in work and you're going to need to figure that out",
+          "summary_en": "Overcome the inability to be candid with people you care about at work, as avoiding tough honesty is a major weakness.",
+          "summary_zh": "对共事的亲友保持坦诚直接",
+          "timestamp_sec": 574,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "stop listening to [ __ ] other people people you put on a pedestal... you [ __ ] know your answer",
+          "summary_en": "Trust your gut and stop letting outside voices—even parents, teachers, or mentors—talk you out of what you know inside.",
+          "summary_zh": "相信直觉，别盲从外界和权威声音",
+          "timestamp_sec": 607,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I'm willing to eat [ __ ] in a way that you kids don't want to... entrepreneurship is... losing constantly with an occasional win",
+          "summary_en": "Be willing to endure hardship and constant losses with patience—entrepreneurship is a fight, not a glamorous status game.",
+          "summary_zh": "耐得住吃苦受挫，具备抗击打韧性",
+          "timestamp_sec": 628,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Care About Looking Successful vs. Being Successful",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "lack of patience entitlement at scale giving a [ __ ] about other people thinking you're successful versus being successful",
+          "summary_en": "Avoid impatience, entitlement, and caring about looking successful to others instead of actually being successful.",
+          "summary_zh": "警惕虚荣心与急躁，重实绩而非面子",
+          "timestamp_sec": 628,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Don't Put Being #1 on a Pedestal",
+          "category": "Business & Strategy",
+          "quote": "everybody wants to be a number one but not everyone was built to be a number one... the number three at the biggest companies in the world will make more than 99.999999999% of number ones",
+          "summary_en": "Don't put being #1 on a pedestal—being #3 at a top company can beat 99.99% of founders if that fits who you are.",
+          "summary_zh": "不必执着当一号位，找准自身定位",
+          "timestamp_sec": 669,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Gary Vaynerchuk (Gary Vee)",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Marketing Entrepreneur & Nine-Figure Business Builder",
+      "wealth_detail": "Nine-figure business",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "20岁从零开始时要相信自己的直觉、别盲从外部权威和亲友意见；同时不要盲目迷信当一号位创业，在顶级公司担任三号人物同样能创造巨额财富。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "PFvRtVvP-Bo",
+  "video_type": "street_multi"
+}

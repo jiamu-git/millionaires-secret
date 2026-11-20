@@ -1,0 +1,371 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I sold everything and now I'm starting over with an app actually. So you got to have some balls to do this.",
+          "summary_en": "Be bold enough to sell everything and start over in a new venture.",
+          "summary_zh": "敢于清零重来并冒风险开创新事业",
+          "timestamp_sec": 190,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Centralize Production & Supply Competitors",
+          "category": "Business & Strategy",
+          "quote": "You want to own the factory, right? If you own the factory, then everything else is a pop-up... your competitors also become your customers.",
+          "summary_en": "Own the central production facility so stores stay small and competitors buy wholesale from you.",
+          "summary_zh": "掌控中心工厂并向竞争对手提供批发服务",
+          "timestamp_sec": 210,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "I moved from that to tech. You know why? Because there's no money like tech.",
+          "summary_en": "Pivot into industries like tech that offer unmatched upside and scale.",
+          "summary_zh": "果断切入天花板更高的科技等高回报行业",
+          "timestamp_sec": 242,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Be more interested than interesting. If you're in the room and you want to be the big star, then you're going to miss an opportunity.",
+          "summary_en": "Focus on listening and learning in the room rather than trying to impress others.",
+          "summary_zh": "多倾听他人而非急于表现自己以抓住机会",
+          "timestamp_sec": 251,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "If you want to really be a millionaire, this shit's going to take time... we're talking sustainability... That's not going to happen overnight.",
+          "summary_en": "Build sustainable wealth over years rather than chasing overnight hype.",
+          "summary_zh": "别迷信一夜暴富而要打造长期可持续的财富",
+          "timestamp_sec": 261,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Stay who you are. Don't be a weirdo. You haven't been driving a Lambo. Why do you want one now? ... I drive a Kia.",
+          "summary_en": "Avoid buying flashy cars, $10,000 steaks, or overpriced status symbols after making money.",
+          "summary_zh": "致富后保持本色别为虚荣买豪车等奢侈品",
+          "timestamp_sec": 287,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Respect Young Talent & Ignore Age Bias",
+          "category": "Mindset & Resilience",
+          "quote": "People measure people's ages now still to this day. Oh, he's too young. He don't know... Wake up. He knows more than you.",
+          "summary_en": "Never underestimate young founders or judge capability by age.",
+          "summary_zh": "不要以年龄评判他人而应尊重年轻人的实力",
+          "timestamp_sec": 370,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "在纽约布鲁克林威廉斯堡经营干洗店起家，通过掌控中心工厂并开设10家500平方英尺的收衣门店、同时向同行做批发实现规模化，十年前赚到第一个一百万，后出售业务转型开发科技App。",
+      "guest_name": "Williamsburg Dry Cleaning & Tech App Founder",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Former Dry Cleaning Chain Owner & Tech App Founder",
+      "wealth_detail": "Multi-millionaire; $50,000/month per 500 sq ft dry cleaning location (10 locations)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Plan Ahead for Market & Life Downturns",
+          "category": "Business & Strategy",
+          "quote": "Always plan for the future because today's sunshine will turn into tomorrow's rain. You may be wealthy today, you may lose everything tomorrow.",
+          "summary_en": "Prepare financially and strategically for downturns while times are good.",
+          "summary_zh": "顺境中必须居安思危为未来低谷做好规划",
+          "timestamp_sec": 422,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Pursue Purpose Over Money & Possessions",
+          "category": "Mindset & Resilience",
+          "quote": "Happiness is a pursuit of your dream, pursuit of your mission, your purpose. Don't chase money and don't chase objects. Chase your purpose.",
+          "summary_en": "Pursue your mission and purpose rather than chasing money or material things.",
+          "summary_zh": "追求人生使命与梦想而非单纯追逐金钱和物质",
+          "timestamp_sec": 430,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Started my own practice... Got to take a leap of faith. Got to trust in yourself.",
+          "summary_en": "Trust yourself and take the leap of faith to start your own practice or business.",
+          "summary_zh": "相信自己并勇敢迈出独立创业的关键一步",
+          "timestamp_sec": 450,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "I don't sell. My product sells. So, I take care of people. I care about people and people know that.",
+          "summary_en": "Win clients naturally by genuinely caring for people and letting quality speak.",
+          "summary_zh": "真心关怀并服务好每一位客户让口碑自动获客",
+          "timestamp_sec": 458,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Strive to Surpass Your Former Self",
+          "category": "Mindset & Resilience",
+          "quote": "Being better than I was yesterday... True nobility is being superior to your former self.",
+          "summary_en": "Focus on daily self-improvement rather than competing against others.",
+          "summary_zh": "每天超越过去的自己而非与他人攀比高低",
+          "timestamp_sec": 475,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "Expand, hire other people, have other people work for you, have help. You got to have help cuz you can't carry the load on your shoulders.",
+          "summary_en": "Scale by hiring people and building support instead of carrying everything alone.",
+          "summary_zh": "扩张必须学会雇佣帮手不要独自扛下所有重担",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody's on the same playing field just like I am. I'm here. There's a homeless guy there. I'm not any better than anybody else.",
+          "summary_en": "Stay humble and treat every person as an equal regardless of wealth.",
+          "summary_zh": "保持谦卑并平等对待身边的每一个人",
+          "timestamp_sec": 516,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Don't ever give up... Anything that's good is worth fighting for. And that journey is always hard.",
+          "summary_en": "Never quit when the journey gets hard because worthwhile rewards require the climb.",
+          "summary_zh": "绝不轻言放弃因为值得拥有的一切都来之不易",
+          "timestamp_sec": 525,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "39岁赚到第一个一百万，40岁时因创办自己的脊柱外科私人诊所并在过去一年赚到数百万美元。",
+      "guest_name": "Wall Street Spine Surgeon",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Spine Surgeon & Private Practice Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "顺境时要居安思危提前规划，勇敢走出舒适区独立创业，追求使命而非物质，通过真诚照顾客户和雇佣团队实现扩张。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Own an Uncontested Niche & Rights Window",
+          "category": "Business & Strategy",
+          "quote": "We own our space. So, nobody else can dominate travel like we can... Netflix created its own rights window... So, I stole that idea.",
+          "summary_en": "Dominate a specific distribution niche and turn competitors into partners and customers.",
+          "summary_zh": "独占细分场景渠道并将竞争对手转化为客户与伙伴",
+          "timestamp_sec": 641,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Serve the person you're talking to... Never do something to somebody. Do something for someone.",
+          "summary_en": "Approach every deal and negotiation with a mindset of serving the other person.",
+          "summary_zh": "谈判与交易的核心是真诚为对方创造服务价值",
+          "timestamp_sec": 712,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "No is never no. It's always not yet.",
+          "summary_en": "Treat a prospect's 'no' as 'not yet' and keep following up.",
+          "summary_zh": "面对客户拒绝时把“不”视为“暂时还没有”",
+          "timestamp_sec": 723,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I have run the same phone number for the last 32 years... your net worth is really your network... You got to get out and you got to be in person.",
+          "summary_en": "Show up in person, demonstrate commitment first, and keep long-term contact accessibility.",
+          "summary_zh": "32年不换号并坚持线下露面建立长期铁杆人脉",
+          "timestamp_sec": 732,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Instagram and other things like people think it's overnight. Like some people call me now and say, 'Wow, this is amazing.' This is my ninth year.",
+          "summary_en": "Don't be fooled by social media overnight-success myths; real businesses take years to build.",
+          "summary_zh": "别被社媒一夜成名假象迷惑事业需要多年深耕",
+          "timestamp_sec": 760,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "You can't tell me you appreciate being the winner if you don't appreciate the failures. Got to learn all of it to enjoy every single bit of it.",
+          "summary_en": "Appreciate and learn from every failure as part of the entrepreneurial journey.",
+          "summary_zh": "学会接纳并珍视失败才能真正享受胜利的果实",
+          "timestamp_sec": 772,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Every single day I love waking up. I'm up at 5. I'm up every day. Same energy you see me now. I have all day every day.",
+          "summary_en": "Wake up early at 5 a.m. and bring consistent high energy every single day.",
+          "summary_zh": "每天清晨五点起床并保持始终如一的高能量状态",
+          "timestamp_sec": 784,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身贫寒（祖父母仅二年级学历且靠收垃圾谋生），28岁在电脑与消费电子行业赚到第一个一百万，后依托技术背景创办机场和酒店电视网络Reach TV（并于2021年1月收购CNN Airport），单年最高收入达2.5亿美元。",
+      "guest_name": "Reach TV Founder",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Negotiation & Deal-Making",
+        "Technical / Engineering",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder & CEO of Reach TV",
+      "wealth_detail": "$250M peak single-year earnings",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "以服务心态做销售与谈判，把拒绝当成“暂时还没有”；长期保持同一联系方式并坚持线下露面兑现承诺；做好打多年持久战的准备，每天早起并全力投入。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "I'm a fan of businesses that make real cash flow... boring businesses as well as financial services businesses that can achieve scale.",
+          "summary_en": "Focus on scalable financial services and boring real-asset businesses like data centers and waste management that produce real cash flow.",
+          "summary_zh": "投资能产生真实稳定现金流的传统实体与金融业务",
+          "timestamp_sec": 857,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "I feel like I knew enough, knew enough people, might as well start building.",
+          "summary_en": "Learn the playbook and build relationships in the industry before launching your own firm.",
+          "summary_zh": "先在行业内摸透规则并攒够人脉再出来单干创业",
+          "timestamp_sec": 879,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "The team stands out. People I work with. I could do it alone, but it's much easier to go further with more people.",
+          "summary_en": "Stand out in competitive deal-making through the quality of your team.",
+          "summary_zh": "依靠优秀团队协作在激烈竞争中脱颖而出走得更远",
+          "timestamp_sec": 892,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "They don't want you to know that they need to lend money to people to make money... They make money on the spread, right?",
+          "summary_en": "Understand bank lending spreads, real cash flow versus EBITDA, and how cash compensation is taxed.",
+          "summary_zh": "看懂银行息差逻辑、真实自由现金流与税务成本",
+          "timestamp_sec": 916,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You want to be able to think about money like it's air... you want to get to a point where money is like air.",
+          "summary_en": "Cultivate an abundance mindset where money feels as natural and unstressed as breathing air.",
+          "summary_zh": "培养把钱看得像空气一样自然充沛的富足心态",
+          "timestamp_sec": 935,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You just got to have a lot of hustle, hunger... I got an MBA as well... I had to stand out somehow, so I did that.",
+          "summary_en": "Bring relentless hustle, hunger, and credentials to stand out when breaking into competitive finance.",
+          "summary_zh": "靠强烈饥饿感、拼搏精神与硬核学历在金融圈突围",
+          "timestamp_sec": 953,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to network your ass off... You got to run. You got to spend a lot of shoe leather.",
+          "summary_en": "Put in heavy legwork to network relentlessly and get into the right rooms.",
+          "summary_zh": "不辞辛劳跑断腿般疯狂拓展高质量人脉进入核心圈层",
+          "timestamp_sec": 972,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "非富裕家庭出身，凭借本科和MBA学历、强烈拼搏精神及疯狂拓展人脉进入华尔街私募股权行业，最高年收入50万美元（自述尚未达到百万富翁），目前正在创立自己的私募股权公司。",
+      "guest_name": "Wall Street Private Equity Firm Founder",
+      "industry": "Finance & Investing",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Private Equity Firm Founder (35)",
+      "wealth_detail": "$500k peak single-year earnings",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "凭借高学历和拼劲在人群中脱颖而出，脚踏实地大量线下拓展人脉；聚焦能产生真实现金流的传统实体或可规模化金融服务行业，积累经验与人脉后组建团队创业。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "bfIJxp9ckKU",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,423 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Psychology, understand human nature, and don't push people.",
+          "summary_en": "Understand psychology and human nature, and avoid being pushy when selling.",
+          "summary_zh": "洞察人性心理，销售切忌强推",
+          "timestamp_sec": 168,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Take Profits Out of the Business",
+          "category": "Wealth & Investing",
+          "quote": "Take the money, don't keep putting it back in, 'cause you keep spending your money.",
+          "summary_en": "Take profits off the table instead of endlessly putting money back into the business.",
+          "summary_zh": "落袋为安，别把赚的钱全投回生意里",
+          "timestamp_sec": 195,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Preparation Meets Opportunity",
+          "category": "Mindset & Resilience",
+          "quote": "When opportunity meets preparation, you have luck.",
+          "summary_en": "Scaling to nine figures happens when thorough preparation meets opportunity.",
+          "summary_zh": "机会遇上充分准备才能带来好运与突破",
+          "timestamp_sec": 217,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I just go for it.",
+          "summary_en": "Maintain high risk tolerance as a business owner and go for opportunities boldly.",
+          "summary_zh": "创业者要有魄力，看准机会果断出手",
+          "timestamp_sec": 221,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "I had to just do it, make mistakes, but I learn.",
+          "summary_en": "Jump in, make mistakes, and treat them as lessons to get smarter.",
+          "summary_zh": "勇敢行动并允许试错，在犯错中不断学习",
+          "timestamp_sec": 248,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I started over again out of the trunk of a car at 40.",
+          "summary_en": "Refuse to quit after near-bankruptcy and be willing to rebuild from rock bottom.",
+          "summary_zh": "绝境不屈，40岁也能在汽车后备箱里东山再起",
+          "timestamp_sec": 258,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家，曾两次濒临破产，40岁时在汽车后备箱里重新起步；后来将Jewel香烟推向市场并与泰森等名人合作，做到年营收1.5亿美元。",
+      "guest_name": "Johnny",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Founder / Creator of Jewel Cigarettes",
+      "wealth_detail": "$150M/yr in business (Jewel cigarettes)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "洞察人性心理、不要强推，保持高风险承受力并敢于在试错中学习，赚钱后注意落袋为安。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "You got to always give the best service, best hospitality.",
+          "summary_en": "Deliver unmatched customer service and hospitality to scale across locations.",
+          "summary_zh": "始终提供最顶级的服务与款待体验",
+          "timestamp_sec": 362,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You got to have the best team behind you.",
+          "summary_en": "Build and rely on the best possible team behind your business.",
+          "summary_zh": "背后必须拥有最优秀的团队支持",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "You got to constantly stay honest, be honest with all your friends, be honest with all your investors.",
+          "summary_en": "Stay honest and loyal to your friends, partners, and investors at all times.",
+          "summary_zh": "对朋友、合伙人和投资人始终保持诚实忠诚",
+          "timestamp_sec": 378,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "In business you need friends, you need relationships, you need partners.",
+          "summary_en": "Build strong friendships, relationships, and partnerships to fund and launch ventures.",
+          "summary_zh": "做生意必须建立人脉关系并找到好伙伴",
+          "timestamp_sec": 390,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "There's never financial freedom, you always got to work harder and you always got to thrive to get more and more.",
+          "summary_en": "Never become complacent; keep working harder and striving for growth.",
+          "summary_zh": "永不懈怠，必须不断努力追求更高目标",
+          "timestamp_sec": 418,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You got to stay true to your brand and believe in yourself.",
+          "summary_en": "Stay authentic to your brand and maintain strong self-belief.",
+          "summary_zh": "忠于自己的品牌并坚定相信自己",
+          "timestamp_sec": 423,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Of course... very important, all these things are very important.",
+          "summary_en": "Keep faith in God as a foundational pillar of life and business.",
+          "summary_zh": "信仰在成功路上至关重要",
+          "timestamp_sec": 429,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家、曾历破产困顿，依靠人脉与合伙人筹集资金创办Poppy Steak餐厅，并在疫情期间于佛罗里达迎来业务爆发。",
+      "guest_name": "David (Poppy Steak Owner)",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Owner of Poppy Steak",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "对朋友、合伙人和投资人保持绝对诚实忠诚，打造顶级团队与服务体验，忠于品牌、坚信自己并持续努力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Believe in yourself always... you count me out, I'm going to do it.",
+          "summary_en": "Maintain unwavering self-belief and use doubters as fuel to prove them wrong.",
+          "summary_zh": "永远相信自己，把他人看轻化作动力",
+          "timestamp_sec": 496,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Every time I was told no, I continued to push through.",
+          "summary_en": "Keep pushing forward every time someone rejects or counts you out.",
+          "summary_zh": "每次被拒绝时都要继续顶住并向前冲",
+          "timestamp_sec": 505,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "They went into the high dollar district... their rent's $38,000 a month... they have no money in the bank to back them, they're setting themselves up for failure from the very get-go.",
+          "summary_en": "Avoid oversized rent and equipment spending early on so you keep cash reserves in the bank.",
+          "summary_zh": "创业初期别盲目高额租店和花光储备现金",
+          "timestamp_sec": 575,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "What budget are we working with, what is your rent, what is your payroll?",
+          "summary_en": "Know your exact budget, rent, and payroll numbers before committing capital.",
+          "summary_zh": "动工前必须算清预算、房租和薪资账目",
+          "timestamp_sec": 591,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "No business is a get-rich-quick, point blank period.",
+          "summary_en": "Do not enter business expecting easy, overnight wealth without putting in the hours.",
+          "summary_zh": "没有任何生意能一夜暴富",
+          "timestamp_sec": 601,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "If you want to put in the work you can make it, but you got to be able to sleep at the business.",
+          "summary_en": "Be willing to outwork everyone and live at your business until it succeeds.",
+          "summary_zh": "要想做成生意就得做好睡在店里的准备",
+          "timestamp_sec": 607,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "希腊移民家庭出身，白手起家；15年前一边备战健美比赛一边靠花生酱果酱三明治度日，每周在Craigslist发400条广告卖健身器材，2015年Facebook积累10万粉丝后逐步将健身房器材业务做向全球。",
+      "guest_name": "Global Gym Equipment Entrepreneur",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Gym Equipment Entrepreneur (18 years)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "永远相信自己并无视否定，算清预算、房租与薪资成本，保留银行现金流，做好亲力亲为甚至睡在店里的准备，切勿幻想一夜暴富。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "You have to have a system if you want to win... the system's so good that a 15-year-old can run the business.",
+          "summary_en": "Build a repeatable, watertight business system so simple anyone can execute it.",
+          "summary_zh": "打造标准化可复制的商业系统才能稳赢",
+          "timestamp_sec": 743,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Don't spend your earned income, invest it in assets.",
+          "summary_en": "Avoid spending earned income on luxuries until passive asset cash flow covers your goals.",
+          "summary_zh": "别把主动收入花掉，要将其投入资产",
+          "timestamp_sec": 783,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Whatever you can afford every single month, you put it into an S&P ETF and let it grow.",
+          "summary_en": "Dollar-cost average into an S&P 500 ETF every month to compound your initial cash.",
+          "summary_zh": "每月定投标普500 ETF，让资金持续复利",
+          "timestamp_sec": 789,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Work your ass off in your vehicle and your business.",
+          "summary_en": "Work relentlessly in your primary income vehicle to fuel your asset investments.",
+          "summary_zh": "在赚钱的主业中拼尽全力深耕打拼",
+          "timestamp_sec": 808,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Once you get to a certain point you have money compounding, start investing in multifamily.",
+          "summary_en": "Transition accumulated capital into multifamily real estate for cash flow and appreciation.",
+          "summary_zh": "资金积累到一定阶段后投资多户住宅房产",
+          "timestamp_sec": 812,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "The bank will lend you because it's not a personal residence, they want to see cash flow... those seven people paid the debt load.",
+          "summary_en": "Use bank debt on cash-flowing multifamily properties where tenants pay off the loan.",
+          "summary_zh": "善用银行贷款买下租金能覆盖月供的房产",
+          "timestamp_sec": 819,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Whether I work or not, sitting here with this guy, I'm making money right now standing here. That's what you got to be doing.",
+          "summary_en": "Build passive residual income streams so you earn money even when not working.",
+          "summary_zh": "打造不靠出卖时间也能自动生钱的被动资产",
+          "timestamp_sec": 844,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年穷困时为解决房租问题买下一栋8户公寓，靠另外7户租客偿还贷款实现免费居住并翻倍卖出；事业上深耕直销、客户管理与线索分发，打造出高自动化的数字产品系统，累计创造超20亿美元销售额。",
+      "guest_name": "Anthony Pal",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Real Estate Underwriting",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Entrepreneur & Systems Creator (Direct Sales & Digital Products)",
+      "wealth_detail": "Over $2B in sales",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "先找到能大量赚取主动收入的事业并打造标准化系统，不要花掉主动收入，而是每月定投标普500 ETF复利增长，之后投资多户住宅房产，等被动收入足够再享受消费。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Found a passion for helping other people, turned it into a business, blew it out of the water.",
+          "summary_en": "Turn a genuine personal passion for helping others into a thriving business.",
+          "summary_zh": "把帮助他人的热情转化为事业并做到极致",
+          "timestamp_sec": 912,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Get into Section 8 real estate right now... it produces higher than average cash-on-cash returns because the federal government overpays on the rent.",
+          "summary_en": "Invest in Section 8 properties for low entry prices and strong government-backed cash flow.",
+          "summary_zh": "投资低门槛高回报的Section 8房产",
+          "timestamp_sec": 929,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Reduce your lifestyle a little bit, save your money, take your savings and put that savings into an appreciating, cash-flowing asset.",
+          "summary_en": "Trim lifestyle spending, save aggressively, and buy appreciating cash-flowing assets.",
+          "summary_zh": "降低生活消费并攒钱投入升值生息资产",
+          "timestamp_sec": 984,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "If you do that consistently enough, there'll become a breaking point where you have enough money coming from your real estate assets to pay for your lifestyle.",
+          "summary_en": "Keep investing consistently until passive asset cash flow surpasses your living expenses.",
+          "summary_zh": "坚持定投生息资产直至被动收入覆盖开销",
+          "timestamp_sec": 1005,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Avoid Drugs, Alcohol & Vices",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Drugs and alcohol are for losers. If you do drugs and alcohol, the chances of you ever being financially free... are almost zero.",
+          "summary_en": "Stay completely away from drugs, alcohol, and destructive vices if you want success.",
+          "summary_zh": "彻底远离毒品与酒精等不良嗜好",
+          "timestamp_sec": 1054,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Your circle matters more than you realize. I see too many young people... hanging out with losers doing loser stuff.",
+          "summary_en": "Distance yourself from unmotivated peers and stay ruthlessly loyal to your future.",
+          "summary_zh": "果断疏远不思进取的损友圈层",
+          "timestamp_sec": 1069,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Chase relationships with winners and successful people that are like-minded that want the same things.",
+          "summary_en": "Intentionally pursue relationships with like-minded winners heading in the same direction.",
+          "summary_zh": "主动结交志同道合的成功者与赢家",
+          "timestamp_sec": 1106,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "21岁成功戒除毒瘾与酒瘾后发掘了助人热情，将其创办为新英格兰地区最大的戒瘾治疗服务机构，并于2021年以超过1亿美元的价格出售公司。",
+      "guest_name": "Eric Spafford",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Former Addiction Treatment Business Founder & Real Estate Investor",
+      "wealth_detail": "Over $100M in 2021 (business sale)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "远离毒品酒精，果断筛选社交圈并结交成功者；同时压缩生活开销，把积蓄持续投入Section 8等升值且有现金流的房产，直到被动租金覆盖生活。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "PWVoNu4ytEA",
+  "video_type": "street_multi"
+}

@@ -1,0 +1,413 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Master People Management",
+          "category": "Business & Strategy",
+          "quote": "The hardest part in business is people, managing people.",
+          "summary_en": "Recognize that managing people is the hardest challenge in scaling a business.",
+          "summary_zh": "管人是企业经营中最难的环节",
+          "timestamp_sec": 241,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Ultimately, knocked on doors, Cole. Just knocked on doors. No cell phones, beepers, and pay phone.",
+          "summary_en": "Win early B2B customers by relentlessly knocking on doors in person.",
+          "summary_zh": "靠逐户登门拜访硬啃下早期客户",
+          "timestamp_sec": 256,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "All organically growing. It was just kind of like you got the profits, put it back into the business, and just kept growing it.",
+          "summary_en": "Grow organically without outside debt by reinvesting profits back into the business.",
+          "summary_zh": "不融资借债，把利润滚雪球再投入业务",
+          "timestamp_sec": 266,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "What was the best financial decision you made throughout your career? Great question. Betting on myself, right?",
+          "summary_en": "Make your biggest financial bet on yourself and your own execution.",
+          "summary_zh": "职业生涯最好的财务决策是押注自己",
+          "timestamp_sec": 276,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Don't try to go to zero to 100, grow 0 to 5, then 10, 15. Take your time. It's a marathon, not a sprint... Don't go for the quick money. Go for building a business that's worth something to many.",
+          "summary_en": "Avoid chasing quick money; scale steadily as a long-term marathon to build real enterprise value.",
+          "summary_zh": "别贪快钱，像跑马拉松一样稳步做大价值",
+          "timestamp_sec": 291,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "You got to do something that you love. It has to be internal passion. You can't get up every day at 4 in the morning if you don't love it for 30 straight years.",
+          "summary_en": "Build a business you genuinely love so internal passion sustains decades of 4 AM mornings.",
+          "summary_zh": "做热爱的事业，靠内驱力坚持三十年早起",
+          "timestamp_sec": 310,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "Stay loyal, hungry, and become friends. You never have customers. They become your best friend. Buy him ice cream, buy them hot dogs, and that's how you get somewhere.",
+          "summary_en": "Retain clients long-term by staying loyal, humble, and turning customers into genuine friends.",
+          "summary_zh": "保持忠诚与饥饿感，把客户变成挚友留存",
+          "timestamp_sec": 329,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Did you ever have anybody that doubted you in business? Oh, that's the best people I want to go after.",
+          "summary_en": "Use doubters as fuel and target proving them wrong.",
+          "summary_zh": "把质疑你的人当作最想迎面证明的动力",
+          "timestamp_sec": 339,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学毕业后亲自开卡车在纽约商业楼顶吸砾石，随后切入电厂、炼油厂等工业清洗领域，用攒下的钱买下第一辆18万美元真空卡车，靠利润再投入打造全国性真空卡车及储液罐业务并卖给四家上市公司。",
+      "guest_name": "Nationwide Vacuum Truck & Liquid Storage Tank Founder",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder (Nationwide Vacuum Truck & Liquid Storage Tank Businesses; Sold to 4 Public Companies)",
+      "wealth_detail": "North of $100M/yr revenue (sold to 4 public companies); bought first vacuum truck for $180,000",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要指望一步从0冲到100，应稳扎稳打跑长期马拉松；亲自敲门获客、把客户当朋友维系忠诚度，并坚持做自己真正热爱的事业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "real estate was popping off in California and the most expensive real estate, well, San Francisco. So, that was where we started.",
+          "summary_en": "Launch in booming, high-value markets where big money is already moving.",
+          "summary_zh": "选择正在爆发且客单价最高的大市场起步",
+          "timestamp_sec": 367,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Don't try to pursue SEO. It's all but dead. Get out there and market yourself on social media.",
+          "summary_en": "Skip saturated SEO tactics and build distribution by marketing yourself on social media.",
+          "summary_zh": "别再死磕SEO，去社交媒体打造个人品牌获客",
+          "timestamp_sec": 413,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Starting my own company as a young kid.",
+          "summary_en": "Start your own company early in life as the turning point toward financial freedom.",
+          "summary_zh": "趁年轻尽早创办属于自己的公司实现跃迁",
+          "timestamp_sec": 429,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Do you hire financial professionals that can help you manage everything better than yourself? Because you need a parent in the situation.",
+          "summary_en": "Preserve wealth by hiring financial professionals who manage money better than you do.",
+          "summary_zh": "聘请专业财务人士帮自己守住并管理财富",
+          "timestamp_sec": 433,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "The goal is to be the dumbest guy in the room. If you're the smartest guy in the room, you're in the wrong room.",
+          "summary_en": "Leave rooms where you are the smartest person and surround yourself with stronger peers.",
+          "summary_zh": "让自己成为房间里最笨的人，否则就换圈子",
+          "timestamp_sec": 441,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Don't be prepared to do the deal at the table. Be prepared to do the deal outside the room... You'll always get a better deal if you leave it on the table and walk away... The longer play pays better.",
+          "summary_en": "Win larger settlements by being willing to walk away from the table and play the long game.",
+          "summary_zh": "谈判敢于拒绝低价、起身离场，长期博弈回报更高",
+          "timestamp_sec": 459,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "25岁在旧金山乘加州地产热潮创办抵押贷款银行赚到第一个100万美元；随后转向人身伤害与大规模侵权诉讼律师行业，早年靠SEO线上获客打响口碑，曾拿下5400万美元单案和解。",
+      "guest_name": "Bryce Angel",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder & Personal Injury / Mass Tort Attorney (Former Mortgage Bank Founder)",
+      "wealth_detail": "Made $1M by age 25; resolved a single personal injury case for $54M (walked away from $30M offer)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "趁年轻果断自己创业；多去Instagram等社交媒体曝光自己而别迷信SEO；进比自己厉害的圈子，并在重大谈判中沉住气打持久战。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "there's a lot to be said for working in one place as long as it's a good company. Doesn't matter what they do. It's got to have an opportunity and it's got to have a culture that's going to allow people to succeed.",
+          "summary_en": "Commit to one great company with strong growth opportunity and a culture that lets people succeed.",
+          "summary_zh": "选一家有好文化与上升机会的公司长期深耕",
+          "timestamp_sec": 577,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Every day I went to my boss at the end of the day and I said, 'I'm done with what I had to do today. Is there anything else you want me to do?' ... my advice is be your boss's right-hand person... You got to work your butt off.",
+          "summary_en": "Volunteer for extra work daily, execute at a high level, and become your boss's right-hand person.",
+          "summary_zh": "每天主动找上司领额外任务，拼命干成其得力助手",
+          "timestamp_sec": 667,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "life doesn't quit throwing hard problems at you. You just get more used to dealing with them. And as you get more used to dealing with them, you don't overreact as much as you did when you were younger.",
+          "summary_en": "Expect constant business problems and build calm tolerance as pressure scales up.",
+          "summary_zh": "难题永远不会消失，要逐步练出抗压定力不乱阵脚",
+          "timestamp_sec": 735,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "My father and my predecessor as CEO before I took over the role were probably my biggest influences in business... I worked directly for my predecessor, I learned so much from him.",
+          "summary_en": "Learn directly under strong business mentors such as seasoned leaders and predecessors.",
+          "summary_zh": "紧跟优秀前辈与商业导师，在共事中深度学习",
+          "timestamp_sec": 765,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "整个职业生涯深耕同一家上市商业服务公司，靠每天主动向上司请求分担额外任务并高质量交付，一步步升任总裁和CEO，掌舵18年管理4.2万至4.3万名员工。",
+      "guest_name": "Scott (Public Business Services Company Former CEO)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [
+        "Father (businessman)",
+        "Predecessor CEO"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Former CEO (Public Business Services Company, 42,000-43,000 Employees)",
+      "wealth_detail": "Host cites $12B+ net worth; led multi-billion dollar/yr revenue public company for 18 years as CEO",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "挑一家有上升空间和好文化的公司长期扎根；每天做完本职后主动帮老板分忧、借此学习上位者工作，同时不断提升承压能力。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "AI is driving a lot of my business in data center business. Like I supply generators to data centers all over the world... Leveraging AI from an intelligence standpoint in my business operations. That's the difference.",
+          "summary_en": "Position your business around massive secular tailwinds like AI data center power demand while using AI internally.",
+          "summary_zh": "借势AI数据中心等大风口，并用AI赋能运营",
+          "timestamp_sec": 903,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Diversify Geographies & Sectors",
+          "category": "Business & Strategy",
+          "quote": "I got a lot of geographical diversity and I've got a lot of sector diversity.",
+          "summary_en": "Reduce concentration risk by diversifying across multiple geographies and industry sectors.",
+          "summary_zh": "跨地域与跨行业多元布局以分散业务风险",
+          "timestamp_sec": 943,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "developing a relationship with that client, making sure that he has a sense of trust... reinforced that on that confidence day in and day out and staying connected with these guys.",
+          "summary_en": "Close massive contracts by continually reassuring clients and staying closely connected.",
+          "summary_zh": "持续跟进让客户安心，用日复一日的信任促成大单",
+          "timestamp_sec": 975,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "You got to know your demographic. You got to know who you're dealing with... If I was to wear a suit going in to meet with a guy down in oil and gas... I wouldn't get a deal done.",
+          "summary_en": "Tailor your wardrobe, setting, and relationship-building style to each client demographic.",
+          "summary_zh": "摸透客户人群特征，因人制宜调整着装与社交方式",
+          "timestamp_sec": 1010,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Lead With Radical Transparency",
+          "category": "Business & Strategy",
+          "quote": "Transparency... my office door is glass and it's glass for a purpose... if there's some change in the company... they are the first to know.",
+          "summary_en": "Communicate openly with employees so they feel trusted and are always the first to hear major changes.",
+          "summary_zh": "像玻璃门一样保持管理透明，重大变化先告知员工",
+          "timestamp_sec": 1067,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "没上过大学、机械工出身，42岁才赚到第一个100万美元；创办跨美加的工业设备与发电机业务，乘AI数据中心电力需求大爆发做到年规模10亿美元，单笔订单曾达2.5亿美元。",
+      "guest_name": "John (Industrial Equipment & Generator Founder)",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Negotiation & Deal-Making",
+        "Public Speaking & Communication",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder & Owner (Industrial Equipment & Generator Sales/Rental Business)",
+      "wealth_detail": "$1M at age 42; $500M peak single-year figure; $1B business; $250M single customer order",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "切入高景气行业大趋势并做好跨行业地域分散；针对不同客群灵活调整沟通与着装以建立深厚信任；对员工保持高度透明沟通。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Definitely buy... if you got a business with a track record, you can go raise money from a bank and then sort of leverage that up to the next deal.",
+          "summary_en": "Buy existing businesses with proven track records so you can raise bank debt and compound into bigger deals.",
+          "summary_zh": "优先收购有流水记录的成熟生意并用银行杠杆放大",
+          "timestamp_sec": 1154,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "you've got to have your own track record. I was in the consulting business and the banks trusted me... I did that over a period of four or five years.",
+          "summary_en": "Spend years building a trustworthy personal track record with banks before pursuing leveraged deals.",
+          "summary_zh": "花数年沉淀个人信用与银行关系，为融资并购铺路",
+          "timestamp_sec": 1173,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Have you ever lost money? Oh, yeah. I sure have. Yeah. But I mean, that's part of the learning process.",
+          "summary_en": "Treat financial losses as an unavoidable tuition fee in the entrepreneurial learning process.",
+          "summary_zh": "把亏钱当作创业必经的学习过程与交学费",
+          "timestamp_sec": 1187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "most guys that get into that status are willing to take risk... My second deal, I leveraged my house, everything to buy the company.",
+          "summary_en": "Be willing to take bold, high-conviction risks when acquiring companies even when others doubt it.",
+          "summary_zh": "认准机会就敢于承担大风险，甚至全力押注并购",
+          "timestamp_sec": 1214,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "you have to really have a lot of confidence in your ability and yourself.",
+          "summary_en": "Maintain strong confidence in your own abilities when taking major entrepreneurial leaps.",
+          "summary_zh": "在众人劝阻时依然对自己和自身能力保持坚定自信",
+          "timestamp_sec": 1237,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "understanding the difference between margin and the velocity of cash... Walmart, they make a little bit, but they turn that cash so fast. They still make a lot of money.",
+          "summary_en": "Understand the difference between profit margin and cash velocity—high turnover can generate massive profits.",
+          "summary_zh": "懂利润率与现金周转速度的区别，高周转也能赚大钱",
+          "timestamp_sec": 1247,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "if you're going to get rich... you got to own your own business. That's the way I think you're going to be successful and ultimately make money.",
+          "summary_en": "Own your own business rather than relying solely on climbing a corporate ladder to get rich.",
+          "summary_zh": "想要真正致富，核心在于拥有属于自己的企业股权",
+          "timestamp_sec": 1279,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "the trend is going to be manufacturing in the US... our private equity firm only buys US manufacturing companies.",
+          "summary_en": "Follow major macro tailwinds such as investing in or acquiring US manufacturing businesses.",
+          "summary_zh": "看好美国制造业回流趋势，顺势布局本土制造并购",
+          "timestamp_sec": 1295,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "白手起家，先做咨询业务花了四五年积累与银行的信任关系，随后把房子等全部资产抵押融资做杠杆收购，先后运营印刷、展示架、纸箱等四五家公司并转型私募股权，单年最高赚取数亿美元。",
+      "guest_name": "76-Year-Old Private Equity & Manufacturing Investor",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Private Equity Firm Owner (Former Printing, Display, Carton & Consulting Business Owner)",
+      "wealth_detail": "A few hundred million in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "想致富就要拥有自己的企业；比起白手起家，更推荐买下有历史流水记录的现成生意借银行杠杆扩张，同时吃透现金周转率、积累银行信用并敢于押注大机会。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "gotxAQD0YkE",
+  "video_type": "street_multi"
+}

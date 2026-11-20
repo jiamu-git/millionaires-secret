@@ -1,0 +1,237 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I wasn't in seven figures until I did delegate. You can't do it all yourself... treat people very well, pay people very well, and have opportunities of growth within the company.",
+          "summary_en": "Delegate what you are not best at, pay great people well, and give them room to grow.",
+          "summary_zh": "学会授权并高薪善待团队才突破七位数",
+          "timestamp_sec": 119,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "A lot of successful people that I see are married... when you're married and you're not focused on everything outside, you're so focused.",
+          "summary_en": "Build a stable personal life to eliminate outside distractions and stay focused on your goals.",
+          "summary_zh": "保持感情稳定以减少外界干扰，专注事业",
+          "timestamp_sec": 181,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "God has to be the foundation of everything... I asked God, 'I want a seven-figure business' and he threw a bunch of lessons at me that I had to learn.",
+          "summary_en": "Keep faith as your foundation and embrace the hard lessons required to build a seven-figure business.",
+          "summary_zh": "以信仰为根基，把挑战当成必经的功课",
+          "timestamp_sec": 209,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I have an idea, let's execute, let's figure it out on the way... I'm not going to spend two weeks on a logo. You got to take action.",
+          "summary_en": "Execute on ideas immediately and fix issues as you go rather than waiting for perfection.",
+          "summary_zh": "有想法立刻执行边干边改，别纠结完美",
+          "timestamp_sec": 261,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾靠跑Uber Eats和Instacart维生，21岁时把握疫情期间市场流动性充裕的窗口期全职交易赚到第一个100万美元，随后学会授权并组建团队，单年最高赚到150万美元。",
+      "guest_name": "Fontainebleau Lamborghini Trader & Entrepreneur",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "The Bible (Ephesians 3:20)",
+        "Pastor / Spiritual Mentor"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Full-Time Trader & Business Owner (24yo)",
+      "wealth_detail": "$1.5M highest single year; became a millionaire at 21",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "有想法就立刻执行，别花两周纠结Logo等细节，在行动中边做边调整；同时尽早学会授权，高薪善待优秀团队成员。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Multi-Generational Legacy",
+          "category": "Mindset & Resilience",
+          "quote": "The world becomes a better place when a man plants seeds for the future generations for shade that he will never enjoy... you hustle for your family... the game is the long game.",
+          "summary_en": "Play the long game and work to build lasting opportunities and legacy for your family and future generations.",
+          "summary_zh": "着眼长远为家族与后代铺路，前人栽树",
+          "timestamp_sec": 334,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You can open up a mindset to a different skill set... people with the open mindset, doesn't matter what arena you put them in, they want to excel. Put me in the mail room, I guarantee you within a certain period of time I won't stay here.",
+          "summary_en": "Cultivate an open, hungry mindset over a rigid skillset so you rise to the top of any room you enter.",
+          "summary_zh": "开放心态比技能更重要，拒绝自我设限",
+          "timestamp_sec": 374,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "It provides my moral compass, knowing that there's something bigger than you. That's the ego killer.",
+          "summary_en": "Stay grounded in faith as a moral compass and ego killer, remembering there is something bigger than you.",
+          "summary_zh": "信仰提供道德罗盘，克制傲慢与自我中心",
+          "timestamp_sec": 392,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年曾陷入破产困境，凭借天生的销售意识与企业家精神创办医疗耗材和军工级涂料制造公司，成为纽约州西部最大的少数族裔供应商，单年最高收入达540万美元。",
+      "guest_name": "James Johnson",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Medical & Military-Grade Paint Manufacturing Founder (45yo)",
+      "wealth_detail": "$5.4M highest single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要只为个人短期利益奔波，要放眼长远为家族后代种树乘凉；同时保持开放进取的心态，哪怕从收发室做起也要力争上游。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "It starts with the balls and the humility to look at that person and say, 'Will you help me?' ... We don't lack resources, we just lack resourcefulness.",
+          "summary_en": "Have the courage and humility to ask capable people for help—you lack resourcefulness, not resources.",
+          "summary_zh": "有勇气又谦卑地向高手求助，善于调动资源",
+          "timestamp_sec": 474,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on Increasing Income Over Saving",
+          "category": "Wealth & Investing",
+          "quote": "You can't save your way to being rich... A lot of people will say how can I afford that thing and bust out all their bills... you need to make more money.",
+          "summary_en": "Stop trying to budget your way to wealth by pinching small bills; focus on increasing your income.",
+          "summary_zh": "无法靠省钱致富，核心在于把收入做大",
+          "timestamp_sec": 533,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I'm a big believer in buying cash flowing assets... and the asset that I like to buy is rental properties.",
+          "summary_en": "Build lasting wealth by purchasing cash-flowing assets, especially rental real estate.",
+          "summary_zh": "买入能持续产生现金流的出租房产",
+          "timestamp_sec": 554,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Politics keeps people broke, football keeps people broke, all the distraction keeps people broke, alcohol keeps people broke... we are creators by default, but with no distraction.",
+          "summary_en": "Cut out alcohol, sports obsession, and political distractions that numb your natural drive to create.",
+          "summary_zh": "远离酒精与娱乐政治等麻痹野心的干扰",
+          "timestamp_sec": 569,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I sacrificed my health, I sacrificed my friend groups, I sacrificed my family, I sacrificed my sanity... every single part of my life, and I look back now and I'm grateful that I did.",
+          "summary_en": "Be willing to endure extreme sacrifice and total commitment to build extraordinary wealth.",
+          "summary_zh": "成大事需极度投入，甘愿为目标承受牺牲",
+          "timestamp_sec": 629,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "1岁时父亲离家，由母亲独自抚养长大且高中辍学未上大学；靠敢于开口又谦卑地向有能力的人求助撬动资源，深耕拉斯维加斯房地产近20年，做到年营收数千万美元。",
+      "guest_name": "Las Vegas Convention Center Lamborghini Real Estate Investor",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Entrepreneur & Investor (20yr Veteran)",
+      "wealth_detail": "Tens of millions of dollars in annual revenue (multiple 8-figure entrepreneur)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要抱怨缺乏背景资源，鼓起勇气谦卑向能帮你的人开口；戒掉酒精与消费娱乐等麻痹野心的习惯，专注提高赚钱能力并用现金买入收租房产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "It was still such a time for money exchange... I just realized if I can work for myself and allow my money to make money for me then I'll probably see more success.",
+          "summary_en": "Break free from trading hours for dollars by working for yourself and building assets that pay you.",
+          "summary_zh": "跳出用时间换钱的局限，建立可复制资产",
+          "timestamp_sec": 709,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "I think a lot of people think that they need a ton of cash to start businesses... look into business credit and use business credit to start a business that will pay you.",
+          "summary_en": "Leverage business credit to launch a cash-flowing business instead of waiting until you save huge cash reserves.",
+          "summary_zh": "善用商业信用作为启动杠杆，而非死等存钱",
+          "timestamp_sec": 745,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I tried pretty much everything like everything you see on Facebook and TikTok, I tried it all, and Airbnb is what worked for me first so I just went with it.",
+          "summary_en": "Test until you find a model that gains traction, then commit fully to that winning vehicle.",
+          "summary_zh": "尝试多种项目后专注押注跑通的单一赛道",
+          "timestamp_sec": 802,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "If you don't have the means to buy, that's perfectly fine, you can start off by renting your first property... it's a numbers game, just continue scaling as long as you find winning properties.",
+          "summary_en": "Start lean by renting your first property rather than buying, then systematically scale winning properties.",
+          "summary_zh": "前期租房轻资产启动，跑通后不断复制扩张",
+          "timestamp_sec": 815,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "疫情期间失业、身上仅剩20美元，决心摆脱按小时卖时间的保姆工作；借助商业信用启动Airbnb短租业务，几个月内月收入从3千美元飙升至6万美元，首年营收近40万美元，20岁成为百万富翁，去年业务营收近700万美元。",
+      "guest_name": "Las Vegas G-Wagon Airbnb Founder",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Airbnb Business Owner & Educator (21yo)",
+      "wealth_detail": "Nearly $7M generated last year; ~$400k first calendar year; became a millionaire at 20",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "若手头没有大笔本金，可用现有工作收入或研究商业信用（Business Credit）启动能带来被动收入的生意；做Airbnb不一定要先买房，可从租下第一套房源轻资产起步，跑通盈利模型后当作数字游戏持续复制扩张。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "n3_QuKa208w",
+  "video_type": "street_multi"
+}

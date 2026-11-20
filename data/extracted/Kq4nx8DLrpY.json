@@ -1,0 +1,489 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "your network is your network keep the right people around you who push you and that's all that matters you're going to go far in life that way",
+          "summary_en": "Your network is your net worth; keep driven people around you who push you forward.",
+          "summary_zh": "人脉即净值，与鞭策你进步的人同行",
+          "timestamp_sec": 29,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "learn to hold on to money the trick to being like financially well off is being able to hold money a lot of people can make a lot of money but the trick is being able to hold on to that money",
+          "summary_en": "Learn to retain what you earn; true wealth comes from holding onto money, not just making it.",
+          "summary_zh": "学会守住赚到的钱，留存财富是关键",
+          "timestamp_sec": 45,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Houston Private Jet & Exotic Car Concierge Founder (from Nigeria)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder (Private Jet & Yacht Charter / Exotic Cars)",
+      "wealth_detail": "$2.5M-$5M in a single year (host clarifies $2M-$5M/yr)",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "重视人脉圈层，与激励自己进步的人同行，同时学会守住赚到的钱。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "you got to follow your passion but it's okay for passions to be redirected as you get a little older",
+          "summary_en": "Follow your passion, and accept that your passions can shift as you grow older.",
+          "summary_zh": "追随热爱并允许方向随成长而调整",
+          "timestamp_sec": 90,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "you should only have a job long enough to learn what you can from it at that point it's time to move on",
+          "summary_en": "Keep a job only long enough to learn everything you can, then move on to build your own thing.",
+          "summary_zh": "打工只为学习，学成后应果断离开创业",
+          "timestamp_sec": 100,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "years where I made good money let's say around four to five million then you can offset some losses and then reinvest that into growth",
+          "summary_en": "Use profitable years to offset earlier losses and reinvest profits back into growth.",
+          "summary_zh": "将盈利再投资于业务增长与扩张",
+          "timestamp_sec": 110,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "the first one's always the hardest it took me years to make it profitable you know there was times where I worked like 96 hours straight",
+          "summary_en": "Expect extreme grind early on—your first business takes relentless hours before turning profitable.",
+          "summary_zh": "创业初期要做好连轴转苦干的准备",
+          "timestamp_sec": 119,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Extreme Ownership & Ego-Free Accountability",
+          "category": "Mindset & Resilience",
+          "quote": "lose the ego ... it's your business take the blame for everything ... how could I have picked them better how can I train them better how can I motivate them better",
+          "summary_en": "Drop your ego and take total blame for every mistake in your business so you can fix hiring, training, and motivation.",
+          "summary_zh": "放下自我，把一切问题归因于自己",
+          "timestamp_sec": 127,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "rule number one in business is almost everybody will try to take advantage of you especially when you're new and trusting so before I say that I say don't give it to anybody",
+          "summary_en": "Be cautious when you are new and trusting—don't hand your money over blindly, as many will try to take advantage of you.",
+          "summary_zh": "新手期防人之心不可无，勿轻信托付资金",
+          "timestamp_sec": 152,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "when you become 20 is when you want to spend money on that new car right away I didn't have my first nice car till I was 30 years old if you spent all your money too fast you won't be able to have the money to invest",
+          "summary_en": "Don't blow money on a nice car in your twenties; preserve capital so you can invest when opportunities arise.",
+          "summary_zh": "年轻时别急着买豪车，留钱用于投资",
+          "timestamp_sec": 161,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "最初按父母意愿学计算机，后转学医学成为急诊科医生，随后涉足商业并开始开发湖景房地产。",
+      "guest_name": "Houston ER Doctor & Lake Home Developer",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Emergency Room Doctor & Real Estate Developer",
+      "wealth_detail": "$4M-$5M in a single good year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "追随热爱的事业并敢于中途转型；打工学会本领后就自己单干，创业要放下自我、勇于担责，年轻时别急着买豪车而要留钱投资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "follow your dreams you only have one life and life is finite ... do everything with passion whether it's your work or your Pursuits your hobbies whatever enjoy",
+          "summary_en": "Life is finite—follow your dreams and approach your work and hobbies with passion.",
+          "summary_zh": "生命有限，满怀热情地追逐梦想与工作",
+          "timestamp_sec": 180,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Houston Offshore Oil & Gas Ship Captain",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Ship Captain (Offshore Oil & Gas)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "生命有限，无论从事什么工作或爱好都要满怀热情去追逐梦想。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "get everything written out in paperwork when you open a business with a partner always make sure there's a decision maker someone on the board of directors that can make a decision if you and your partner do not agree",
+          "summary_en": "Put every partner agreement in writing and designate a clear tie-breaking decision maker.",
+          "summary_zh": "合伙开店必须签好书面协议并定拍板人",
+          "timestamp_sec": 239,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Prioritize Clear Business Communication",
+          "category": "Business & Strategy",
+          "quote": "communication is key that's the number one thing in any successful business you got to communicate with your partner or your vendors",
+          "summary_en": "Make open communication with partners and vendors your top priority in business.",
+          "summary_zh": "与合伙人及供应商保持高频顺畅沟通",
+          "timestamp_sec": 249,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "they don't want to invest in businesses they invest in people ... I tell all my key employees I will write you a check it could be 5 000 it could be ten thousand if I reach this number at the end of the year",
+          "summary_en": "Invest in people rather than just businesses, and motivate key employees with clear year-end performance bonuses.",
+          "summary_zh": "投资优秀人才并用年终奖金激励核心员工",
+          "timestamp_sec": 260,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I'm here seven days a week seven lunches seven dinners I never leave I rarely take a break ... showing up and being 100 yourself and being true to your business just being there",
+          "summary_en": "Show up every single day, stay hands-on, and dedicate yourself fully to your business.",
+          "summary_zh": "每周七天亲临一线，全身心守好事业",
+          "timestamp_sec": 264,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "I touch every single table I make everyone feel special ... I never use the word no because no one wants to hear that so I said I can make anything happen",
+          "summary_en": "Make every customer feel special and never tell them 'no'—always find a way to fulfill their request.",
+          "summary_zh": "对顾客绝不说不，用极致服务打动每个人",
+          "timestamp_sec": 281,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "16岁从餐厅端盘子起步，一路晋升最终拥有自己的高坪效餐厅。",
+      "guest_name": "Houston High-Revenue Restaurant Owner",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Restaurant Owner",
+      "wealth_detail": "~$10M annual restaurant revenue ($1M in December) across 4,600 sq ft",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "合伙创业前务必签署书面协议并明确最终决策人；坚持每天亲临一线，用奖金激励核心团队，并对客户绝不说“不”。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "get into the areas that are starting to gentrify but you got to get there early ... get around schools anywhere they're doing new HEBs or doing you know Amazon shopping centers",
+          "summary_en": "Buy real estate early in gentrifying areas near new schools, major grocers, and logistics/shopping hubs.",
+          "summary_zh": "提前布局绅士化及大型商超学校周边地产",
+          "timestamp_sec": 352,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "get around more people that are doing what you want to do and find a mentor continue to get better",
+          "summary_en": "Surround yourself with people already doing what you want to do and find a mentor.",
+          "summary_zh": "多结交已做成事的人，寻找靠谱导师",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "don't worry about being perfect and um advice I'll tell somebody today just start",
+          "summary_en": "Stop waiting for perfection—just start taking action today.",
+          "summary_zh": "别等到万事俱备才行动，先干起来再说",
+          "timestamp_sec": 371,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事房地产投资，同时在路易斯安那州拥有餐厅和一个集装箱商业园。",
+      "guest_name": "Kim Jackson",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Real Estate Investor & Hospitality/Container Park Owner",
+      "wealth_detail": "$2M in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "不要追求完美，立刻开始行动；寻找导师并与优秀同行待在一起，买房要提前布局学校、新商超和正在绅士化的区域。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "they need to think in how to grow their own business and not to be an employee ... if somebody will teach me in the University that the best will be to have your own business I would follow that",
+          "summary_en": "Adopt an ownership mindset early and focus on building your own business instead of remaining an employee.",
+          "summary_zh": "尽早树立创业思维，别一辈子只做打工人",
+          "timestamp_sec": 381,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "the most important in life is relationships through relationships do business that's the best",
+          "summary_en": "Prioritize building genuine relationships, as strong relationships are the best way to do business.",
+          "summary_zh": "人脉关系最重要，靠真诚关系做成生意",
+          "timestamp_sec": 406,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "当了23年打工人后创立自己的公司，向墨西哥出口丙烷。",
+      "guest_name": "Houston Propane Export Business Owner",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Owner, Propane Export Company",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "早点树立自己做生意而非打工的意识，做生意最重要的是经营好人脉关系。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I probably would have raised capital and I would have surrounded myself with really good people from day one",
+          "summary_en": "Raise outside capital and build a great team around you from day one.",
+          "summary_zh": "创业第一天就要注重融资并搭建强力团队",
+          "timestamp_sec": 432,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "real estate is number one",
+          "summary_en": "Make real estate your number one priority when investing business profits.",
+          "summary_zh": "有钱后将房地产作为第一优先投资标的",
+          "timestamp_sec": 445,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "you should have a cushion six to 12 months of your spend",
+          "summary_en": "Maintain a cash reserve covering 6 to 12 months of your living expenses.",
+          "summary_zh": "至少预留六至十二个月的生活应急资金",
+          "timestamp_sec": 447,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "as far as stocks S P 500 I mean Warren Buffett's gonna bet a million dollars against the top 10 hedge funds and win 10 out 10 times over a decade ... just by the S P 500 that's it",
+          "summary_en": "Don't try to outsmart top hedge funds—simply invest in the S&P 500 index for stocks.",
+          "summary_zh": "股市投资直接买入标普指数，无需跑赢专家",
+          "timestamp_sec": 450,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学辍学后做广告销售、23岁卖雷克萨斯汽车、25岁做按揭贷款并创办按揭公司，现经营面向高端餐厅的进口公司 worldclass.com。",
+      "guest_name": "WorldClass.com Importer & Former Mortgage Company Founder",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Warren Buffett"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Founder, worldclass.com (Fine Restaurant Importer)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "创业第一天就应融资并组建好团队；赚钱后优先投房产，留足6至12个月开支备用金，股票则直接买标普500指数。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid the Crowd & Continuously Adapt",
+          "category": "Mindset & Resilience",
+          "quote": "you can't just do what everyone else is doing and you have to constantly change yourself all the time",
+          "summary_en": "Avoid following the crowded lane like everyone else and constantly reinvent yourself.",
+          "summary_zh": "别随大流挤热门赛道，要不断自我革新",
+          "timestamp_sec": 467,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you really have to put yourself in you never say no you tell those doctors you tell whoever you're selling to you want my product because it's the best ... and you never give up on them",
+          "summary_en": "Project total conviction that your product is the best, never say no, and never give up on prospects.",
+          "summary_zh": "坚信自家产品最好，销售中绝不轻言放弃",
+          "timestamp_sec": 492,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "keep showing them your customer service you keep showing them yourself because in sales it is you that they're buying it's your customer service it's your commitment to them",
+          "summary_en": "Remember that clients buy you and your commitment—deliver relentless customer service.",
+          "summary_zh": "客户买的其实是你和你的极致售后服务",
+          "timestamp_sec": 503,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕足踝医疗植入物销售细分领域，年收入达40万至50万美元。",
+      "guest_name": "Houston Medical Implant Sales Rep (Foot & Ankle)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Medical Implant Sales Representative (Foot & Ankle)",
+      "wealth_detail": "$400K-$500K in a single year",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "不要随大流走拥挤的路，要不断改变自己；销售本质上是推销自己与极致售后服务，绝不放弃客户。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "the key is that you never stop investing in yourself",
+          "summary_en": "Never stop investing in yourself and developing your own skill set.",
+          "summary_zh": "永远不要停止自我投资与能力提升",
+          "timestamp_sec": 519,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "you never stop investing in real estate",
+          "summary_en": "Keep investing consistently in real estate over time.",
+          "summary_zh": "坚持长期投资房地产，持续积累不动产",
+          "timestamp_sec": 521,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Earn a High-Value Technical Degree (e.g., Engineering)",
+          "category": "Actionable Skills & Habits",
+          "quote": "do exactly what I did go to college and get a degree in engineering",
+          "summary_en": "Go to college and earn a practical, high-value degree such as engineering.",
+          "summary_zh": "攻读工程等硬核学位仍是稳健的成功路径",
+          "timestamp_sec": 529,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "通过大学攻读工程学位成为电气工程师兼项目经理，最高年薪30万美元，并将资金全部投入投资。",
+      "guest_name": "Houston Electrical Engineer & Project Manager",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Real Estate Underwriting"
+      ],
+      "role_or_title": "Electrical Engineer & Project Manager",
+      "wealth_detail": "$300K in a single year",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "永远不要停止投资自己和房地产；读大学攻读工程专业是稳健路径，但若个人能力突出也可不靠文凭创业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you always sell yourself first if they like you they'll buy from you and ask a bunch of questions ... if you cannot sell yourself you're not going to be successful anywhere",
+          "summary_en": "Sell yourself first so people like you, ask lots of questions so clients sell themselves, and recognize that self-selling is essential in every profession.",
+          "summary_zh": "各行各业都要先推销自己，多提问促成交",
+          "timestamp_sec": 561,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Houston Home & Commercial Real Estate Builder",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Residential & Commercial Real Estate Builder",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "无论从事会计、工程还是其他行业，首要技能都是推销自己；通过让对方喜欢自己并大量提问，客户就会主动买单。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "Kq4nx8DLrpY",
+  "video_type": "street_multi"
+}

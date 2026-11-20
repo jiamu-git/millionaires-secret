@@ -1,0 +1,128 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Don't trade dollars for hours because no matter how much you charge per hour you're going to be limited, so you have to figure out how to make passive income and build systems.",
+          "summary_en": "Stop trading hours for dollars; build systems and passive income streams so you make money in your sleep.",
+          "summary_zh": "不要出卖时间换钱，打造睡后收入系统",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Real estate is a good one... you don't have to have a lot of capital, there's a lot of first-time homeowner programs.",
+          "summary_en": "Use low-capital first-time homeowner programs as a practical entry point into real estate and passive income.",
+          "summary_zh": "借助首套房政策低门槛切入房产投资",
+          "timestamp_sec": 259,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Buy Existing Businesses Instead of Starting From Scratch",
+          "category": "Business & Strategy",
+          "quote": "Most people want to build a business from scratch, but you don't have to do that today. You go get the playbook, it's already done.",
+          "summary_en": "Buy existing, proven businesses via BizBuySell, business brokers, or cold calling retiring Baby Boomers ('gray tsunami') instead of building from scratch.",
+          "summary_zh": "不从零创业，直接收购成熟剧本企业",
+          "timestamp_sec": 402,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "The focus is getting stuff that cash flows, so laundromat, pool companies, I like the vending machine business... they're recession proof.",
+          "summary_en": "Target recession-proof, low-labor traditional businesses with reliable cash flow such as laundromats, pool companies, and vending machines.",
+          "summary_zh": "聚焦抗衰退、重现金流的传统刚需生意",
+          "timestamp_sec": 301,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "You're finding businesses that cash flow at $20,000 a month and you can service a loan for $7,000 a month or $10,000 a month, you're up $10,000.",
+          "summary_en": "Leverage SBA 7(a) loans and creative seller financing based on the target business's credit and cash flow so profits easily cover debt service.",
+          "summary_zh": "善用SBA贷款等杠杆收购正现金流企业",
+          "timestamp_sec": 321,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I started out broke in terms of no money, not broke mindset... I was always thinking way beyond where I was.",
+          "summary_en": "Separate having no money from having a broke mindset; always think far beyond your current circumstances.",
+          "summary_zh": "保持富人思维，永远不要有穷人认知",
+          "timestamp_sec": 351,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Faith is critical... when you truly, truly believe something, it's going to drive your actions, the way you think, and the relationships that you build.",
+          "summary_en": "Anchor yourself in faith and genuine belief, which practically drives your daily actions, thinking, and relationships.",
+          "summary_zh": "坚定信仰与信念，驱动行动与人际建立",
+          "timestamp_sec": 601,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Master Marketing & Visibility",
+          "category": "Actionable Skills & Habits",
+          "quote": "Everybody needs you, they just don't know who you are. So your job is to identify who those people are, get to the highest mountaintop that you can and tell them who you are.",
+          "summary_en": "Master marketing—even with the best product, business growth depends on identifying your audience and loudly making yourself known.",
+          "summary_zh": "精通市场营销，高调发声让客户看见你",
+          "timestamp_sec": 639,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "You find your tribe and you see that things are possible, and once you see that it's possible you can't unsee it... it just expands your vision.",
+          "summary_en": "Put yourself in environments and tribes of high achievers whose scale expands your vision and creativity.",
+          "summary_zh": "融入高水准圈子，亲眼见证并拓宽视野",
+          "timestamp_sec": 750,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Wealthy people don't have a limitation... all they have to do is solve problems, create solutions to make more money.",
+          "summary_en": "Reject predetermined wage ceilings and focus on solving problems and creating solutions to generate unlimited income.",
+          "summary_zh": "突破收入上限，专注解决问题创造方案",
+          "timestamp_sec": 772,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身南方贫困家庭（领食物券和政府救济奶酪长大，母亲14岁怀孕），大学学习计算机编程并以此入行工作；随后白手起家创办并出售科技服务公司、建筑公司，现拥有约10家企业（含保健品公司等）。",
+      "guest_name": "TJ",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Technical / Engineering",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Entrepreneur & Business Investor (Tech Services, Construction, Supplements; ~10 Companies)",
+      "wealth_detail": "$90M-$100M/yr company revenue; $25M/yr personal income; $50M Beverly Hills mansion",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要从零白手起家，而是利用SBA 7(a)贷款或创意融资收购已有成熟剧本和稳定现金流的抗衰退生意（如自助洗衣店、泳池公司、自动售货机），抓住婴儿潮一代退休转让潮（通过BizBuySell、商业经纪人或陌生拜访寻找标的）；也可借助首次购房项目低门槛切入房产投资，打造睡后收入。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "QJP9OXmI5_4",
+  "video_type": "deep_dive_single"
+}

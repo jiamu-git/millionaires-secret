@@ -1,0 +1,126 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Don't quit. Go fight your ass off and fight to the end. Look, whatever happens, be proud of what you did by the way you fought.",
+          "summary_en": "Never quit when facing adversity; fight relentlessly until the very end.",
+          "summary_zh": "逆境绝不放弃，拼尽全力战斗到底",
+          "timestamp_sec": 463,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I think you have to listen to what's inside of you and the own self-belief that you have. And the person that you're looking at in the mirror every day really matters most.",
+          "summary_en": "Ignore external doubters and trust your own internal self-belief.",
+          "summary_zh": "无视外界质疑，倾听内心的自我信念",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "It's just a lot of trial and error and a lot of failure. And I think the failures that I had allowed me to be successful.",
+          "summary_en": "Embrace trial, error, and failure as the stepping stones that enable success.",
+          "summary_zh": "接纳试错与失败，失败是成功的阶梯",
+          "timestamp_sec": 181,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Step Outside Your Comfort Zone",
+          "category": "Mindset & Resilience",
+          "quote": "You have to get outside of your comfort zone... you really have to challenge yourself to grow in many ways, physically, mentally, and emotionally in order to achieve things that maybe you didn't even think were possible.",
+          "summary_en": "Leave comfort and convenience behind and challenge yourself physically, mentally, and emotionally.",
+          "summary_zh": "主动走出舒适区，全方位挑战自我成长",
+          "timestamp_sec": 190,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "I had so many great mentors and that taught me the right way... it was a lot of discipline that I learned through our work together about how to take care of my body that allowed me to do what I love to do for a long time.",
+          "summary_en": "Seek out great mentors who teach you the right methods and discipline for longevity.",
+          "summary_zh": "向优秀导师学习正确方法与自律",
+          "timestamp_sec": 211,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to have the right discipline and habits and actions every day to make the right choices to put yourself in a position to succeed.",
+          "summary_en": "Commit to daily discipline, habits, and actions that put you in position to succeed.",
+          "summary_zh": "用每日正确习惯与自律赢得成功",
+          "timestamp_sec": 537,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Maximize Every Opportunity You Get",
+          "category": "Mindset & Resilience",
+          "quote": "Why don't you quit bitching about all the things you're not getting and worry about the things you are getting? ... You go out there and you take advantage of the opportunities you get.",
+          "summary_en": "Stop complaining about what others receive and make the most of the opportunities you are given.",
+          "summary_zh": "别抱怨未得之物，全力抓住眼前机会",
+          "timestamp_sec": 249,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Take Personal Accountability",
+          "category": "Mindset & Resilience",
+          "quote": "Accountability is a word that I think we need to ingrain in all of us all the time. We are accountable to the people that we value in our life. Certainly oursel number one, but the people that matter in our life, we should be accountable to them, too.",
+          "summary_en": "Hold yourself strictly accountable to yourself first and to the people who matter in your life.",
+          "summary_zh": "对自己与重要之人保持高度责任感",
+          "timestamp_sec": 271,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Simulate High-Pressure Moments in Practice",
+          "category": "Actionable Skills & Habits",
+          "quote": "Dealing with pressure, you have to put yourself in pressure situations. So, I treated practice like a game.",
+          "summary_en": "Program yourself for high-pressure moments by simulating game-day stakes during practice.",
+          "summary_zh": "在日常训练中模拟高压实战以锻炼心态",
+          "timestamp_sec": 415,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Be proud of the person you look back in the mirror every single day because that's the person you got to satisfy. And the life you lead is the lesson you teach.",
+          "summary_en": "Live with integrity and be proud of the person in the mirror, as your actions set the example.",
+          "summary_zh": "坚守诚信与原则，以身作则活出榜样",
+          "timestamp_sec": 601,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "靠在橄榄球场上拼命训练与比赛赚取数亿美元；高中和大学花了九年才站稳主力，NFL选秀前六轮被32支球队跳过后凭借韧性在职业赛场打出成绩。",
+      "guest_name": "Tom Brady",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Alex Guerrero",
+        "Greg Harden"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Retired NFL Quarterback & Entrepreneur (7-Time Super Bowl Champion)",
+      "wealth_detail": "",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "别抱怨自己没得到的机会，全力抓住眼前的每一次机会；主动走出舒适区、通过日常高压训练建立抗压能力，保持自律与诚信并永不言弃。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "cTs9SgRk4SI",
+  "video_type": "deep_dive_single"
+}

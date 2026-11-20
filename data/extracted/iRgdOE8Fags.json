@@ -1,0 +1,262 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "When you make a sale, wrap it up. Don't talk past the sale. See the guy, ask him to buy.",
+          "summary_en": "Close immediately once a buyer is ready instead of over-pitching, and see more prospects while directly asking for the sale.",
+          "summary_zh": "谈成交易就立刻收尾，别话多把客户说跑",
+          "timestamp_sec": 111,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Active Listening in Negotiation",
+          "category": "Actionable Skills & Habits",
+          "quote": "Don't negotiate against yourself. God gave you two ears and one mouth for a reason. Twice as much listening as you do talking.",
+          "summary_en": "Listen twice as much as you talk in negotiations and let the counterparty reveal what they want first.",
+          "summary_zh": "谈判时多听少说，别自己跟自己砍价",
+          "timestamp_sec": 136,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "After about 3 months I ran out of money living in California... he handed me what was the equivalent of like $1,000 back then and said, 'Get back out there.'",
+          "summary_en": "Do not quit after going broke early in your career; get right back out there and stay unafraid of competition.",
+          "summary_zh": "21岁破产后不退缩，勇敢重返战场",
+          "timestamp_sec": 167,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "If you're young and you start making money, keep your hands out of your pockets.",
+          "summary_en": "When you start earning money while young, keep your hands out of your pockets and avoid spending it prematurely.",
+          "summary_zh": "年轻开始赚钱时管住花钱的手",
+          "timestamp_sec": 226,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "高中和大学攒钱后赴加州做纯佣金住宅地产金融，三个月花光积蓄破产，父亲给约1000美元让他回去继续闯荡，后在中西部做房地产开发发家。",
+      "guest_name": "Miami Design District Midwest Real Estate Developer",
+      "industry": "Real Estate",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Retired Real Estate Developer & Former Banker",
+      "wealth_detail": "Middle eight figures (~$50M) in biggest single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "年轻开始赚钱时管住手脚别乱花钱；销售本质是概率，多见客户并主动开口成交，谈成后立刻收尾。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Determination, focus, determination... Never give up.",
+          "summary_en": "For anyone who does not come from family wealth, success requires relentless determination, focus, and never giving up.",
+          "summary_zh": "白手起家需要决心、专注与永不放弃",
+          "timestamp_sec": 314,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Patience in Negotiation",
+          "category": "Actionable Skills & Habits",
+          "quote": "You have to use a lot of time and lengthy type of techniques to negotiate to your best.",
+          "summary_en": "Use patience and drawn-out negotiation tactics to wear down the other side and secure favorable terms.",
+          "summary_zh": "谈判要善用时间和持久战技巧掌握主动",
+          "timestamp_sec": 322,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Capital Preservation & Holding Cash",
+          "category": "Wealth & Investing",
+          "quote": "I have lots of money in cash... because basically the uncertainty of the time... Now it's time I would think two or three months to buy and buy at a better price.",
+          "summary_en": "Following Warren Buffett's example, hold cash during uncertain downturns to protect capital and buy quality assets cheaper later.",
+          "summary_zh": "动荡期保留现金护本，等低价再出手",
+          "timestamp_sec": 349,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "100k I would say a mutual fund... you don't look to make quick money at all.",
+          "summary_en": "Invest idle cash such as $100k into mutual funds or indexes with a strictly long-term horizon rather than chasing quick money.",
+          "summary_zh": "用长期视角投指数和基金，不赚快钱",
+          "timestamp_sec": 385,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Single family... we have done incredibly well buying there holding... we have property in Europe they're like from 1960 and we still own them.",
+          "summary_en": "Buy and hold single-family and quality real estate across decades to capture massive long-term appreciation.",
+          "summary_zh": "长期持有优质单户住宅等房地产资产",
+          "timestamp_sec": 393,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Overspend to Impress Others",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I have 40 watches in my collection and I'm wearing a watch from a friend of mine was a micro brand that is very cheap... You're not trying to impress anybody else. No, no, no, no, no.",
+          "summary_en": "Truly wealthy people feel secure in themselves and do not wear flashy Rolexes or designer clothes to impress strangers.",
+          "summary_zh": "真正的富人不需要靠名表华服取悦他人",
+          "timestamp_sec": 444,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "并非白手起家，来自瑞士卢加诺，起步时已有数百万美元资金，并通过私立学校等高端社交圈与高净值客户建立信任。",
+      "guest_name": "Lugano Switzerland Family Office Manager in Coral Gables",
+      "industry": "Finance & Investing",
+      "origin_type": "Inherited / Family business",
+      "recommended_books_or_mentors": [
+        "Warren Buffett"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Negotiation & Deal-Making",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Family Office Wealth Manager",
+      "wealth_detail": "Manages $1.2B (family office); started with a few million dollars",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "没有富裕背景的人要靠决心、专注且永不放弃；有10万美元可配置共同基金，并长期持有单户住宅等房地产资产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Know Your Worth & Protect Yourself",
+          "category": "Business & Strategy",
+          "quote": "Know your self worth and what you bring to the table... once you protect yourself and once you learn kind of all the how everyone out in this industry has no heart, that's when you kind of can learn how to play that game as well.",
+          "summary_en": "Know your value and protect yourself early so ruthless industry players cannot take advantage of you.",
+          "summary_zh": "认清自身价值，在残酷行业中保护自己",
+          "timestamp_sec": 645,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Be Willing to Walk Away in Negotiations",
+          "category": "Actionable Skills & Habits",
+          "quote": "The best negotiation advice for anyone in business is not being scared to walk away... Standing your ground and being you and just not changing up for anyone but yourself.",
+          "summary_en": "Drop your fear and be ready to walk away from multi-million-dollar deals when terms do not meet your standards.",
+          "summary_zh": "谈判时敢于随时离场才拥有最大筹码",
+          "timestamp_sec": 670,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Life's about pulling the trigger. Life's about having no fear. And if there's consequences, you deal with them after.",
+          "summary_en": "Stop hesitating out of fear; pull the trigger on bold decisions and handle any consequences afterward.",
+          "summary_zh": "克服恐惧果断出手，后果留到事后解决",
+          "timestamp_sec": 781,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Take Profits & Keep Cash Ready",
+          "category": "Wealth & Investing",
+          "quote": "Take your profits when you're up. Don't get greedy and go for like a 10x... You always want cash ready when the market's ready to drop.",
+          "summary_en": "Lock in realistic gains like 1.5x-2x instead of holding greedily for 10x, and keep cash ready to buy market drops.",
+          "summary_zh": "市场上涨及时落袋为安，留现金等回调",
+          "timestamp_sec": 846,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Forge Your Own Path & Learn From Mistakes",
+          "category": "Mindset & Resilience",
+          "quote": "The best piece of advice you can give to somebody is to not take advice... Everybody has their own paths... learn by your own mistakes and learn by your own successful points as well.",
+          "summary_en": "Do not blindly follow conventional advice like going to school if it does not fit your path; learn from your own trials and errors.",
+          "summary_zh": "走自己的路，从亲身试错中总结经验",
+          "timestamp_sec": 889,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Short form, whether it's clipping, shorts... clipping is just a funnel to your main live stream.",
+          "summary_en": "Use short-form clips of standout IRL livestream moments as a viral distribution funnel to grow your main audience and loyal fanbase.",
+          "summary_zh": "用短视频切片引流直播，打造死忠粉丝",
+          "timestamp_sec": 973,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Self-belief just comes from literally just having no plan B... You'll be called crazy at first, but then you'll be called a genius when you accomplish it.",
+          "summary_en": "Eliminate your Plan B and maintain unshakeable self-belief even when people call you crazy before you succeed.",
+          "summary_zh": "不留退路逼出自信，不在乎旁人说你疯",
+          "timestamp_sec": 1004,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "When it comes to equity, that's the real control. That's the real wealth... Ownership is king.",
+          "summary_en": "Cash deals are good starting out, but taking equity and ownership in platforms you help grow is where real wealth and control lie.",
+          "summary_zh": "拿现金不如拿股权，所有权才是真财富",
+          "timestamp_sec": 1042,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "I've been doing it for a long time, a long time before anyone really knew who I was on and off for 10 years.",
+          "summary_en": "Overnight success takes years of unrecognized grinding before momentum and luck finally compound.",
+          "summary_zh": "成名前默默坚持十年，成功需要长期积累",
+          "timestamp_sec": 1152,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Focus on something for a year. You could be working a regular job, but focus on something for a year. When you're not working, you're doing this, and I guarantee you'll see results.",
+          "summary_en": "Pick one venture outside your regular job and commit to it relentlessly for a full year to see real results.",
+          "summary_zh": "选定一件事全力专注干满一年必见成效",
+          "timestamp_sec": 1172,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "断断续续玩游戏直播约10年，早期连高速网络都要父亲刷卡帮忙；后来通过平台订阅、打赏、Kick每小时合作分成及持有Kick股权实现年入超3000万美元。",
+      "guest_name": "Adin Ross",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Negotiation & Deal-Making",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Live Streamer & Co-Owner of Kick",
+      "wealth_detail": ">$30M in best single year; bought $25M mansion; $623,000 in June from 18 Kick streams",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "用短视频切片配合IRL直播做流量漏斗；不留B计划坚定自信，哪怕一边打工也要把业余时间专注投入到一件事上至少一年。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "iRgdOE8Fags",
+  "video_type": "street_multi"
+}

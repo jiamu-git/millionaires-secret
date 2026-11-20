@@ -1,0 +1,285 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "You don't get rich by working for someone else... You get rich by selling your business.",
+          "summary_en": "You don't get rich on a salary; start a business, build it up, and sell it.",
+          "summary_zh": "打工难致富，创业并出售公司才能暴富",
+          "timestamp_sec": 207,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Plan Your Business Exit From Day One",
+          "category": "Business & Strategy",
+          "quote": "When you start a business, you should work out at the very beginning who's going to buy it in 4 years time.",
+          "summary_en": "Identify who will acquire your company at the very start and gear everything toward making that sale.",
+          "summary_zh": "创业伊始就锁定未来买家并围绕出售布局",
+          "timestamp_sec": 237,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prefer Business Ownership Over Passive Investing",
+          "category": "Business & Strategy",
+          "quote": "It's better to be a businessman... you're dependent on your own abilities, your own skills, your own expertise.",
+          "summary_en": "Running a business beats passive investing because outcomes depend on your own skills and expertise rather than chance.",
+          "summary_zh": "实业胜过纯投资，成败掌握在自身能力中",
+          "timestamp_sec": 623,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "Join a firm, learn the trade for a couple of years and then with a colleague or two, set up your own version.",
+          "summary_en": "Join a firm to learn the trade first, launch your own version with colleagues, build a client base, and sell for a multiple.",
+          "summary_zh": "先入行学本领并攒客源，再合伙创业做大出售",
+          "timestamp_sec": 692,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Control Your Response to Fortune",
+          "category": "Mindset & Resilience",
+          "quote": "It isn't what fortune throws your way, it's how you react to whatever comes your way.",
+          "summary_en": "Success is determined not by what luck brings you, but by how you respond to whatever happens.",
+          "summary_zh": "命运难测，关键在于你如何回应际遇与挑战",
+          "timestamp_sec": 713,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "If you can change the lives of other people for the better, then you've achieved something worth remembering.",
+          "summary_en": "Live by the motto of improving what you touch and changing others' lives for the better.",
+          "summary_zh": "行有余力应改善他人生活，创造值得铭记的价值",
+          "timestamp_sec": 724,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创办了亚当·史密斯研究所（Adam Smith Institute），并曾通过创办并出售企业实现财富积累，单年最高收入在100万至1000万之间。",
+      "guest_name": "Adam Smith Institute Founder (86-Year-Old Entrepreneur)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Adam Smith Institute & Serial Entrepreneur",
+      "wealth_detail": "More than 1M, less than 10M in a single year; exited a company",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "先进入行业公司学艺数年、积累技能与客户基础，再与一两名同事合伙创业，从一开始就明确未来收购方并把营业额做到50万至100万以上后溢价出售。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "The best thing you can do is blame yourself and skill up. Realize you can have agency over your life.",
+          "summary_en": "Stop blaming the rich or the government; take personal responsibility, skill up, and claim agency over your life.",
+          "summary_zh": "停止抱怨他人，自我归因并提升技能掌握人生",
+          "timestamp_sec": 372,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "They just think about doing stuff they love every day... You only want work life balance if you don't enjoy what you do.",
+          "summary_en": "Do work you genuinely love every day so you never crave retirement or artificial work-life balance.",
+          "summary_zh": "做真正热爱的事，不设退休期限也不必割裂生活",
+          "timestamp_sec": 389,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Once they start getting a salary, they start building up debt... if you've got a mortgage, you're working for the bank.",
+          "summary_en": "Avoid the middle-class trap of taking on mortgages and car loans on a salary, which forces you to work for banks instead of owning your time.",
+          "summary_zh": "警惕高薪消费贷陷阱，别为银行和车企打工",
+          "timestamp_sec": 427,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Why would you sell time as an outcome? Most of my businesses have been successful. I've sold outcomes. I've sold results.",
+          "summary_en": "Never sell your limited hours; structure your work and businesses to sell outcomes, results, and take a percentage of success.",
+          "summary_zh": "别按小时出卖时间，要按成果与价值收费",
+          "timestamp_sec": 453,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Set Up Proper Legal Entity Structure",
+          "category": "Business & Strategy",
+          "quote": "If you have a limited business, same as LLC in America, it's harder for you to be sued personally... You do need a structure.",
+          "summary_en": "Form a limited company or LLC to keep clean accounts and shield your personal assets from lawsuits.",
+          "summary_zh": "尽早设立有限责任公司，规范账务并隔离风险",
+          "timestamp_sec": 488,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "I will always execute on an idea because I don't want to live with regret... Too many people... don't take action and try it.",
+          "summary_en": "Always execute on your ideas and take action now so you don't end up in your 80s or 90s full of regret.",
+          "summary_zh": "有想法就立刻执行去试错，莫到晚年徒留遗憾",
+          "timestamp_sec": 535,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年曾试图申请社会救济，后来决定走艰难的创业之路，在香港创立Fluid公司并出售给普华永道（PwC），获得远超终身所需的财富。",
+      "guest_name": "Simon Squibb",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution"
+      ],
+      "role_or_title": "Founder of Fluid (Sold to PwC) & Entrepreneur/Creator",
+      "wealth_detail": "300-400 million net worth (hundreds of millions)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要指望他人或政府施舍，自我归因并提升技能、掌控人生主动权；注册有限责任公司隔离个人法律风险，不要找借口，立即执行想法以免抱憾终生。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "When someone says no to you, what they mean is try harder... Never take no for an answer.",
+          "summary_en": "Never take no for an answer; treat every rejection as a prompt to push harder until the next person says yes.",
+          "summary_zh": "别把拒绝当终点，“不”意味着要加倍努力",
+          "timestamp_sec": 808,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prioritize Knowledge Over Connections",
+          "category": "Actionable Skills & Habits",
+          "quote": "I think what you know now... in the past it was who you know.",
+          "summary_en": "In today's merit-driven business world, what you know matters more than nepotism or who you know.",
+          "summary_zh": "当代商界拼真才实学，“懂什么”胜过靠关系",
+          "timestamp_sec": 825,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "That's the only way to make money, you have to leverage... the power of wealth is about leverage.",
+          "summary_en": "Understand the bank multiplier and use financial leverage to acquire properties and wealth-building assets.",
+          "summary_zh": "读懂银行乘数效应，善用金融杠杆撬动财富",
+          "timestamp_sec": 843,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Compounding helps you... don't sit there worrying about whether you pay 10% more or not. Get in, and in 20, 30 years time, you're never going to regret it.",
+          "summary_en": "Stop hesitating over a 10% entry price difference; get invested early and hold for 20–30 years so compounding works for you.",
+          "summary_zh": "别纠结短期10%价差，尽早入场持仓吃复利",
+          "timestamp_sec": 893,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出生自尼日利亚医生家庭、在英国求学，年轻时曾在求职面试被拒后被邻桌面试官破格录用进入投资银行，随后创立自己的对冲基金，单年最高赚取3000万美元。",
+      "guest_name": "London Hedge Fund Founder (Former Investment Banker)",
+      "industry": "Finance & Investing",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Hedge Fund Founder & Former Investment Banker",
+      "wealth_detail": "$30M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "永不把拒绝当成终点而要加倍努力，重视专业知识积累而非仅靠关系；看懂银行货币乘数并善用金融杠杆，同时尽早开始长期投资以享受二三十年的复利效应。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "If you don't contribute, the universe will take it away from you because you need to give back.",
+          "summary_en": "Stay humble during winning streaks and give value back to society, or adversity will strip away what you built.",
+          "summary_zh": "顺境切忌傲慢，懂得回馈社会方能长久持富",
+          "timestamp_sec": 962,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "When you walk into a place people will notice you... it commands an element of respect.",
+          "summary_en": "Maintain peak physical fitness; strong physical presence commands immediate respect in high-stakes business rooms.",
+          "summary_zh": "保持良好体格与形象，在商业场合赢得尊重",
+          "timestamp_sec": 1000,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Everyone knows the formula but they can't execute it. You have to be continually focused... have the stomach for the sacrifice.",
+          "summary_en": "Execution and focus beat natural talent and great ideas—put the work in and have the stomach for sacrifice.",
+          "summary_zh": "执行力胜过天赋点子，持续专注并愿承受牺牲",
+          "timestamp_sec": 1021,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build Subscription & Recurring Revenue Models",
+          "category": "Business & Strategy",
+          "quote": "When you're having something that has a subscription base, that money is compounded all the time... institutions will multiply that by 10 or 20.",
+          "summary_en": "Build annual recurring revenue (ARR) subscription businesses scaled with AI and marketing to achieve 10–20x institutional valuations.",
+          "summary_zh": "打造订阅制经常性收入，借AI放大获高估值",
+          "timestamp_sec": 1051,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Stop stalling. Stop waiting. Stop self-doubting. People less competent... than you have made it. Jump today.",
+          "summary_en": "Stop stalling and doubting yourself—less talented people have succeeded simply because they jumped in and took action.",
+          "summary_zh": "停止拖延与自我怀疑，今天就果断采取行动",
+          "timestamp_sec": 1092,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学攻读法律，23岁便赚到人生第一个100万；后在金融危机期间因银行抽贷一夜亏损5500万并重头再来，最终创立健康科技公司将其规模做到1.5亿美元。",
+      "guest_name": "London Health Tech Founder",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Founder, Health Tech Company",
+      "wealth_detail": "First $1M at 23; lost $55M overnight; scaled company to $150M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "停止拖延和自我怀疑、今天就采取行动；保持持续专注和承受牺牲的魄力，注重身体状态以赢得尊重，并着力打造可借助AI与营销放大的订阅制（ARR）商业模式。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "mRJN1l_w-Co",
+  "video_type": "street_multi"
+}

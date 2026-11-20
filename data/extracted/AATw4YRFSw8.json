@@ -1,0 +1,294 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Invest in Unscalable 1-on-1 Team Relationships",
+          "category": "Business & Strategy",
+          "quote": "Scaling unscalable behaviors with the human beings that most matter to your outcome is disproportionately the most important thing a CEO can do... nonscalable behaviors like one-on-one times, 15-minute check-ins.",
+          "summary_en": "CEOs should stay operational and invest time in unscalable 1-on-1 human check-ins with key team members.",
+          "summary_zh": "CEO要亲自投入一对一非规模化团队沟通",
+          "timestamp_sec": 178,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "Organic social media creative is still at this exact second grossly misunderstood and undervalued... Attention is the only currency that's going to matter.",
+          "summary_en": "Organic social media creative remains massively undervalued; capturing attention is the only currency that matters.",
+          "summary_zh": "自然社媒内容仍被严重低估，注意力即货币",
+          "timestamp_sec": 253,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Avoid Student Debt as an Entrepreneur",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Getting into debt at college if you're creative or an entrepreneur is the most insane thing on earth.",
+          "summary_en": "Do not take on college debt if you plan to be an entrepreneur or creative.",
+          "summary_zh": "创业者或创意人才背负大学债务极其不明智",
+          "timestamp_sec": 278,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Tune out everyone. Parents, people you look up to, your contemporaries. You got to tune everyone out. And you've got to live your actual life for your actual one life.",
+          "summary_en": "Ignore expectations from parents, peers, and role models so you can live your own life.",
+          "summary_zh": "屏蔽外界所有杂音，按自己意愿活出人生",
+          "timestamp_sec": 302,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "When you die, you're going to be dead forever. So, squeeze the most out of this life... Stop crying and start doing.",
+          "summary_en": "Life is finite, so stop complaining and start executing immediately.",
+          "summary_zh": "生命有限且不可逆，停止抱怨立刻付诸行动",
+          "timestamp_sec": 326,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Gary Vee",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "CEO of VaynerX (also runs VaynerSports, VeeFriends, VCR Group)",
+      "wealth_detail": "$340M/yr VaynerX revenue; hefty eight figures ($10M+) in a single year personally",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "不要为当创业者或创意人而背负大学贷款，利用自然流量社交媒体创作内容来争夺唯一重要的货币——注意力，屏蔽外界杂音立刻行动。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Costly Romantic Entanglements",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Stay away from women. The quickest way a man loses his money is by getting involved with a woman.",
+          "summary_en": "Avoid costly romantic entanglements, as it is the fastest way a man loses his money.",
+          "summary_zh": "男人最快的破产方式是陷入情感消费纠葛",
+          "timestamp_sec": 558,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "United States Marine Corps... It's a discipline. There's a certain discipline to it. I follow stoicism. You got to be very stoic.",
+          "summary_en": "Cultivate strict Marine-style discipline and practice stoicism across both fitness and finances.",
+          "summary_zh": "保持高度自律与斯多葛心态是财务成功关键",
+          "timestamp_sec": 577,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Fame is fleeting. Fortune is fleeting... So just be true to yourself and always do the right thing.",
+          "summary_en": "Because fame and fortune are temporary, stay true to yourself and always do the right thing.",
+          "summary_zh": "名利转瞬即逝，保持真诚并始终做正确的事",
+          "timestamp_sec": 598,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Avoid Accumulating Enemies",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Your friends are going to come and go, but your enemies will accumulate.",
+          "summary_en": "Avoid making enemies because friends come and go while enemies accumulate over time.",
+          "summary_zh": "朋友来来往往但敌人会不断累积，切勿树敌",
+          "timestamp_sec": 629,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Use Guaranteed Bank Accounts / CDs for Safety",
+          "category": "Wealth & Investing",
+          "quote": "You can get a guarantee from your bank. You can get a CD. You can get all kinds of guarantees from your bank.",
+          "summary_en": "Use guaranteed bank instruments like CDs to protect principal.",
+          "summary_zh": "利用银行存单等保本工具守住资金安全",
+          "timestamp_sec": 647,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Veteran Wall Street Stock Broker (Former Marine)",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Stock Broker (Former U.S. Marine)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "保持像海军陆战队一样的高度自律与斯多葛派心态，远离消耗钱财的情感纠葛，真诚待己、不树敌，并用银行保本存单守住资金安全。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Stay Private Until Market & GTM Are Proven",
+          "category": "Business & Strategy",
+          "quote": "I think there's a lot of value in staying private until you have a well-defined market. You've got a well-defined go to market plan and then when you need the funding, you go execute.",
+          "summary_en": "Keep your company private until your market and go-to-market plan are clearly defined before raising public capital.",
+          "summary_zh": "明确市场与商业模式前保持私有化更有价值",
+          "timestamp_sec": 712,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Pre-profitability, cash flow is king... You got to be positive. Operating margin positive. Cash flow is everything until profitability comes.",
+          "summary_en": "Before reaching full profitability, prioritize positive cash flow and operating margin above all else.",
+          "summary_zh": "盈利前现金流为王，须保持正向营业利润率",
+          "timestamp_sec": 746,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Adopt AI to Accelerate Processes & Revenue",
+          "category": "Business & Strategy",
+          "quote": "They're going to be using AI to basically augment human behavior, accelerate processes, eliminate risk, accelerate revenue. It's all about moving fast.",
+          "summary_en": "Adopt AI rapidly to augment people, speed up processes, reduce risk, and accelerate revenue, or risk getting left behind.",
+          "summary_zh": "尽快在业务中应用AI提速增收，否则将被淘汰",
+          "timestamp_sec": 780,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "Best money advice I can give, save. Save everything you possibly can... You can save your way to being financially secure in the future.",
+          "summary_en": "Save aggressively early on to establish future financial security.",
+          "summary_zh": "尽全力存钱，这是通往未来财务安全的基石",
+          "timestamp_sec": 804,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "You've got to build up wealth. Don't worry about W2s. W2 is not necessary. Maybe it'll help you pay the rent.",
+          "summary_en": "Do not rely on W-2 employment wages to build real wealth; accumulate equity and assets such as public stock.",
+          "summary_zh": "别指望死工资致富，需通过股权积累财富",
+          "timestamp_sec": 813,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "整个职业生涯深耕科技行业，担任上市软件公司Snowflake的首席营收官（CRO），在约四年前成为百万富翁。",
+      "guest_name": "Snowflake Chief Revenue Officer (CRO)",
+      "industry": "Tech & Software",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting",
+        "Technical / Engineering"
+      ],
+      "role_or_title": "Chief Revenue Officer (CRO) at Snowflake",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "尽一切可能存钱以建立财务安全垫，不要指望靠W-2工资致富，而是配置股票等资产并尽早应用AI提升业务效率与营收。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "One of the most important things is to invest in stocks and not stuff... Everything we buy goes down in value... invest in things that perhaps are going to go up in value.",
+          "summary_en": "Buy appreciating assets like stocks instead of depreciating consumer goods.",
+          "summary_zh": "买会增值的股票，而非一买就贬值的消费品",
+          "timestamp_sec": 895,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Create Multiple Income Streams",
+          "category": "Wealth & Investing",
+          "quote": "Have multiple streams of revenue and let your money work for you.",
+          "summary_en": "Build multiple streams of revenue and put your capital to work.",
+          "summary_zh": "建立多元化收入来源，让钱主动为你工作",
+          "timestamp_sec": 928,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Waking up, showing up, suiting up. Know that in any given day, if you look for opportunity, you'll find it.",
+          "summary_en": "Show up in person dressed and ready every day because opportunities do not find you hiding at home.",
+          "summary_zh": "每天坚持打扮整齐出门工作，机会不会找上门",
+          "timestamp_sec": 1025,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I love what I do... Find something you love to do, get really good at it, and embrace the younger generation.",
+          "summary_en": "Find work you genuinely love, master it, and share your knowledge with the next generation.",
+          "summary_zh": "找到热爱的事并做到极致，同时积极提携后辈",
+          "timestamp_sec": 1054,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "In order for somebody to trust you enough to give you that much stock, it's a big deal. It's taken years and years like that.",
+          "summary_en": "Earning the trust required to handle massive institutional order flow takes years of consistent integrity.",
+          "summary_zh": "赢得巨额资金托付的信任需要数十年长期积累",
+          "timestamp_sec": 1110,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Surround yourself by people who have what you want. It's really important.",
+          "summary_en": "Deliberately surround yourself with people who already have what you aspire to achieve.",
+          "summary_zh": "务必与那些已经拥有你渴望之物的人为伍",
+          "timestamp_sec": 1185,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Money Buys Freedom, Not Happiness",
+          "category": "Mindset & Resilience",
+          "quote": "Understand that money, it does not buy you happiness. Money buys you freedom... just be aware of its value and the dangers of it.",
+          "summary_en": "Recognize that money buys freedom rather than happiness, and stay mindful of both its value and its risks.",
+          "summary_zh": "金钱只能买到自由而非快乐，需警惕其危险性",
+          "timestamp_sec": 1197,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在纽交所大厅担任场内交易员40年，每天经手5亿至10亿美元股票交易量；2006至2008年曾破产长达两三年，靠坚持每天穿戴整齐出门上班，在地铁上偶遇昔日华尔街搭档并重启交易策略，才东山再起并合作长达20年。",
+      "guest_name": "Peter Tuckman",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "NYSE Floor Trader / Stock Broker (40 years on Wall Street)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "把钱投进股票而非买贬值消费品；每天穿戴整齐出门工作寻找机会，不要在家躺平；找到热爱的事业并做到精通，多向拥有你理想结果的人看齐。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "AATw4YRFSw8",
+  "video_type": "street_multi"
+}

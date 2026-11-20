@@ -1,0 +1,236 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Before you create anything you need to understand the viability of the product and the total addressable market... start with interviewing as many potential clients as you can.",
+          "summary_en": "Interview potential clients and decision-makers to validate pain points, TAM, and secure a pilot commitment before building an MVP.",
+          "summary_zh": "做产品前先访谈客户验证痛点与市场",
+          "timestamp_sec": 383,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Prove Customer Acquisition Before Scaling",
+          "category": "Business & Strategy",
+          "quote": "It could solve a really substantial problem, but until you figure out how to get customers, you don't really have a great idea.",
+          "summary_en": "Even a big problem is not a viable business idea until you figure out a scalable way to acquire customers.",
+          "summary_zh": "解决痛点还不够，能获客才算好点子",
+          "timestamp_sec": 440,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Perfectionism is really a form of insecurity... show them something, admit it's not perfect, and ask what can we do to make this perfect for you.",
+          "summary_en": "Overcome perfectionism by showing an imperfect product early to gather constructive feedback and get clients bought in.",
+          "summary_zh": "克服完美主义尽早拿半成品给客户反馈",
+          "timestamp_sec": 461,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Adversity and setbacks are part of the journey... those are the things that will shape you into a really successful person who can overcome obstacles.",
+          "summary_en": "Embrace setbacks and adversity as part of the entrepreneurial journey that builds resilience and prepares you to help others.",
+          "summary_zh": "把逆境和挫折视为成长与蜕变的必经之路",
+          "timestamp_sec": 494,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "It is a lot cheaper now to build a product and test your product... generating some revenues where you can keep investing back into the business, build traction, then take it out for investment.",
+          "summary_en": "Build and test cheaply, reinvest early revenue to grow MRR and repeatable customer acquisition, then raise outside capital.",
+          "summary_zh": "低成本测试并把营收复投增长后再融资",
+          "timestamp_sec": 540,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "If I could outsource this for less than my hourly rate then I'm gonna outsource; if it means bringing on someone permanent, budget for it and build your forecasts.",
+          "summary_en": "Outsource tasks costing less than your hourly rate and build budgets and forecasts to hire permanent team members as you scale.",
+          "summary_zh": "低于自身时薪的工作就外包并规划全职招聘",
+          "timestamp_sec": 576,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you're an enterprise play... it's going to be a mix of social media, direct outreach through emails, I'd even be cold calling. If you're doing more of a consumer play, social media plays a pretty critical role.",
+          "summary_en": "Tailor marketing to your model: use direct email outreach, cold calling, and social media for enterprise, and lean heavily on social media for consumer plays.",
+          "summary_zh": "企服靠直邮电销，消费品重社交媒体",
+          "timestamp_sec": 599,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Focus on Bottom Line & Efficiency for Exit",
+          "category": "Business & Strategy",
+          "quote": "Best way to set up your company to be sold is just to keep focusing on the bottom line, keep building revenue, keep moving the needle, and if it's efficient, institutional investors will notice.",
+          "summary_en": "Set your company up for acquisition by relentlessly focusing on revenue, bottom-line profit, and operational efficiency so investors take notice.",
+          "summary_zh": "专注利润与效率，自然吸引投资或收购",
+          "timestamp_sec": 624,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "There's a lot of nuance to running a business and you're not going to be an expert at everything, so go out and try to find people who are experts in those categories. I still have sales mentors.",
+          "summary_en": "Build a board of advisors who are experts in specific business areas rather than relying on a single mentor for everything.",
+          "summary_zh": "按细分领域组建专家导师团而非只靠一人",
+          "timestamp_sec": 668,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "大学期间当酒保时，常有戴尔、应用材料和英特尔的从业者光顾，他主动恳求其中一人给自己科技销售机会从而入行；2014年推出应用并在2018年成功退出。",
+      "guest_name": "John Abraham",
+      "industry": "Tech & Software",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Tech Startup Founder & Co-founder of Haymaker (Previously Exited Tech Startup)",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "在写代码做产品前先大量访谈目标客户决策者以验证痛点与市场规模，拿到早期试点承诺后再开发MVP，并用低成本测试和早期营收滚雪球后再融资。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "Find a company that is willing to invest in you... giving you ownership in the company so you're selling for the long term, or go build your own business.",
+          "summary_en": "To reach an eight-figure net worth, either join a company that grants you equity ownership or build your own business.",
+          "summary_zh": "争取公司股权或自己创业，别只卖时间",
+          "timestamp_sec": 66,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "You'll learn early and take your learnings and go do a business of your own from what you've learned... only after you've built the base of knowledge.",
+          "summary_en": "Build a strong foundation of industry knowledge working for someone else first, then take those learnings to start your own business.",
+          "summary_zh": "先在好公司打好知识基础再自立门户",
+          "timestamp_sec": 86,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Be confident... I mean you need to go for it.",
+          "summary_en": "Have confidence, act fearlessly, and go for the opportunity when starting out.",
+          "summary_zh": "保持自信无畏，看准了就放手去搏",
+          "timestamp_sec": 99,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在科技销售领域深耕15至20年，通过公司授予的股票期权套现，在单年内赚取了八位数（千万美元级）收益。",
+      "guest_name": "Retired Tech Sales Executive (8-Figure Earner)",
+      "industry": "Tech & Software",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Retired Tech Sales Executive",
+      "wealth_detail": "8 figures ($10M+) in a single year (cashed out stock options)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先在好公司积累扎实的知识基础并争取股权激励，随后保持自信无畏，趁早把所学用来创立自己的事业。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Try to assert yourself to get out of your comfort zone to try things that you haven't tried before... it's really just about trying new things.",
+          "summary_en": "Combine assertiveness with stepping out of your comfort zone to try new things rather than relying solely on diligence.",
+          "summary_zh": "主动走出舒适区，敢于尝试新事物",
+          "timestamp_sec": 182,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Viewing those relationships truly as relationships and not networking—it's not a transactional life, it's building relationships you're going to grow throughout the rest of your life.",
+          "summary_en": "Show professionalism and follow-through, build lifelong non-transactional relationships, and surround yourself with kind, supportive people.",
+          "summary_zh": "建立真诚非功利的关系网，结交善良支持者",
+          "timestamp_sec": 200,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "早年在政府部门工作收入不高，积累经验后自立门户，为全美各地地方政府提供专项咨询服务，年收入接近50万美元。",
+      "guest_name": "Austin Government Business Consultant",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Government Business Consultant",
+      "wealth_detail": "~$500k/yr",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Build Boring / Traditional Cash-Flow Businesses",
+          "category": "Business & Strategy",
+          "quote": "Find a niche, work hard, get the right people—I don't see how you could not be successful.",
+          "summary_en": "Pick an uncrowded niche industry with little competition, work hard, and hire the right team.",
+          "summary_zh": "深耕无竞争对手的冷门实体细分行业",
+          "timestamp_sec": 238,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "When you see an opportunity take advantage of it; if it's not working out get out fast... in the long run you lose a lot less than if you stay with it.",
+          "summary_en": "Seize opportunities decisively, and cut ties quickly on add-ons or ventures that do not work out to limit losses.",
+          "summary_zh": "抓住机会大胆尝试，行不通就果断止损",
+          "timestamp_sec": 251,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "瞄准几乎没有竞争对手的冷门细分行业，在新英格兰地区经营监狱牢房建造业务，最高单年收入达180万美元。",
+      "guest_name": "New England Jail Cell Manufacturer",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Founder / Owner, Jail Cell Manufacturing Business",
+      "wealth_detail": "$1.8M in a single year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": true,
+  "video_id": "3G79t-mcgJ8",
+  "video_type": "street_multi"
+}

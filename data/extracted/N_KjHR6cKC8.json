@@ -1,0 +1,138 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Number one would definitely be volume negates luck... if everyone's making 100 calls, make 200.",
+          "summary_en": "Outwork your peers with massive outreach volume so skill and consistency beat luck.",
+          "summary_zh": "用超大工作量抵消运气成分",
+          "timestamp_sec": 139,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "Make sure you're taking care of your health, you're getting sleep... I don't focus in on the result, I focus in on the action.",
+          "summary_en": "Maintain peak sales performance by prioritizing health, sleep, and daily execution over outcomes.",
+          "summary_zh": "注重健康睡眠并聚焦每日行动",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Number two is listen more, talk less... practice active listening, really understanding what people's needs are.",
+          "summary_en": "Practice active listening to uncover a prospect's true needs and deliver a brief, tailored pitch.",
+          "summary_zh": "多倾听少推销，精准把握需求",
+          "timestamp_sec": 199,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "When I first started entrepreneurship I tried to become a millionaire in 90 days... if you want a safe bet on becoming a millionaire, think in 10 years.",
+          "summary_en": "Bet on yourself with a 10-year time horizon rather than chasing unrealistic 90-day riches.",
+          "summary_zh": "戒除暴富幻想，坚持十年长期主义",
+          "timestamp_sec": 239,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "Think what skill sets do I need to acquire... Go learn sales, stack a few hundred thousand, then start buying the next skill sets.",
+          "summary_en": "Identify core skills needed for your dream business, master sales to build capital, and reinvest in new skills.",
+          "summary_zh": "先学销售攒本金，再持续购入新技能",
+          "timestamp_sec": 259,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Challenge Prospects & Limiting Beliefs",
+          "category": "Actionable Skills & Habits",
+          "quote": "I'm not your friend, but at the same time I care about you enough to challenge you... be the understanding expert.",
+          "summary_en": "Position yourself as an understanding expert who challenges prospects' limiting beliefs instead of being overly agreeable.",
+          "summary_zh": "以专家身份挑战客户认知而非迎合",
+          "timestamp_sec": 281,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "There's nothing guaranteed... would you rather be put on a salary or would you rather go out and get paid based on your performance?",
+          "summary_en": "Reject the false security of a fixed salary and embrace performance-based commission to build entrepreneurial discipline.",
+          "summary_zh": "克服对纯佣金制恐惧，凭业绩拿回报",
+          "timestamp_sec": 339,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Don't pitch until you know you can close. Once you pitch and you know you can close, actually ask for it. I've had people tell me no five, 10 times in a row.",
+          "summary_en": "Relentlessly ask for the deal after qualifying and keep solving objections even through repeated rejections.",
+          "summary_zh": "不惧连环拒绝，果断并反复要求成交",
+          "timestamp_sec": 368,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Follow up with the clients that are in the program and ask them if they have any referrals... nurture the relationship in the right way.",
+          "summary_en": "Nurture relationships with existing clients and consistently follow up to generate referral deals.",
+          "summary_zh": "深耕现有客户关系，持续跟进裂变转介绍",
+          "timestamp_sec": 390,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "If you're feeling stress, just do more things... watch more game tape, listen to more sales calls, do whatever you can to take action.",
+          "summary_en": "Overcome beginner stress and boredom by taking immediate action—reviewing call recordings and putting in reps.",
+          "summary_zh": "用高密度行动与复盘消除新手期焦虑",
+          "timestamp_sec": 429,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Ask Hard Questions & Have Tough Conversations",
+          "category": "Actionable Skills & Habits",
+          "quote": "Closers ask hard questions... the more hard conversations you have, the more successful you are.",
+          "summary_en": "Ask uncomfortable questions about finances and consequences of inaction to properly qualify and help prospects.",
+          "summary_zh": "敢于提出尖锐问题，多进行艰难对话",
+          "timestamp_sec": 449,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "高中时期起便尝试汽车美容、代发货和房地产等副业但均未做大，做房产时甚至每月亏损三四千美元；19岁从大学辍学且背负逾1万美元债务后，经Alex Hormozi指导进入Gym Launch做销售，靠每天打200至400通电话（远超他人100通）在两三周内追平老手，最终实现年入超25万美元。",
+      "guest_name": "Jacob Hopkins",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Alex Hormozi"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Public Speaking & Communication",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Sales Closer at Gym Launch (Alex Hormozi)",
+      "wealth_detail": "Over $250,000/yr in sales",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "用10年而非90天的长期视角押注自己，先聚焦掌握销售等高变现能力并攒下几十万美元本金，再购入下一阶段的技能；起步阶段用超大工作量（海量拨号、复盘录音）和专注日常行动来克服焦虑与不确定性。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "N_KjHR6cKC8",
+  "video_type": "deep_dive_single"
+}

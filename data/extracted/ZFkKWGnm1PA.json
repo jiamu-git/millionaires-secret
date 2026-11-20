@@ -1,0 +1,478 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "being broke is a temporary condition it really is",
+          "summary_en": "Understand that being broke is only a temporary condition, not a permanent identity.",
+          "summary_zh": "破产只是暂时的状态",
+          "timestamp_sec": 92,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Be a Producer, Not a Consumer",
+          "category": "Business & Strategy",
+          "quote": "there are two types of people... consumers and producers... who makes the most money? The Producers",
+          "summary_en": "Shift from being a consumer to a producer, because producers make the money.",
+          "summary_zh": "做创造价值的生产者而非消费者",
+          "timestamp_sec": 114,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "number one fall in love with people",
+          "summary_en": "Fall in love with people and prioritize human relationships.",
+          "summary_zh": "发自内心地热爱并善待他人",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "number two fall in love with sales",
+          "summary_en": "Fall in love with sales and master the craft of selling.",
+          "summary_zh": "爱上销售并全力成交",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "number three fall in love with numbers",
+          "summary_en": "Fall in love with numbers so you understand your financial metrics.",
+          "summary_zh": "热爱数字并精通财务核算",
+          "timestamp_sec": 126,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "make speed work to your favor because you're young but you're not forever young you don't procrastinate anymore because procrastinate is the assassination of all destination",
+          "summary_en": "Use speed to your advantage while young and eliminate procrastination completely.",
+          "summary_zh": "趁年轻追求速度，绝不拖延",
+          "timestamp_sec": 138,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Be a Giver, Not a Taker",
+          "category": "Mindset & Resilience",
+          "quote": "there are two types of people right givers and takers right life take from takers and give to givers",
+          "summary_en": "Be a giver rather than a taker, as life ultimately rewards givers.",
+          "summary_zh": "做给予者，生活终会回馈付出者",
+          "timestamp_sec": 149,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "go to work with every fiber of your being Every Soul every part of your body go all... work like it's up to you",
+          "summary_en": "Work with every fiber of your being as if everything depends entirely on your effort.",
+          "summary_zh": "竭尽全力投入工作，像全靠自己",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "pray like it's up to God... you have to pray to God your creator to make all your dreams become a reality",
+          "summary_en": "After giving your absolute best effort, pray and trust God to bring your dreams to life.",
+          "summary_zh": "尽人事后保持信仰并向神祈祷",
+          "timestamp_sec": 162,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身非洲贫困家庭，7岁丧父，曾食不果腹、鞋底破洞甚至睡在车里，后凭借销售与创造价值实现单年收入近200万美元。",
+      "guest_name": "Thomas (Miami Entrepreneur)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Entrepreneur & Salesman",
+      "wealth_detail": "Close to $2M single-year income",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "成为创造价值的生产者而非消费者，热爱人、销售与数字，趁年轻加速行动绝不拖延，并以竭尽全力的态度工作与祷告。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "you got to always innovate and you got to be one step and everything is about speed to Market cuz when you come up with an idea tomorrow somebody else will come up with it so you got to go fast",
+          "summary_en": "Continuously innovate and prioritize speed to market because ideas are quickly copied.",
+          "summary_zh": "持续创新并以极快速度推向市场",
+          "timestamp_sec": 229,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "you got to have great people everything every business surrounds great people people that are smart people that are committed people that want to be in startups cuz you really dedicate your life to it it's 24/7",
+          "summary_en": "Build your startup around smart, deeply committed people willing to dedicate themselves 24/7.",
+          "summary_zh": "招募聪明且全情投入的优秀人才",
+          "timestamp_sec": 248,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Secure Smart Money & Strong Capitalization",
+          "category": "Business & Strategy",
+          "quote": "be well capitalized in Tech you got to have funding so have good partners have Smart money smart money always goes a long ways than just normal money",
+          "summary_en": "Stay well capitalized in tech by securing good partners and smart money rather than ordinary capital.",
+          "summary_zh": "确保资金充足并寻找聪明资本合伙",
+          "timestamp_sec": 269,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "best industry Tech AI the world is changing with AI software and if you have the knowledge that is a space to be in right now",
+          "summary_en": "Enter tech, AI, and software where rapid global transformation creates massive opportunity.",
+          "summary_zh": "切入人工智能与软件这一高增长赛道",
+          "timestamp_sec": 280,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕科技行业约10年，创办并运营两家科技公司后均以八位数美元（数千万美元级别）成功出售退出。",
+      "guest_name": "Miami Tech Founder (Sold Two Companies for 8 Figures)",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Leadership & People Management",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Tech Entrepreneur (Two-Time Exited Founder)",
+      "wealth_detail": "Sold two tech companies for multiple eight figures",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "科技创业务必保持持续创新与极快上市速度，招募聪明且全身心投入的团队，引入优质的聪明资本，并抢占AI与软件赛道。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Focus on Solutions, Never Complain",
+          "category": "Mindset & Resilience",
+          "quote": "they don't complain they always on top of solutions what is the solution what is it that I can do better so they don't sit there in self-pity and cry",
+          "summary_en": "Never sit in self-pity or complain; stay relentlessly focused on solutions and improvement.",
+          "summary_zh": "不抱怨不自怜，专注寻找解决方案",
+          "timestamp_sec": 355,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Reject Entitlement Mindset",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "entitlement is what's going to kill you at the End by the way nobody's coming to save you that's for sure",
+          "summary_en": "Drop any sense of entitlement because nobody is coming to save you.",
+          "summary_zh": "戒除理所当然心态，没人会来救你",
+          "timestamp_sec": 368,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "don't listen to people that don't have things that you want ignore the noise... even though it seems crazy to everybody else it's going to work",
+          "summary_en": "Ignore advice and doubt from people who do not have the life you want.",
+          "summary_zh": "别听不如你的人的质疑，屏蔽噪音",
+          "timestamp_sec": 379,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I just got kind of obsessed with getting better in what I do I really wanted to be the best lash artist that there is it was like a sick thing I would wake up with every single day",
+          "summary_en": "Become obsessed with improving daily at your craft until you are the best at what you do.",
+          "summary_zh": "痴迷打磨专业手艺，立志做到顶尖",
+          "timestamp_sec": 389,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "20岁时只带78美元现金且不会英语从俄罗斯移民美国，24岁顶住质疑投入美睫行业并做到极致，30岁成为百万富翁，如今业务年入约200万美元。",
+      "guest_name": "Miami Russian Immigrant Lash Studio Founder",
+      "industry": "Other / Unspecified",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Lash Artist & Beauty Business Owner",
+      "wealth_detail": "~$2M annual income; became a millionaire around age 30",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "绝不抱怨或自怜，始终聚焦解决问题的办法；认清没人会来救你、戒除理所当然的心态；屏蔽外人质疑，以偏执的热爱打磨自己的核心手艺。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Be Careful Who You Partner With",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "I had a clothing store in a barber shop when I was 18 with a business partner of mine he was selling drugs went into depression lost my clothing store lost my barber shop",
+          "summary_en": "Avoid bad business partners whose illegal or reckless behavior can destroy your business.",
+          "summary_zh": "谨慎选择合伙人以免被连累破产",
+          "timestamp_sec": 479,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Take Extreme Ownership of Your Problems",
+          "category": "Mindset & Resilience",
+          "quote": "anything and everything that happens to you might not be your fault but it is your problem and eventually you have to solve that problem or you're going to continue being broke the rest of your life",
+          "summary_en": "Even when a setback is not your fault, treat it as your problem to solve or stay broke.",
+          "summary_zh": "困境虽非你错却是你的责任，必须解决",
+          "timestamp_sec": 516,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "you need to speak to yourself and you need to speak life into yourself because your belief system also matters if you don't believe you're going to be worth eight figures you're never going to touch eight figures",
+          "summary_en": "Hold yourself accountable in the mirror every morning and speak eight-figure belief into yourself.",
+          "summary_zh": "每天对镜自我激励，建立八位数信念",
+          "timestamp_sec": 533,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Trust Your Gut & Ignore Average Opinions",
+          "category": "Mindset & Resilience",
+          "quote": "stop listening to everybody else... if you do not listen to your gut and you start listening to everybody's opinions you're going to end up like everybody",
+          "summary_en": "Trust your gut intelligence instead of following the opinions of people with smaller dreams.",
+          "summary_zh": "倾听商业直觉，别被平庸者的意见左右",
+          "timestamp_sec": 541,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "what's the most common mistake that people make that keeps them broke in today's world? money management and time management",
+          "summary_en": "Master money management so poor financial habits do not keep you broke.",
+          "summary_zh": "做好资金管理，避免低级财务失误",
+          "timestamp_sec": 559,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "once they're an entrepreneur they think they don't have to come to work... not realizing 8:00 a.m. is when you can legally start prospecting",
+          "summary_en": "Maintain strict work discipline as an entrepreneur and start prospecting right at 8 a.m.",
+          "summary_zh": "严格自律，早八点准时开工开发客户",
+          "timestamp_sec": 569,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "you can be the most talented sales individual in the world but if you do not Prospect and you do not establish relationships you will never be able to use your actual talents in terms of selling",
+          "summary_en": "Sales talent is useless unless you consistently prospect and build client relationships.",
+          "summary_zh": "光有销售天赋不够，必须主动拓客建联",
+          "timestamp_sec": 578,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "18岁因合伙人涉毒导致服装店与理发店倒闭，从Sprint手机亭销售重新起步，房地产亏损后转入高上限的保险销售，最终打造以营销代理机构为核心的年营收550万、净利240万美元商业生态。",
+      "guest_name": "Eric (Miami Marketing Agency & Insurance Entrepreneur)",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Unnamed billionaire mentor (private jet conversation)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Networking & Relationships",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Entrepreneur & Marketing Agency Owner",
+      "wealth_detail": "$5.5M annual revenue ($2.4M net profit) in first full year",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "明白任何难题哪怕不是你的错也是你的责任；每天对镜自我赋能；相信自己的商业直觉而不随大流；做好时间与资金管理，早8点准时开拓客户并建立关系。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I focus on my practices that grow that gives me the cash flow so I don't really need outside investors",
+          "summary_en": "Grow a high-cash-flow core business so you can fund expansion without needing outside investors.",
+          "summary_zh": "聚焦核心诊所盈利，无需外部投资",
+          "timestamp_sec": 647,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "I can put that cash flow right into like shopping centers and medical buildings and then the next year keep on doing the same thing as those properties get cash flow as well",
+          "summary_en": "Reinvest business cash flow into commercial real estate like shopping centers and medical buildings to compound cash flow.",
+          "summary_zh": "用主业现金流持续购入商业地产滚雪球",
+          "timestamp_sec": 647,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Build High-Barrier Specialized Skills",
+          "category": "Business & Strategy",
+          "quote": "your core business that you develop yourself as a doctor or an attorney and now that you can grow it multiple ways without like a lot of barriers to entry cuz it's not easy went to dental school and orthodontic school so that was 11 years",
+          "summary_en": "Use higher education to build a high-barrier professional core business that competitors cannot easily replicate.",
+          "summary_zh": "通过深造建立高门槛核心专业壁垒",
+          "timestamp_sec": 676,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "the last two deals I did I got directly in front of the owner the seller and he liked me and people want to work with people that they like",
+          "summary_en": "Get directly in front of property owners and be personable, because people prefer doing deals with people they like.",
+          "summary_zh": "直接面见卖家并用亲和力赢得好感",
+          "timestamp_sec": 697,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "经过11年牙科与正畸医学深造后创办自己的正畸诊所核心业务，再利用诊所充沛的现金流不依赖外部融资持续收购购物中心和医疗大楼。",
+      "guest_name": "Chandy (Miami Orthodontist & Real Estate Investor)",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Orthodontist & Commercial Real Estate Investor",
+      "wealth_detail": "Eight figures single-year income; $15M Miami mansion",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "通过高等教育与专业训练建立竞争门槛极高的核心生意，再用核心主业产生的现金流滚动收购产生租金回报的商业地产，谈交易时注重与业主建立真诚好感。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Find & Learn From Mentors",
+          "category": "Actionable Skills & Habits",
+          "quote": "if you leave me in a room with somebody doing better than me I will ask some questions for like literally until they have to tell me to shut up",
+          "summary_en": "Relentlessly ask questions whenever you are around people doing better than you.",
+          "summary_zh": "主动向强于自己的人虚心发问取经",
+          "timestamp_sec": 802,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I made sure that I always fed my business right I didn't want to starve it... the first three years I wasn't paying myself a lot",
+          "summary_en": "Feed your business early rather than taking big paychecks yourself so it can compound sustainably.",
+          "summary_zh": "前期克制分红，持续把利润反哺公司",
+          "timestamp_sec": 821,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Align Client, Team & Company Interests",
+          "category": "Business & Strategy",
+          "quote": "approach it like a three-legged stool... every decision you're making has to be great for your client... great for your agent or your employee... and it can't harm the company",
+          "summary_en": "Run every business decision through the three-legged stool test: good for clients, good for agents/employees, and safe for the company.",
+          "summary_zh": "决策必须兼顾客户、员工与公司三方利益",
+          "timestamp_sec": 852,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "a lot of people get into business to get rich right away I got into business to get free... they're frustrated... they're like I can't buy that $400,000 car",
+          "summary_en": "Don't start a business expecting to buy a $400k car immediately; build for long-term freedom with patience.",
+          "summary_zh": "创业初期别急着暴富买豪车，保持耐心",
+          "timestamp_sec": 873,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "if people are weighing you down dude you get the anchor off... the minute you grab me and I think you're bringing me down... I'm out",
+          "summary_en": "Cut off anchors and anyone around you who pulls you down rather than supporting your growth.",
+          "summary_zh": "果断远离把你往下拽的消极人群",
+          "timestamp_sec": 913,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "why do you think most people struggle at sales? I don't think they believe in themselves... the greatest thing for your self-image by far is work",
+          "summary_en": "Build unshakeable self-belief—especially through hard work—because lacking belief holds people back in sales.",
+          "summary_zh": "卖货先建立自信，用努力塑造自我认同",
+          "timestamp_sec": 939,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "most people won't work... you can build the belief in yourself but people don't want to work hard",
+          "summary_en": "Outwork the competition because most people simply refuse to put in the hard work.",
+          "summary_zh": "多数人不愿吃苦，努力是最大优势",
+          "timestamp_sec": 958,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "I became really good at sales cuz I called more people I wasn't going to take no for an answer I wasn't worried about being judged",
+          "summary_en": "Excel at sales by out-calling everyone, refusing to accept no easily, and ignoring fear of judgment.",
+          "summary_zh": "拨打最多销售电话，不因被拒或评价退缩",
+          "timestamp_sec": 969,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创业经营人寿保险等企业30年，前三年压低个人薪酬并持续拨打大量销售电话，最终将公司做到2023年营收7.52亿美元，并多次以亿级美元成功退出、个人年入数千万美元。",
+      "guest_name": "Shawn Meaik",
+      "industry": "Finance & Investing",
+      "origin_type": "Commission / High-ticket sales",
+      "recommended_books_or_mentors": [
+        "Arthur Blank (Home Depot co-founder)",
+        "Unnamed billionaire mentor (10-12x billionaire)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Leadership & People Management",
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Entrepreneur & Insurance Business Owner (30-Year Founder)",
+      "wealth_detail": "$752M annual revenue (2023); tens of millions personal annual income; $100M company exits",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "向比自己优秀的人拼命发问学习；创业头几年先滋养公司而非急着高消费；用三脚凳原则兼顾客户、团队与公司利益；远离拖累自己的消极人群，靠海量外呼与勤奋建立自信。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "ZFkKWGnm1PA",
+  "video_type": "street_multi"
+}

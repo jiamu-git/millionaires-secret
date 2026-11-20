@@ -1,0 +1,253 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "if you can earn £10 risk it to earn 20 because you know you can always earn £10 again... he who dares wins",
+          "summary_en": "Risk what you earn to double it because you can always earn your baseline back; fortune favors the bold.",
+          "summary_zh": "敢于拿现有收入冒险博取更高回报",
+          "timestamp_sec": 113,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "your money doesn't belong to you when you put it in the bank... you're investing in them and they pay your money back as an interest",
+          "summary_en": "Recognize that money deposited in a bank belongs to the bank—you are effectively an investor lending to them.",
+          "summary_zh": "理解银行本质：存款其实是在投资银行",
+          "timestamp_sec": 156,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "be careful of the company that you keep you know you can't fly like a swan when you're surrounded by turkeys... if you're around five billionaires you'll be the sixth billionaire",
+          "summary_en": "You become the company you keep, so avoid mediocrity and surround yourself with billionaires.",
+          "summary_zh": "近朱者赤，远离平庸圈子并与强者同行",
+          "timestamp_sec": 183,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Work for Success Over Money",
+          "category": "Mindset & Resilience",
+          "quote": "we don't work for money we work for Success it's not a monetary thing it's a success thing",
+          "summary_en": "Billionaires focus on achieving success itself rather than working solely for money.",
+          "summary_zh": "不为金钱工作，而为追求成功工作",
+          "timestamp_sec": 203,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Walk Away From Unfavorable Deals",
+          "category": "Business & Strategy",
+          "quote": "I don't negotiate... my way or the highway... I'm willing to walk away from a deal if it doesn't suit me",
+          "summary_en": "Build enough leverage to set your own terms and walk away relentlessly from any deal that doesn't suit you.",
+          "summary_zh": "建立谈判筹码，不合适就果断离场",
+          "timestamp_sec": 223,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "13岁被学校开除后从小摸爬滚打做生意，早期从事夜店行业，随后大胆跨界进入当时毫无经验的医用大麻行业成为全球首位医用大麻亿万富翁；十年前曾在塞浦路斯银行危机中失去全部存款但东山再起。",
+      "guest_name": "World's First Medical Cannabis Billionaire",
+      "industry": "Healthcare & Biotech",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Father"
+      ],
+      "recommended_skills": [
+        "Negotiation & Deal-Making",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Founder & Entrepreneur (Medical Cannabis)",
+      "wealth_detail": "Just over €1 billion in a single year; billionaire",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "父亲教导他：赚到10英镑就敢拿去冒风险博20英镑，因为本金随时能再赚回来；同时务必谨慎选择社交圈，远离平庸者、与顶级强者同行。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Pivot Rapidly Using Existing Strengths",
+          "category": "Business & Strategy",
+          "quote": "CoVID hit in Germany our whole business crashed so we pivoted to medical supplies we had 10 years of operational knowledge in China... we went to direct sales we called all the hospitals",
+          "summary_en": "When crisis destroys your core market, pivot rapidly by leveraging your existing operational and supply-chain strengths and selling directly to urgent buyers.",
+          "summary_zh": "危机中依托现有供应链优势迅速转型",
+          "timestamp_sec": 338,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "secret to selling is asking so many questions that the customer would be stupid to not buy afterwards... keep asking questions till there's no objection handling... make it easy for them to pay",
+          "summary_en": "Master sales by asking targeted questions until no objections remain, then make payment options effortless.",
+          "summary_zh": "通过深度提问消除异议并简化付款流程",
+          "timestamp_sec": 396,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "It was Think and Grow Rich from Napoleon Hill But Here Comes The Clue 90% in your mind and 10% financially so mindset is very important no mindset no Financial Freedom",
+          "summary_en": "Study foundational mindset books like Think and Grow Rich, recognizing that financial freedom is 90% mindset and 10% finance.",
+          "summary_zh": "多读经典好书，创业九成胜负在于心态",
+          "timestamp_sec": 440,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "Faith and Hope is always the last result of humanity if you don't have hope at the end what do you have",
+          "summary_en": "Maintain faith and hope as your ultimate anchor when navigating hard times.",
+          "summary_zh": "保持对上帝的信仰与人生希望",
+          "timestamp_sec": 452,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "not believing in yourself is the most selfish thing that you can do... speak good to yourself because your subconscious mind will reflect it... your mind will follow your words",
+          "summary_en": "Believe in yourself unconditionally and practice positive self-talk so your subconscious mind aligns with your words.",
+          "summary_zh": "坚定自信并用积极语言引导潜意识",
+          "timestamp_sec": 463,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "16岁开始卖保险，大学期间以每小时5美元在酒吧打工后独立创业；2020年疫情导致原促销品业务崩溃后，依托在中国积累的10年供应链经验迅速转型进口医疗物资并直接致电医院销售，一年内营收翻5倍至6900万美元，随后核心促销品业务也翻倍至3500万美元。",
+      "guest_name": "Dubai Harbor Multi-Business Entrepreneur (8 Companies)",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Think and Grow Rich by Napoleon Hill",
+        "First Mentor (gave him Think and Grow Rich at age 18)"
+      ],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Operations & Systems",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Founder & Owner (8 Businesses / Promotional Products & Medical Supplies)",
+      "wealth_detail": "$69M peak single-year revenue; core promotional products business at $35M",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "销售是解决一切问题的关键，要学会通过连续提问消除客户异议并降低付款门槛；创业成功90%取决于心态，要向内建立绝对自信。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "for you to make money you don't need to have money you can make it on your own provided you have proper ideas proper work culture and some special Innovative things which you want to do",
+          "summary_en": "Most billionaires are first-generation; you do not need starting capital if you bring strong ideas, work culture, and innovation.",
+          "summary_zh": "白手起家靠的是好创意、工作文化与创新",
+          "timestamp_sec": 558,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "if you don't have money and you want to start real estate money in real estate business... start with the brokerage business today in Dubai you get 5% Commission in The Brokerage... start with the brokerage and then become a developer",
+          "summary_en": "Enter real estate with no capital by starting in high-commission brokerage to build cash, then transition into property development.",
+          "summary_zh": "零本金入局房地产：先做经纪再做开发",
+          "timestamp_sec": 578,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "to become a good salesman you need to understand what is the customer requirement properly listen to him... explain him the benefits of this what is the ROI he will get... people buy only from people they like",
+          "summary_en": "Listen closely to understand the buyer's exact budget and needs, match the right product, explain the ROI clearly, and build likability.",
+          "summary_zh": "销售核心是倾听需求、匹配产品并讲清回报",
+          "timestamp_sec": 619,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Rizwan Sajan",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Real Estate Underwriting",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Real Estate Business Owner & Developer",
+      "wealth_detail": "10 billion dirhams max single-year earnings; billionaire (owns 6 Rolls-Royces)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "白手起家无需启动资金，关键在于创意、工作文化与创新；若零资金想进入房地产行业，建议先从高佣金（如迪拜5%）的房产经纪做起，积累资金后再转型成为开发商。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "Master the art of sales and marketing sales and marketing it's everything yeah so you got to focus on having a solid sales team a solid marketing strategy",
+          "summary_en": "Scale to billions by mastering sales and marketing through a strong sales team and clear marketing strategy.",
+          "summary_zh": "精通销售与营销并打造强有力的团队",
+          "timestamp_sec": 770,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Product-Led Marketing & Omnipresence",
+          "category": "Business & Strategy",
+          "quote": "you want omnipresence... the way I did that with not so much resources in the beginning was to make the product Market itself... the buildings were the billboards I didn't pay money for billboards... I'm very big on digital marketing",
+          "summary_en": "Achieve omnipresence on limited resources by giving your product a signature design DNA that markets itself, complemented by digital marketing.",
+          "summary_zh": "打造高辨识度产品实现免费品牌霸屏",
+          "timestamp_sec": 793,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "it was the most valuable lesson I learned to focus on one core and expand in that... one of the mistakes I made was diversifying into different sectors and not focusing on One Core... vertical integration",
+          "summary_en": "Avoid jumping across unrelated industries; focus on one core sector and achieve scale through vertical integration and product-line diversification within it.",
+          "summary_zh": "聚焦单一核心赛道做垂直整合，勿盲目跨界",
+          "timestamp_sec": 871,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I've seen miracles in my life I believe it was all from God... I asked God for a miracle and I told him you know it's now out of my hands and in your hands and miracles came let go and let God",
+          "summary_en": "Keep faith in God and surrender control in moments of crisis when all human solutions appear exhausted.",
+          "summary_zh": "绝境中保持信仰，学会交托与感恩",
+          "timestamp_sec": 915,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "深耕房地产开发16至17年，早期资金有限时通过打造极具辨识度的统一建筑设计语言让大楼本身成为免费广告牌，后续操盘全球首个布加迪、梅赛德斯-奔驰及Jacob & Co联名豪宅项目，将公司规模推向数十亿美元级。",
+      "guest_name": "Muhammad Binghatti",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Property Developer (Binghatti)",
+      "wealth_detail": "Almost $5 billion in a single year; multi-billion-dollar real estate business",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "精通销售与营销并重视数字营销；资源有限时要让产品本身极具辨识度以实现自我传播；切忌盲目跨界餐厅、果汁厂等不同行业，应聚焦单一核心赛道并做纵向一体化扩张。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "Latp0XujNXk",
+  "video_type": "street_multi"
+}

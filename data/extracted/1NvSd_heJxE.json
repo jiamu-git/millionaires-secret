@@ -1,0 +1,96 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I'd probably be a little bolder than I was and I'd probably be a little bit more confident in who I was to make certain that I always remain authentic to who I was",
+          "summary_en": "Be bolder, have more confidence in yourself, and always stay authentic to who you are.",
+          "summary_zh": "自信做真实的自己，处事更果敢大胆",
+          "timestamp_sec": 0,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "you should be trying as many different things as you can try and by the way do it in a very bold audacious way and to have the confidence to go do it",
+          "summary_en": "Take bold risks and try as many different things as possible while you are young and have fewer responsibilities.",
+          "summary_zh": "趁年轻无牵绊时，勇敢尝试各种新事物",
+          "timestamp_sec": 29,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "super strong focus on the consumer who are you trying to serve and what type of problems are you trying to solve for those people",
+          "summary_en": "Maintain a strong focus on the consumer you want to serve and the specific problems you are solving for them.",
+          "summary_zh": "高度聚焦目标消费者，明确为其解决痛点",
+          "timestamp_sec": 60,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "chase your dreams get involved with something that you're passionate about and then try to solve a problem and remain curious",
+          "summary_en": "Chase your dreams, work on something you are passionate about, stay curious, and focus on solving a problem.",
+          "summary_zh": "追逐梦想投身热爱，保持好奇并解决问题",
+          "timestamp_sec": 90,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Emotional Brand Storytelling & Product",
+          "category": "Business & Strategy",
+          "quote": "we translated into Innovative product that people coveted and desired and wanted and we told really emotional cool stories that connected the consumer to the brand",
+          "summary_en": "Turn consumer insights into innovative, desirable products and tell emotional stories that connect customers to your brand.",
+          "summary_zh": "倾听用户洞察做爆品，用情感故事连接品牌",
+          "timestamp_sec": 130,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "I had a plan in place I set goals out for myself and I stuck with that plan... have a plan and I save 10 of my income",
+          "summary_en": "Create a financial plan with clear goals, stick to it, and consistently save 10% of your income.",
+          "summary_zh": "制定理财计划并坚持执行，存下10%收入",
+          "timestamp_sec": 175,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "when you listen to someone tell you hey there's this can't miss investment I've had a few of those and I've missed almost every time",
+          "summary_en": "Avoid 'can't-miss, for-sure' investment pitches—they rarely work out and will pull you off track from your financial plan.",
+          "summary_zh": "警惕所谓“稳赚不赔”的投资，别偏离计划",
+          "timestamp_sec": 184,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "在耐克从卖球鞋和T恤的基层做起，历任销售、零售到产品等多个岗位，最终晋升为耐克总裁。",
+      "guest_name": "Former Nike President",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Marketing & Distribution",
+        "Leadership & People Management",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Former President of Nike",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "半开玩笑称若性命攸关一年内赚100万美元，会开酒吧或发起GoFundMe众筹页面向大家求助。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "1NvSd_heJxE",
+  "video_type": "deep_dive_single"
+}

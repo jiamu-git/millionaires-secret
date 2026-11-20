@@ -1,0 +1,322 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Hard work pays off. If you want to be a business owner, you've got to put in the time... what you put in it is what you'll get out of it.",
+          "summary_en": "Hard work pays off; business owners cannot work 9-to-5 and get out what they put in.",
+          "summary_zh": "创业不能朝九晚五，付出多少时间就有多少回报",
+          "timestamp_sec": 33,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Pay off all my credit card, I never racked up credit card debts again... unless you can pay with cash, don't go buy anything extra and go in debt.",
+          "summary_en": "Pay off credit cards weekly and avoid buying anything extra on debt if you cannot pay cash.",
+          "summary_zh": "还清信用卡债务，只用现金消费绝不透支负债",
+          "timestamp_sec": 43,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Four-Company Entrepreneur",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Owner of Four Companies",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "Stick with what you like to do, not necessarily what you think you should do, because you have to love it so that you wake up in the morning it doesn't feel like you're going to work.",
+          "summary_en": "Stick with what you genuinely love doing so work never feels like a chore.",
+          "summary_zh": "选择真正热爱的事，才不会觉得每天像在上班",
+          "timestamp_sec": 67,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Social skills. Oh my goodness, I hire a lot of people now—no social skills. Technology is not a social skill.",
+          "summary_en": "Develop strong social skills alongside technical ability when entering the real world.",
+          "summary_zh": "职场不能只靠技术，社交与沟通能力至关重要",
+          "timestamp_sec": 90,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Purchasing my house... How much is it appreciated since you bought it? About 200,000.",
+          "summary_en": "Purchasing a home was the best financial decision, appreciating by about $200,000.",
+          "summary_zh": "买房是最好的财务决定，房产已增值二十万美元",
+          "timestamp_sec": 100,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas IT Technology Manager",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Public Speaking & Communication",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "IT Technology Hiring Manager",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "Don't be afraid to take risk. I think we get too comfortable and not taking a risk, but I think don't be afraid to take risks.",
+          "summary_en": "Avoid getting too comfortable and do not be afraid to take risks starting out.",
+          "summary_zh": "走出舒适区，进入社会不要害怕承担风险",
+          "timestamp_sec": 118,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Don't take loans and don't open credit cards.",
+          "summary_en": "Avoid taking out loans and opening credit cards while in college.",
+          "summary_zh": "大学期间不要申请贷款，也不要随便办理信用卡",
+          "timestamp_sec": 127,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Middle School Counselor",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Middle School Counselor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "坦言不知道如何在一年内从零赚到100万美元，自嘲可能会破产"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Invest in Yourself & Your Tools",
+          "category": "Actionable Skills & Habits",
+          "quote": "Invest in yourself and get your equipment and get your tools so that you can be the best that you can be, then you're going to win.",
+          "summary_en": "Invest in yourself and buy the equipment and tools needed to be your best.",
+          "summary_zh": "投资自己与专业工具装备，全力打磨自身竞争力",
+          "timestamp_sec": 148,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "The whole school system, they kind of like gear you to be a worker bee... if you're trying to make your own way and leave a legacy for your family, you got to know what it is that you want to do and create something new for yourself.",
+          "summary_en": "School trains worker bees; to leave a legacy, create something of your own.",
+          "summary_zh": "学校只培养打工人，想留传承必须开创自己事业",
+          "timestamp_sec": 170,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "Be intentional about what it is that you want to accomplish... if you're intentional, you're zeroed in, laser focused on your goal, then you're probably going to get there.",
+          "summary_en": "Be intentional and laser-focused on your goal rather than drifting without direction.",
+          "summary_zh": "明确目标并保持极度专注，切忌摇摆不定",
+          "timestamp_sec": 194,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Tradesperson & \"Spider-Man\" Performer",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Multi-Trade Worker (Construction, Firefighting, Beverage Disposal)",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Marry a Financially Aligned Partner",
+          "category": "Wealth & Investing",
+          "quote": "Marrying someone who has a good financial mind... finding a partner who had similar aspirations and goals and we just spend a lifetime working towards those aspirations and goals as a team.",
+          "summary_en": "Marry someone with a good financial mind and shared goals to build life as a team.",
+          "summary_zh": "与有财务头脑且目标一致的伴侣结婚并肩奋斗",
+          "timestamp_sec": 225,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Partner-Focused Interviewee",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Dallas Resident",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Invest in Your Family",
+          "category": "Mindset & Resilience",
+          "quote": "Invested in my family, because my daughters are the bomb—we raised them properly... my wife and I did the right thing, we invested in our family.",
+          "summary_en": "Invest in your family and focus on raising your children well.",
+          "summary_zh": "把精力与资源投入到家庭和子女的培养教育上",
+          "timestamp_sec": 238,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "You can have a trade, you can have a work ethic. If you want to work and you can outwork anybody, just a piece of paper that says you have a college degree at the end of the day means nothing.",
+          "summary_en": "Learning a trade and outworking everyone matters more than a college degree.",
+          "summary_zh": "拥有一技之长并比别人更努力，胜过一纸文凭",
+          "timestamp_sec": 261,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Retired Public Servant",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Former Public Servant",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Relocate to Markets With Better Opportunity",
+          "category": "Business & Strategy",
+          "quote": "Moving to Dallas... ain't nothing in Mississippi at all... if anybody want to start something, move from your hometown.",
+          "summary_en": "Move away from a hometown with few opportunities if you want to build something.",
+          "summary_zh": "想干一番事业，就要离开缺乏机会的家乡去大城市",
+          "timestamp_sec": 273,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Law Enforcement Officer (Ex-Mississippi)",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [],
+      "role_or_title": "Law Enforcement Officer",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Paying off all my debt... staying low debt and high income has always been the best because it allows me to move whenever I want to move.",
+          "summary_en": "Pay off debt and pair low debt with high income for maximum mobility and freedom.",
+          "summary_zh": "保持低负债与高收入，才能拥有随时移动的自由",
+          "timestamp_sec": 301,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "It's just always saving that income on the side to like invest and jump in when opportunity presents itself.",
+          "summary_en": "Save surplus income on the side so you can invest when opportunities arise.",
+          "summary_zh": "把多余收入存起来备用，机会出现时才能果断出手",
+          "timestamp_sec": 319,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Debt-Free Mobile Professional",
+      "industry": "Other / Unspecified",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "High-Income Professional",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Practice, yeah, practice for sure, and don't be afraid of your creativity... if they send the song they're gonna get a bad review and they're gonna hurt their ego—don't worry about any of that because originality is what people look for.",
+          "summary_en": "Practice consistently, trust your originality, and don't fear bad reviews hurting your ego.",
+          "summary_zh": "坚持练习保持原创，别怕差评伤及自尊",
+          "timestamp_sec": 339,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I would tell myself to get more involved with other people on campus, right? I mean, you got to learn to be an adult.",
+          "summary_en": "Get more involved with people on campus in school to grow and build relationships.",
+          "summary_zh": "在校园多参与社交与合作，尽早学会与人打交道",
+          "timestamp_sec": 359,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Dallas Music Producer & Beat Subscription Founder",
+      "industry": "Media, Entertainment & Sports",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Music Producer & Beat Subscription Site Founder",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": ""
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "8M5QEOicQKQ",
+  "video_type": "street_multi"
+}

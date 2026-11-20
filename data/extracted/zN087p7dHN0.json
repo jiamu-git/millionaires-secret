@@ -1,0 +1,328 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "The home is a terrible investment... I'd go right into a commercial property. Multifamily is the easiest one to get into... Manage it yourself, lease it yourself, running all the books yourself, fix it up, then eventually refinance it and go buy another.",
+          "summary_en": "Skip buying a primary home as an investment; buy commercial or multifamily real estate, manage it yourself, and refinance to scale.",
+          "summary_zh": "投资商业或多户地产，自管翻修后再融资滚雪球",
+          "timestamp_sec": 131,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "Always the best time to buy real estate... I'm going to buy this property and I'm going to keep it for 10, 20, 30 years. And by the way, nobody could time a market.",
+          "summary_en": "Don't try to time the market; buy real estate consistently in both good and bad markets and hold for 10 to 30 years.",
+          "summary_zh": "长持地产十至三十年，不要试图预测市场时机",
+          "timestamp_sec": 160,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "Lack of financial education... they don't teach you how to get a mortgage, how to balance a checkbook, what to do with credit card debt, what's good debt, what's bad debt, why you should be buying a business, not buying a damn jet ski.",
+          "summary_en": "Build financial education—learn mortgages, bookkeeping, good vs. bad debt, and buy income-producing businesses instead of toys.",
+          "summary_zh": "提升财商，分清好坏债务，买企业而非消费品",
+          "timestamp_sec": 187,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Don't listen to the masses. The masses are entirely wrong... Doubters are just afraid you might do something that they're not doing. So don't worry about what people tell you no. Do your own thing and keep chugging forward.",
+          "summary_en": "Ignore conventional herd advice and doubters who project their own inaction; stay in your own lane and keep pushing forward.",
+          "summary_zh": "别盲从大众或理会质疑者，坚定走自己的路",
+          "timestamp_sec": 228,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Own Equity Rather Than Trading Time",
+          "category": "Business & Strategy",
+          "quote": "It's way better to be an entrepreneur. Most people think it's scary, but it's way better to be an entrepreneur than to work for someone else.",
+          "summary_en": "Despite the challenges of being the boss, entrepreneurship is far better than working for someone else.",
+          "summary_zh": "创业虽有压力，但远胜于一辈子替别人打工",
+          "timestamp_sec": 244,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Chase Fast Money / Get-Rich-Quick",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "It's just an illusion. Nobody gets there quick... whether you're going to be the best lawyer, the best architect, the best real estate guy, whatever it is, it's going to take a lot of time.",
+          "summary_en": "Don't fall for the illusion of overnight wealth on social media; mastering any field and building real wealth takes years.",
+          "summary_zh": "社交媒体炫富多为假象，任何成功都无法速成",
+          "timestamp_sec": 298,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Avoid Social Comparison & Fake Flexing",
+          "category": "Mindset & Resilience",
+          "quote": "Everybody's competing against a non-existent thing... So, don't count other people's money. Don't compare against them because remember, comparison is the thief of joy.",
+          "summary_en": "Stop comparing yourself to curated Instagram lifestyles or counting other people's money; focus on your own forward progress.",
+          "summary_zh": "别数别人的钱盲目攀比，攀比是快乐的窃贼",
+          "timestamp_sec": 308,
+          "type": "warning_dont"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "Todd Napole",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Retail Shopping Center Owner & Real Estate Entrepreneur",
+      "wealth_detail": "Made \"a lot more\" than $10M in a single year",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": ""
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "Listen, the real billionaire's secret is there's no secret. You set out to make a hundred grand and then you make a billion.",
+          "summary_en": "There is no secret shortcut to becoming a billionaire—start by aiming to make $100,000 and keep building from there.",
+          "summary_zh": "没有致富秘诀，先设赚十万的小目标再做大",
+          "timestamp_sec": 460,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "It wasn't a sacrifice. The journey is the reward. It was all fun. I wasn't looking to get rich. I was just looking to build a business.",
+          "summary_en": "Focus on enjoying the process of building a real business rather than chasing money; the journey itself is the reward.",
+          "summary_zh": "享受创业过程本身，专注建业务而非只盯赚钱",
+          "timestamp_sec": 482,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "I don't pat myself on the back... I go, 'Thank you, God, for letting me have this great life.' ... The money does not belong to you. The money belongs to God.",
+          "summary_en": "Stay humble and grateful rather than taking sole credit for success, remembering that wealth is a stewardship, not yours alone.",
+          "summary_zh": "金钱终究属于上帝，常怀感恩切勿居功自傲",
+          "timestamp_sec": 530,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Don't Neglect Health & Family for Money",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "On our last day, we're not going to be talking about money or what deal we didn't do. We're going to be talking about and thinking about the time we didn't spend with the people we love.",
+          "summary_en": "Remember what matters at the end of life—you will care about missed time with loved ones, not the deals or money you missed.",
+          "summary_zh": "临终只会遗憾陪伴挚爱太少，而非少做一笔交易",
+          "timestamp_sec": 557,
+          "type": "regret"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "I am not smart, and I know I'm not smart... I'm not a smart guy, but I'm smart enough to go find smart guys and girls.",
+          "summary_en": "Be self-aware about your own limitations and hire brilliant people who know what you don't.",
+          "summary_zh": "自知不聪明，所以去聘请比自己更聪明的人",
+          "timestamp_sec": 573,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Don't Surround Yourself With Toxic / Negative People",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Your children are one friend away from total disaster... When you lay and sleep with pigs, you get pig [ __ ] on you. You cannot sleep with pigs and get up without pig [ __ ].",
+          "summary_en": "Cut off toxic, destructive influences for yourself and your family; associating with bad company inevitably drags you down.",
+          "summary_zh": "远离不良朋友与消耗者，近墨者黑会毁掉人生",
+          "timestamp_sec": 653,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "Read a book called Never Eat Alone. If you're just going to sit at your desk and not get out your comfort zone... you're not going to do [ __ ]. Luck comes when you're looking for opportunity. You got to leave the cage.",
+          "summary_en": "Leave your desk, go to lunches, conventions, and events to actively network—opportunity and luck require stepping outside your comfort zone.",
+          "summary_zh": "走出舒适区积极社交，机会和运气不会自己上门",
+          "timestamp_sec": 667,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "Keep your word and hire great people and share... Why the lions don't eat him? Cuz he loves them and feeds them.",
+          "summary_en": "Keep your promises, hire great talent, and share rewards generously by loving and taking care of your team.",
+          "summary_zh": "创业要信守承诺、善待并回馈团队才能长久",
+          "timestamp_sec": 712,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "When you see the great Wallenda up on the wire walking without a net, you know why he didn't fall. Focus. Focus.",
+          "summary_en": "Maintain relentless, high-stakes focus on your core craft like a tightrope walker without a net.",
+          "summary_zh": "如走钢丝般极度专注，是成事不坠的关键",
+          "timestamp_sec": 746,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "",
+      "guest_name": "John Morgan",
+      "industry": "Legal & Professional Services",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Titan (book about John D. Rockefeller)",
+        "Never Eat Alone (book)",
+        "Bill Dmitri (mentor)",
+        "Bill McBride (mentor)"
+      ],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Leadership & People Management",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Founder of North America's Largest Personal Injury Law Firm (Morgan & Morgan)",
+      "wealth_detail": "",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "如果失去一切从零开始，要信守承诺、聘用优秀人才并懂得分享，同时保持专注、善待并回馈团队；此外要走出舒适区积极社交寻找机会，先从小目标（赚10万美元）做起。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "Think big, dream bigger. If you're hitting your dreams, you're not dreaming big enough. My dreams are bigger now than they were when I was 15.",
+          "summary_en": "Set ambitious goals and continually expand your vision—if you are easily hitting your dreams, you aren't dreaming big enough.",
+          "summary_zh": "把梦想定得更大，能实现说明野心还不够",
+          "timestamp_sec": 842,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "Always the product. The product, the consumer. The distribution to me is the least important... If you build a product that consumers demand, you don't have to worry about distribution. Those accounts are going to call you.",
+          "summary_en": "Prioritize creating a product consumers genuinely demand above all else; strong consumer demand pulls distribution to you.",
+          "summary_zh": "产品与用户需求永远第一，好产品自带分销",
+          "timestamp_sec": 859,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Bet on Yourself & Control Your Destiny",
+          "category": "Business & Strategy",
+          "quote": "Being an investor, you don't control anything. You control that guy's decisions. I want to bet on myself. If you're a real entrepreneur, you don't bet on other people. You bet on yourself.",
+          "summary_en": "True entrepreneurs bet on themselves and own the execution rather than staying passive investors dependent on others' decisions.",
+          "summary_zh": "真创业者把筹码押在自己身上，而非只投别人",
+          "timestamp_sec": 887,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Start Lean & Reinvest Profits",
+          "category": "Business & Strategy",
+          "quote": "I took money from friends, family, my partner had money... we didn't try to grow quick... If you want to build a billion dollar company, you have to build a $100 company first, then a $1,000 company, then a $100,000 company.",
+          "summary_en": "Start small with lean capital and scale step-by-step from $100 to $100,000 to $1 million rather than trying to grow overnight.",
+          "summary_zh": "稳扎稳打从百元生意起步，切忌急于做大",
+          "timestamp_sec": 963,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "First five years for an entrepreneur, I call the survival years. Every single day you could go bankrupt. There are days that I didn't think we could make payroll.",
+          "summary_en": "Be prepared to grind through the first five survival years of entrepreneurship when bankruptcy and missed payroll feel one day away.",
+          "summary_zh": "熬过前五年创业生存期，每天都要做好破产准备",
+          "timestamp_sec": 999,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "Failing is good. If you don't fail in life, you're not trying hard enough... I love failing. Failing means I've taken it as far as I can and now I got to figure out another [ __ ] way to get to the next level.",
+          "summary_en": "Welcome failure as proof you are pushing your limits and use it as feedback to find a new path to the next level.",
+          "summary_zh": "拥抱甚至热爱失败，没失败说明还没拼尽全力",
+          "timestamp_sec": 1019,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Compete With Yourself & Never Get Complacent",
+          "category": "Mindset & Resilience",
+          "quote": "You're just competing with yourself... My goal is to be better every day, or even worse sometimes, suck less every day... Happy is great. Content is boring. Once you get content, you might as well just give it up.",
+          "summary_en": "Compete strictly against your past self to improve daily, and never let happiness turn into complacency.",
+          "summary_zh": "只与过去的自己竞争，可以开心但绝不自满",
+          "timestamp_sec": 1056,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Don't Hide Mental Health Struggles",
+          "category": "Regrets & Warnings (Don'ts)",
+          "quote": "Everybody gets a little anxiety. Everybody has a little stress... A lot of people that try to hide their mental illness is why it gets out of control because the harder it becomes to hide, the worse it can get internally.",
+          "summary_en": "Acknowledge anxiety and mental health struggles openly instead of hiding them, since secrecy makes internal pressure spiral out of control.",
+          "summary_zh": "坦然面对焦虑与心理压力，刻意隐藏只会失控",
+          "timestamp_sec": 1114,
+          "type": "warning_dont"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "I do want people to take chances and get a little crazier in life and be a little bit more adventurous and take chances and don't be afraid to fail.",
+          "summary_en": "Be willing to be a little adventurous, take bold chances, and stop letting the fear of failure hold you back.",
+          "summary_zh": "人生要敢于冒险甚至带点疯狂，别害怕失败",
+          "timestamp_sec": 1142,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Live Every Day to the Fullest",
+          "category": "Mindset & Resilience",
+          "quote": "Live life to the fullest. Live every day like it's your last and one day you'll be right.",
+          "summary_en": "Live every day fully with urgency and passion, as if it were your last.",
+          "summary_zh": "把每一天都当最后一天去活，尽情享受人生",
+          "timestamp_sec": 1152,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "出身法裔移民贫困家庭（父母资产仅约5000美元），20岁时辞去水厂高薪工作降薪创业，靠亲友和合伙人拼凑约1万美元启动，将维他命水（Vitaminwater）从10万美元做到7.5亿美元营收并以41亿美元卖给可口可乐，后又创办BodyArmor并以80亿美元再次卖给可口可乐。",
+      "guest_name": "Mike Repoli",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [
+        "Man in the Glass (poem)"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Marketing & Distribution",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Co-founder of Vitaminwater & BodyArmor (CPG Multi-Billionaire)",
+      "wealth_detail": "Sold Vitaminwater to Coca-Cola for $4B–$4.1B (2007) and BodyArmor to Coca-Cola for $8B (2021)",
+      "wealth_tier": "Billionaire ($1B+)",
+      "zero_start_advice": "想做十亿美元公司必须先从100美元、1000美元、10万美元的小公司一步步做起，不能急于求成；要做好前五年创业“生存期”随时可能破产的准备，专注打造消费者真正需要的产品而非只盯分销，并敢于赌在自己身上。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "zN087p7dHN0",
+  "video_type": "street_multi"
+}

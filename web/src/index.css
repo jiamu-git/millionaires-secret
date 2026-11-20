@@ -1,0 +1,164 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-header: var(--header);
+  --color-panel: var(--panel);
+  --color-surface: var(--surface);
+  --color-surface-elevated: var(--surface-elevated);
+  --color-surface-active: var(--surface-active);
+  --color-control: var(--control);
+  --color-rule: var(--rule);
+  --color-rule-strong: var(--rule-strong);
+  --color-ink: var(--ink);
+  --color-ink-secondary: var(--ink-secondary);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-faint: var(--ink-faint);
+  --color-gold: var(--gold);
+  --color-gold-ink: var(--gold-ink);
+  --color-gold-soft: var(--gold-soft);
+  --color-gold-border: var(--gold-border);
+  --color-sage: var(--sage);
+  --color-sage-ink: var(--sage-ink);
+  --color-sage-soft: var(--sage-soft);
+  --color-sage-border: var(--sage-border);
+  --color-rose: var(--rose);
+  --color-rose-ink: var(--rose-ink);
+  --color-rose-soft: var(--rose-soft);
+  --color-rose-border: var(--rose-border);
+  --color-track: var(--track);
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+    /* Warm Editorial Paper & Ink (Default Light Mode) */
+    --canvas: #f5f2eb;
+    --header: #faf8f3;
+    --panel: #ffffff;
+    --surface: #fbfaf7;
+    --surface-elevated: #efece3;
+    --surface-active: #ebe6da;
+    --control: #ffffff;
+    --rule: rgba(24, 22, 16, 0.09);
+    --rule-strong: rgba(24, 22, 16, 0.16);
+    --ink: #17181c;
+    --ink-secondary: #4a4d55;
+    --ink-muted: #656973;
+    --ink-faint: rgba(24, 22, 16, 0.25);
+    --gold: #b87b14;
+    --gold-ink: #8c5905;
+    --gold-soft: rgba(184, 123, 20, 0.11);
+    --gold-border: rgba(184, 123, 20, 0.34);
+    --sage: #158f64;
+    --sage-ink: #0f724f;
+    --sage-soft: rgba(21, 143, 100, 0.10);
+    --sage-border: rgba(21, 143, 100, 0.30);
+    --rose: #c74350;
+    --rose-ink: #a82b38;
+    --rose-soft: rgba(199, 67, 80, 0.10);
+    --rose-border: rgba(199, 67, 80, 0.30);
+    --track: rgba(24, 22, 16, 0.08);
+    --panel-shadow: 0 1px 3px rgba(24, 22, 16, 0.08), 0 1px 2px rgba(24, 22, 16, 0.04);
+
+    --font-editorial: 'Source Serif 4', 'Songti SC', 'Noto Serif SC', Georgia, serif;
+    --font-sans: 'Figtree', -apple-system, 'SF Pro Text', 'PingFang SC', 'Noto Sans SC', sans-serif;
+    --font-mono: 'Geist Mono', 'SF Mono', ui-monospace, SFMono-Regular, monospace;
+  }
+
+  .dark {
+    color-scheme: dark;
+    /* Obsidian Financial Ledger (Optional Dark Mode) */
+    --canvas: #090b0e;
+    --header: #0b0e13;
+    --panel: #101318;
+    --surface: rgba(255, 255, 255, 0.022);
+    --surface-elevated: rgba(255, 255, 255, 0.045);
+    --surface-active: rgba(255, 255, 255, 0.068);
+    --control: #0e1117;
+    --rule: rgba(255, 255, 255, 0.075);
+    --rule-strong: rgba(255, 255, 255, 0.14);
+    --ink: rgba(255, 255, 255, 0.90);
+    --ink-secondary: rgba(255, 255, 255, 0.65);
+    --ink-muted: rgba(255, 255, 255, 0.46);
+    --ink-faint: rgba(255, 255, 255, 0.22);
+    --gold: #e0ac4b;
+    --gold-ink: #f2ca7d;
+    --gold-soft: rgba(224, 172, 75, 0.14);
+    --gold-border: rgba(224, 172, 75, 0.40);
+    --sage: #38b889;
+    --sage-ink: #66d4ac;
+    --sage-soft: rgba(56, 184, 137, 0.12);
+    --sage-border: rgba(56, 184, 137, 0.34);
+    --rose: #e06c75;
+    --rose-ink: #f08e96;
+    --rose-soft: rgba(224, 108, 117, 0.13);
+    --rose-border: rgba(224, 108, 117, 0.35);
+    --track: rgba(255, 255, 255, 0.06);
+    --panel-shadow: none;
+  }
+
+  html {
+    background-color: var(--canvas);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--canvas);
+    color: var(--ink);
+    touch-action: manipulation;
+  }
+}
+
+.panel-elevated {
+  background-color: var(--panel);
+  box-shadow: var(--panel-shadow);
+}
+
+.font-editorial {
+  font-family: var(--font-editorial);
+}
+
+.font-mono-num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.en-display {
+  letter-spacing: -0.022em;
+}
+
+.cjk-prose {
+  line-height: 1.75;
+  letter-spacing: 0;
+}
+
+/* Custom discreet scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--rule-strong);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ink-muted);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

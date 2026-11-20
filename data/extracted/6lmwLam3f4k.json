@@ -1,0 +1,146 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I stayed in the same thing long enough to make substantial money to create freedom. If you pour it over too many plants, you'll never bear fruit on any of them.",
+          "summary_en": "Stay focused on one industry long enough to build substantial wealth and freedom instead of spreading your energy thin.",
+          "summary_zh": "深耕单一行业直到实现财务自由，切忌分散精力",
+          "timestamp_sec": 110,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "You either become the situation that you're in, the atmosphere, or you decide that you want to do anything but be in that atmosphere.",
+          "summary_en": "Refuse to become a product of a limiting environment and decide to pursue something greater.",
+          "summary_zh": "拒绝被原生环境定义，下定决心跳出既定圈层",
+          "timestamp_sec": 151,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Always Have a Next Goal to Climb",
+          "category": "Mindset & Resilience",
+          "quote": "Generally, the happiness is on the climbing part. Just make sure you're looking for the next one to climb, because you can get in trouble if you get to the top and you have nowhere to go.",
+          "summary_en": "True fulfillment lies in the climb, so always identify your next goal before reaching the top of the current one.",
+          "summary_zh": "幸福感源于攀登过程，登顶后要立刻寻找下一座山",
+          "timestamp_sec": 185,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Bias Toward Action (Just Start)",
+          "category": "Mindset & Resilience",
+          "quote": "We didn't have any money, so what I had to do is go out and get contracts and then go to the bank and show them I had contracts and try to get lines of credit.",
+          "summary_en": "When starting with no capital, go win customer contracts first and use them to secure a bank line of credit.",
+          "summary_zh": "没钱起步就先拿下客户合同，再去银行争取授信",
+          "timestamp_sec": 235,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "Understand the capital stack, whether you're raising somebody else's money to get the down payment and then you're going to take it to the long-term debt with the bank.",
+          "summary_en": "Learn to underwrite real estate deals and structure the capital stack using investor equity and long-term bank financing.",
+          "summary_zh": "学会房产交易承销，灵活组合他人资金与银行长贷",
+          "timestamp_sec": 273,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "You just have to be able to understand the math of real estate: what's a net operating income, what's the cap rate, what's my debt service going to be.",
+          "summary_en": "Master core real estate math—NOI, cap rate, and debt service—which only requires basic arithmetic.",
+          "summary_zh": "算清净收益、资本化率与偿债等房产核心财务账",
+          "timestamp_sec": 282,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Use Debt Wisely (Good Debt vs Bad Debt)",
+          "category": "Wealth & Investing",
+          "quote": "Understand the debt service and understand where you are in the overall cycle, like the long-term, short-term debt cycle, and pay attention to where rates will go.",
+          "summary_en": "Track interest rate movements and short- and long-term debt cycles so you can structure financing early and reduce rate risk.",
+          "summary_zh": "紧盯利率与债务周期，提前规划以降低融资风险",
+          "timestamp_sec": 314,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "It's systems and then it's competent people with intent. If they can help you build systems and be a part of building something, then they can have ownership in it.",
+          "summary_en": "Scale from seven to eight figures by pairing systems with capable, motivated people who co-create and own the process.",
+          "summary_zh": "依托系统与高意愿能人扩张，并让员工参与共建",
+          "timestamp_sec": 392,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Align Employee Incentives & Pay",
+          "category": "Business & Strategy",
+          "quote": "Make sure you manage from a place of 'I should be paying you more money,' not 'you should be making me richer.' In that way you've created an entrepreneur inside the business.",
+          "summary_en": "Tie employee performance metrics to higher bonuses so your team acts like entrepreneurs inside the company.",
+          "summary_zh": "以多发奖金激励员工，在企业内部培养创业型人才",
+          "timestamp_sec": 422,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "If you can learn to embrace the things that are getting in your way, embrace the failures that are coming, those are just small bricks that are going to build your castle in life.",
+          "summary_en": "Be grateful for failures and obstacles—they forge your story and serve as the bricks that build your success.",
+          "summary_zh": "拥抱挫折与失败，把每次磨难当作搭建城堡的砖石",
+          "timestamp_sec": 455,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Master an Unshakeable Core Skill",
+          "category": "Actionable Skills & Habits",
+          "quote": "If you stick to the same thing again and again and again and again, you get a superpower that many people don't understand, and nobody can ever take it away from me.",
+          "summary_en": "Through relentless repetition in one craft, you gain an unshakeable skill that lets you rebuild from scratch anywhere.",
+          "summary_zh": "反复打磨同一项核心技能，练就谁也夺不走的底牌",
+          "timestamp_sec": 506,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "Get up every day, every time you get hit in the face, have a relentless heart, and there's nothing this world can't stop you from doing.",
+          "summary_en": "Show up daily with a relentless heart no matter how many times you get knocked down.",
+          "summary_zh": "哪怕屡遭重击也要每天起身，保持一颗坚韧之心",
+          "timestamp_sec": 527,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "24岁身无分文时在路易斯安那州接钢结构搭建合同，凭合同向银行申请到首笔1.5万美元信用额度（周薪资约2500美元、雇两人做后院建筑），以此起步。",
+      "guest_name": "Justin Waller",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting",
+        "Operations & Systems",
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Construction Company Owner & Real Estate Investor",
+      "wealth_detail": "$5M/yr peak take-home; $35M/yr business revenue; 400+ real estate doors (became a millionaire at 31-32)",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先深耕单一行业积累无可替代的硬技能与自由（如重回零点6周内仍可靠吊装钢结构东山再起）；若无启动资金，先拿下客户合同再去银行争取信用额度；直面困难与失败并保持坚韧之心。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "6lmwLam3f4k",
+  "video_type": "deep_dive_single"
+}

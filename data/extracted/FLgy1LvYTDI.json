@@ -1,0 +1,488 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Hire A-Players & Delegate",
+          "category": "Business & Strategy",
+          "quote": "the insurance brokerage fund that I run now is a multi-billion dollar company... and it's all about great leadership and great people",
+          "summary_en": "Scale a multi-billion dollar business through great leadership and hiring great people.",
+          "summary_zh": "卓越领导力与优秀团队是做大企业核心",
+          "timestamp_sec": 41,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "be bold and money forces will come to your Aid",
+          "summary_en": "Be bold when starting out, and financial resources will follow.",
+          "summary_zh": "创业起步要敢于果断，资金与资源自会汇聚",
+          "timestamp_sec": 51,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Work Under a Winner First Before Starting",
+          "category": "Business & Strategy",
+          "quote": "young people they all want to like try to make it as fast as they can spend four or five years understanding your discipline and then go out and do it yourself",
+          "summary_en": "Avoid rushing for quick riches; spend four to five years mastering your discipline before launching on your own.",
+          "summary_zh": "花四五年深耕专业打好基础再自主创业",
+          "timestamp_sec": 55,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "read The Wealthy Barber and read The Millionaire Next Door",
+          "summary_en": "Read foundational personal finance books like The Wealthy Barber and The Millionaire Next Door.",
+          "summary_zh": "精读《富裕理发师》与《邻家的百万富翁》",
+          "timestamp_sec": 63,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "save money early in your career you know the rule of seven say 10 to 20 percent and if you do that by 30 or 40 you're a millionaire even if you make 70 80 000 a year",
+          "summary_en": "Save 10% to 20% early in your career and leverage compounding so even a modest salary builds a million-dollar net worth by your 30s or 40s.",
+          "summary_zh": "职业早期坚持储蓄10%-20%并靠复利致富",
+          "timestamp_sec": 67,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "always change people's lives help people I have a 501c I give away a lot of a lot a lot of money... God put me on the start to change people's lives",
+          "summary_en": "Use your success to help others and give back generously through charity.",
+          "summary_zh": "用财富积极行善回馈社会、改变他人生活",
+          "timestamp_sec": 88,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "28岁成为百万富翁，早年打好教育与专业基础后创立事业，现年51岁并掌管一家数十亿美元规模的保险经纪公司。",
+      "guest_name": "Houston Multi-Billion Insurance Brokerage Executive",
+      "industry": "Finance & Investing",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "The Wealthy Barber",
+        "The Millionaire Next Door"
+      ],
+      "recommended_skills": [
+        "Leadership & People Management"
+      ],
+      "role_or_title": "Insurance Brokerage Executive",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "年轻人不要急功近利，先接受教育并花4到5年时间吃透本行业专业知识再大胆创业；早期坚持储蓄收入的10%-20%，靠复利在三四十岁实现百万资产。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "they were raising their seed round in 2010 and I ended up investing pretty much everything as a project manager just my salary 80 grand at that time... someone asking for 20 grand of your money... that was a big risk but I mean it paid off",
+          "summary_en": "Take concentrated, high-conviction early bets like investing $20K out of an $80K salary into Snapchat's seed round.",
+          "summary_zh": "敢于用积蓄重仓高潜力早期项目（如Snapchat种子轮）",
+          "timestamp_sec": 150,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Master Marketing & Distribution",
+          "category": "Business & Strategy",
+          "quote": "what is the biggest thing in your opinion that takes a business from seven to eight and eventually nine figures marketing I mean marketing is going to be your number one thing",
+          "summary_en": "Prioritize marketing as the primary lever to scale a business from seven figures to eight and nine figures.",
+          "summary_zh": "营销是推动企业从7位数迈向8、9位数的第一驱动力",
+          "timestamp_sec": 176,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "don't buy it directly under yourself always buy your assets under other entities Holdings and things of that sort lease it to yourself two write-offs right there... the main thing is to keep your money figure out those loopholes understand them and be smart with it",
+          "summary_en": "Hold assets inside separate entities and lease them back for tax write-offs to legally protect and keep your wealth.",
+          "summary_zh": "通过控股实体持有资产并回租以合法节税守财",
+          "timestamp_sec": 196,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "毕业于TCU与莱斯大学，在油气行业担任项目经理（年薪8万美元）期间拿出2万美元投资2010年Snapchat种子轮大获成功，随后转型天使投资并创办私募股权公司，投资组合规模约4.2亿美元。",
+      "guest_name": "Houston Private Equity Founder & Early Snapchat Investor",
+      "industry": "Finance & Investing",
+      "origin_type": "Self-made (From scratch / modest)",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Financial Literacy & Accounting",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Private Equity Firm Founder & Angel Investor",
+      "wealth_detail": "$420M portfolio",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "在看准机会时敢于承担大风险投入早期股权；把营销能力作为扩大企业规模的核心抓手；深入研究税务与实体架构规则，合理利用税收抵扣守住利润。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Consistency, Discipline & Routine",
+          "category": "Actionable Skills & Habits",
+          "quote": "90 of success is showing up and today I understand that because if you show up to work not only do you get work done but people trust you they know you're going to be there at like clockwork",
+          "summary_en": "Show up consistently like clockwork so people know they can depend on and trust you.",
+          "summary_zh": "90%的成功在于像时钟般准时到场与稳定交付",
+          "timestamp_sec": 244,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "show up bust your ass be the best worker and most people today when they invest I don't invest in businesses they invest in people",
+          "summary_en": "Outwork everyone and be the best worker in the room because investors back people, not just businesses.",
+          "summary_zh": "拼尽全力成为最优秀的人，投资人投的是人而非生意",
+          "timestamp_sec": 260,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Provide Exceptional Customer Service",
+          "category": "Business & Strategy",
+          "quote": "remembering kids names having birthday cakes for people surprising them little details handwritten letters thank you for coming in the restaurant those things set you apart from everybody else",
+          "summary_en": "Stand out from competitors through obsessive attention to customer details like remembering names, birthday surprises, and handwritten thank-you notes.",
+          "summary_zh": "用记住姓名、生日惊喜和手写感谢信等极致细节取胜",
+          "timestamp_sec": 276,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在休斯顿经营餐厅，大约十年前赚到第一个一百万美元。",
+      "guest_name": "Houston Restaurant Owner (prosely19)",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Restaurant Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "坚持每天到场并做到极致努力，用可靠的人品赢得他人与投资人的信任；在竞争激烈的行业里靠用心服务和客户细节制造差异化壁垒。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "a lot of people they doubt themselves too much and the ones that don't the ones that get up every day and don't take no for an answer and still believe in themselves you could do anything you want to do",
+          "summary_en": "Stop doubting yourself, wake up every day refusing to take no for an answer, and maintain unshakeable self-belief.",
+          "summary_zh": "停止自我怀疑，每天坚持不轻言放弃并坚定自信",
+          "timestamp_sec": 339,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Live Below Your Means & Avoid Lifestyle Creep",
+          "category": "Wealth & Investing",
+          "quote": "take care of your pennies and the dollars will take care of themselves my grandmother told me that",
+          "summary_en": "Be disciplined with small expenses because taking care of your pennies compounds into dollars.",
+          "summary_zh": "管好每一分小钱，大钱自然随之而来",
+          "timestamp_sec": 355,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "anything you can really create and have anything if you put it onto the universe visualize it see it and just go after it and don't give up on it",
+          "summary_en": "Visualize what you want to create, pursue it relentlessly, and never give up on it.",
+          "summary_zh": "将目标清晰具象化并全力追逐、永不言弃",
+          "timestamp_sec": 365,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾与前夫共同在餐饮行业创业并拥有自己的餐厅生意。",
+      "guest_name": "Houston Lamborghini-Driving Former Restaurant Owner",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Former Restaurant Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不要被自我怀疑束缚，坚持自信并拒绝轻易接受否定；从小处精打细算守住财务习惯，明确愿景后持续行动绝不放弃。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Make High-Quality Compounding Decisions Early",
+          "category": "Mindset & Resilience",
+          "quote": "when we're born you basically are given a ledger of numbers and all those numbers are associated with decisions... they compound meaning like if you make some really horrible decisions as a young at a young age they can Cascade throughout your life",
+          "summary_en": "Recognize that early life decisions compound over time, so prioritize making sound choices while young.",
+          "summary_zh": "年轻时的决定会产生复利效应，务必慎重做出人生选择",
+          "timestamp_sec": 418,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Integrity, Reputation & Word",
+          "category": "Mindset & Resilience",
+          "quote": "being genuine but at the same time being a chameleon... you have to be able to adapt in a genuine way where you're not lying to anybody but you can still fit in and you can be approachable",
+          "summary_en": "Adapt to any room like a chameleon while remaining completely honest, genuine, and approachable.",
+          "summary_zh": "既要保持真诚不欺，又要具备随和适应环境的弹性",
+          "timestamp_sec": 452,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Faith, Gratitude & Giving Back",
+          "category": "Mindset & Resilience",
+          "quote": "most people who become successful they either go on the narcissistic path or they go on the altruistic path and and they would rather probably help others than themselves",
+          "summary_en": "Choose the altruistic path to success by prioritizing helping others rather than becoming self-centered.",
+          "summary_zh": "成功路上要选择利他主义，多帮助他人而非自私自利",
+          "timestamp_sec": 468,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "I try to gravitate towards not being the biggest person in the room",
+          "summary_en": "Intentionally surround yourself with people who are smarter or further ahead than you.",
+          "summary_zh": "主动走进自己不是最优秀者的圈子向强者学习",
+          "timestamp_sec": 476,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "拥有工程学学位，从事大型港口停靠与系泊基础设施设备制造，并常驻全球各地协助客户解决工程运营难题。",
+      "guest_name": "Houston Port Infrastructure Engineer & Advisor",
+      "industry": "Energy, Manufacturing & Trades",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Father (mentor)"
+      ],
+      "recommended_skills": [
+        "Technical / Engineering",
+        "Networking & Relationships",
+        "Public Speaking & Communication"
+      ],
+      "role_or_title": "Port Infrastructure Engineer & Global Advisor",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "年轻时要高度重视每一次关键决定的长期复利后果；与人交往做到既真诚可信又能融入不同场合，选择利他路径并不断靠近比自己更优秀的人。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "secret is working 60 hours a week",
+          "summary_en": "Scale your business by putting in consistent 60-hour workweeks.",
+          "summary_zh": "规模化扩张的秘诀是每周坚持工作60小时",
+          "timestamp_sec": 512,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "best way to close deals is to listen don't be the person talking the entire time because you don't understand their perspectives and their needs and their wants and then you know how to fulfill those needs and wants and you get the sale",
+          "summary_en": "Close more deals and earn repeat business by listening to understand the client's perspective and needs instead of talking nonstop.",
+          "summary_zh": "成交秘诀是多倾听客户需求而非自己不停推销",
+          "timestamp_sec": 517,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "创立工业地产公司，在全国范围内收购、建造和租赁大型工业物业，最高单年收入超过100万美元。",
+      "guest_name": "Houston Industrial Real Estate Owner",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Industrial Real Estate Company Owner",
+      "wealth_detail": ">$1M/yr",
+      "wealth_tier": "Millionaire ($1M-$9.9M)",
+      "zero_start_advice": "保持每周60小时的高强度投入；在销售与谈判中学会克制表达欲、深入倾听对方真正的需求与痛点，才能实现持续成交。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "OTHER:Live in the Present & Avoid Excessive Worry",
+          "category": "Mindset & Resilience",
+          "quote": "live your best life always and don't worry about the future",
+          "summary_en": "Focus on living your best life in the present rather than worrying excessively about the future.",
+          "summary_zh": "活出当下的最佳状态，不必过度焦虑未来",
+          "timestamp_sec": 538,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "building strong ground networking and building relationships outside of social media platforms",
+          "summary_en": "Pair social media marketing with strong offline, in-person networking and relationship building.",
+          "summary_zh": "线上营销同时要重视线下深度社交与真实人脉建设",
+          "timestamp_sec": 546,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest Consistently & Let Compounding Work",
+          "category": "Wealth & Investing",
+          "quote": "the importance of saving early on and invest as soon as you can",
+          "summary_en": "Start saving early in your career and begin investing as soon as possible.",
+          "summary_zh": "趁早养成储蓄习惯并尽早开始投资复利",
+          "timestamp_sec": 560,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "real estate properties you know building them up are a good investment option I guess early on and then later on investing in companies that are worthwhile",
+          "summary_en": "Build a foundation in real estate properties early on before investing in worthwhile companies later.",
+          "summary_zh": "早期先布局房地产积累资产，后期再投资优质企业",
+          "timestamp_sec": 564,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事社交媒体与营销行业，并注重线下实体人脉建设，最高年收入约50万美元。",
+      "guest_name": "Houston Social Media & Marketing Professional",
+      "industry": "Sales & Marketing / Agency",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Networking & Relationships"
+      ],
+      "role_or_title": "Social Media & Marketing Professional",
+      "wealth_detail": "",
+      "wealth_tier": "High Earner ($300k-$999k/yr)",
+      "zero_start_advice": "在社媒之外扎根线下真实关系网；趁早存钱并尽快投资，前期可先通过房地产建立基础，之后再投资优质公司，同时保持活在当下的心态。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "do your research on what are the caveats for real estate investment so it's not just what you learn in real estate school",
+          "summary_en": "Research the hidden caveats and nuances of real estate investing beyond basic licensing school material.",
+          "summary_zh": "深入钻研课本之外的房地产投资门道与细节条款",
+          "timestamp_sec": 598,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "you have to find out about the tax breaks and things that are going to make you a millionaire that most people don't do",
+          "summary_en": "Study real estate tax breaks and business structures that build millionaire wealth but most investors overlook.",
+          "summary_zh": "摸透大多数人忽略的地产税务减免政策以放大收益",
+          "timestamp_sec": 606,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "从事房地产投资信托（REIT）业务，曾主导成交120万美元的地产交易。",
+      "guest_name": "Houston REIT Real Estate Investor",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Real Estate Underwriting",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Real Estate Investment Trust (REIT) Professional",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "不要只停留在房地产考证课程的表面知识，要花精力研究投资背后的税务优惠与交易结构细节。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "I just continue to learn and evolve with wine and then I was able to basically turn my passion into a real business case",
+          "summary_en": "Keep learning and evolving in a field you love until you can turn that passion into a viable business case.",
+          "summary_zh": "保持对热爱领域的持续学习与深耕，最终将其转化为商业项目",
+          "timestamp_sec": 639,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Build High-Value Network & Relationships",
+          "category": "Actionable Skills & Habits",
+          "quote": "it's all about relationships and being genuine... you can go up against the conglomerates... they don't have the relationships",
+          "summary_en": "Beat massive conglomerates by building genuine personal relationships with buyers that big brands lack.",
+          "summary_zh": "以真诚深厚的人脉关系战胜只靠大牌光环的行业巨头",
+          "timestamp_sec": 650,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "having a product that is essentially second to none and something truly special",
+          "summary_en": "Deliver an exceptional, unmatched product so quality separates you from entrenched competitors.",
+          "summary_zh": "打造无可挑剔的顶级产品力以形成竞争优势",
+          "timestamp_sec": 654,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Financial Literacy & Knowing Your Numbers",
+          "category": "Actionable Skills & Habits",
+          "quote": "do as much research as you can across the board know your Market know your competitors know your price point... make sure you nail your margins down... don't think you can wing it",
+          "summary_en": "Thoroughly research your market, competitors, pricing power, and exact profit margins before launching instead of winging it.",
+          "summary_zh": "全面调研市场、竞品、定价与利润率，切忌盲目靠运气",
+          "timestamp_sec": 680,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Budget for Cost Overruns & Contingencies",
+          "category": "Business & Strategy",
+          "quote": "at the end of the day you always come out with costs that are higher than what you expect so set contingencies in",
+          "summary_en": "Always build financial contingencies into your business plan because actual costs will exceed initial projections.",
+          "summary_zh": "实际成本总会高于预期，务必提前预留应急预算",
+          "timestamp_sec": 702,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "22年前在餐饮业起家并萌生对葡萄酒的兴趣，后在油气行业工作并借全球出差考察各大葡萄酒产区，持续学习积累后创立了自己的香槟品牌。",
+      "guest_name": "Houston Champagne Brand Founder",
+      "industry": "Hospitality, Food & Beverage",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Networking & Relationships",
+        "Financial Literacy & Accounting",
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Champagne Brand Founder & Business Owner",
+      "wealth_detail": "",
+      "wealth_tier": "Unspecified",
+      "zero_start_advice": "将长期热爱与持续学习转化为可落地的商业模式；靠一流品质和真诚的客户关系与大集团抗衡；入局前做足市场、竞品、定价与利润率调研，并预留成本应急空间。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "FLgy1LvYTDI",
+  "video_type": "street_multi"
+}

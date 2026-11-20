@@ -1,0 +1,276 @@
+{
+  "guests": [
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "It's just hustling yourself, you know? And you have to think of solutions. When you hit a wall, you think of a solution and you think of a cheap one and you keep moving on.",
+          "summary_en": "Hustle relentlessly; when you hit a wall, find a cheap solution and keep moving forward.",
+          "summary_zh": "靠拼劲破局，遇挫就找低成本方案并继续前进",
+          "timestamp_sec": 153,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Self-Belief & Rejecting Limiting Beliefs",
+          "category": "Mindset & Resilience",
+          "quote": "I didn't take no for an answer. I was the only one who wrote Mark Burnett, who owned the show, a letter and I told him he was making a mistake",
+          "summary_en": "Never take no for an answer and directly advocate for yourself when others doubt you.",
+          "summary_zh": "绝不接受拒绝，用行动证明质疑你的人是错的",
+          "timestamp_sec": 179,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Embrace Failure & Rejection",
+          "category": "Mindset & Resilience",
+          "quote": "It's all about overcoming failure. If you don't have that gene naturally in you, you have to develop it or you'll never succeed in business. Just have to overcome failure. Get back up and get back in the game.",
+          "summary_en": "Develop resilience to overcome failure, get back up immediately, and get back in the game.",
+          "summary_zh": "学会克服失败，跌倒后必须立刻站起来重回赛场",
+          "timestamp_sec": 205,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "I invest here in Shark Tank. I invest in real estate in my own life and that's what I stick with. Stick with my knitting because I make money at it.",
+          "summary_en": "Stick to the industries and investments you know well and consistently make money in.",
+          "summary_zh": "坚守自己擅长且能赚钱的领域，不要盲目跨界",
+          "timestamp_sec": 221,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Invest in Real Estate",
+          "category": "Wealth & Investing",
+          "quote": "It's leveraging. It's like getting a big mortgage, a small down payment, and the minute the tenants are paying more rent, you go back to the bank, and you ask them for a second mortgage, and you keep taking the cash out. I've never sold any real estate I've bought.",
+          "summary_en": "Use mortgage leverage to buy real estate, hold forever, and pull out cash via refinancing as rents rise.",
+          "summary_zh": "善用房贷杠杆买房并长期持有，靠再融资套现",
+          "timestamp_sec": 239,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "以低于市场价1.2万美元统一挂牌88套公寓，一小时内全部售罄，单日赚取6600万美元。",
+      "guest_name": "Barbara Corcoran",
+      "industry": "Real Estate",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Sales & Persuasion",
+        "Real Estate Underwriting",
+        "Negotiation & Deal-Making"
+      ],
+      "role_or_title": "Real Estate Founder & Shark Tank Investor",
+      "wealth_detail": "$66M made in a single day selling 88 apartments",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "无论身处什么行业，核心都是拼劲十足、遇阻找低成本方案并克服失败，不断重新上场。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Focus & Say No to Distractions",
+          "category": "Business & Strategy",
+          "quote": "You got to pick three things every day to get done. Three things. That's called the signal. Everything else that stops you from getting your three things done, that's the noise. What's the ratio with the signal and noise? 80% signal, 20% noise.",
+          "summary_en": "Pick three critical tasks every day (80% signal, 20% noise) and ruthlessly ignore distractions.",
+          "summary_zh": "每天专注完成三件大事，屏蔽日常噪音与分心",
+          "timestamp_sec": 290,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Diversify & Preserve Capital",
+          "category": "Wealth & Investing",
+          "quote": "once you get that diversification, you get your cash, you get a ton of cash, you diversify, you invest it in 11 sectors of the economy for the most of it. Take 5 million and put that in T-bills. That's your safety net.",
+          "summary_en": "After an exit, diversify across 11 economic sectors and keep a liquid safety net in T-bills rather than tying everything up in risky assets or toys.",
+          "summary_zh": "套现后跨行业分散投资，并配置国库券保底",
+          "timestamp_sec": 345,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "曾参与创办一家软件公司，最终以42亿美元的价格成功出售。",
+      "guest_name": "Kevin O'Leary",
+      "industry": "Tech & Software",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [
+        "Steve Jobs"
+      ],
+      "recommended_skills": [
+        "Operations & Systems",
+        "Financial Literacy & Accounting"
+      ],
+      "role_or_title": "Software Entrepreneur & Shark Tank Investor",
+      "wealth_detail": "Part of $4.2B software company sale; $5M cash in T-bills",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "每天只抓三件最重要的事（保持80%信号与20%噪音），积累财富后跨11个行业分散配置并留出500万美元国库券作为安全垫。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Leverage Social Media & Personal Brand",
+          "category": "Actionable Skills & Habits",
+          "quote": "In today's world, it's easier because there's so much that you can do that doesn't cost you any money. And that means like what you're doing, social media, creating your own videos.",
+          "summary_en": "Take advantage of free tools like social media, video creation, and online search to start without capital.",
+          "summary_zh": "善用社交媒体与免费工具，零成本拍视频起步",
+          "timestamp_sec": 486,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Overcome Fear & Take Calculated Risks",
+          "category": "Mindset & Resilience",
+          "quote": "don't be afraid of risk. Go for it. Take calculated risks and be smart. And then if it doesn't work, you're going to pivot to something else. It's not a failure. You're just learning.",
+          "summary_en": "Do not fear risk—take smart, calculated risks, treat setbacks as lessons, and pivot if needed.",
+          "summary_zh": "敢于承担经计算的商业风险，遇挫及时转向",
+          "timestamp_sec": 509,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Protect Intellectual Property & Patents",
+          "category": "Business & Strategy",
+          "quote": "I believe in patents if you have something that is revolutionary, unique, no one's ever done it before because you know you will have knock-offs... So, I like to have power to do something about it.",
+          "summary_en": "Secure patents on revolutionary, unique products so you have the legal power to fight off copycats.",
+          "summary_zh": "为独创产品申请专利保护，防止被抄袭仿冒",
+          "timestamp_sec": 540,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "拥有120项产品专利，并在《创智赢家》投资Scrub Daddy（持股20%）取得节目史上最高投资回报。",
+      "guest_name": "Lori Greiner",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Operations & Systems"
+      ],
+      "role_or_title": "Inventor, Entrepreneur & Shark Tank Investor",
+      "wealth_detail": "",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "利用社交媒体和免费线上资源零成本起步，聪明地承担经计算的风险，不行就将其视作学习并迅速转向。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Relentless Work Ethic & Grit",
+          "category": "Mindset & Resilience",
+          "quote": "they got to do the homework first, which is free, which is time and invested in. And anything they buy, they can sell, and anything they do for free, they can get paid to do.",
+          "summary_en": "Invest your time doing the homework upfront for free—anything you do for free today, you can eventually get paid to do.",
+          "summary_zh": "先免费投入时间做足功课，再把能力变现",
+          "timestamp_sec": 608,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Solve Real Pain Points & Deliver Value",
+          "category": "Business & Strategy",
+          "quote": "I found a culture and a community that I was providing for. Created the first hashtag of clothing. And isn't that any business?... So, again, it's finding a community.",
+          "summary_en": "Build winning products by identifying and serving a specific culture or community's needs.",
+          "summary_zh": "围绕特定文化与社群需求打造产品，创造价值",
+          "timestamp_sec": 638,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "mindset_general",
+          "canonical_tag": "Obsession, Passion & Curiosity",
+          "category": "Mindset & Resilience",
+          "quote": "The best industry to invest in is what you're obsessed with. There's more people that make money selling widgets and or things you've never heard of than there is all the gazillionaires out there.",
+          "summary_en": "Focus on an industry you are genuinely obsessed with; massive fortunes are made in unglamorous everyday products.",
+          "summary_zh": "选择你真正痴迷的赛道，普通小产品也能赚大钱",
+          "timestamp_sec": 659,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Continuous Learning & Reading",
+          "category": "Actionable Skills & Habits",
+          "quote": "They will never ever stop educating themselves.",
+          "summary_en": "Never stop educating yourself—continuous learning is the one trait all ultra-successful people share.",
+          "summary_zh": "最顶尖成功者的共同特质是永远不停止学习",
+          "timestamp_sec": 691,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在服装行业找准特定文化与社群需求，将服饰品牌做到单年营收4亿美元。",
+      "guest_name": "Daymond John",
+      "industry": "Consumer & Retail / E-commerce",
+      "origin_type": "Unspecified",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Marketing & Distribution",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Apparel Company Founder & Shark Tank Investor",
+      "wealth_detail": "$400M/yr single-year company revenue",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "先免费投入时间做足功课，切入自己痴迷的细分领域与社群，并坚持终身学习。"
+    },
+    {
+      "advice_items": [
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "OTHER:Prove Returns Before Raising Capital",
+          "category": "Business & Strategy",
+          "quote": "You need a strategy that makes money. You need access to money... And then you need a team of people who can execute... I was investing my own money. I was making money, then I showed those returns to others. They decided to invest with me.",
+          "summary_en": "To break into PE/VC, combine a profitable strategy, capital access, and an execution team—or prove returns with your own money first to attract investors.",
+          "summary_zh": "先用自有资金做出投资回报，再吸引外部募资",
+          "timestamp_sec": 741,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "OTHER:Find Arbitrage & Contrarian Insights",
+          "category": "Business & Strategy",
+          "quote": "Always find the arbitrage. So, there's an arbitrage in everything... tell me something that's right that almost no one agrees with you on. And if you have an answer to that, you're going to make money on it.",
+          "summary_en": "Look for arbitrage and contrarian truths—things you know are right that almost nobody else agrees with yet.",
+          "summary_zh": "寻找市场套利空间，挖掘反共识的正确机会",
+          "timestamp_sec": 777,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "high_actionable",
+          "canonical_tag": "Master Sales & Persuasion",
+          "category": "Actionable Skills & Habits",
+          "quote": "no one likes to be sold, but everyone loves a good deal. I always give people a good deal up front... there's no such thing as bad deals, it's bad prices",
+          "summary_en": "Never hard-sell; lead by offering a genuinely good deal upfront, because there are no bad deals, only bad prices.",
+          "summary_zh": "别硬性推销，先给出好交易，好坏只在于价格",
+          "timestamp_sec": 812,
+          "type": "advice_do"
+        },
+        {
+          "actionability": "strategic_principle",
+          "canonical_tag": "Choose the Right Industry / Big Market",
+          "category": "Business & Strategy",
+          "quote": "sports teams... vast majority of the revenue is annual reoccurring contractual revenue. They've been around for 100 years. They're legal local monopolies.",
+          "summary_en": "Target major sports teams (via sports PE) for recurring contractual revenue, local monopoly protection, AI resilience, and equity-market non-correlation.",
+          "summary_zh": "看好职业体育球队，具备稳定合约营收与垄断性",
+          "timestamp_sec": 831,
+          "type": "advice_do"
+        }
+      ],
+      "first_money_or_break": "在华尔街从业12年并于24岁赚到第一个100万美元；后转型风险投资，早期投入5万美元到Coinbase并在7年内赚取2000万美元。",
+      "guest_name": "Wall Street Finance Entrepreneur & Early Coinbase VC",
+      "industry": "Finance & Investing",
+      "origin_type": "Corporate / Executive climb",
+      "recommended_books_or_mentors": [],
+      "recommended_skills": [
+        "Financial Literacy & Accounting",
+        "Negotiation & Deal-Making",
+        "Sales & Persuasion"
+      ],
+      "role_or_title": "Finance Entrepreneur & Venture Capitalist",
+      "wealth_detail": "First $1M at age 24; $50K Coinbase investment turned into $20M in 7 years",
+      "wealth_tier": "Decamillionaire+ ($10M-$999M)",
+      "zero_start_advice": "可先通过华尔街与商学院进入私募风投，或先用自有资金验证盈利策略后再向外募资；重点寻找反共识套利机会。"
+    }
+  ],
+  "is_compilation_warning": false,
+  "video_id": "rv-GiWg_FPk",
+  "video_type": "street_multi"
+}
